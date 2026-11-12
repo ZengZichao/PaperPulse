@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light" data-lang="zh">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>PaperPulse</title>
+<meta name="description" content="期刊文献日报" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23000000'/%3E%3Ctext x='50%25' y='56%25' text-anchor='middle' dominant-baseline='middle' font-size='28' font-family='Georgia,serif' fill='white'%3EP%3C/text%3E%3C/svg%3E" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@400;500;600;700&family=Noto+Serif+SC:wght@400;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="style.css" />
+<script>
+(function(){
+  var root = document.documentElement;
+  try {
+    var theme = localStorage.getItem('pp-theme');
+    if (theme !== 'light' && theme !== 'dark') theme = 'light';
+    root.dataset.theme = theme;
+    var lang = localStorage.getItem('pp-lang');
+    if (lang !== 'zh' && lang !== 'en') lang = 'zh';
+    root.dataset.lang = lang;
+    var sidebar = localStorage.getItem('pp-sidebar');
+    if (sidebar !== 'open' && sidebar !== 'closed') sidebar = 'open';
+    root.dataset.sidebar = sidebar;
+    var detail = localStorage.getItem('pp-detail');
+    if (detail !== 'open' && detail !== 'closed') detail = 'closed';
+    root.dataset.detail = detail;
+  } catch(e) {
+    root.dataset.theme = 'light';
+    root.dataset.lang = 'zh';
+    root.dataset.sidebar = 'open';
+    root.dataset.detail = 'closed';
+  }
+})();
+</script>
+</head>
+<body>
+
+<!-- ═══ Masthead ═══ -->
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-left">
+      <button class="sidebar-toggle" id="sidebarToggle" type="button" aria-label="Toggle sidebar">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </button>
+      <a href="./" class="wordmark">PaperPulse</a>
+    </div>
+    <div class="masthead-actions">
+      <div class="date-nav">
+        <button class="date-btn" id="prevDate" type="button" aria-label="Previous date">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M15 6l-6 6 6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <span class="date-current" id="currentDate" role="button" tabindex="0" aria-label="Select date"></span>
+        <input type="date" id="datePicker" class="date-picker" />
+        <button class="date-btn" id="nextDate" type="button" aria-label="Next date">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M9 6l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+      </div>
+      <button class="icon-btn" id="langToggle" type="button" aria-label="Switch language">
+        <span class="lang-label-zh">EN</span>
+        <span class="lang-label-en">中文</span>
+      </button>
+      <button class="icon-btn" id="themeToggle" type="button" aria-label="Toggle theme">
+        <svg class="icon-light" width="16" height="16" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="4" stroke="currentColor" stroke-width="2"/><path d="M12 2v2M12 20v2M4 12H2M22 12h-2M5.6 5.6L4.2 4.2M19.8 19.8l-1.4-1.4M18.4 5.6l1.4-1.4M4.2 19.8l1.4-1.4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <svg class="icon-dark" width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- ═══ Search Bar ═══ -->
+<div class="search-bar">
+  <div class="search-inner">
+    <svg class="search-icon" width="15" height="15" viewBox="0 0 24 24" fill="none"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="M21 21l-4.5-4.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    <input type="search" id="searchInput" placeholder="搜索标题、期刊、作者" autocomplete="off" />
+    <button class="search-clear" id="searchClear" type="button" aria-label="Clear search">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 6l12 12M6 18L18 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    </button>
+  </div>
+</div>
+
+<!-- ═══ Three-column layout ═══ -->
+<div class="layout">
+
+  <!-- ─── Left sidebar: journal tree ─── -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <span class="sidebar-title" data-zh="期刊" data-en="Journals">期刊</span>
+      <button class="sidebar-close" id="sidebarClose" type="button" aria-label="Close sidebar">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M9 6l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+    <div class="sidebar-body" id="sidebarBody">
+      <div class="sidebar-loading" data-zh="加载中..." data-en="Loading...">加载中...</div>
+    </div>
+  </aside>
+
+  <!-- ─── Left resize handle ─── -->
+  <div class="resize-handle resize-handle-left" id="resizeHandleLeft"></div>
+
+  <!-- ─── Center: compact article list ─── -->
+  <main class="main-col" id="mainCol">
+    <div class="loading" id="loading">
+      <div class="loading-text" data-zh="加载中" data-en="Loading">加载中</div>
+    </div>
+    <div class="error" id="error" style="display:none">
+      <div class="error-text" id="errorText"></div>
+    </div>
+    <div class="empty" id="empty" style="display:none">
+      <div class="empty-text" data-zh="当日无文献" data-en="No articles for this date"></div>
+    </div>
+    <div class="content" id="content" style="display:none">
+      <div class="toolbar" id="toolbar"></div>
+      <ul class="article-list" id="articleList"></ul>
+    </div>
+  </main>
+
+  <!-- ─── Right resize handle ─── -->
+  <div class="resize-handle resize-handle-right" id="resizeHandleRight"></div>
+
+  <!-- ─── Right sidebar: article detail ─── -->
+  <aside class="detail-panel" id="detailPanel">
+    <div class="detail-header">
+      <span class="detail-title" data-zh="文献详情" data-en="Article Details">文献详情</span>
+      <div class="detail-header-actions">
+        <button class="detail-pin" id="detailPin" type="button" aria-label="Pin panel" title="固定面板">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M12 2v6M12 22v-6M12 16l-4-4h8l-4 4z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <button class="detail-close" id="detailClose" type="button" aria-label="Close detail">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 6l12 12M6 18L18 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+      </div>
+    </div>
+    <div class="detail-body" id="detailBody">
+      <div class="detail-empty" data-zh="点击文献查看详情" data-en="Click an article to view details">点击文献查看详情</div>
+    </div>
+  </aside>
+
+</div>
+
+<!-- ═══ Detail reopen strip (shown when right panel is closed) ═══ -->
+<button class="detail-reopen" id="detailReopen" type="button" aria-label="Open detail panel">
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+</button>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <span data-zh="数据由 GitHub Actions 自动抓取" data-en="Data fetched automatically via GitHub Actions"></span>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
