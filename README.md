@@ -64,6 +64,8 @@ PaperPulse/
 
 工作流每天北京时间 12:00 和 24:00 各运行一次（`cron: '0 4,16 * * *'`，UTC 04:00/16:00），每次抓取当日与昨天的文献。
 
+`Fetch Papers` 提交数据后会自动触发 `Deploy to GitHub Pages` 重新部署（通过 `workflow_run`）。这是因为 GitHub Actions 使用 `GITHUB_TOKEN` 推送的提交不会触发 `push` 类工作流，只靠 `on: push` 会导致站点一直停留在首次部署的版本。
+
 ## 数据保留策略
 
 只保留最近 7 天（`RETENTION_DAYS=7`）的文献数据，每次抓取完成后自动清理更早的日期文件。所有日期计算均按**北京时间（UTC+8）**，避免服务器 UTC 时区导致的日期偏差。

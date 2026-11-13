@@ -3,6 +3,11 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+  workflow_run:
+    # 抓取任务提交数据后自动重新部署。
+    # GITHUB_TOKEN 推送产生的 push 事件不会触发其他工作流，必须用 workflow_run。
+    workflows: ["Fetch Papers"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -16,6 +21,8 @@ concurrency:
 
 jobs:
   deploy:
+    # 抓取失败时不部署，避免发布半成品数据
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -23,6 +30,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # 始终部署 main 的最新提交，确保拿到抓取任务刚提交的数据
+          ref: main
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

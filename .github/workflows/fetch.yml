@@ -2,12 +2,17 @@ name: Fetch Papers
 
 on:
   schedule:
-    # 每天北京时间中午 12:00 和夜间 12:00 各运行一次（UTC 04:00 和 16:00）
+    # 每天北京时间 12:00 和 24:00 各运行一次（UTC 04:00 和 16:00）
     - cron: '0 4,16 * * *'
   workflow_dispatch: # 允许手动触发
 
 permissions:
   contents: write
+
+# 同一时间只允许一个抓取任务，避免并发提交互相覆盖
+concurrency:
+  group: "fetch-papers"
+  cancel-in-progress: false
 
 jobs:
   fetch:
@@ -42,5 +47,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: update papers $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main
             git push
           fi
