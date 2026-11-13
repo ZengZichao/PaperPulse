@@ -1,9 +1,119 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-12T22:05:14.835352+00:00",
-  "total_journals": 4,
-  "total_articles": 23,
+  "generated_at": "2026-11-13T11:54:36.772676+00:00",
+  "total_journals": 17,
+  "total_articles": 56,
   "journals": {
+    "Nature Genetics": [
+      {
+        "title": "A unified framework for defining and analyzing spatial niches in spatial omics data analysis",
+        "link": "https://www.nature.com/articles/s41588-026-02813-6",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Pan Liu",
+          "Jingyi Jessica Li"
+        ],
+        "doi": null,
+        "journal": "Nature Genetics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Genetics, Published online: 13 November 2026; doi:10.1038/s41588-026-02813-6In this Perspective, Liu and Li clarify how ‘spatial niche’ is used in spatial omics, categorize neighborhoods, domains and biological ecosystems as distinct definitions, and provide a decision framework for choosing definitions and analyses."
+      }
+    ],
+    "Nature Astronomy": [
+      {
+        "title": "A catalogue of insights from the fourth LIGO–Virgo–KAGRA observing run",
+        "link": "https://www.nature.com/articles/s41550-026-03011-4",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Christopher P. L. Berry",
+          "Daniel Williams"
+        ],
+        "doi": null,
+        "journal": "Nature Astronomy",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Astronomy, Published online: 13 November 2026; doi:10.1038/s41550-026-03011-4Gravitational waves have now been detected in their hundreds, allowing access to an ever more diverse population of merging black hole binaries. This Perspective reviews the discoveries from the fourth observing run of the LIGO–Virgo–KAGRA detectors and their impact across astronomy."
+      }
+    ],
+    "Nature Ecology & Evolution": [
+      {
+        "title": "Blackfin icefish (Chaenocephalus aceratus)",
+        "link": "https://www.nature.com/articles/s41559-026-03246-4",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Thomas Desvignes"
+        ],
+        "doi": null,
+        "journal": "Nature Ecology & Evolution",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Ecology & Evolution, Published online: 13 November 2026; doi:10.1038/s41559-026-03246-4Three months in Antarctica set Thomas Desvignes on a journey to study white-blooded icefishes."
+      },
+      {
+        "title": "Egg mimicry leaves its mark on mitochondria",
+        "link": "https://www.nature.com/articles/s41559-026-03244-6",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Homa Papoli-Yazdi"
+        ],
+        "doi": null,
+        "journal": "Nature Ecology & Evolution",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Ecology & Evolution, Published online: 13 November 2026; doi:10.1038/s41559-026-03244-6Selection on egg colour genes accelerates evolution of the maternally co-inherited W chromosome and mitochondrial DNA in the brood parasitic cuckoo finch, driving mitonuclear coevolution and W chromosome degeneration."
+      },
+      {
+        "title": "Lynx reintroduction from a bottlenecked source exposes a lethal genetic defect",
+        "link": "https://www.nature.com/articles/s41559-026-03204-0",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Janna Niehaus",
+          "Michelle Imlau",
+          "Saskia Keller",
+          "Iris Marti",
+          "Christine Breitenmoser",
+          "Anna Letko",
+          "Vidhya Jagannathan",
+          "Lea Anna Hiller",
+          "Arunasalam Naguleswaran",
+          "Sven Rottenberg",
+          "Christine Grossen",
+          "Tosso Leeb",
+          "Mirjam Pewsner"
+        ],
+        "doi": null,
+        "journal": "Nature Ecology & Evolution",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Ecology & Evolution, Published online: 13 November 2026; doi:10.1038/s41559-026-03204-0A recessive loss-of-function allele causing lethal multi-organ pathology is found to have been present in a source population for a lynx reintroduction programme, and has increased in frequency through founder effects and inbreeding."
+      }
+    ],
+    "Microbiome": [
+      {
+        "title": "Correction: Baseline gut microbiome and metabolome profiles predict weight loss after a structured lifestyle intervention",
+        "link": "https://link.springer.com/article/10.1186/s40168-026-02597-1",
+        "pub_date": "2026-11-13",
+        "authors": [],
+        "doi": "10.1186/s40168-026-02597-1",
+        "journal": "Microbiome",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": null
+      }
+    ],
     "Lancet Microbe": [
       {
         "title": "Helminth infections: from genomic discovery to public health interventions",
@@ -30,60 +140,386 @@
         "translation": null,
         "article_type": null,
         "abstract": "Publication date: Available online 11 November 2026Source: The Lancet MicrobeAuthor(s): Udani Samarasekera"
+      },
+      {
+        "title": "Nasal mucosal humoral responses to SARS-CoV-2 vaccination priming schedules in the UK: a substudy of the Com-COV single-blind, randomised, non-inferiority trial",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2666524726002156?dgcid=rss_sd_all",
+        "pub_date": null,
+        "authors": [],
+        "doi": null,
+        "journal": "Lancet Microbe",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Publication date: Available online 12 November 2026Source: The Lancet MicrobeAuthor(s): Robert H Shaw, Tanya Dinesh, Jennifer Alderson, Sandra Belij-Rammerstorfer, Sagida Bibi, Elizabeth A Clutterbuck, Saul N Faust, Maheshi N Ramasamy, Matthew D Snape, Xinxue Liu, Teresa Lambe, Alasdair P S Munro, Jazz Bartholomew, Laura Presland, Sarah Horswill, Sarah Warren, Sophie Varkonyi-Clifford, Stephen Saich, Dan Owens, Rachel White"
       }
     ],
-    "Geochimica et Cosmochimica Acta": [
+    "Nature Climate Change": [
       {
-        "title": "Redox states of the open ocean during the early Ediacaran and Cambrian Ages 1–3: constraints from vanadium isotopes",
-        "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007064?dgcid=rss_sd_all",
-        "pub_date": null,
-        "authors": [],
+        "title": "Declining environmental predictability erodes reproduction in a tropical seabird",
+        "link": "https://www.nature.com/articles/s41558-026-02795-7",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Santiago Ortega",
+          "Cristina Rodríguez",
+          "Ayumi Mizuno",
+          "Laura Arroyo",
+          "Hugh Drummond",
+          "Shinichi Nakagawa"
+        ],
         "doi": null,
-        "journal": "Geochimica et Cosmochimica Acta",
+        "journal": "Nature Climate Change",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Publication date: Available online 12 November 2026Source: Geochimica et Cosmochimica ActaAuthor(s): Pei-Shan Sui, Wei Wei, Shao-Bing Zhang, Guang-Yi Wei, Yan-Yan Zhao, Tianchen He, Hong-Fei Ling, Fang Huang"
+        "abstract": "Nature Climate Change, Published online: 13 November 2026; doi:10.1038/s41558-026-02795-7The authors show that, for a tropical seabird model species, winter–spring phytoplankton blooms kept a stable mean timing but became more variable between years. Breeding synchrony weakened and reproductive success declined and became less consistent over the same two decades."
+      }
+    ],
+    "Briefings in Bioinformatics": [
+      {
+        "title": "HGMetaADR: a multimodal heterogeneous graph meta-learning framework for generalized adverse drug reaction prediction",
+        "link": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag539/9040819?rss=1",
+        "pub_date": "2026-11-13",
+        "authors": [],
+        "doi": null,
+        "journal": "Briefings in Bioinformatics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "AbstractEarly identification of adverse drug reactions (ADRs), which refer to harmful or unintended responses to medications taken at normal doses, is crucial for reducing clinical trial failures and associated economic costs. However, existing ADR datasets often exhibit a long-tailed label distribution and lack sufficient training examples for rare side effects, making it difficult for vanilla supervised learning models to generalize to underrepresented classes. To address these issues, we propose HGMetaADR, a novel heterogeneous graph-based meta-learning framework for ADR prediction. Built upon a multimodal biomedical knowledge graph, this approach integrates complementary drug-related data, including molecular structures, protein sequences, side effects, and therapeutic indications. It employs a hierarchical attention mechanism to capture semantic dependencies across heterogeneous entities and adopts a model-agnostic meta-learning strategy to enhance adaptation to small-sample classes. We evaluate HGMetaADR under three scenarios—few-shot, zero-shot, and majority—to simulate real-world conditions. Extensive experiments demonstrate that HGMetaADR consistently outperforms state-of-the-art baselines. Furthermore, ablation studies and pathway enrichment analyses reveal the underlying biological mechanisms linking protein targets, therapeutic indications, and side effects, thereby validating the effectiveness of incorporating heterogeneous biomedical knowledge into ADR modeling."
       },
       {
-        "title": "Crystallographic controls and growth-rate effects on trace-element uptake in natural sphalerite",
-        "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007106?dgcid=rss_sd_all",
-        "pub_date": null,
+        "title": "Surrogate-guided self-play Monte Carlo tree search for antimicrobial peptide sequence optimization and in vitro antibacterial assessment",
+        "link": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag618/9040816?rss=1",
+        "pub_date": "2026-11-13",
         "authors": [],
         "doi": null,
-        "journal": "Geochimica et Cosmochimica Acta",
+        "journal": "Briefings in Bioinformatics",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Publication date: Available online 11 November 2026Source: Geochimica et Cosmochimica ActaAuthor(s): Chen Wei, Max Frenzel, Richard Wirth, Joachim Krause, Viktor Bertrandsson Erlandsson, Lin Ye, Frank Melcher, Zhilong Huang"
+        "abstract": "AbstractThe rapid emergence of multidrug-resistant pathogens necessitates the development of novel therapeutic agents, yet the de novo design of antimicrobial peptides (AMPs) is challenged by the vast combinatorial search space and the difficulty of balancing efficacy with toxicity. To address these limitations, we introduce a reinforcement learning framework that employs surrogate-guided self-play Monte Carlo tree search to explore the peptide landscape. By integrating surrogate models for predicted antimicrobial activity, HemoDL-predicted hemolytic propensity, and ESMFold structural confidence, the system performs multi-property computational optimization and candidate prioritization. In silico analysis demonstrated that the optimized peptides adopt amphipathic α-helical structures with high predicted folding confidence and possess favorable docking scores against Staphylococcus aureus resistance targets, including PBP2a and MurA. To assess the biological relevance of the computationally prioritized candidates, 16 peptides were synthesized and evaluated by agar dilution against a 37-strain bacterial panel over a concentration range of 0.25–64 μg/ml. AMP2, AMP7, and AMP9 achieved complete inhibition of at least one tested strain, corresponding to 3 of 16 synthesized candidates (18.75%). AMP12 and AMP13 showed partial growth reduction without complete inhibition within the tested range, whereas the remaining 11 candidates showed no complete inhibition. These findings quantify the current gap between surrogate-defined computational enrichment and assay-specific antibacterial activity. The strain-dependent experimental outcomes further indicate that surrogate, docking, and structural scores do not fully capture all determinants of antibacterial efficacy. The experimental assessment was limited to bacterial agar-dilution activity; mammalian-cell cytotoxicity, wet-lab hemolysis, and peptide-stability assays were not performed. In conclusion, this study establishes a computational framework for the design of bioactive peptides and provides structural insights for bridging the gap between deep learning predictions and experimental outcomes."
       },
       {
-        "title": "FROM slab dehydration to arc magmatism: tracing continuous fluid release with molybdenum isotopes in forearc serpentinite",
-        "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007088?dgcid=rss_sd_all",
-        "pub_date": null,
+        "title": "GLAlign integrates single-cell multi-omics data via global manifold and local marker gene alignment",
+        "link": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag633/9040810?rss=1",
+        "pub_date": "2026-11-13",
         "authors": [],
         "doi": null,
-        "journal": "Geochimica et Cosmochimica Acta",
+        "journal": "Briefings in Bioinformatics",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Publication date: Available online 11 November 2026Source: Geochimica et Cosmochimica ActaAuthor(s): Fu-Qiang Dai, Yi-Xiang Chen, Ren-Xu Chen, Zi-Fu Zhao, Yu Wang, Jie Li, Thomas Pettke, Trevor J. Falloon"
+        "abstract": "AbstractIntegrating heterogeneous single-cell multi-omics datasets remains challenging because different modalities are measured in distinct feature spaces and lack cell level pairing. Existing manifold alignment or feature conversion framework are often affected by weak cross-modality associations, geometric ambiguity, and overcorrection. Here we present GLAlign (Global manifold and Local marker gene Alignment), an optimization framework that jointly leverages global manifold structure and local marker gene information to integrate single-cell multi-omics data. GLAlign learns a shared latent space through a global objective comprising maximum mean discrepancy, distortion, and penalty terms, together with a local contrastive triplet loss guided by cross-modality marker gene overlap between independently inferred clusters. We demonstrate GLAlign’s methodological contribution in extending the manifold alignment by biologically informed prior to ensure geometrically plausible and biologically correct alignments without requiring paired cells or manual cell type annotations. We evaluated GLAlign on simulated data and real datasets spanning PBMC scRNA-seq/scATAC-seq, mouse brain SNARE-seq, single-donor and multi-batch CITE-seq, and NCI-N87 scDNA-seq/scRNA-seq integration. Across the evaluated datasets, GLAlign achieved strong modality mixing and biological conservation, remained stable under moderate cell type imbalance and variations in clustering and marker information, and supported cross-modality label transfer and paired cell recovery. These results demonstrate that biologically structured coupling of global and local alignment provides an interpretable framework for heterogeneous single-cell multi-omics integration. GLAlign is freely available at https://github.com/Bateer-Bio/GLAlign."
       },
       {
-        "title": "N and O isotope fractionation reveals distinct pathways of dissimilatory nitrite reduction to ammonium",
-        "link": "https://www.sciencedirect.com/science/article/pii/S001670372600709X?dgcid=rss_sd_all",
-        "pub_date": null,
+        "title": "Biosemantic graph transfer learning for cross-patient cell type annotation and cell–cell interaction analysis in tumor single-cell RNA sequencing",
+        "link": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag587/9040809?rss=1",
+        "pub_date": "2026-11-13",
         "authors": [],
         "doi": null,
-        "journal": "Geochimica et Cosmochimica Acta",
+        "journal": "Briefings in Bioinformatics",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Publication date: Available online 11 November 2026Source: Geochimica et Cosmochimica ActaAuthor(s): Guojun Chen, Qinqin Hao, Yan Ru, Andreas Kappler, Raymond Jianxiong Zeng, Xiaomin Li, Zebin Hong, Fanghua Liu, Fujun Yue, Shiwen Hu, Tongxu Liu"
+        "abstract": "AbstractThe exploration of cellular heterogeneity within the tumor microenvironment (TME) via single-cell RNA sequencing (scRNA-seq) is essential for understanding cancer progression and response to therapy. Current scRNA-seq approaches, however, lack spatial context and rely on incomplete datasets of ligand–receptor interactions, limiting accurate cell type annotation and cell–cell communication inference. This study addresses these challenges using a novel graph neural network model that enhances cell-type prediction and cell-interaction analysis. Our study utilized a dataset consisting of 49 024 cells from 19 patients across three cancer types: leukemia, breast invasive carcinoma, and colorectal cancer. The proposed scGSL model demonstrated robust performance, achieving an average accuracy of 84.83%, precision of 86.23%, recall of 81.51%, and an F1 score of 80.92% across all datasets. These metrics represent a significant enhancement over existing methods, which typically exhibit lower performance metrics. Additionally, by reviewing existing literature on gene interactions within the TME, the scGSL model proves to robustly identify biologically meaningful gene interactions in an unsupervised manner, validated by significant expression differences in key gene pairs across various cancers. The source code and data used in this study can be found at https://github.com/LiYuechao1998/scGSL."
+      }
+    ],
+    "Nature Biotechnology": [
+      {
+        "title": "A unified and practical taxonomy for false discovery rate control in omics research",
+        "link": "https://www.nature.com/articles/s41587-026-03379-8",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Thomas Burger",
+          "Xinzhou Ge",
+          "Jingyi Jessica Li"
+        ],
+        "doi": null,
+        "journal": "Nature Biotechnology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Biotechnology, Published online: 13 November 2026; doi:10.1038/s41587-026-03379-8False discovery rate (FDR) control is central to omics research, yet the diverse procedures used rely on different assumptions. This Comment proposes a 2 × 2 matrix that helps sequencing-based and mass-spectrometry-based omics researchers choose the appropriate family of FDR procedures, or alternative methods that may be more rigorous, depending on data and study design."
+      }
+    ],
+    "Communications Biology": [
+      {
+        "title": "Hippocampal somatostatin neurons gate context generalization during fear memory updating",
+        "link": "https://www.nature.com/articles/s42003-026-11310-9",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Nuria Cano-Adamuz",
+          "Rut de la Vega-Ruiz",
+          "Alicia Caro Martín",
+          "Alberto Montes-Mellado",
+          "César Redondo Alañón",
+          "Alicia Hernández-Vivanco",
+          "Pablo Méndez"
+        ],
+        "doi": null,
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 13 November 2026; doi:10.1038/s42003-026-11310-9Hippocampal somatostatin neurons gate context generalization during fear memory updating"
+      },
+      {
+        "title": "Pesticide-exposed bees fail to thermoregulate leading to cold colonies with consequences for offspring development",
+        "link": "https://www.nature.com/articles/s42003-026-11301-w",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Kieran E. Storer",
+          "Susan E. G. Hawthorne",
+          "Connor Lovell",
+          "Ferozah Mahmood",
+          "Daniel Kenna",
+          "Tianqi Zhu",
+          "Peter Graystock",
+          "Richard J. Gill"
+        ],
+        "doi": null,
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 13 November 2026; doi:10.1038/s42003-026-11301-wPesticide-exposed bees fail to thermoregulate leading to cold colonies with consequences for offspring development"
+      }
+    ],
+    "Genome Biology": [
+      {
+        "title": "G-quadruplex profiling using single-cell CUT&Tag offers insight into the epigenetic landscape of the developing mouse brain",
+        "link": "https://link.springer.com/article/10.1186/s13059-026-04339-w",
+        "pub_date": "2026-11-13",
+        "authors": [],
+        "doi": "10.1186/s13059-026-04339-w",
+        "journal": "Genome Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Background G-quadruplexes (G4s) are non-canonical DNA structures that have gained increasing attention for their potential roles in gene regulation and role in neurodegenerative diseases and cancer. Despite their biological significance, G4 structures have not been studied systematically across tissues and cell types. Results In this study, we employ G4 single-cell CUT&Tag (G4 scCUT&Tag) to characterize G4 landscapes in postnatal mouse brain cells, leveraging single-cell analytical approaches commonly used in scRNA-Seq and scATAC-Seq datasets. Using conventional single-cell omics workflows to process and explore our data, we distinguish distinct cell lineages based on G4 heterogeneity and establish that a subset of lineage-specific genes show unique promoter G4s. Multi-omics integration with scRNA-Seq gene expression profiles, using both a covariance-based technique (canonical correlation analysis) and a transfer learning-based approach, enables more accurate cell-type annotation. These integrations not only reveal correlations between G4 signal and gene expression, but demonstrate that G4 scCUT&Tag enables detailed examination of G4 heterogeneity in complex tissues and supports integrative analysis of G4 profiles with other omics layers, offering new insights into the epigenomic landscapes of the developing brain. Conclusions Our findings establish G4 scCUT&Tag as a framework for investigating the cellular heterogeneity of G4 landscapes in complex tissues and provide a basis for exploring their relationships with gene regulation and other layers of chromatin organization."
+      },
+      {
+        "title": "Structure-guided engineering of eukaryotic Fanzor-ωRNA system enhances in vivo gene editing for dystrophin restoration in a Duchenne mouse model",
+        "link": "https://link.springer.com/article/10.1186/s13059-026-04332-3",
+        "pub_date": "2026-11-13",
+        "authors": [],
+        "doi": "10.1186/s13059-026-04332-3",
+        "journal": "Genome Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Background Eukaryotic Fanzor (Fz) proteins are compact RNA-guided endonucleases homologous to prokaryotic TnpB/Cas12, offering theoretical advantages for single AAV delivery. However, their low editing efficiency and poorly defined specificity in mammals have hindered therapeutic development. Results Here, we perform structure-guided engineering of Spizellomyces punctatus Fanzor1 nuclease (SpuFz1) to enhance its utility for in vivo genome editing and identify several Fanzor variants whose efficiencies are comparable or only slightly lower than widely-used miniature enAsCas12f1 and large-sized SpCas9. We demonstrate that catalytically dead dSpuFz1-v4.2 can be repurposed for CRISPRa-mediated transcriptional activation in a proof-of-concept manner. Genome-wide PEM-seq in mice reveal low translocation frequencies (below 0.05%, much lower than the background threshold set by the PEM-seq protocol), with no detected events attributable to off-target editing. GUIDE-seq analysis also confirms genome-wide low off-target profile for SpuFz1-v4.2 in human cells, with small amounts of off-target editing due to 3’ terminal sequence tolerability. Embryonic mRNA injection efficiently generates mutant mice. Crucially, single AAV9 delivery of SpuFz1-v4.2 in a humanized Duchenne muscular dystrophy model induces targeted exon skipping, restores dystrophin expression to ~ 10% of wild-type levels, and improves muscle contractile force. Conclusions Structure-guided optimization overcomes the activity barrier of eukaryotic Fanzors while maintaining low off-target effect. The engineered SpuFz1-v4.2 retains the hypercompact size necessary for single AAV packaging, establishing a robust platform for in vivo gene editing. This work positions Fanzor by a preliminary proof-of-concept therapeutic study as a viable, miniature alternative to CRISPR-Cas systems for genetic disease intervention and functional genomics."
+      }
+    ],
+    "Nature Communications": [
+      {
+        "title": "Photonic-assisted ingenious agile non-periodic oscillator (PIANO)",
+        "link": "https://www.nature.com/articles/s41467-026-79422-8",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Tengfei Hao",
+          "Tong Yang",
+          "Qizhuang Cen",
+          "Lu Wang",
+          "Shiyu Xiao",
+          "Mingjian Li",
+          "Anle Wang",
+          "Wei Li",
+          "Peng Hao",
+          "X. Steve Yao",
+          "José Capmany",
+          "Ninghua Zhu",
+          "Yitang Dai",
+          "Ming Li"
+        ],
+        "doi": null,
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 13 November 2026; doi:10.1038/s41467-026-79422-8The study presents PIANO, a microwave photonic oscillator that generates frequency-agile microwave signals with rapid switching and ultra-low phase noise, while overcoming the cavity-delay constraint of conventional delay-based oscillators."
+      },
+      {
+        "title": "Room-temperature continuous-wave lasing-like emission from solution-processed bulk monolayer MoS2 thin films",
+        "link": "https://www.nature.com/articles/s41467-026-79012-8",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Boxuan Zhou",
+          "Haoyang Li",
+          "Bangyao Hu",
+          "Jingxuan Zhou",
+          "Chen Li",
+          "Jingyuan Zhou",
+          "Yu Huang",
+          "Xiangfeng Duan"
+        ],
+        "doi": null,
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 13 November 2026; doi:10.1038/s41467-026-79012-8Scaling up atomically thin light emitters remains challenging. Here, authors develop solution-processable bulk-monolayer MoS2 films that preserve monolayer optical properties and exhibit room-temperature lasing-like emission under continuous optical pumping at just a few nW."
+      },
+      {
+        "title": "Signatures of a Kondo insulator in a multilayer moiré Superlattice",
+        "link": "https://www.nature.com/articles/s41467-026-78687-3",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Qiran Wu",
+          "Jingyuan Cui",
+          "Ang-Kun Wu",
+          "Yuze Meng",
+          "Dongxue Chen",
+          "Yueshan Wang",
+          "Li Yan",
+          "Lei Ma",
+          "Takashi Taniguchi",
+          "Kenji Watanabe",
+          "Shi-Zeng Lin",
+          "Su-Fei Shi",
+          "Yong-Tao Cui"
+        ],
+        "doi": null,
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 13 November 2026; doi:10.1038/s41467-026-78687-3Kondo insulator phases are traditionally found in materials with f-electrons. Here, the authors present evidence towards the realization of a tunable Kondo insulator in a monolayer WS2/bilayer WSe2 moiré superlattice."
+      },
+      {
+        "title": "Vagal afferent activation induces a dissociated NREM sleep-like state with wake-related locus coeruleus activity",
+        "link": "https://www.nature.com/articles/s41467-026-79135-y",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Najma Cherrad",
+          "Georgios Foustoukos",
+          "Laura MJ Fernandez",
+          "Alejandro Osorio-Forero",
+          "Julie Buron",
+          "Nadine Eliasson",
+          "Yann Emmenegger",
+          "Paola Milanese",
+          "João Pedro Ferreira Morais",
+          "Virginie Mansuy-Aubert",
+          "Paul Franken",
+          "Anita Lüthi"
+        ],
+        "doi": null,
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 13 November 2026; doi:10.1038/s41467-026-79135-yThe role of peripheral signals in sleep state regulation is not well understood. Here authors show that vagal sensory afferent activation induces a NREMS-like state with low-frequency EEG, slowed heart rate, and cooling, while elevating locus coeruleus noradrenergic activity, revealing brain arousal within a sleep-like state."
+      },
+      {
+        "title": "The posterior paraventricular nucleus of the thalamus to nucleus accumbens medial shell circuit mediates an anti-pruritic response",
+        "link": "https://www.nature.com/articles/s41467-026-78362-7",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Jie-Yan Zheng",
+          "Zi-Hao Wang",
+          "Jia-Yang Lin",
+          "Chao Huang",
+          "Guang-Yan Pan",
+          "Dong-Liang Xu",
+          "Xiao-Yang Hu",
+          "Shuang-Qi Gao"
+        ],
+        "doi": null,
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 13 November 2026; doi:10.1038/s41467-026-78362-7Neural mechanisms underlying itch are not fully understood. Here authors show that the pPVT-NAcMed (posterior paraventricular nucleus of the thalamus to nucleus accumbens medial shell) circuit oppositely responds to histamine-dependent vs -independent itch, with LH inputs buffering the former, but chronic itch reduces postsynaptic efficacy, promoting sensitization and revealing differential processing."
+      },
+      {
+        "title": "Thermodynamic-guided tailoring of single-atom coordination environments via oxygen chemical potential for efficient C-N coupling",
+        "link": "https://www.nature.com/articles/s41467-026-79091-7",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Qingna Gong",
+          "Haihui Lan",
+          "Han Zhao",
+          "Wen-Da Zhang",
+          "Xinrui Li",
+          "Ming Chen",
+          "Tianhong Huang",
+          "Jingjing Si",
+          "Haochong Huang",
+          "Heng Zhao",
+          "Yao Hu",
+          "Xiaoping Yang",
+          "Jing Wang",
+          "Xiaodong Yan",
+          "Zhangxing Chen"
+        ],
+        "doi": null,
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 13 November 2026; doi:10.1038/s41467-026-79091-7Precise control of single-atom coordination is hindered by thermodynamic and kinetic constraints. Here, the authors report tuning Fe-O coordination on CoWO4 via oxygen chemical potential control. Optimal Fe1O4 boosts hexamethylenetetramine electrosynthesis with high yield, efficiency and stability."
+      },
+      {
+        "title": "Post-pandemic immunity debt and environmental decoupling reshape urban influenza transmission",
+        "link": "https://www.nature.com/articles/s41467-026-79600-8",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Abao Xing",
+          "Hoiman Ng",
+          "Jianlin Lin",
+          "Qianhong Ye",
+          "Henry H. Y. Tong",
+          "Yusi Li",
+          "Jianming Liang",
+          "Yi Ma",
+          "Guanmin Jiang",
+          "Kefeng Li"
+        ],
+        "doi": null,
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 13 November 2026; doi:10.1038/s41467-026-79600-8Using 1.88 million clinical records from Macau and regional and global surveillance, in this study, the authors show how reduced population immunity and renewed travel reshaped post-pandemic influenza transmission and weakened its usual links with climate."
+      },
+      {
+        "title": "Anion manipulation for breaking through 3.0 V of aluminium–graphite batteries",
+        "link": "https://www.nature.com/articles/s41467-026-79156-7",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Ke Guo",
+          "Zheng Huang",
+          "Wei Wang",
+          "Wei-Li Song",
+          "Shuqiang Jiao"
+        ],
+        "doi": null,
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 13 November 2026; doi:10.1038/s41467-026-79156-7Aluminium–graphite batteries are limited by electrolyte decomposition above 2.5 V. Here, authors regulate chloroaluminate anions with a fluorine-rich, framework-confined quasi-solid-state electrolyte, enabling stable 3.0 V operation for Al | |Graphite cells."
       }
     ],
     "Water Research": [
@@ -283,6 +719,157 @@
         "abstract": "Publication date: Available online 11 November 2026Source: Water ResearchAuthor(s): Yaobin Lv, Fajian Li, Lingyan Zhang, Yuanhe Li, Xianglong Zhao, Qin Lei, Wenrong Yun, Hongbin Yin"
       }
     ],
+    "Geochimica et Cosmochimica Acta": [
+      {
+        "title": "Redox states of the open ocean during the early Ediacaran and Cambrian Ages 1–3: constraints from vanadium isotopes",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007064?dgcid=rss_sd_all",
+        "pub_date": null,
+        "authors": [],
+        "doi": null,
+        "journal": "Geochimica et Cosmochimica Acta",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Publication date: Available online 12 November 2026Source: Geochimica et Cosmochimica ActaAuthor(s): Pei-Shan Sui, Wei Wei, Shao-Bing Zhang, Guang-Yi Wei, Yan-Yan Zhao, Tianchen He, Hong-Fei Ling, Fang Huang"
+      },
+      {
+        "title": "Crystallographic controls and growth-rate effects on trace-element uptake in natural sphalerite",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007106?dgcid=rss_sd_all",
+        "pub_date": null,
+        "authors": [],
+        "doi": null,
+        "journal": "Geochimica et Cosmochimica Acta",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Publication date: Available online 11 November 2026Source: Geochimica et Cosmochimica ActaAuthor(s): Chen Wei, Max Frenzel, Richard Wirth, Joachim Krause, Viktor Bertrandsson Erlandsson, Lin Ye, Frank Melcher, Zhilong Huang"
+      },
+      {
+        "title": "FROM slab dehydration to arc magmatism: tracing continuous fluid release with molybdenum isotopes in forearc serpentinite",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007088?dgcid=rss_sd_all",
+        "pub_date": null,
+        "authors": [],
+        "doi": null,
+        "journal": "Geochimica et Cosmochimica Acta",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Publication date: Available online 11 November 2026Source: Geochimica et Cosmochimica ActaAuthor(s): Fu-Qiang Dai, Yi-Xiang Chen, Ren-Xu Chen, Zi-Fu Zhao, Yu Wang, Jie Li, Thomas Pettke, Trevor J. Falloon"
+      },
+      {
+        "title": "N and O isotope fractionation reveals distinct pathways of dissimilatory nitrite reduction to ammonium",
+        "link": "https://www.sciencedirect.com/science/article/pii/S001670372600709X?dgcid=rss_sd_all",
+        "pub_date": null,
+        "authors": [],
+        "doi": null,
+        "journal": "Geochimica et Cosmochimica Acta",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Publication date: Available online 11 November 2026Source: Geochimica et Cosmochimica ActaAuthor(s): Guojun Chen, Qinqin Hao, Yan Ru, Andreas Kappler, Raymond Jianxiong Zeng, Xiaomin Li, Zebin Hong, Fanghua Liu, Fujun Yue, Shiwen Hu, Tongxu Liu"
+      },
+      {
+        "title": "Oxygen isotopic and chemical composition of chromites in the unique Washington County iron meteorite and implications for classification",
+        "link": "https://www.sciencedirect.com/science/article/pii/S001670372600712X?dgcid=rss_sd_all",
+        "pub_date": null,
+        "authors": [],
+        "doi": null,
+        "journal": "Geochimica et Cosmochimica Acta",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Publication date: Available online 12 November 2026Source: Geochimica et Cosmochimica ActaAuthor(s): Manfred Vogt, Daniel Mahr, Andreas Pack, Mario Trieloff"
+      },
+      {
+        "title": "A continuum formulation for nano-scale mineral dissolution with stepwave-driven surface dynamics",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007076?dgcid=rss_sd_all",
+        "pub_date": null,
+        "authors": [],
+        "doi": null,
+        "journal": "Geochimica et Cosmochimica Acta",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Publication date: Available online 12 November 2026Source: Geochimica et Cosmochimica ActaAuthor(s): M. Starnoni, C. Recalcati, M. Riva, X. Sanchez-Vila, A. Guadagnini"
+      },
+      {
+        "title": "Role of alkalis in carbonatite melt-mediated rare earth element mineralization",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007167?dgcid=rss_sd_all",
+        "pub_date": null,
+        "authors": [],
+        "doi": null,
+        "journal": "Geochimica et Cosmochimica Acta",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Publication date: Available online 12 November 2026Source: Geochimica et Cosmochimica ActaAuthor(s): Jia-Dong Ma, Hao-Cheng Yu, Isra Ezad, Li Zhou, Xing Ding, Ming-Qian Wu, Yi-Xue Gao, Zhong-Hai Fan, Shan-Shan Li, Kun-Feng Qiu, Jun Deng"
+      }
+    ],
+    "Biogeosciences": [
+      {
+        "title": "Spatial modelling of available aluminum in glacial till: informing a boreal forest soil carbon predictor",
+        "link": "https://doi.org/10.5194/bg-23-8275-2026",
+        "pub_date": "2026-11-13",
+        "authors": [],
+        "doi": null,
+        "journal": "Biogeosciences",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Spatial modelling of available aluminum in glacial till: informing a boreal forest soil carbon predictor Scout M. Quinn, Benjamin Misiuk, Mackenzie E. Patrick, and Susan E. Ziegler Biogeosciences, 23, 8275–8288, https://doi.org/10.5194/bg-23-8275-2026, 2026 Boreal forest soils store approximately one third of forest soil carbon globally. Stabilization of organic carbon in these soils is largely controlled by reactive aluminum content derived from parent material, which in boreal regions is typically glacial till. We used a Random Forest approach to predictively map and model reactive aluminum and its uncertainty in glacial till across Newfoundland. This supports future modelling efforts and estimates of the soil carbon reservoir in boreal forests."
+      },
+      {
+        "title": "Morphological and phylogenic variability of red snow algae in snowpacks along a glacial valley in Alaska",
+        "link": "https://doi.org/10.5194/bg-23-8259-2026",
+        "pub_date": "2026-11-13",
+        "authors": [],
+        "doi": null,
+        "journal": "Biogeosciences",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Morphological and phylogenic variability of red snow algae in snowpacks along a glacial valley in Alaska Masato Ono, Kino Kobayashi, Takumi Suzuki, Ryohei Abe, Suzunosuke Usuba, Jun Uetake, and Nozomu Takeuchi Biogeosciences, 23, 8259–8273, https://doi.org/10.5194/bg-23-8259-2026, 2026 We studied red snow in Alaska to learn why these blooms vary in their microscopic life. By examining snow using microscopes and genetic analysis, we found that the ground beneath, either glacier ice or soil, dictates which algae grow. Algae on ice were mostly round, while those on soil were larger and had diverse shapes. Factors like snow depth mattered more than nutrients. This proves the underlying surface acts as a reservoir for life, shaping how red snow develops."
+      },
+      {
+        "title": "Growing-season variability and environmental controls of CH4 and N2O fluxes across high-latitude terrestrial ecosystems",
+        "link": "https://doi.org/10.5194/bg-23-8289-2026",
+        "pub_date": "2026-11-13",
+        "authors": [],
+        "doi": null,
+        "journal": "Biogeosciences",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Growing-season variability and environmental controls of CH4 and N2O fluxes across high-latitude terrestrial ecosystems Johannes Niemi, Miska Luoto, Anna-Maria Virkkala, Johanna Lehtinen, and Jenni Hultman Biogeosciences, 23, 8289–8317, https://doi.org/10.5194/bg-23-8289-2026, 2026 We present 1273 greenhouse gas flux measurements from 144 locations across subarctic wetlands, tundra, and forests. Fluxes were strongly linked with soil temperature, moisture, and pH with pronounced seasonal variation. Key findings include significant N₂O sinks and CH₄ emissions from wetlands, increasing CH₄ emissions from degrading permafrost, and small but consistent CH₄ sinks in forest and tundra. These results help in reducing uncertainties in global greenhouse gas budgets and measurements."
+      }
+    ],
+    "Nature": [
+      {
+        "title": "Accept all changes",
+        "link": "https://www.nature.com/articles/d41586-026-03516-y",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Jiayi Zhao"
+        ],
+        "doi": null,
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03516-yIt’s the end — or is it?"
+      }
+    ],
     "Fundamental Research": [
       {
         "title": "Thermally Robust Wide-Temperature Thermocells via Hofmeister-Driven Hierarchical Engineering",
@@ -309,6 +896,31 @@
         "translation": null,
         "article_type": null,
         "abstract": "Publication date: Available online 11 November 2026Source: Fundamental ResearchAuthor(s): Jun Hao, Mingxi Liu, Jianping Li"
+      }
+    ],
+    "Communications Earth & Environment": [
+      {
+        "title": "Large-scale monitoring of Earth’s tidal response on the deep seafloor using fiber-optic sensing",
+        "link": "https://www.nature.com/articles/s43247-026-04189-1",
+        "pub_date": "2026-11-13",
+        "authors": [
+          "Amine Mohammedi",
+          "Anthony Sladen",
+          "Hans-Georg Scherneck",
+          "Aurélien Ponte",
+          "Frédéric Bouchette",
+          "Jean-Paul Ampuero",
+          "Erlend Rønnekleiv",
+          "Sigmund Birkeland",
+          "Alexander Enzenhöfer"
+        ],
+        "doi": null,
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 13 November 2026; doi:10.1038/s43247-026-04189-1Distributed Acoustic Sensing enables sensitive, continuous monitoring of Earth tides in the deep sea, with potential applications to constraining the elastic and mechanical properties of the upper crust in offshore regions and calibrating ocean tide models, according to an analysis of a 53-km offshore telecom fiber-optic cable near Toulon, southern France."
       }
     ]
   }
