@@ -35,6 +35,9 @@ DAYS_BACK = int(os.getenv("DAYS_BACK", "3"))
 USER_AGENT = "Mozilla/5.0 (PaperPulse Academic Research Bot)"
 REQUEST_TIMEOUT = 30
 
+# 日期文件名 pattern，例如 2026-11-14
+_DATE_FILE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+
 # 北京时区（UTC+8）：所有日期计算均按北京时间，避免服务器 UTC 时区导致日期偏差
 BJ_TZ = timezone(timedelta(hours=8))
 
@@ -214,8 +217,11 @@ def fetch_rss(name: str, url: str, accept_dates: Set[str]) -> Tuple[List[Dict], 
         link = entry.get("link", "")
 
         # 日期
+        # feedparser 会把命名空间字段转成下划线形式（dc:date -> dc_date），
+        # ScienceDirect 等源只提供 dc:date，写 dc:date 会永远取不到日期。
         raw_date = (entry.get("published") or entry.get("updated") or
-                    entry.get("dc:date") or entry.get("date") or "")
+                    entry.get("dc_date") or entry.get("dc:date") or
+                    entry.get("date") or "")
         item_date = parse_date(raw_date)
 
         # 保留：日期为空或在目标日期内
@@ -230,10 +236,10 @@ def fetch_rss(name: str, url: str, accept_dates: Set[str]) -> Tuple[List[Dict], 
             authors = [strip_html(entry["author"])]
 
         # DOI
-        doi = entry.get("doi") or entry.get("prism:doi") or ""
+        doi = entry.get("doi") or entry.get("prism_doi") or entry.get("prism:doi") or ""
         if not doi:
             # 从 dc:identifier 或 guid 提取
-            guid = entry.get("id", "") or entry.get("dc:identifier", "")
+            guid = entry.get("id", "") or entry.get("dc_identifier", "") or entry.get("dc:identifier", "")
             if guid.startswith("doi:"):
                 guid = guid[4:]
             if guid.startswith("10."):
@@ -477,13 +483,16 @@ def load_existing_date_file(date_str: str) -> Dict[str, Any]:
         return {"journals": {}}
 
 
-def load_all_existing_ids(data_dir: Path, accept_dates: Set[str]) -> Dict[str, str]:
-    """读取所有 accept_dates 范围内的已有数据文件，返回 {article_id: date_str} 映射。
-    用于跨日期去重：确保同一篇文章不会出现在两个不同日期的文件中。"""
+def load_all_existing_ids(data_dir: Path) -> Dict[str, str]:
+    """读取 data/ 下所有日期文件的已有数据，返回 {article_id: date_str} 映射。
+
+    必须扫描全部日期文件，而不是只扫描 accept_dates：
+    RSS 源（尤其 ScienceDirect）会连续多天保留同一批条目，如果只看两天，
+    这些旧条目每天都会被当成新文章重新写入当天文件，导致列表看起来没有更新。
+    """
     id_to_date: Dict[str, str] = {}
-    for date_str in accept_dates:
-        path = data_dir / f"{date_str}.json"
-        if not path.exists():
+    for path in sorted(data_dir.glob("*.json")):
+        if path.name == "index.json" or not _DATE_FILE_RE.fullmatch(path.stem):
             continue
         try:
             data = json.loads(path.read_text(encoding="utf-8"))
@@ -493,7 +502,7 @@ def load_all_existing_ids(data_dir: Path, accept_dates: Set[str]) -> Dict[str, s
             for a in articles:
                 aid = article_id(a)
                 if aid not in id_to_date:
-                    id_to_date[aid] = date_str
+                    id_to_date[aid] = path.stem
     return id_to_date
 
 
@@ -531,8 +540,6 @@ def merge_and_dedup(existing_articles: List[Dict],
 
 
 # ─── 旧数据清理 ───
-
-_DATE_FILE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 # 保留最近 7 天的数据文件（清理一周前的文献）
 RETENTION_DAYS = 7
@@ -626,7 +633,7 @@ def main() -> int:
 
     # ─── 加载已有数据，构建跨日期去重映射 ───
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    existing_id_to_date = load_all_existing_ids(DATA_DIR, accept_dates)
+    existing_id_to_date = load_all_existing_ids(DATA_DIR)
     print(f"已有文献 ID 数：{len(existing_id_to_date)}")
 
     # ─── 按日期分组新文章 ───
