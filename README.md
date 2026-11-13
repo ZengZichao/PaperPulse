@@ -10,7 +10,7 @@ PaperPulse/
 │   ├── fetch.yml       # 定时抓取文献，提交到 data/
 │   └── deploy.yml      # 部署到 GitHub Pages
 ├── config/
-│   └── sources.json    # 83 RSS 源 + 26 PubMed 期刊
+│   └── sources.json    # 67 RSS 源 + 42 PubMed 期刊
 ├── scripts/
 │   └── fetch.py        # 抓取、去重、输出 JSON
 ├── data/
@@ -27,9 +27,10 @@ PaperPulse/
 
 完全覆盖「期刊文献日报」的全部信息来源：
 
-- **RSS/Atom feeds**: 83 个期刊（Nature, Science, Cell, PNAS, eLife, PLOS 等）
+- **RSS/Atom feeds**: 67 个期刊（Nature, Science, Cell, PNAS, eLife, PLOS 等）
   - 含 Springer Nature API 路由（Science China Life/Earth Sciences, Microbiome, Genome Biology）
-- **PubMed E-utilities**: 26 个期刊（ASM, Oxford, Royal Society 等）
+- **PubMed E-utilities**: 42 个期刊（ASM, Oxford, Royal Society 等）
+  - Annual Reviews 与 Elsevier（ScienceDirect）期刊统一走 PubMed；这些源使用 `datetype=edat` 按“新收录”抓取，避免未来期号日期导致漏抓
 
 ## 前端布局
 

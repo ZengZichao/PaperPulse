@@ -151,6 +151,24 @@ def make_article(
 def article_id(a: Dict[str, Any]) -> str:
     return f"{a['journal']}|{a['source']}|{a.get('pmid') or ''}|{a['link']}|{a['title']}"
 
+
+def article_keys(a: Dict[str, Any]) -> Set[str]:
+    """跨来源去重键：DOI + 刊名/标题。
+    RSS 与 PubMed 对同一篇文章给出的链接不同，只按 article_id 会重复收录。"""
+    keys: Set[str] = set()
+    doi = (a.get("doi") or "").strip().lower()
+    for prefix in ("https://doi.org/", "http://doi.org/",
+                   "https://dx.doi.org/", "http://dx.doi.org/", "doi:"):
+        if doi.startswith(prefix):
+            doi = doi[len(prefix):]
+            break
+    if doi:
+        keys.add("doi:" + doi)
+    title = re.sub(r"[^a-z0-9]+", "", (a.get("title") or "").lower())
+    if title:
+        keys.add("title:" + normalize_journal_name(a.get("journal", "")) + "|" + title)
+    return keys
+
 # ─── RSS 抓取 ───
 
 TYPE_KEYWORDS = [
@@ -286,7 +304,7 @@ def normalize_journal_name(name: str) -> str:
         s = s.replace(ch, " ")
     return " ".join(s.split())
 
-def pubmed_esearch(term: str, accept_dates: Set[str]) -> List[str]:
+def pubmed_esearch(term: str, accept_dates: Set[str], datetype: str = "pdat") -> List[str]:
     sorted_dates = sorted(accept_dates)
     min_date = sorted_dates[0].replace("-", "/") if sorted_dates else ""
     max_date = sorted_dates[-1].replace("-", "/") if sorted_dates else ""
@@ -294,7 +312,7 @@ def pubmed_esearch(term: str, accept_dates: Set[str]) -> List[str]:
 
     params = {
         "db": "pubmed", "retmode": "json", "retmax": retmax,
-        "sort": "pub_date", "datetype": "pdat", "tool": PUBMED_TOOL,
+        "sort": "pub_date", "datetype": datetype, "tool": PUBMED_TOOL,
         "term": term,
     }
     if min_date and max_date:
@@ -315,7 +333,8 @@ def pubmed_esearch(term: str, accept_dates: Set[str]) -> List[str]:
         print(f"  [pubmed] esearch error: {e}")
         return []
 
-def pubmed_esummary(pmids: List[str], journal: str, accept_dates: Set[str]) -> List[Dict]:
+def pubmed_esummary(pmids: List[str], journal: str, accept_dates: Set[str],
+                    index_mode: bool = False) -> List[Dict]:
     if not pmids:
         return []
     try:
@@ -354,10 +373,19 @@ def pubmed_esummary(pmids: List[str], journal: str, accept_dates: Set[str]) -> L
                 continue
 
         # 日期
-        pubdate = entry.get("pubdate", "")
-        item_date = parse_pubmed_date(pubdate)
-        if item_date and item_date not in accept_dates:
-            continue
+        # index_mode：按“新收录到 PubMed”抓取（datetype=edat）。这类期刊的 pubdate
+        # 常常是未来期号日期，若按 pubdate 过滤会整期丢失；此时优先用 epubdate，
+        # 只有当日期落在目标范围内才写 pub_date，否则留空（本次抓取视为当天新增）。
+        if index_mode:
+            raw_date = entry.get("epubdate") or entry.get("pubdate", "")
+            item_date = parse_pubmed_date(raw_date)
+            if item_date and item_date not in accept_dates:
+                item_date = None
+        else:
+            pubdate = entry.get("pubdate", "")
+            item_date = parse_pubmed_date(pubdate)
+            if item_date and item_date not in accept_dates:
+                continue
 
         # 作者
         authors = [a.get("name", "") for a in entry.get("authors", []) if a.get("name")]
@@ -443,15 +471,17 @@ def pubmed_efetch_abstracts(pmids: List[str]) -> Dict[str, str]:
             result[pmid] = " ".join(abstract_parts)
     return result
 
-def fetch_pubmed(name: str, term: str, accept_dates: Set[str]) -> Tuple[List[Dict], Optional[str]]:
-    pmids = pubmed_esearch(term, accept_dates)
+def fetch_pubmed(name: str, term: str, accept_dates: Set[str],
+                 datetype: str = "pdat") -> Tuple[List[Dict], Optional[str]]:
+    index_mode = datetype == "edat"
+    pmids = pubmed_esearch(term, accept_dates, datetype)
     if not pmids:
         return [], None
 
     all_articles = []
     for i in range(0, len(pmids), PUBMED_BATCH):
         batch = pmids[i:i + PUBMED_BATCH]
-        articles = pubmed_esummary(batch, name, accept_dates)
+        articles = pubmed_esummary(batch, name, accept_dates, index_mode=index_mode)
         all_articles.extend(articles)
         time.sleep(0.3)  # 遵守 NCBI 速率限制
 
@@ -483,14 +513,15 @@ def load_existing_date_file(date_str: str) -> Dict[str, Any]:
         return {"journals": {}}
 
 
-def load_all_existing_ids(data_dir: Path) -> Dict[str, str]:
-    """读取 data/ 下所有日期文件的已有数据，返回 {article_id: date_str} 映射。
+def load_all_existing_ids(data_dir: Path) -> Tuple[Dict[str, str], Set[str]]:
+    """读取 data/ 下所有日期文件的已有数据。
 
-    必须扫描全部日期文件，而不是只扫描 accept_dates：
-    RSS 源（尤其 ScienceDirect）会连续多天保留同一批条目，如果只看两天，
+    返回 (article_id -> date_str, 跨来源去重键集合)。必须扫描全部日期文件，
+    而不是只扫描 accept_dates：RSS 源会连续多天保留同一批条目，如果只看两天，
     这些旧条目每天都会被当成新文章重新写入当天文件，导致列表看起来没有更新。
     """
     id_to_date: Dict[str, str] = {}
+    keys: Set[str] = set()
     for path in sorted(data_dir.glob("*.json")):
         if path.name == "index.json" or not _DATE_FILE_RE.fullmatch(path.stem):
             continue
@@ -503,7 +534,8 @@ def load_all_existing_ids(data_dir: Path) -> Dict[str, str]:
                 aid = article_id(a)
                 if aid not in id_to_date:
                     id_to_date[aid] = path.stem
-    return id_to_date
+                keys.update(article_keys(a))
+    return id_to_date, keys
 
 
 def assign_date_to_article(a: Dict[str, Any], accept_dates: Set[str],
@@ -604,8 +636,9 @@ def main() -> int:
     for i, src in enumerate(pubmed_sources, 1):
         name = src["name"]
         term = src["term"]
+        datetype = src.get("datetype", "pdat")
         print(f"  [{i}/{len(pubmed_sources)}] {name}", end=" ... ", flush=True)
-        articles, err = fetch_pubmed(name, term, accept_dates)
+        articles, err = fetch_pubmed(name, term, accept_dates, datetype)
         if err:
             print(f"失败 ({err})")
             errors.append(f"PubMed {name}: {err}")
@@ -633,7 +666,7 @@ def main() -> int:
 
     # ─── 加载已有数据，构建跨日期去重映射 ───
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    existing_id_to_date = load_all_existing_ids(DATA_DIR)
+    existing_id_to_date, existing_keys = load_all_existing_ids(DATA_DIR)
     print(f"已有文献 ID 数：{len(existing_id_to_date)}")
 
     # ─── 按日期分组新文章 ───
@@ -644,9 +677,11 @@ def main() -> int:
 
     for a in filtered:
         aid = article_id(a)
-        if aid in cross_date_seen:
+        keys = article_keys(a)
+        if aid in cross_date_seen or (keys & existing_keys):
             continue  # 已存在于某个日期文件中，跳过
         cross_date_seen.add(aid)
+        existing_keys.update(keys)
 
         date_str = assign_date_to_article(a, accept_dates, primary_date)
         new_by_date.setdefault(date_str, {})
