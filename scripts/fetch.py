@@ -166,7 +166,10 @@ def article_keys(a: Dict[str, Any]) -> Set[str]:
         keys.add("doi:" + doi)
     title = re.sub(r"[^a-z0-9]+", "", (a.get("title") or "").lower())
     if title:
-        keys.add("title:" + normalize_journal_name(a.get("journal", "")) + "|" + title)
+        journal_key = normalize_journal_name(a.get("journal", ""))
+        if journal_key.startswith("the "):
+            journal_key = journal_key[4:]
+        keys.add("title:" + journal_key + "|" + title)
     return keys
 
 # ─── RSS 抓取 ───
@@ -377,7 +380,7 @@ def pubmed_esearch(term: str, accept_dates: Set[str], datetype: str = "pdat") ->
         return []
 
 def pubmed_esummary(pmids: List[str], journal: str, accept_dates: Set[str],
-                    index_mode: bool = False) -> List[Dict]:
+                    index_mode: bool = False, match_name: Optional[str] = None) -> List[Dict]:
     if not pmids:
         return []
     resp = pubmed_get(
@@ -396,7 +399,7 @@ def pubmed_esummary(pmids: List[str], journal: str, accept_dates: Set[str],
         print(f"  [pubmed] esummary parse error: {e}")
         return []
 
-    normalized_expected = normalize_journal_name(journal)
+    normalized_expected = normalize_journal_name(match_name or journal)
     articles = []
 
     for pmid in pmids:
@@ -509,7 +512,8 @@ def pubmed_efetch_abstracts(pmids: List[str]) -> Dict[str, str]:
     return result
 
 def fetch_pubmed(name: str, term: str, accept_dates: Set[str],
-                 datetype: str = "pdat") -> Tuple[List[Dict], Optional[str]]:
+                 datetype: str = "pdat",
+                 match_name: Optional[str] = None) -> Tuple[List[Dict], Optional[str]]:
     index_mode = datetype == "edat"
     pmids = pubmed_esearch(term, accept_dates, datetype)
     if not pmids:
@@ -518,7 +522,8 @@ def fetch_pubmed(name: str, term: str, accept_dates: Set[str],
     all_articles = []
     for i in range(0, len(pmids), PUBMED_BATCH):
         batch = pmids[i:i + PUBMED_BATCH]
-        articles = pubmed_esummary(batch, name, accept_dates, index_mode=index_mode)
+        articles = pubmed_esummary(batch, name, accept_dates, index_mode=index_mode,
+                                   match_name=match_name)
         all_articles.extend(articles)
         time.sleep(0.3)  # 遵守 NCBI 速率限制
 
@@ -674,8 +679,9 @@ def main() -> int:
         name = src["name"]
         term = src["term"]
         datetype = src.get("datetype", "pdat")
+        match_name = src.get("pubmed_name")
         print(f"  [{i}/{len(pubmed_sources)}] {name}", end=" ... ", flush=True)
-        articles, err = fetch_pubmed(name, term, accept_dates, datetype)
+        articles, err = fetch_pubmed(name, term, accept_dates, datetype, match_name)
         if err:
             print(f"失败 ({err})")
             errors.append(f"PubMed {name}: {err}")

@@ -108,7 +108,7 @@
     {"name": "Geochimica et Cosmochimica Acta", "term": "\"Geochimica et Cosmochimica Acta\"[Journal]", "enabled": true, "publisher": "Elsevier", "issn": "0016-7037", "datetype": "edat"},
     {"name": "Molecular Phylogenetics and Evolution", "term": "\"Molecular Phylogenetics and Evolution\"[Journal]", "enabled": true, "publisher": "Elsevier", "issn": "1055-7903", "datetype": "edat"},
     {"name": "Microbiological Research", "term": "\"Microbiological Research\"[Journal]", "enabled": true, "publisher": "Elsevier", "issn": "0944-5013", "datetype": "edat"},
-    {"name": "The Lancet Microbe", "term": "\"The Lancet Microbe\"[Journal]", "enabled": true, "publisher": "Elsevier", "issn": "2666-5247", "datetype": "edat"},
+    {"name": "Lancet Microbe", "term": "\"The Lancet Microbe\"[Journal]", "pubmed_name": "The Lancet Microbe", "enabled": true, "publisher": "Elsevier", "issn": "2666-5247", "datetype": "edat"},
     {"name": "Science Bulletin", "term": "\"Science Bulletin\"[Journal]", "enabled": true, "publisher": "Elsevier", "issn": "2095-9273", "datetype": "edat"},
     {"name": "Fundamental Research", "term": "\"Fundamental Research\"[Journal]", "enabled": true, "publisher": "Elsevier", "issn": "2667-3258", "datetype": "edat"}
   ]
