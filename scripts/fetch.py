@@ -295,6 +295,50 @@ def fetch_rss(name: str, url: str, accept_dates: Set[str]) -> Tuple[List[Dict], 
 
 PUBMED_BATCH = 50
 PUBMED_TOOL = "PaperPulse"
+# NCBI 未认证请求上限为 3 次/秒；GitHub runner 多为共享出口 IP，留出余量
+PUBMED_MIN_INTERVAL = float(os.getenv("PUBMED_MIN_INTERVAL", "0.5"))
+PUBMED_MAX_RETRIES = 5
+_last_pubmed_request_at = 0.0
+
+def _pubmed_throttle() -> None:
+    global _last_pubmed_request_at
+    wait = PUBMED_MIN_INTERVAL - (time.time() - _last_pubmed_request_at)
+    if wait > 0:
+        time.sleep(wait)
+    _last_pubmed_request_at = time.time()
+
+def pubmed_get(url: str, params: Dict[str, Any]) -> Optional[requests.Response]:
+    """带节流与 429/5xx 退避重试的 PubMed 请求。失败返回 None。"""
+    for attempt in range(PUBMED_MAX_RETRIES):
+        _pubmed_throttle()
+        try:
+            resp = requests.get(url, params=params, timeout=REQUEST_TIMEOUT,
+                                headers={"User-Agent": USER_AGENT})
+        except requests.RequestException as e:
+            if attempt == PUBMED_MAX_RETRIES - 1:
+                print(f"  [pubmed] request error: {e}")
+                return None
+            time.sleep(1.5 * (attempt + 1))
+            continue
+        if resp.status_code == 429:
+            retry_after = resp.headers.get("Retry-After", "")
+            try:
+                wait = float(retry_after)
+            except (TypeError, ValueError):
+                wait = 0
+            wait = max(wait, 2 ** attempt)
+            print(f"  [pubmed] 429 rate limit, retry in {wait:.0f}s")
+            time.sleep(wait)
+            continue
+        if resp.status_code >= 500:
+            if attempt == PUBMED_MAX_RETRIES - 1:
+                print(f"  [pubmed] server error: {resp.status_code}")
+                return None
+            time.sleep(2 ** attempt)
+            continue
+        return resp
+    print("  [pubmed] retries exhausted")
+    return None
 
 def normalize_journal_name(name: str) -> str:
     s = name.lower().replace("&", "and")
@@ -319,39 +363,37 @@ def pubmed_esearch(term: str, accept_dates: Set[str], datetype: str = "pdat") ->
         params["mindate"] = min_date
         params["maxdate"] = max_date
 
+    resp = pubmed_get(
+        "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi", params
+    )
+    if resp is None:
+        return []
     try:
-        resp = requests.get(
-            "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi",
-            params=params, timeout=REQUEST_TIMEOUT,
-            headers={"User-Agent": USER_AGENT},
-        )
-        resp.raise_for_status()
         data = resp.json()
         result = data.get("esearchresult", {})
         return result.get("idlist", [])
     except Exception as e:
-        print(f"  [pubmed] esearch error: {e}")
+        print(f"  [pubmed] esearch parse error: {e}")
         return []
 
 def pubmed_esummary(pmids: List[str], journal: str, accept_dates: Set[str],
                     index_mode: bool = False) -> List[Dict]:
     if not pmids:
         return []
+    resp = pubmed_get(
+        "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+        {
+            "db": "pubmed", "id": ",".join(pmids),
+            "retmode": "json", "tool": PUBMED_TOOL,
+        },
+    )
+    if resp is None:
+        return []
     try:
-        resp = requests.get(
-            "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
-            params={
-                "db": "pubmed", "id": ",".join(pmids),
-                "retmode": "json", "tool": PUBMED_TOOL,
-            },
-            timeout=REQUEST_TIMEOUT,
-            headers={"User-Agent": USER_AGENT},
-        )
-        resp.raise_for_status()
         data = resp.json()
         result = data.get("result", {})
     except Exception as e:
-        print(f"  [pubmed] esummary error: {e}")
+        print(f"  [pubmed] esummary parse error: {e}")
         return []
 
     normalized_expected = normalize_journal_name(journal)
@@ -430,19 +472,14 @@ def pubmed_efetch_abstracts(pmids: List[str]) -> Dict[str, str]:
     """通过 efetch 获取摘要。返回 {pmid: abstract}。"""
     if not pmids:
         return {}
-    try:
-        resp = requests.get(
-            "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
-            params={
-                "db": "pubmed", "id": ",".join(pmids),
-                "retmode": "xml", "tool": PUBMED_TOOL,
-            },
-            timeout=REQUEST_TIMEOUT,
-            headers={"User-Agent": USER_AGENT},
-        )
-        resp.raise_for_status()
-    except Exception as e:
-        print(f"  [pubmed] efetch error: {e}")
+    resp = pubmed_get(
+        "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+        {
+            "db": "pubmed", "id": ",".join(pmids),
+            "retmode": "xml", "tool": PUBMED_TOOL,
+        },
+    )
+    if resp is None:
         return {}
 
     # 简单 XML 解析提取摘要
