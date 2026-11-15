@@ -1,71 +1,61 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T20:28:40.392104+00:00",
-  "total_journals": 13,
-  "total_articles": 55,
+  "generated_at": "2026-11-15T11:47:43.058960+00:00",
+  "total_journals": 17,
+  "total_articles": 71,
   "journals": {
-    "Microbiome": [
+    "Fundamental Research": [
       {
-        "title": "A specialized microbiome enriched in nitrification and halogen cycling potential resolved from multi-omics investigation of a Caribbean suboxic and acidic marine sinkhole",
-        "link": "https://link.springer.com/article/10.1186/s40168-026-02564-w",
-        "pub_date": "2026-11-14",
+        "title": "Leaf-deposited nanoplastics reshape plant–herbivore interactions via species-specific metabolic defense elicitation and trans-trophic feedback",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2667325826009489?dgcid=rss_sd_all",
+        "pub_date": null,
         "authors": [],
-        "doi": "10.1186/s40168-026-02564-w",
-        "journal": "Microbiome",
+        "doi": null,
+        "journal": "Fundamental Research",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Background The Luymes Sinkholes, located on the Luymes Bank northwest of Saba, represent a unique marine environment characterized by distinct biogeochemical gradients. Most noticeable is an acidic (pH ≈ 6.25) and suboxic (O2 Results We identified a distinct microbial community within the submerged acid lake different from the non-acidic sinkholes, with increased abundances of Nitrospinota, Thermoproteota, Planctomycetota, and Actinobacteriota. We also found three enriched classes of dissolved compounds within the submerged acid lake: (1) large, (2) low-polarity, and (3) halogenated metabolites, including iodides and halobenzoic acids. Correlations between microbial taxa and metabolite classes show potential links between nitrifying archaea and halogenated compound cycling. We further supported these findings using the functional annotation of metagenome-assembled genomes (MAGs) and protein clusters showing enrichment of nitrification and halogen cycling genes, suggesting the presence of specialized degradation and biosynthetic pathways, directly connecting microbial metabolism to the observed geochemical conditions. Conclusion These findings demonstrate that the submerged acid lake contains specific microbially driven biogeochemical processes under acidified and low-oxygen conditions, providing a natural model for future extreme ocean acidification scenarios. With this multi‑omics approach, we were able to connect the microbial metabolism with this unique environment, thereby expanding our understanding of how both are interconnected. Video Abstract"
-      }
-    ],
-    "Molecular Ecology": [
+        "abstract": "Publication date: Available online 13 November 2026Source: Fundamental ResearchAuthor(s): Xiaofeng Jiang, Hanzhong Jia, Xuetao Guo, Youcai Xiong, Erkai He"
+      },
       {
-        "title": "From Founder Events to Genetic Recovery? Three Decades of Wolf Expansion Across the Italian Alps",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70639?af=R",
-        "pub_date": "2026-11-14",
-        "authors": [
-          "Francesca Rolle, Kristine L. Pilgrim, Elisa Avanzinelli, Michael K. Schwartz, Francesca Marucco"
-        ],
-        "doi": "10.1111/mec.70639",
-        "journal": "Molecular Ecology",
+        "title": "Microenvironment-Activated Imaging and Labeling Chemistries to Light up Biological Dark Matter",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2667325826008393?dgcid=rss_sd_all",
+        "pub_date": null,
+        "authors": [],
+        "doi": null,
+        "journal": "Fundamental Research",
         "source": "rss",
         "pmid": null,
         "translation": null,
-        "article_type": "Original Article",
-        "abstract": "Molecular Ecology, Volume 35, Issue 22, November 2026."
-      }
-    ],
-    "Genome Biology and Evolution": [
+        "article_type": null,
+        "abstract": "Publication date: Available online 13 November 2026Source: Fundamental ResearchAuthor(s): Rui Sun, Shiqi Mou, Yu Liu, Xin Zhang"
+      },
       {
-        "title": "Integrated population genomics and phenotypic analyses reveal geographic structure and signatures of recent positive-selection underlying insecticide resistance in Anopheles arabiensis from The Gambia, West Africa.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43026029/",
-        "pub_date": "2026-11-14",
-        "authors": [
-          "Seck F",
-          "Mwangi JN",
-          "Clarkson CS",
-          "Cham S",
-          "Faal S",
-          "Jawara M",
-          "Jatta E",
-          "Gibba B",
-          "Diabaté A",
-          "Dia I",
-          "Bennett KL",
-          "D'Alessandro U",
-          "Amambua-Ngwa A",
-          "Miles A",
-          "Opondo K",
-          "Assogba BS"
-        ],
-        "doi": "10.1093/gbe/evag277",
-        "journal": "Genome Biology and Evolution",
-        "source": "pubmed",
-        "pmid": "43026029",
+        "title": "A sleep-active brainstem circuit selectively shapes stress-induced anxiety-like behavior",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2667325826008368?dgcid=rss_sd_all",
+        "pub_date": null,
+        "authors": [],
+        "doi": null,
+        "journal": "Fundamental Research",
+        "source": "rss",
+        "pmid": null,
         "translation": null,
-        "article_type": "Journal Article",
-        "abstract": "Insecticide resistance in malaria vectors is spreading, with newly identified resistance markers raising operational challenges and threatening malaria reduction. Anopheles arabiensis is an important vector in The Gambia; however, the molecular basis of its insecticide resistance remains poorly understood. We observed signals of population structure between coastal and inland An. arabiensis populations in The Gambia, indicating restricted gene flow likely influenced by environmental variation. Pyrethroid and DDT resistance were widespread. However, the prevalence of both phenotypic and genetic insecticide resistance differed between coastal and inland populations. For instance, the Vgsc-L995S and Vgsc-L995F substitutions conferring pyrethroid and DDT resistance were more frequent in coastal populations and were associated with markedly higher phenotypic resistance to these insecticides. We also identified increased frequencies of copy number variation at Cytochrome P450 (Cyp6aa/p, Cyp9k1) and carboxylesterase (Coeae2-7 g) metabolic resistance markers in coastal An. arabiensis. Some observed gene amplifications were unique to Gambian coastal populations, suggesting their independent evolution. Furthermore, we found evidence of genomic regions under recent positive selection on chromosomes 2L:37,282,152-37,298,202 and 3R:28,590,243-28,602,280 with more pronounced selection signals observed among coastal populations. Coastal populations of An. arabiensis displayed an enrichment of resistance alleles, suggesting a localised pressure driving the evolution, selection and spread of resistance mechanisms. These findings underscore the importance of genomic surveillance in concert with bioassays to inform targeted vector control interventions. They also highlight the need to identify the sources and impacts of insecticide pressure acting on recently detected genomic regions under selection in the coastal regions of The Gambia."
+        "article_type": null,
+        "abstract": "Publication date: Available online 12 November 2026Source: Fundamental ResearchAuthor(s): Tian-Xin Zhao, Shi-Yao Wang, Bei Tan, Yu Du"
+      },
+      {
+        "title": "Molecular Ferroelectric Acoustic Sensors Unlock Geological Hazards Infrasound",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2667325826009465?dgcid=rss_sd_all",
+        "pub_date": null,
+        "authors": [],
+        "doi": null,
+        "journal": "Fundamental Research",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Publication date: Available online 12 November 2026Source: Fundamental ResearchAuthor(s): Ruonan Wang, Jiating Li, Lutao Li, Zhicheng Zhou, Chen Wang, Chao-Ran Huang, Yaqi Ye, Ren-Gen Xiong, Guifu Zou"
       }
     ],
     "Nature Communications": [
@@ -400,6 +390,171 @@
         "abstract": "Nature Communications, Published online: 14 November 2026; doi:10.1038/s41467-026-79569-4Nanoparticle assembly at fluid interfaces is often viewed as unpredictable and dominated by uncontrolled non-equilibrium effects. Here, the authors show that evaporation-driven nanoparticle assembly reveals predictable morphologies through multiscale modeling, linking transport dynamics and kinetic arrest."
       }
     ],
+    "Molecular Biology and Evolution": [
+      {
+        "title": "Serum MMP-10 levels predict incident inflammatory bowel disease: an observational analysis from the PURE study",
+        "link": "https://academic.oup.com/ecco-jcc/article/doi/10.1093/ecco-jcc/jjag188/9055784?rss=1",
+        "pub_date": "2026-11-14",
+        "authors": [],
+        "doi": "10.1093/ecco-jcc/jjag188",
+        "journal": "Molecular Biology and Evolution",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "AbstractBackground and aimsThe incidence of inflammatory bowel disease (IBD), including Crohn’s disease (CD) and ulcerative colitis (UC), is rising, particularly in middle-income countries. This study aims to identify biomarkers that predict the onset of IBD in a globally recruited population.MethodsData from participants enrolled in the biomarker substudy of the Prospective Urban Rural Epidemiology (PURE) study were analyzed (discovery cohort). The primary outcome of interest was the development of incident IBD. Secondary outcomes were CD and UC. Protein concentration was measured using O-link® immuno-assays. Discovery analyses consisted of logistic regression models to evaluate the relationship between biomarker concentrations and risk of IBD. A separate analysis was conducted to validate biomarkers identified from the discovery cohort. Statistical significance was defined using a Bonferroni-corrected P −5 for all analyses.ResultsA total of 1011 biomarkers were assessed in the discovery cohort across 11 019 participants with n = 91 incident IBD cases. In the discovery analysis, elevated levels of matrix metalloproteinase-10 (MMP-10) were significantly associated with a future diagnosis of IBD (adjusted odds ratio [aOR] per SD: 1.75, 95% confidence interval [CI]: 1.40-2.18, P = 7.6 × 10−7). Results were consistent in direction for development of both UC and CD. In the validation analysis, MMP-10 remained significant for the outcome of IBD (aOR per SD: 2.41 [95% CI: 1.61-4.58], P = 5.2 × 10−6).ConclusionsThese findings suggest MMP-10 is a relevant biomarker in the general global population for prediction of clinical IBD, and further work should investigate its role in early detection and prevention strategies."
+      }
+    ],
+    "Microbiological Research": [
+      {
+        "title": "Root-inspired selective biofilm control: Design principles for programmable interfaces",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0944501326003873?dgcid=rss_sd_all",
+        "pub_date": null,
+        "authors": [],
+        "doi": null,
+        "journal": "Microbiological Research",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Publication date: February 2027Source: Microbiological Research, Volume 315Author(s): Adnan Amin, Wajid Zaman, Aziz Ullah"
+      },
+      {
+        "title": "INE963: A repurposed antiparasitic combating methicillin-resistant Staphylococcus aureus and colistin-resistant Acinetobacter baumannii",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0944501326003848?dgcid=rss_sd_all",
+        "pub_date": null,
+        "authors": [],
+        "doi": null,
+        "journal": "Microbiological Research",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Publication date: February 2027Source: Microbiological Research, Volume 315Author(s): Pengfei She, Yiqing Liu, Mengna Li, Lihua Lu, Yelan Hong, Muqi Liu, Yanping Sun, Yimin Li, Linying Zhou, Yong Wu"
+      },
+      {
+        "title": "Interaction between phosphate-solubilizing bacteria and biochar in soil microecological regulation.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43025160/",
+        "pub_date": null,
+        "authors": [
+          "Ma W",
+          "Chen Y",
+          "Zhang J",
+          "Zhou J",
+          "Zhao S",
+          "Qu J"
+        ],
+        "doi": "10.1016/j.micres.2026.128824",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43025160",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "The paradox of \"high phosphorus reserve but low availability\" in soils is a core challenge constraining global agricultural sustainability. Phosphate-solubilizing bacteria (PSB), as a green alternative to chemical phosphate fertilizers, have great application potential. However, their field application has long been limited by three major bottlenecks: poor colonization, low efficiency, and functional instability. This review synthesizes the phosphate solubilization mechanisms of PSB, the construction of synthetic microbial communities, and carrier-mediated microecological regulation strategies. This review highlights the mechanism of carrier-mediated microecological regulation, also identifies gaps in knowledge, and emphasizes the need for further research to elucidate the interfacial interaction mechanisms between PSB and biochar, as well as targeted regulation strategies for the rhizosphere microbial network. Based on this, the carrier-mediated microecological regulation strategy is expected to break through the bottleneck in the field application of PSB, facilitating its transition from the laboratory to the field, and providing important technical support for the efficient utilization of phosphorus resources and the green development of agriculture."
+      },
+      {
+        "title": "DksA orchestrates redox-sensitive virulence trade-off between P fimbriae and K1 capsule expression to promote Escherichia coli-induced sepsis.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43025163/",
+        "pub_date": null,
+        "authors": [
+          "Zhu D",
+          "Shi X",
+          "Fu S",
+          "Ma W",
+          "Huang A",
+          "Jiang M",
+          "Liang Y",
+          "Zhao Y",
+          "Yu S",
+          "Wang M",
+          "He H",
+          "Sun Y",
+          "Dai J",
+          "Zhuge X"
+        ],
+        "doi": "10.1016/j.micres.2026.128825",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43025163",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Extraintestinal pathogenic Escherichia coli (ExPEC) is a leading cause of life-threatening sepsis worldwide. A key unresolved question in ExPEC pathogenesis is how these strains initiate and drive severe, high-mortality sepsis. RNA polymerase (RNAP)-binding transcriptional regulator DksA is known to mediate bacterial stress responses. Here, we demonstrate that DksA acts as a critical regulator of ExPEC-induced sepsis. DksA functions as a redox-sensitive molecular switch that modulates virulence trade-off between P fimbriae-mediated adhesion and K1 capsule-dependent immune evasion via the novel sRNA PRs37 (originally designated sRNA037), directly repressing the major pilin subunit PapA. DksA binds RNAP to repress transcription of PRs37 and K1 capsule operons. Oxidative stress triggered by oxidants such as H₂O₂ induces cysteine oxidation of DksA, relieving its transcriptional repression and enhancing ExPEC immune evasion. This DksA redox-dependent regulation operates independently of molecular chaperones and the stringent response. This DksA-orchestrated virulence trade-off serves as a key determinant for the establishment and progression of E. coli sepsis. Our findings deepen the understanding of complex host-pathogen interactions and provide a theoretical foundation for developing novel anti-infective strategies."
+      },
+      {
+        "title": "Mechanistic insights into the selective ligninolysis of wheat straw by the grass-litter decomposer Agrocybe pediades: A multi-omics and chemical study.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43025161/",
+        "pub_date": null,
+        "authors": [
+          "Sánchez-Ruiz MI",
+          "Babiker R",
+          "Peña A",
+          "Chaduli D",
+          "Lipzen A",
+          "Rencoret J",
+          "Marques G",
+          "Gutiérrez A",
+          "Ng V",
+          "Grigoriev IV",
+          "Rosso MN",
+          "Martínez AT",
+          "Ruiz-Dueñas FJ"
+        ],
+        "doi": "10.1016/j.micres.2026.128818",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43025161",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Agrocybe pediades, a saprotrophic grass-litter-decomposing fungus of the order Agaricales, was studied for its potential to degrade all major components of plant cell walls (PCWs) as inferred from the enzymes encoded in its genome. When grown on wheat straw, this fungus preferentially degraded lignin and hemicelluloses while largely preserving cellulose. To uncover the molecular basis of this selective ligninolysis, we combined genomic, transcriptomic, exoproteomic and metabolomic analyses. Early stages of lignocellulose degradation were characterized by strong mobilization of H2O2-producing enzymes together with ligninolytic class-II peroxidases (PODs). Among ligninolytic PODs, manganese peroxidases were the most abundant. Their ligninolytic activity was related to the potential oxidation of phenolic lignin via Mn³ ⁺ chelates and of non-phenolic lignin through unsaturated lipid peroxidation. Notably, a highly transcribed high-redox-potential lignin peroxidase was also secreted during wheat straw delignification. This oxidative stage was accompanied by sequential transcription and secretion of hemicellulose-active enzymes, suggesting a stepwise xylan degradation. Enzymes targeting other PCW polysaccharides increased during growth. Although most lytic polysaccharide monooxygenases were transcribed, they were not detected in the exoproteome, suggesting that their contribution to cellulose degradation may have been limited. This, together with possible modulation of Fenton chemistry, may have contributed to the limited cellulose degradation observed. Additionally, insights were gained into the intracellular metabolism of sugars and aromatics released during the process. This multi-omics approach, supported by 2D-NMR and chemical analyses, provides valuable insights into selective delignification by A. pediades, contributing to our understanding of selective ligninolysis, an underexplored process with potential for plant biomass valorization."
+      },
+      {
+        "title": "Natural polysaccharides targeting gut microbiota in renal fibrosis: Novel molecular mechanisms and therapeutic strategies.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43025159/",
+        "pub_date": null,
+        "authors": [
+          "Yu QQ",
+          "Li X",
+          "Fang HB",
+          "Zhang YL",
+          "Yang J",
+          "Miao H",
+          "Liu LM",
+          "Zhao YY"
+        ],
+        "doi": "10.1016/j.micres.2026.128821",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43025159",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Kidney disease, including acute kidney injury (AKI) and chronic kidney disease (CKD), represent a major global health burden and are associated with substantial morbidity and mortality. AKI is an overwhelming complication of acute disease that leads to the CKD development and ultimately progresses to end-stage renal disease. AKI and CKD are inter-related clinical and pathophysiological disorders. Current treatments, including dialysis and transplantation, are costly and not curative. Natural polysaccharides, widely distributed in medicinal plants and fungi, are important active components with broad healthcare applications. As a natural modulator of gut microbiota (GM), natural polysaccharides play an important role in regulating intestinal inflammation and gut microbial dysbiosis. This review summarizes the pathogenesis and underlying molecular mechanisms of renal fibrosis associated with GM dysbiosis, providing therapeutic strategies and targets for polysaccharide remodeling of the GM to improve kidney disease. We further systematically present the beneficial effects of natural polysaccharides on kidney disease through various molecular mechanisms, such as Toll-like receptor 4, G-protein-coupled receptors, NOD-, LRR- and pyrin domain-containing protein 3 inflammasome, glucagon-like peptide-1 receptor, IƙB/NF-ƙB and Keap1/Nrf2 signaling pathways via regulating gut microbial-derived metabolites, such as lipopolysaccharide, short-chain fatty acids, and uremic toxins. These studies expand the understanding of the therapeutic effects and underlying molecular mechanism of natural polysaccharides on kidney disease and expound a clear pathophysiological rationale for the treatment of kidney disease. This review provides targeted therapeutic strategies for kidney disease prevention and management by modulating GM, highlighting the potential of natural polysaccharides as prebiotics in clinical practice."
+      }
+    ],
+    "Genomics Proteomics & Bioinformatics": [
+      {
+        "title": "Romidepsin Suppresses ESCC Cell Proliferation and Progression via HDAC2-H3K14ac-p53 Pathway.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43033033/",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Zhou X",
+          "Zang Y",
+          "Chen C",
+          "Zhang J",
+          "Wang J",
+          "Zhang X",
+          "Bai X",
+          "Han Y",
+          "Zhang K"
+        ],
+        "doi": "10.1093/gpbjnl/qzag112",
+        "journal": "Genomics Proteomics & Bioinformatics",
+        "source": "pubmed",
+        "pmid": "43033033",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Histone deacetylase 2 (HDAC2) may contribute to epigenetic dysregulation in esophageal squamous cell carcinoma (ESCC) by silencing tumor suppressor genes, yet isoform-specific therapeutic targeting remains underexplored. Here, we show that romidepsin, an FDA-approved class I HDAC inhibitor, preferentially inhibits HDAC2-associated deacetylation in ESCC cells. We identified romidepsin as a potent inhibitor of ESCC cell viability, through phenotypic screening of 773 epigenetic compounds across differentiation-stage-defined ESCC models. Multi-omics analyses (SILAC proteomics, CUT&Tag chromatin mapping, and RNA-seq) further revealed histone H3K14ac enrichment at promoters of p53 pathway targets, including CDKN1A/p21, which exhibited transcriptional reactivation. Similar to HDAC2 knockout, romidepsin suppressed ESCC proliferation, migration, and clonogenicity. Mechanistically, HDAC2 inhibition reverses epigenetic silencing of p21 and restores tumor-suppressive chromatin states. Together, these results identify the HDAC2-H3K14ac axis as a therapeutic vulnerability in ESCC and provide preclinical support for romidepsin-based epigenetic intervention."
+      }
+    ],
     "Science Bulletin": [
       {
         "title": "X-ray scattering insights into crystallization, degradation, and heterogeneity of mixed-halide perovskites.",
@@ -428,6 +583,78 @@
         "translation": null,
         "article_type": "Review",
         "abstract": "Mixed-halide perovskites have emerged as indispensable light absorbers for high-efficiency tandem photovoltaics, yet their compositional complexity and processing sensitivity demand advanced structural characterization to elucidate film formation, evolution, and degradation across multiple length and time scales. While previous reviews primarily focus on basic tutorials or specific topics like crystallization and degradation, a systematic methodological framework for advanced X-ray platforms remains absent. This review bridges this critical gap by establishing a comprehensive spatiotemporal characterization paradigm. Methodologically, it shifts analysis from static observations to dynamic, nanoscale-resolved, multimodal investigations, enabling mechanistic links among film formation, operational evolution, and heterogeneity-driven segregation. Furthermore, we highlight critical forward-looking perspectives, including the integration of artificial intelligence-assisted automated analysis, upscaled in situ characterization setups, and multimodal characterization. This review aims to equip the community with advanced structural-probing strategies to overcome the bottlenecks of tandem photovoltaics and accelerate their commercialization."
+      }
+    ],
+    "EMBO Reports": [
+      {
+        "title": "Fat cadherin cleavage releases a nuclear fragment to regulate gene transcription.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43034242/",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Rusch J",
+          "Thanintorn N",
+          "Kuok C",
+          "Tsatskis Y",
+          "Hou H",
+          "Julick C",
+          "Wilson MD",
+          "McNeill H"
+        ],
+        "doi": "10.1038/s44319-026-00988-x",
+        "journal": "EMBO Reports",
+        "source": "pubmed",
+        "pmid": "43034242",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Atypical Fat (Ft) cadherins regulate growth, planar cell polarity (PCP), and metabolism, in organisms ranging from flies to mammals. The intracellular domain of the Ft protein, FtICD, regulates components of the Hippo and PCP pathways at the apical-junctional plasma membrane. Unexpectedly, we find that a fragment of FtICD is imported into the nucleus and identify two conserved nuclear localization signals. Membrane-bound FtICD is cleaved and enters nuclei in vivo, and endogenous ChIP-seq experiments identified putative Ft targets, including genes involved in signaling pathways, chromatin organization and pattern formation. Ectopic expression of FtICD suppresses wing growth, alters PCP and alters the expression of many genes. FtICD forms a complex with the Hippo transcriptional effectors Scalloped and Yorkie, and Ft ChIP-seq peaks co-localize with those of Scalloped and Yorkie. We propose that modulation of Hippo pathway activity and PCP constitute nuclear functions of Ft, complementing its established function as an upstream regulator of Hippo signaling."
+      },
+      {
+        "title": "Intrinsically disordered N-terminal regions suppress cotranslational protein degradation.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43034241/",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Ju D",
+          "Xie D",
+          "Wang J",
+          "Wu S",
+          "Li L",
+          "Xie Y"
+        ],
+        "doi": "10.1038/s44319-026-00991-2",
+        "journal": "EMBO Reports",
+        "source": "pubmed",
+        "pmid": "43034241",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Intrinsically disordered regions (IDRs) are traditionally linked to proteolytic susceptibility and efficient degrons. Here we report that IDRs can also suppress protein degradation. We recently demonstrated that yeast ribosomal proteins, while posttranslationally stable, are subject to cotranslational protein degradation (CTPD). In mapping the degron of ribosomal protein Rpl8A, we show here that its N-terminal IDR suppresses CTPD, whereas the adjacent structured domain acts as a degron. Testing nine other yeast proteins reveals that inhibition of CTPD appears to be a generic function of N-terminal IDRs. This stabilizing function is conserved from yeast to humans. The N-terminal IDR of human ribosomal protein hRpl7A protects proteins against CTPD in human cells. When transplanted to the N-terminus of the cystic fibrosis transmembrane conductance regulator (CFTR), it reduces CTPD of CFTR by over 80%. Mass spectrometry shows that HSP70 chaperones Ssa and Ssb bind to the N-terminal IDR of Rpl8A. These data suggest that N-terminal IDRs inhibit CTPD by recruiting chaperones to nascent chains, thereby facilitating cotranslational folding. Our study unveils a novel role for IDRs in suppressing CTPD."
+      }
+    ],
+    "Genome Biology": [
+      {
+        "title": "The rise, evolution and future of whole genome projects in Asian populations",
+        "link": "https://link.springer.com/article/10.1186/s13059-026-04338-x",
+        "pub_date": "2026-11-14",
+        "authors": [],
+        "doi": "10.1186/s13059-026-04338-x",
+        "journal": "Genome Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Asia contains over 60% of the global population and vast genetic diversity, yet its genomic resources remain underrepresented. Over the past decade or so, regional research has evolved from fragmented surveys into large-scale national precision medicine initiatives. Here, we examine how these sequencing efforts collectively form an emerging Asian genomic infrastructure. We discuss future directions to close critical gaps in Central Asia, minority populations, cross-project interoperability, and equitable access, highlighting the transition toward interoperable, clinical-grade genomic ecosystems supporting precision medicine across the continent."
+      },
+      {
+        "title": "AMP Challenge: towards a standardized, community-wide benchmark for AI-driven antimicrobial peptide design",
+        "link": "https://link.springer.com/article/10.1186/s13059-026-04316-3",
+        "pub_date": "2026-11-14",
+        "authors": [],
+        "doi": "10.1186/s13059-026-04316-3",
+        "journal": "Genome Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": null
       }
     ],
     "Scientific Data": [
@@ -504,6 +731,465 @@
         "translation": null,
         "article_type": null,
         "abstract": "Scientific Data, Published online: 14 November 2026; doi:10.1038/s41597-026-08620-2Assessing the capacity of available pharmaceuticals to protect human PSC-derived cardiomyocytes from anthracycline cardiotoxicity"
+      },
+      {
+        "title": "A multi-session simultaneous EEG-fMRI dataset with repeated experience sampling",
+        "link": "https://www.nature.com/articles/s41597-026-08722-x",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Lotus Shareef-Trudeau",
+          "David Braun",
+          "Tiara Bounyarith",
+          "Janet Z. Li",
+          "Huiling Peng",
+          "Aaron Kucyi"
+        ],
+        "doi": "10.1038/s41597-026-08722-x",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 14 November 2026; doi:10.1038/s41597-026-08722-xA multi-session simultaneous EEG-fMRI dataset with repeated experience sampling"
+      },
+      {
+        "title": "Magnetoencephalography and behavioral dataset for emotion recognition using validated video stimuli",
+        "link": "https://www.nature.com/articles/s41597-026-08713-y",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Moon-A Yoo",
+          "Dong-Uk Kim",
+          "Soo-In Choi",
+          "Min-Young Kim",
+          "Sung-Phil Kim"
+        ],
+        "doi": "10.1038/s41597-026-08713-y",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 14 November 2026; doi:10.1038/s41597-026-08713-yMagnetoencephalography and behavioral dataset for emotion recognition using validated video stimuli"
+      },
+      {
+        "title": "MultiSenseGolf: A Multimodal Sensor-Based Dataset for Golf Swing Motion and Shot Performance Analysis",
+        "link": "https://www.nature.com/articles/s41597-026-08648-4",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Minwoo Oh",
+          "Minwoo Seong",
+          "Kangbeen Ko",
+          "Chaeyeon Lim",
+          "Gwangbin Kim",
+          "Hyunjin Choi",
+          "Joseph DelPreto",
+          "Daniela Rus",
+          "SeungJun Kim"
+        ],
+        "doi": "10.1038/s41597-026-08648-4",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 14 November 2026; doi:10.1038/s41597-026-08648-4MultiSenseGolf: A Multimodal Sensor-Based Dataset for Golf Swing Motion and Shot Performance Analysis"
+      },
+      {
+        "title": "BDMedData: A Multi-Therapeutic Drug Dataset for Pharmacoinformatics and Public Health in Bangladesh",
+        "link": "https://www.nature.com/articles/s41597-026-08643-9",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Shakib Absar",
+          "Iftekhar Ahmed",
+          "Shadman Sakib",
+          "Siam Tahsin Bhuiyan",
+          "Rashedur Rahman",
+          "Saadia Binte Alam",
+          "Ashraful Islam"
+        ],
+        "doi": "10.1038/s41597-026-08643-9",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 14 November 2026; doi:10.1038/s41597-026-08643-9BDMedData: A Multi-Therapeutic Drug Dataset for Pharmacoinformatics and Public Health in Bangladesh"
+      },
+      {
+        "title": "De novo transcriptome of the sandmason Lanice conchilega using Nanopore long-read sequencing",
+        "link": "https://www.nature.com/articles/s41597-026-08766-z",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Florencia Mohamed",
+          "Marco Rota Negroni",
+          "Gabriele Sales",
+          "Alessandro Vezzi",
+          "Alexa Wrede"
+        ],
+        "doi": "10.1038/s41597-026-08766-z",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 14 November 2026; doi:10.1038/s41597-026-08766-zDe novo transcriptome of the sandmason Lanice conchilega using Nanopore long-read sequencing"
+      },
+      {
+        "title": "Chromosome-level genome assembly of Hippophae goniocarpa",
+        "link": "https://www.nature.com/articles/s41597-026-08726-7",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Mengjiao Lin",
+          "Tian Zhang",
+          "Jing Sun",
+          "Wu Zhou"
+        ],
+        "doi": "10.1038/s41597-026-08726-7",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 14 November 2026; doi:10.1038/s41597-026-08726-7Chromosome-level genome assembly of Hippophae goniocarpa"
+      },
+      {
+        "title": "A Network Intrusion Detection Dataset for Geothermal Well Scale Inhibitor Injection Control Systems",
+        "link": "https://www.nature.com/articles/s41597-026-08792-x",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Honghui Wang",
+          "Qianfeng Shui",
+          "Hongzhou Sun",
+          "Yong Zhang",
+          "Hanping Wan",
+          "Kai Wei"
+        ],
+        "doi": "10.1038/s41597-026-08792-x",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 14 November 2026; doi:10.1038/s41597-026-08792-xA Network Intrusion Detection Dataset for Geothermal Well Scale Inhibitor Injection Control Systems"
+      },
+      {
+        "title": "A Mobile Phone-Based Mobility Dataset of Transient Populations During Hurricanes in Florida",
+        "link": "https://www.nature.com/articles/s41597-026-08618-w",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Md. Shaharier Alam",
+          "Yujie Hu"
+        ],
+        "doi": "10.1038/s41597-026-08618-w",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 14 November 2026; doi:10.1038/s41597-026-08618-wA Mobile Phone-Based Mobility Dataset of Transient Populations During Hurricanes in Florida"
+      }
+    ],
+    "Genome Biology and Evolution": [
+      {
+        "title": "Integrated population genomics and phenotypic analyses reveal geographic structure and signatures of recent positive-selection underlying insecticide resistance in Anopheles arabiensis from The Gambia, West Africa.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43026029/",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Seck F",
+          "Mwangi JN",
+          "Clarkson CS",
+          "Cham S",
+          "Faal S",
+          "Jawara M",
+          "Jatta E",
+          "Gibba B",
+          "Diabaté A",
+          "Dia I",
+          "Bennett KL",
+          "D'Alessandro U",
+          "Amambua-Ngwa A",
+          "Miles A",
+          "Opondo K",
+          "Assogba BS"
+        ],
+        "doi": "10.1093/gbe/evag277",
+        "journal": "Genome Biology and Evolution",
+        "source": "pubmed",
+        "pmid": "43026029",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Insecticide resistance in malaria vectors is spreading, with newly identified resistance markers raising operational challenges and threatening malaria reduction. Anopheles arabiensis is an important vector in The Gambia; however, the molecular basis of its insecticide resistance remains poorly understood. We observed signals of population structure between coastal and inland An. arabiensis populations in The Gambia, indicating restricted gene flow likely influenced by environmental variation. Pyrethroid and DDT resistance were widespread. However, the prevalence of both phenotypic and genetic insecticide resistance differed between coastal and inland populations. For instance, the Vgsc-L995S and Vgsc-L995F substitutions conferring pyrethroid and DDT resistance were more frequent in coastal populations and were associated with markedly higher phenotypic resistance to these insecticides. We also identified increased frequencies of copy number variation at Cytochrome P450 (Cyp6aa/p, Cyp9k1) and carboxylesterase (Coeae2-7 g) metabolic resistance markers in coastal An. arabiensis. Some observed gene amplifications were unique to Gambian coastal populations, suggesting their independent evolution. Furthermore, we found evidence of genomic regions under recent positive selection on chromosomes 2L:37,282,152-37,298,202 and 3R:28,590,243-28,602,280 with more pronounced selection signals observed among coastal populations. Coastal populations of An. arabiensis displayed an enrichment of resistance alleles, suggesting a localised pressure driving the evolution, selection and spread of resistance mechanisms. These findings underscore the importance of genomic surveillance in concert with bioassays to inform targeted vector control interventions. They also highlight the need to identify the sources and impacts of insecticide pressure acting on recently detected genomic regions under selection in the coastal regions of The Gambia."
+      }
+    ],
+    "Molecular Ecology": [
+      {
+        "title": "From Founder Events to Genetic Recovery? Three Decades of Wolf Expansion Across the Italian Alps",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70639?af=R",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Francesca Rolle, Kristine L. Pilgrim, Elisa Avanzinelli, Michael K. Schwartz, Francesca Marucco"
+        ],
+        "doi": "10.1111/mec.70639",
+        "journal": "Molecular Ecology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Original Article",
+        "abstract": "Molecular Ecology, Volume 35, Issue 22, November 2026."
+      },
+      {
+        "title": "Cross‐Palaearctic Population Connectivity in a Migratory Shorebird, the Common Redshank (Tringa totanus), Defies High Site Fidelity",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70623?af=R",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Yen Yi Tan, Kelsey N. Moreland, Elize Y. X. Ng, David Z. W. Li, Pavel S. Tomkovich, Afonso D. Rocha, José A. Alves, Veli‐Matti Pakanen, Hui Zhen Tan, Bryan Soh, Katherine K. S. Leung, David S. Melville, Philip D. Round, Frank E. Rheindt"
+        ],
+        "doi": "10.1111/mec.70623",
+        "journal": "Molecular Ecology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Original Article",
+        "abstract": "Molecular Ecology, Volume 35, Issue 22, November 2026."
+      }
+    ],
+    "Microbiome": [
+      {
+        "title": "A specialized microbiome enriched in nitrification and halogen cycling potential resolved from multi-omics investigation of a Caribbean suboxic and acidic marine sinkhole",
+        "link": "https://link.springer.com/article/10.1186/s40168-026-02564-w",
+        "pub_date": "2026-11-14",
+        "authors": [],
+        "doi": "10.1186/s40168-026-02564-w",
+        "journal": "Microbiome",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Background The Luymes Sinkholes, located on the Luymes Bank northwest of Saba, represent a unique marine environment characterized by distinct biogeochemical gradients. Most noticeable is an acidic (pH ≈ 6.25) and suboxic (O2 Results We identified a distinct microbial community within the submerged acid lake different from the non-acidic sinkholes, with increased abundances of Nitrospinota, Thermoproteota, Planctomycetota, and Actinobacteriota. We also found three enriched classes of dissolved compounds within the submerged acid lake: (1) large, (2) low-polarity, and (3) halogenated metabolites, including iodides and halobenzoic acids. Correlations between microbial taxa and metabolite classes show potential links between nitrifying archaea and halogenated compound cycling. We further supported these findings using the functional annotation of metagenome-assembled genomes (MAGs) and protein clusters showing enrichment of nitrification and halogen cycling genes, suggesting the presence of specialized degradation and biosynthetic pathways, directly connecting microbial metabolism to the observed geochemical conditions. Conclusion These findings demonstrate that the submerged acid lake contains specific microbially driven biogeochemical processes under acidified and low-oxygen conditions, providing a natural model for future extreme ocean acidification scenarios. With this multi‑omics approach, we were able to connect the microbial metabolism with this unique environment, thereby expanding our understanding of how both are interconnected. Video Abstract"
+      }
+    ],
+    "Communications Earth & Environment": [
+      {
+        "title": "Divergent biophysical controls on the complementary dimensions of global diurnal photosynthesis",
+        "link": "https://www.nature.com/articles/s43247-026-04214-3",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Xi Liu",
+          "Jingyu Lin",
+          "Yanan Zhou",
+          "Zikang Diao",
+          "Xing Li"
+        ],
+        "doi": "10.1038/s43247-026-04214-3",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 14 November 2026; doi:10.1038/s43247-026-04214-3Global vegetation photosynthesis shows distinct diurnal asymmetry, magnitude, and midday depression governed by seasonally varying biophysical controls that Earth system models only partly capture, based on global hourly gross primary production datasets."
+      },
+      {
+        "title": "Competing attention and linked emotions coexist in Reddit climate and pandemic discussions",
+        "link": "https://www.nature.com/articles/s43247-026-04213-4",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Rong-Gang Cong",
+          "Chen Xing",
+          "Peng Wang",
+          "Yi-Ming Wei"
+        ],
+        "doi": "10.1038/s43247-026-04213-4",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 14 November 2026; doi:10.1038/s43247-026-04213-4Climate discussions received less attention during peaks in pandemic mortality while emotional responses remained linked across topics, according to analyses of 26 million Reddit comments."
+      }
+    ],
+    "Communications Biology": [
+      {
+        "title": "Low-frequency phase in early visual cortex gates prefrontal influence on perception",
+        "link": "https://www.nature.com/articles/s42003-026-11359-6",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Yanni Zhang",
+          "Xiangshu Hu",
+          "Qinghua Tan",
+          "Kaihui Li",
+          "Biao Han",
+          "Lu Shen"
+        ],
+        "doi": "10.1038/s42003-026-11359-6",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11359-6Low-frequency phase in early visual cortex gates prefrontal influence on perception"
+      },
+      {
+        "title": "Circulating HSPCs enhance their self-renewal by augmenting the endocytosis and lysosomal acidity via MIF-(CXCR4_CD74)-ATP6V1A axis",
+        "link": "https://www.nature.com/articles/s42003-026-11120-z",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Yulin Xu",
+          "Jianghuan Lu",
+          "Meng Zhang",
+          "Yuanyin Teng",
+          "Xinyan Wang",
+          "Xiaoyu Lai",
+          "Dawei Huo",
+          "Ruxiu Tie",
+          "Xiangjun Zeng",
+          "Yijin Chen",
+          "Wei Shan",
+          "Ce Shi",
+          "Rui Wen",
+          "Penglei Jiang",
+          "Honghu Li",
+          "Xiaohong Yu",
+          "Shanshan Pei",
+          "Pengxu Qian",
+          "He Huang"
+        ],
+        "doi": "10.1038/s42003-026-11120-z",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11120-zCirculating HSPCs enhance their self-renewal by augmenting the endocytosis and lysosomal acidity via MIF-(CXCR4_CD74)-ATP6V1A axis"
+      },
+      {
+        "title": "Volitional stopping is preceded by a transient motor cortex EEG beta oscillation",
+        "link": "https://www.nature.com/articles/s42003-026-11331-4",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Joana F. Doutel Figueira",
+          "Reetta A. Ojala",
+          "Dmitrii Vasilev",
+          "Alejandro De Miguel",
+          "Lucas Jeay-Bizot",
+          "Ryo Iwai",
+          "Isabel Raposo",
+          "Negar Safaei",
+          "Lilian de Sardenberg Schmid",
+          "Uri Maoz",
+          "Masataka Watanabe",
+          "Nelson K. Totah"
+        ],
+        "doi": "10.1038/s42003-026-11331-4",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11331-4Volitional stopping is preceded by a transient motor cortex EEG beta oscillation"
+      },
+      {
+        "title": "Dual HDAC6 and HDAC8 inhibition enhances STING mediated innate immune responses",
+        "link": "https://www.nature.com/articles/s42003-026-11233-5",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Yeseul Kim",
+          "Junhyeong Yim",
+          "Yaeji Jang",
+          "Sinhyeong Kim",
+          "Minseok Lee",
+          "Michael E. Jung",
+          "Jongmin Park",
+          "Jonghoon Kim",
+          "Sanghee Lee"
+        ],
+        "doi": "10.1038/s42003-026-11233-5",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11233-5Dual HDAC6 and HDAC8 inhibition enhances STING mediated innate immune responses"
+      },
+      {
+        "title": "ADAMTS7 impairs endothelial angiogenic function via suppressing POSTN-mediated VEGFR2 activation in pre-eclampsia",
+        "link": "https://www.nature.com/articles/s42003-026-11266-w",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Lu Zhang",
+          "Hengsen Xu",
+          "Yinglei Xu",
+          "Qian Tang",
+          "Lin Wang",
+          "Chao Wang"
+        ],
+        "doi": "10.1038/s42003-026-11266-w",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11266-wAngiogenic imbalance drives endothelial dysfunction in pre-eclampsia (PE). Here, the authors show the metalloprotease ADAMTS7 is elevated in the circulation of PE patients and impairs endothelial angiogenic function, suggesting the ADAMTS7/POSTN/VEGFR2 axis as a therapeutic target for PE."
+      },
+      {
+        "title": "Artificial skyglow at night disrupts chronobiology and physiology in Crassostrea gigas",
+        "link": "https://www.nature.com/articles/s42003-026-11351-0",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Audrey Botté",
+          "Laura Payton",
+          "Yannick Geerebaert",
+          "Damien Tran"
+        ],
+        "doi": "10.1038/s42003-026-11351-0",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11351-0Artificial skyglow at night disrupts chronobiology and physiology in Crassostrea gigas"
+      },
+      {
+        "title": "In planta-specific transcriptional regulatory circuit regulates expression of MoHTR1, a nuclear effector gene of Magnaporthe oryzae",
+        "link": "https://www.nature.com/articles/s42003-026-11354-x",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Yoon-Ju Yoon",
+          "Hyunjun Lee",
+          "Seongbeom Kim",
+          "Hyunjung Chung",
+          "Chang Hyun Khang",
+          "You-Jin Lim",
+          "Yong-Hwan Lee"
+        ],
+        "doi": "10.1038/s42003-026-11354-x",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11354-xIn planta-specific transcriptional regulatory circuit regulates expression of MoHTR1, a nuclear effector gene of Magnaporthe oryzae"
+      },
+      {
+        "title": "Amyloid pathology compresses dynamic range and degrades spatial coding in an Alzheimer’s mouse model",
+        "link": "https://www.nature.com/articles/s42003-026-11277-7",
+        "pub_date": "2026-11-14",
+        "authors": [
+          "Mary Ann Go",
+          "Kathrine E. Clarke",
+          "Yimei Li",
+          "Seigfred V. Prado",
+          "Beatriz R. F. Teixeira",
+          "Mingyang Gao",
+          "Jess J. Yu",
+          "Simon R. Schultz"
+        ],
+        "doi": "10.1038/s42003-026-11277-7",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11277-7Amyloid pathology compresses dynamic range and degrades spatial coding in an Alzheimer’s mouse model"
       }
     ],
     "Nucleic Acids Research": [
@@ -761,198 +1447,6 @@
         "abstract": "proMGE is a resource of prokaryotic mobile genetic elements (MGEs) that systematically catalogues MGEs from prokaryotes, their intercellular spread, antimicrobial resistance gene carriage, and MGE nesting interactions. We present proMGE2 featuring a 6X expansion, a total of >16.4 million MGEs from 670k high-quality isolate genomes, and 180k metagenome-assembled genomes (MAGs), spanning diverse MGE categories: transposons and insertion sequences, phages, phage-like elements, conjugative elements, mobility islands, and integrons. proMGE2 includes MGEs from MAGs derived from environmental microbiomes, encompassing ~50k samples across several major habitat types. proMGE2 provides a standardized MGE reference collection of >5 million non-redundant MGE sequences drawn from our curated database, and enables identification of MGEs in user-provided genomes. proMGE2 captures MGE diversity and their functional potential at unprecedented scale to support future research of mobile genetic elements and transfer of genetic material in microbes. The database is available at http://promge.embl.de/."
       }
     ],
-    "Genome Biology": [
-      {
-        "title": "The rise, evolution and future of whole genome projects in Asian populations",
-        "link": "https://link.springer.com/article/10.1186/s13059-026-04338-x",
-        "pub_date": "2026-11-14",
-        "authors": [],
-        "doi": "10.1186/s13059-026-04338-x",
-        "journal": "Genome Biology",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Asia contains over 60% of the global population and vast genetic diversity, yet its genomic resources remain underrepresented. Over the past decade or so, regional research has evolved from fragmented surveys into large-scale national precision medicine initiatives. Here, we examine how these sequencing efforts collectively form an emerging Asian genomic infrastructure. We discuss future directions to close critical gaps in Central Asia, minority populations, cross-project interoperability, and equitable access, highlighting the transition toward interoperable, clinical-grade genomic ecosystems supporting precision medicine across the continent."
-      },
-      {
-        "title": "AMP Challenge: towards a standardized, community-wide benchmark for AI-driven antimicrobial peptide design",
-        "link": "https://link.springer.com/article/10.1186/s13059-026-04316-3",
-        "pub_date": "2026-11-14",
-        "authors": [],
-        "doi": "10.1186/s13059-026-04316-3",
-        "journal": "Genome Biology",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": null
-      }
-    ],
-    "Communications Earth & Environment": [
-      {
-        "title": "Divergent biophysical controls on the complementary dimensions of global diurnal photosynthesis",
-        "link": "https://www.nature.com/articles/s43247-026-04214-3",
-        "pub_date": "2026-11-14",
-        "authors": [
-          "Xi Liu",
-          "Jingyu Lin",
-          "Yanan Zhou",
-          "Zikang Diao",
-          "Xing Li"
-        ],
-        "doi": "10.1038/s43247-026-04214-3",
-        "journal": "Communications Earth & Environment",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Earth & Environment, Published online: 14 November 2026; doi:10.1038/s43247-026-04214-3Global vegetation photosynthesis shows distinct diurnal asymmetry, magnitude, and midday depression governed by seasonally varying biophysical controls that Earth system models only partly capture, based on global hourly gross primary production datasets."
-      },
-      {
-        "title": "Competing attention and linked emotions coexist in Reddit climate and pandemic discussions",
-        "link": "https://www.nature.com/articles/s43247-026-04213-4",
-        "pub_date": "2026-11-14",
-        "authors": [
-          "Rong-Gang Cong",
-          "Chen Xing",
-          "Peng Wang",
-          "Yi-Ming Wei"
-        ],
-        "doi": "10.1038/s43247-026-04213-4",
-        "journal": "Communications Earth & Environment",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Earth & Environment, Published online: 14 November 2026; doi:10.1038/s43247-026-04213-4Climate discussions received less attention during peaks in pandemic mortality while emotional responses remained linked across topics, according to analyses of 26 million Reddit comments."
-      }
-    ],
-    "Microbiological Research": [
-      {
-        "title": "Root-inspired selective biofilm control: Design principles for programmable interfaces",
-        "link": "https://www.sciencedirect.com/science/article/pii/S0944501326003873?dgcid=rss_sd_all",
-        "pub_date": null,
-        "authors": [],
-        "doi": null,
-        "journal": "Microbiological Research",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Publication date: February 2027Source: Microbiological Research, Volume 315Author(s): Adnan Amin, Wajid Zaman, Aziz Ullah"
-      },
-      {
-        "title": "INE963: A repurposed antiparasitic combating methicillin-resistant Staphylococcus aureus and colistin-resistant Acinetobacter baumannii",
-        "link": "https://www.sciencedirect.com/science/article/pii/S0944501326003848?dgcid=rss_sd_all",
-        "pub_date": null,
-        "authors": [],
-        "doi": null,
-        "journal": "Microbiological Research",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Publication date: February 2027Source: Microbiological Research, Volume 315Author(s): Pengfei She, Yiqing Liu, Mengna Li, Lihua Lu, Yelan Hong, Muqi Liu, Yanping Sun, Yimin Li, Linying Zhou, Yong Wu"
-      },
-      {
-        "title": "Interaction between phosphate-solubilizing bacteria and biochar in soil microecological regulation.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43025160/",
-        "pub_date": null,
-        "authors": [
-          "Ma W",
-          "Chen Y",
-          "Zhang J",
-          "Zhou J",
-          "Zhao S",
-          "Qu J"
-        ],
-        "doi": "10.1016/j.micres.2026.128824",
-        "journal": "Microbiological Research",
-        "source": "pubmed",
-        "pmid": "43025160",
-        "translation": null,
-        "article_type": "Review",
-        "abstract": "The paradox of \"high phosphorus reserve but low availability\" in soils is a core challenge constraining global agricultural sustainability. Phosphate-solubilizing bacteria (PSB), as a green alternative to chemical phosphate fertilizers, have great application potential. However, their field application has long been limited by three major bottlenecks: poor colonization, low efficiency, and functional instability. This review synthesizes the phosphate solubilization mechanisms of PSB, the construction of synthetic microbial communities, and carrier-mediated microecological regulation strategies. This review highlights the mechanism of carrier-mediated microecological regulation, also identifies gaps in knowledge, and emphasizes the need for further research to elucidate the interfacial interaction mechanisms between PSB and biochar, as well as targeted regulation strategies for the rhizosphere microbial network. Based on this, the carrier-mediated microecological regulation strategy is expected to break through the bottleneck in the field application of PSB, facilitating its transition from the laboratory to the field, and providing important technical support for the efficient utilization of phosphorus resources and the green development of agriculture."
-      },
-      {
-        "title": "DksA orchestrates redox-sensitive virulence trade-off between P fimbriae and K1 capsule expression to promote Escherichia coli-induced sepsis.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43025163/",
-        "pub_date": null,
-        "authors": [
-          "Zhu D",
-          "Shi X",
-          "Fu S",
-          "Ma W",
-          "Huang A",
-          "Jiang M",
-          "Liang Y",
-          "Zhao Y",
-          "Yu S",
-          "Wang M",
-          "He H",
-          "Sun Y",
-          "Dai J",
-          "Zhuge X"
-        ],
-        "doi": "10.1016/j.micres.2026.128825",
-        "journal": "Microbiological Research",
-        "source": "pubmed",
-        "pmid": "43025163",
-        "translation": null,
-        "article_type": "Journal Article",
-        "abstract": "Extraintestinal pathogenic Escherichia coli (ExPEC) is a leading cause of life-threatening sepsis worldwide. A key unresolved question in ExPEC pathogenesis is how these strains initiate and drive severe, high-mortality sepsis. RNA polymerase (RNAP)-binding transcriptional regulator DksA is known to mediate bacterial stress responses. Here, we demonstrate that DksA acts as a critical regulator of ExPEC-induced sepsis. DksA functions as a redox-sensitive molecular switch that modulates virulence trade-off between P fimbriae-mediated adhesion and K1 capsule-dependent immune evasion via the novel sRNA PRs37 (originally designated sRNA037), directly repressing the major pilin subunit PapA. DksA binds RNAP to repress transcription of PRs37 and K1 capsule operons. Oxidative stress triggered by oxidants such as H₂O₂ induces cysteine oxidation of DksA, relieving its transcriptional repression and enhancing ExPEC immune evasion. This DksA redox-dependent regulation operates independently of molecular chaperones and the stringent response. This DksA-orchestrated virulence trade-off serves as a key determinant for the establishment and progression of E. coli sepsis. Our findings deepen the understanding of complex host-pathogen interactions and provide a theoretical foundation for developing novel anti-infective strategies."
-      },
-      {
-        "title": "Mechanistic insights into the selective ligninolysis of wheat straw by the grass-litter decomposer Agrocybe pediades: A multi-omics and chemical study.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43025161/",
-        "pub_date": null,
-        "authors": [
-          "Sánchez-Ruiz MI",
-          "Babiker R",
-          "Peña A",
-          "Chaduli D",
-          "Lipzen A",
-          "Rencoret J",
-          "Marques G",
-          "Gutiérrez A",
-          "Ng V",
-          "Grigoriev IV",
-          "Rosso MN",
-          "Martínez AT",
-          "Ruiz-Dueñas FJ"
-        ],
-        "doi": "10.1016/j.micres.2026.128818",
-        "journal": "Microbiological Research",
-        "source": "pubmed",
-        "pmid": "43025161",
-        "translation": null,
-        "article_type": "Journal Article",
-        "abstract": "Agrocybe pediades, a saprotrophic grass-litter-decomposing fungus of the order Agaricales, was studied for its potential to degrade all major components of plant cell walls (PCWs) as inferred from the enzymes encoded in its genome. When grown on wheat straw, this fungus preferentially degraded lignin and hemicelluloses while largely preserving cellulose. To uncover the molecular basis of this selective ligninolysis, we combined genomic, transcriptomic, exoproteomic and metabolomic analyses. Early stages of lignocellulose degradation were characterized by strong mobilization of H2O2-producing enzymes together with ligninolytic class-II peroxidases (PODs). Among ligninolytic PODs, manganese peroxidases were the most abundant. Their ligninolytic activity was related to the potential oxidation of phenolic lignin via Mn³ ⁺ chelates and of non-phenolic lignin through unsaturated lipid peroxidation. Notably, a highly transcribed high-redox-potential lignin peroxidase was also secreted during wheat straw delignification. This oxidative stage was accompanied by sequential transcription and secretion of hemicellulose-active enzymes, suggesting a stepwise xylan degradation. Enzymes targeting other PCW polysaccharides increased during growth. Although most lytic polysaccharide monooxygenases were transcribed, they were not detected in the exoproteome, suggesting that their contribution to cellulose degradation may have been limited. This, together with possible modulation of Fenton chemistry, may have contributed to the limited cellulose degradation observed. Additionally, insights were gained into the intracellular metabolism of sugars and aromatics released during the process. This multi-omics approach, supported by 2D-NMR and chemical analyses, provides valuable insights into selective delignification by A. pediades, contributing to our understanding of selective ligninolysis, an underexplored process with potential for plant biomass valorization."
-      },
-      {
-        "title": "Natural polysaccharides targeting gut microbiota in renal fibrosis: Novel molecular mechanisms and therapeutic strategies.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43025159/",
-        "pub_date": null,
-        "authors": [
-          "Yu QQ",
-          "Li X",
-          "Fang HB",
-          "Zhang YL",
-          "Yang J",
-          "Miao H",
-          "Liu LM",
-          "Zhao YY"
-        ],
-        "doi": "10.1016/j.micres.2026.128821",
-        "journal": "Microbiological Research",
-        "source": "pubmed",
-        "pmid": "43025159",
-        "translation": null,
-        "article_type": "Review",
-        "abstract": "Kidney disease, including acute kidney injury (AKI) and chronic kidney disease (CKD), represent a major global health burden and are associated with substantial morbidity and mortality. AKI is an overwhelming complication of acute disease that leads to the CKD development and ultimately progresses to end-stage renal disease. AKI and CKD are inter-related clinical and pathophysiological disorders. Current treatments, including dialysis and transplantation, are costly and not curative. Natural polysaccharides, widely distributed in medicinal plants and fungi, are important active components with broad healthcare applications. As a natural modulator of gut microbiota (GM), natural polysaccharides play an important role in regulating intestinal inflammation and gut microbial dysbiosis. This review summarizes the pathogenesis and underlying molecular mechanisms of renal fibrosis associated with GM dysbiosis, providing therapeutic strategies and targets for polysaccharide remodeling of the GM to improve kidney disease. We further systematically present the beneficial effects of natural polysaccharides on kidney disease through various molecular mechanisms, such as Toll-like receptor 4, G-protein-coupled receptors, NOD-, LRR- and pyrin domain-containing protein 3 inflammasome, glucagon-like peptide-1 receptor, IƙB/NF-ƙB and Keap1/Nrf2 signaling pathways via regulating gut microbial-derived metabolites, such as lipopolysaccharide, short-chain fatty acids, and uremic toxins. These studies expand the understanding of the therapeutic effects and underlying molecular mechanism of natural polysaccharides on kidney disease and expound a clear pathophysiological rationale for the treatment of kidney disease. This review provides targeted therapeutic strategies for kidney disease prevention and management by modulating GM, highlighting the potential of natural polysaccharides as prebiotics in clinical practice."
-      }
-    ],
     "Water Research": [
       {
         "title": "Heteroatom-modified sulfidated zero-valent iron: mechanistic insights and perspectives on data-mechanism-driven materials design.",
@@ -1043,243 +1537,57 @@
         "abstract": "The long-term response and removal mechanisms of microalgal-bacterial granular sludge (MBGS) to persistent pharmaceuticals remain poorly understood. MBGS was exposed to carbamazepine (CBZ) at four concentrations (10 μg L-1, 100 μg L-1, 1 mg L-1, 10 mg L-1) for 35 days. Ammonium and phosphate removal were maintained or enhanced, whereas chemical oxygen demand removal was markedly inhibited at 10 mg L-1. Sludge properties changed non-monotonically without a dose-dependent pattern. CBZ removal was dose-dependent and, in batch tests, adsorption-dominated, with an increasing contribution of biodegradation over time, together with a decrease in the protein fraction and the protein-to-polysaccharide ratio of extracellular polymeric substances. Fifteen transformation products were tentatively identified, formed through epoxidation, hydroxylation, oxidation, ring opening, and rearrangement. Their predicted toxicity was endpoint-dependent, with acridine- and acridone-type products more toxic than CBZ, indicating toxicity redistribution rather than detoxification. The filamentous cyanobacterium Microcoleus increased after operation, particularly at 10 μg L-1, and the heterotrophic genera Sphingomonas, Thauera, and Aquimonas increased in CBZ-exposed reactors, while genes involved in nitrogen metabolism, the tricarboxylic acid cycle, and energy conversion shifted in composition. Antibiotic resistance genes, mobile genetic elements, and virulence factor genes also shifted in composition, without consistent dose-dependent enrichment. Overall, CBZ removal decreased with increasing loading, whereas COD removal was markedly affected only at 10 mg L-1. Transformation did not necessarily reduce toxicity. These findings show that treatment performance and transformation-product toxicity should be assessed together when applying MBGS to pharmaceutical-contaminated wastewater."
       }
     ],
-    "Communications Biology": [
+    "Journal of Evolutionary Biology": [
       {
-        "title": "Low-frequency phase in early visual cortex gates prefrontal influence on perception",
-        "link": "https://www.nature.com/articles/s42003-026-11359-6",
+        "title": "Adult predation shapes brain evolution in guppies (Poecilia reticulata).",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43033002/",
         "pub_date": "2026-11-14",
         "authors": [
-          "Yanni Zhang",
-          "Xiangshu Hu",
-          "Qinghua Tan",
-          "Kaihui Li",
-          "Biao Han",
-          "Lu Shen"
+          "Yang M",
+          "Vega-Trejo R",
+          "De Waele H",
+          "Kotrschal A"
         ],
-        "doi": "10.1038/s42003-026-11359-6",
-        "journal": "Communications Biology",
-        "source": "rss",
-        "pmid": null,
+        "doi": "10.1093/jeb/voag130",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "43033002",
         "translation": null,
-        "article_type": null,
-        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11359-6Low-frequency phase in early visual cortex gates prefrontal influence on perception"
+        "article_type": "Journal Article",
+        "abstract": "Predation is a powerful evolutionary force shaping many traits of prey species. As the brain is the neural substrate of all behaviours, including essential anti-predator actions, its morphology is expected to be directly shaped by predation. However, while correlative evidence supports this relationship, causal evidence of predation driving brain morphology is currently lacking. Here, we investigated how predation pressure changes brain morphology in guppies (Poecilia reticulata) from replicated artificial selection lines for adult predation survival. We found that after three generations of selection, predation-selected females likely evolved relatively larger brains compared to control fish. In males, while brain size was not affected by predation selection, predation lines showed relatively larger olfactory bulbs. These results demonstrate that predation can directly shape the evolution of brain morphology, remarkably fast and in a sex-specific manner. Comparing our findings to those from natural populations with divergent predation pressures allows us to disentangle the direct predation effects from the indirect ecological effects of high predation pressure that drive brain evolution."
       },
       {
-        "title": "Circulating HSPCs enhance their self-renewal by augmenting the endocytosis and lysosomal acidity via MIF-(CXCR4_CD74)-ATP6V1A axis",
-        "link": "https://www.nature.com/articles/s42003-026-11120-z",
+        "title": "Linking Ecological Factors to Bare Part Coloration in Estrildid Finches.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43032999/",
         "pub_date": "2026-11-14",
         "authors": [
-          "Yulin Xu",
-          "Jianghuan Lu",
-          "Meng Zhang",
-          "Yuanyin Teng",
-          "Xinyan Wang",
-          "Xiaoyu Lai",
-          "Dawei Huo",
-          "Ruxiu Tie",
-          "Xiangjun Zeng",
-          "Yijin Chen",
-          "Wei Shan",
-          "Ce Shi",
-          "Rui Wen",
-          "Penglei Jiang",
-          "Honghu Li",
-          "Xiaohong Yu",
-          "Shanshan Pei",
-          "Pengxu Qian",
-          "He Huang"
+          "Baquera VM",
+          "Soma M"
         ],
-        "doi": "10.1038/s42003-026-11120-z",
-        "journal": "Communications Biology",
-        "source": "rss",
-        "pmid": null,
+        "doi": "10.1093/jeb/voag131",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "43032999",
         "translation": null,
-        "article_type": null,
-        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11120-zCirculating HSPCs enhance their self-renewal by augmenting the endocytosis and lysosomal acidity via MIF-(CXCR4_CD74)-ATP6V1A axis"
+        "article_type": "Journal Article",
+        "abstract": "Ecogeographical gradients in bird coloration have been observed across taxa, which have led to several rules linking coloration and habitat structure. For instance, the simple version of Gloger's rule states that animals inhabiting warmer and more humid environments will be darker due to increased melanin deposition. It has also been suggested that a latitudinal gradient in coloration exists, with species closer to the equator having greater color diversity due to increased sexual selection pressures. Most research on bird coloration has focused solely on plumage, leaving bare parts heavily understudied despite their importance in mate attraction and survival. Here, we attempt to disentangle how bare part coloration relates to these observed global distributions. Using the Estrildidae family, we test whether beak and leg coloration conform to Gloger's rule or exhibit latitudinal patterns consistent with sexual signaling. Utilizing species occurrence data obtained from international biodiversity databases in addition to climatic data, we conducted a phylogenetic regression analysis to evaluate how environmental factors correlate with bare part coloration for both native and non-native occurrences. Phylogenetic models revealed that native occurrences' beak coloration aligned closely with the predictions of Gloger's rule, with darker coloration being positively correlated with humidity. In non-native occurrences, we observed a pattern directly contradicting Gloger's rule, with darker coloration negatively correlating with precipitation. Our findings are some of the first to apply these ecogeographical rules to bare part coloration while finding that bare part coloration is more complex than previously thought."
       },
       {
-        "title": "Volitional stopping is preceded by a transient motor cortex EEG beta oscillation",
-        "link": "https://www.nature.com/articles/s42003-026-11331-4",
+        "title": "Co-occurring Amino Acid Substitutions Reveal Shared Evolutionary Links between Mammary Gland Location and Litter Size in Mammals.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43032996/",
         "pub_date": "2026-11-14",
         "authors": [
-          "Joana F. Doutel Figueira",
-          "Reetta A. Ojala",
-          "Dmitrii Vasilev",
-          "Alejandro De Miguel",
-          "Lucas Jeay-Bizot",
-          "Ryo Iwai",
-          "Isabel Raposo",
-          "Negar Safaei",
-          "Lilian de Sardenberg Schmid",
-          "Uri Maoz",
-          "Masataka Watanabe",
-          "Nelson K. Totah"
+          "Behura A",
+          "Manoharan R",
+          "Behura SK"
         ],
-        "doi": "10.1038/s42003-026-11331-4",
-        "journal": "Communications Biology",
-        "source": "rss",
-        "pmid": null,
+        "doi": "10.1093/jeb/voag128",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "43032996",
         "translation": null,
-        "article_type": null,
-        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11331-4Volitional stopping is preceded by a transient motor cortex EEG beta oscillation"
-      },
-      {
-        "title": "Dual HDAC6 and HDAC8 inhibition enhances STING mediated innate immune responses",
-        "link": "https://www.nature.com/articles/s42003-026-11233-5",
-        "pub_date": "2026-11-14",
-        "authors": [
-          "Yeseul Kim",
-          "Junhyeong Yim",
-          "Yaeji Jang",
-          "Sinhyeong Kim",
-          "Minseok Lee",
-          "Michael E. Jung",
-          "Jongmin Park",
-          "Jonghoon Kim",
-          "Sanghee Lee"
-        ],
-        "doi": "10.1038/s42003-026-11233-5",
-        "journal": "Communications Biology",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11233-5Dual HDAC6 and HDAC8 inhibition enhances STING mediated innate immune responses"
-      },
-      {
-        "title": "ADAMTS7 impairs endothelial angiogenic function via suppressing POSTN-mediated VEGFR2 activation in pre-eclampsia",
-        "link": "https://www.nature.com/articles/s42003-026-11266-w",
-        "pub_date": "2026-11-14",
-        "authors": [
-          "Lu Zhang",
-          "Hengsen Xu",
-          "Yinglei Xu",
-          "Qian Tang",
-          "Lin Wang",
-          "Chao Wang"
-        ],
-        "doi": "10.1038/s42003-026-11266-w",
-        "journal": "Communications Biology",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11266-wAngiogenic imbalance drives endothelial dysfunction in pre-eclampsia (PE). Here, the authors show the metalloprotease ADAMTS7 is elevated in the circulation of PE patients and impairs endothelial angiogenic function, suggesting the ADAMTS7/POSTN/VEGFR2 axis as a therapeutic target for PE."
-      },
-      {
-        "title": "Artificial skyglow at night disrupts chronobiology and physiology in Crassostrea gigas",
-        "link": "https://www.nature.com/articles/s42003-026-11351-0",
-        "pub_date": "2026-11-14",
-        "authors": [
-          "Audrey Botté",
-          "Laura Payton",
-          "Yannick Geerebaert",
-          "Damien Tran"
-        ],
-        "doi": "10.1038/s42003-026-11351-0",
-        "journal": "Communications Biology",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11351-0Artificial skyglow at night disrupts chronobiology and physiology in Crassostrea gigas"
-      },
-      {
-        "title": "In planta-specific transcriptional regulatory circuit regulates expression of MoHTR1, a nuclear effector gene of Magnaporthe oryzae",
-        "link": "https://www.nature.com/articles/s42003-026-11354-x",
-        "pub_date": "2026-11-14",
-        "authors": [
-          "Yoon-Ju Yoon",
-          "Hyunjun Lee",
-          "Seongbeom Kim",
-          "Hyunjung Chung",
-          "Chang Hyun Khang",
-          "You-Jin Lim",
-          "Yong-Hwan Lee"
-        ],
-        "doi": "10.1038/s42003-026-11354-x",
-        "journal": "Communications Biology",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11354-xIn planta-specific transcriptional regulatory circuit regulates expression of MoHTR1, a nuclear effector gene of Magnaporthe oryzae"
-      },
-      {
-        "title": "Amyloid pathology compresses dynamic range and degrades spatial coding in an Alzheimer’s mouse model",
-        "link": "https://www.nature.com/articles/s42003-026-11277-7",
-        "pub_date": "2026-11-14",
-        "authors": [
-          "Mary Ann Go",
-          "Kathrine E. Clarke",
-          "Yimei Li",
-          "Seigfred V. Prado",
-          "Beatriz R. F. Teixeira",
-          "Mingyang Gao",
-          "Jess J. Yu",
-          "Simon R. Schultz"
-        ],
-        "doi": "10.1038/s42003-026-11277-7",
-        "journal": "Communications Biology",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Biology, Published online: 14 November 2026; doi:10.1038/s42003-026-11277-7Amyloid pathology compresses dynamic range and degrades spatial coding in an Alzheimer’s mouse model"
-      }
-    ],
-    "Fundamental Research": [
-      {
-        "title": "Leaf-deposited nanoplastics reshape plant–herbivore interactions via species-specific metabolic defense elicitation and trans-trophic feedback",
-        "link": "https://www.sciencedirect.com/science/article/pii/S2667325826009489?dgcid=rss_sd_all",
-        "pub_date": null,
-        "authors": [],
-        "doi": null,
-        "journal": "Fundamental Research",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Publication date: Available online 13 November 2026Source: Fundamental ResearchAuthor(s): Xiaofeng Jiang, Hanzhong Jia, Xuetao Guo, Youcai Xiong, Erkai He"
-      },
-      {
-        "title": "Microenvironment-Activated Imaging and Labeling Chemistries to Light up Biological Dark Matter",
-        "link": "https://www.sciencedirect.com/science/article/pii/S2667325826008393?dgcid=rss_sd_all",
-        "pub_date": null,
-        "authors": [],
-        "doi": null,
-        "journal": "Fundamental Research",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Publication date: Available online 13 November 2026Source: Fundamental ResearchAuthor(s): Rui Sun, Shiqi Mou, Yu Liu, Xin Zhang"
-      },
-      {
-        "title": "A sleep-active brainstem circuit selectively shapes stress-induced anxiety-like behavior",
-        "link": "https://www.sciencedirect.com/science/article/pii/S2667325826008368?dgcid=rss_sd_all",
-        "pub_date": null,
-        "authors": [],
-        "doi": null,
-        "journal": "Fundamental Research",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Publication date: Available online 12 November 2026Source: Fundamental ResearchAuthor(s): Tian-Xin Zhao, Shi-Yao Wang, Bei Tan, Yu Du"
-      },
-      {
-        "title": "Molecular Ferroelectric Acoustic Sensors Unlock Geological Hazards Infrasound",
-        "link": "https://www.sciencedirect.com/science/article/pii/S2667325826009465?dgcid=rss_sd_all",
-        "pub_date": null,
-        "authors": [],
-        "doi": null,
-        "journal": "Fundamental Research",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Publication date: Available online 12 November 2026Source: Fundamental ResearchAuthor(s): Ruonan Wang, Jiating Li, Lutao Li, Zhicheng Zhou, Chen Wang, Chao-Ran Huang, Yaqi Ye, Ren-Gen Xiong, Guifu Zou"
+        "article_type": "Journal Article",
+        "abstract": "Mammary gland patterning varies widely among mammals, ranging from thoracic-restricted glands in many singleton-bearing species to glands distributed along both the thoracic and inguinal regions in many litter-bearing species. Although this association has long been recognized, its molecular evolutionary basis remains unknown. Here, we investigated whether mammary gland patterning and litter size have evolved through shared protein sequence changes across 23 mammalian species. Using a comparative genomics pipeline, we identified fixed amino acid substitutions that distinguished species with different mammary gland patterning and litter size phenotypes. Mammary gland patterning was associated with substantially more fixed substitutions than litter size; however, proteins associated with litter size were significantly enriched among those associated with mammary gland patterning. These shared proteins contained distinct, rather than identical, fixed amino acid substitutions for the two traits, indicating repeated evolutionary modification of common molecular targets. Phylogenetic analyses using BayesTraits further identified multiple shared proteins whose evolutionary histories were significantly associated with both mammary gland patterning and litter size. Functional enrichment analyses showed that proteins harboring fixed substitutions were enriched for phosphatidylinositol metabolism, lipid transport, membrane trafficking, cytoskeletal organization, extracellular matrix remodeling, and epithelial morphogenesis, processes central to mammary gland development. Comparative analyses of domestic pig breeds differing in mammary gland number and litter size identified additional candidate proteins associated with intraspecific variation in these reproductive traits. Together, these findings provide molecular evidence that mammary gland patterning and litter-bearing strategy have undergone coordinated evolution through repeated modification of shared developmental and cellular pathways."
       }
     ]
   }
