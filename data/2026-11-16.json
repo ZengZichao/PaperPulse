@@ -1,0 +1,787 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T12:29:46.918581+00:00",
+  "total_journals": 14,
+  "total_articles": 36,
+  "journals": {
+    "Nature Biotechnology": [
+      {
+        "title": "A CD7-targeted AAV variant enables efficient T and NK cell engineering in vivo",
+        "link": "https://www.nature.com/articles/s41587-026-03344-5",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Lingjuan Hong",
+          "Gennong Chen",
+          "Yongjun Liu",
+          "Yuanfang Cao",
+          "Xueting Li",
+          "Weijie Li",
+          "Yumu Pan",
+          "Huahe Wang",
+          "Gaomeng Ru",
+          "Siyu Yang",
+          "Ming Cheng",
+          "Tongtong Lv",
+          "Yunfan Zhu",
+          "Shan Huang",
+          "Xiaoxiao Nian",
+          "Hongling Ou",
+          "Chengkun Wang",
+          "Sean X. Gu",
+          "Monkol Lek",
+          "Lupeng Ye"
+        ],
+        "doi": "10.1038/s41587-026-03344-5",
+        "journal": "Nature Biotechnology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Biotechnology, Published online: 16 November 2026; doi:10.1038/s41587-026-03344-5Adeno-associated virus vectors targeted to CD7 enable T and NK cell engineering in vivo."
+      }
+    ],
+    "npj Biofilms & Microbiomes": [
+      {
+        "title": "Ebselen impairs biofilm-associated infections by targeting ArgR and disrupting arginine homeostasis in Gram-positive pathogens",
+        "link": "https://www.nature.com/articles/s41522-026-01176-4",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Yueqing Wang",
+          "Juntong Li",
+          "Kaihong Deng",
+          "Xiaoli Tu",
+          "Lu Wang",
+          "Xun Sun",
+          "Yuhuang Wu",
+          "Liuyushan Zou",
+          "Zhuangwei Zhang",
+          "Na Peng",
+          "Zhongbao Wu",
+          "Chuanjiang Dong",
+          "Jun Wang",
+          "Helen Wang",
+          "Lili Zou"
+        ],
+        "doi": "10.1038/s41522-026-01176-4",
+        "journal": "npj Biofilms & Microbiomes",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "npj Biofilms and Microbiomes, Published online: 16 November 2026; doi:10.1038/s41522-026-01176-4Ebselen impairs biofilm-associated infections by targeting ArgR and disrupting arginine homeostasis in Gram-positive pathogens"
+      }
+    ],
+    "Briefings in Bioinformatics": [
+      {
+        "title": "Transformer models in genomics: from sequence analysis to population genetics and biodiversity",
+        "link": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag628/9063884?rss=1",
+        "pub_date": "2026-11-16",
+        "authors": [],
+        "doi": "10.1093/bib/bbag628",
+        "journal": "Briefings in Bioinformatics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "AbstractModern genomics and artificial intelligence converge at a breakthrough point with the emergence of transformer-based large language models for genomic analysis. This review examines how transformer-based models have advanced genomic sequence analysis through novel tokenization strategies, self-attention mechanisms, and pre-training/fine-tuning paradigms. Unlike prior broad surveys, we focus on three sub-areas of genomics where transformer architectures have had a substantive impact: sequence-level analysis, population-level genetics, including genetic imputation and genome-wide association analysis, and biodiversity research, while addressing challenges like genome-scale computational demands, training biases, and interpreting attention in biological contexts. Looking forward, we outline how emerging foundation models, multi-modal integration, and biologically informed attention mechanisms could transform our understanding of genome function, providing a roadmap for leveraging genome language models to decode genome complexity and advance functional and population-level genomics."
+      }
+    ],
+    "Scientific Data": [
+      {
+        "title": "Deployment of 160 Cowrie SSH honeypot instances across four distinct configurations",
+        "link": "https://www.nature.com/articles/s41597-026-08668-0",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Matúš Mikuláš",
+          "Patrik Krajčík",
+          "Pavol Helebrandt",
+          "Ivan Kotuliak"
+        ],
+        "doi": "10.1038/s41597-026-08668-0",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 16 November 2026; doi:10.1038/s41597-026-08668-0Deployment of 160 Cowrie SSH honeypot instances across four distinct configurations"
+      },
+      {
+        "title": "An IMU Dataset for Human Activity Recognition to Support Independent Living in Smart Homes (IMU-HAR-IL)",
+        "link": "https://www.nature.com/articles/s41597-026-08666-2",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Moid Sandhu",
+          "Wei Lu",
+          "Brano Kusy",
+          "David Silvera-Tawil"
+        ],
+        "doi": "10.1038/s41597-026-08666-2",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 16 November 2026; doi:10.1038/s41597-026-08666-2An IMU Dataset for Human Activity Recognition to Support Independent Living in Smart Homes (IMU-HAR-IL)"
+      },
+      {
+        "title": "A multi-omic, spatial, and whole-slide image dataset of lung neuroendocrine tumours",
+        "link": "https://www.nature.com/articles/s41597-026-08173-4",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Lipika Kalson",
+          "Alexandra Sexton-Oates",
+          "Emilie Mathian",
+          "Catherine Voegele",
+          "Alex Di Genova",
+          "Zhaozhi Li",
+          "Jaehee Kim",
+          "Leigh M. Marsh",
+          "Luka Brcic",
+          "Lynnette Fernandez-Cuesta",
+          "Matthieu Foll",
+          "Nicolas Alcala"
+        ],
+        "doi": "10.1038/s41597-026-08173-4",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 16 November 2026; doi:10.1038/s41597-026-08173-4A multi-omic, spatial, and whole-slide image dataset of lung neuroendocrine tumours"
+      }
+    ],
+    "Water Research": [
+      {
+        "title": "The performance of one-stage PNA process coupled with nitrate removal-targeted electrochemical unit.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43035046/",
+        "pub_date": null,
+        "authors": [
+          "Guo Y",
+          "Li Q",
+          "Zhao H",
+          "Liu G",
+          "Pan W",
+          "Zheng T",
+          "Liu X",
+          "Liu J",
+          "Wang Q",
+          "Ma H"
+        ],
+        "doi": "10.1016/j.watres.2026.127320",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43035046",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "During the operation of the one-stage partial nitritation/anammox (PNA) process, nitrate is the inevitable product, which not only limits the total nitrogen removal efficiency (NRE), but also brings the burden of post-denitrification treatment. Electrochemical nitrate reduction is a potentially effective route for nitrate removal with merits such as no second pollution and sludge production. Therefore, in this study, for the first time, a one-stage PNA-electrochemical (EC) unit system, with Cu(I)/Cu(II) oxide nanowires as the cathode for nitrate removal and IrO₂-Ta₂O₅/Ti mesh as the anode, was developed. The results showed that the EC unit worked well with PNA process under proper condition, finally NRE of the whole system reached 84.1 ± 2.0%, and the effluent nitrate concentration was markedly lower than the theoretical value with the maximum nitrate reduction efficiency reached 45.8%. Moreover, the electroactive denitrifiers (Denitratisoma and Brevundimonas) and the hydrogenotrophic denitrifier (Hydrogenophaga) were detected in the system. Both theoretical analysis and separate batch experiments indicated that nitrate was mainly converted into nitrite attributed to the electrochemical nitrate reduction and the hydrogenotrophic denitrification. Notably the external aeration demand decreased by approximately 41%, which was likely attributed to the oxygen released from anodic oxygen evolution reaction. These findings together indicate a synergistic interaction between the biological process and electrochemical process. Overall, coupling one-stage PNA with EC unit is promising in enabling the effective removal of nitrate produced during the PNA process and potentially paving the way to overcome the NRE limit of PNA process. This novel process also gives a reference for addressing the intrinsic limitation of other anammox-based processes."
+      }
+    ],
+    "Nature Methods": [
+      {
+        "title": "Tracing the genetic roots of cellular identity in tumors",
+        "link": "https://www.nature.com/articles/s41592-026-03291-8",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Nora M. Lawson",
+          "Thomas Mitchell",
+          "Kadir C. Akdemir"
+        ],
+        "doi": "10.1038/s41592-026-03291-8",
+        "journal": "Nature Methods",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Methods, Published online: 16 November 2026; doi:10.1038/s41592-026-03291-8A new Bayesian framework, Echidna, integrates bulk whole-genome sequencing with single-cell RNA sequencing to connect clonal copy-number states with transcriptional programs, providing a tractable way to ask how much of a tumor cell’s identity is encoded by its genome."
+      },
+      {
+        "title": "Echidna: a Bayesian framework for integrative inference of copy number alterations impacting phenotypic plasticity",
+        "link": "https://www.nature.com/articles/s41592-026-03279-4",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Joy Linyue Fan",
+          "Mingxuan Zhang",
+          "William O’Brien",
+          "Joshua D. Myers",
+          "Sharanya Chatterjee",
+          "Kevin Hoffer-Hawlik",
+          "Nicolas Beltran-Velez",
+          "Alexander Preau",
+          "Isha Arora",
+          "Johannes C. Melms",
+          "Jana Biermann",
+          "Edridge D’Souza",
+          "Somnath Tagore",
+          "Timothy Olsen",
+          "Siran Li",
+          "Peter A. Sims",
+          "Benjamin Izar",
+          "Elham Azizi"
+        ],
+        "doi": "10.1038/s41592-026-03279-4",
+        "journal": "Nature Methods",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Methods, Published online: 16 November 2026; doi:10.1038/s41592-026-03279-4Echidna integrates genomic and transcriptomics data to reveal how copy number alterations shape tumor evolution and therapy resistance."
+      },
+      {
+        "title": "Joint single-cell capture of Cas9 edits and transcriptomes reveals on- and off-target effects on gene expression",
+        "link": "https://www.nature.com/articles/s41592-026-03319-z",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Michael H. Lorenzini",
+          "Brad Balderson",
+          "Shanna N. Lavalle",
+          "Karthyayani Sajeev",
+          "Aaron J. Ho",
+          "Madelyn Light",
+          "Olalekan H. Usman",
+          "Gavin Kurgan",
+          "Graham McVicker"
+        ],
+        "doi": "10.1038/s41592-026-03319-z",
+        "journal": "Nature Methods",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Methods, Published online: 16 November 2026; doi:10.1038/s41592-026-03319-zSuperb-seq integrates CRISPR–Cas9, T7 in situ transcription and scRNA-seq to capture genome edits and gene expression in single cells."
+      }
+    ],
+    "Genome Biology": [
+      {
+        "title": "Human astrocyte aging couples chromatin closure to focal G-quadruplex accumulation",
+        "link": "https://link.springer.com/article/10.1186/s13059-026-04330-5",
+        "pub_date": "2026-11-16",
+        "authors": [],
+        "doi": "10.1186/s13059-026-04330-5",
+        "journal": "Genome Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Background Aging disrupts genome organization and transcriptional fidelity, but the role of non-canonical DNA structures remains unclear. G-quadruplexes (G4s) are stable, guanine-rich DNA and RNA structures that regulate gene expression and genome integrity. However, their contribution to aging remains unknown. Here, we examine age-associated changes in G4 abundance, chromatin accessibility, and G4-helicase DDX5 expression in human astrocytes established from the brain resections of donors spanning early to late adulthood and expanded in culture before analysis. Results Imaging with N-TASQ and BG4 shows increased G4 signal in astrocytes from older donors, together with reduced nuclear DDX5 expression. ATAC-seq profiling reveals an age-associated decline in chromatin accessibilityat intergenic, intronic, and promoter-proximal regions. Genome-wide mapping of G4s by G4 CUT&Tag identifies focal enrichment at specific loci in older astrocytes, including sites within both accessible and less accessible chromatin. We overexpress DDX5 in young astrocytes and observe transcriptional changes in pathways associated with chromatin organization, genome maintenance, stress signaling, and synaptic function. In contrast, acute DDX5 depletion causes focal G4 accumulation without reproducing broader chromatin changes observed with aging. Conclusions This study defines an age-associated axis in human astrocytes that links reduced DDX5, focal G4 abundance, and progressive loss of chromatin accessibility. Our findings identify G4 regulation as a candidate mechanism shaping genome control during astrocyte aging."
+      }
+    ],
+    "eLife": [
+      {
+        "title": "Endocardial TIE1 synergizes with TIE2 to regulate the atrial internal muscular network assembly",
+        "link": "https://elifesciences.org/articles/111156",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Beibei Xu",
+          "Junda Li",
+          "Kai Ding",
+          "Taotao Li",
+          "Xinhao Yu",
+          "Xin Shen",
+          "Xiwen Jia",
+          "Xudong Cao",
+          "Yahui Liu",
+          "Yulong He",
+          "Zhen Zhang"
+        ],
+        "doi": null,
+        "journal": "eLife",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Developmental Biology",
+        "abstract": "Atrial cardiomyopathy is characterized by altered atrial structures, yet its underlying genetic basis remains inadequately explored. TIE1 mutations are reported in lymphedema patients, but whether they exhibit cardiac defects alongside lymphatic abnormalities remains unknown. Here, single-cell RNA sequencing showed high Tie1 and Tek expression in atrial endocardial cells. TIE1 deficiency severely disrupted atrial morphogenesis, with only minor ventricular defects. Bulk RNA-seq showed reduced transcripts for endothelial development and cardiac trabeculation in Tie1 mutants. Separate RNA-seq analysis of the atria and ventricles further confirmed these findings, revealing a more pronounced downregulation of trabecular genes, including Tek, in the atria upon Tie1 loss. Endothelial deletion of Tek impaired trabeculation, particularly in atria. Consistently, Tie1 loss combined with a single null Tek allele disrupted both atrial and ventricular trabeculation. Strikingly, atrial morphogenesis defects appeared within 48 hr of induced endothelial Tie1 loss coupled with Tek heterozygous deletion, implying a critical endocardial role in organizing the atrial muscular network. The synergy of TIE1 and TIE2 in remodeling atrial trabeculae was confirmed postnatally, whereas TIE1 insufficiency alone had no obvious effect. Together, TIE1 is differentially required for atrial versus ventricular development, acting synergistically with TIE2 to regulate endocardial cell-coordinated assembly of atrial internal muscular network."
+      }
+    ],
+    "Nature Communications": [
+      {
+        "title": "Brønsted/Lewis acid-catalyzed divergent cascade cyclization of alkoxyallene for the total synthesis of eburnane and aspidofractinine alkaloids",
+        "link": "https://www.nature.com/articles/s41467-026-79505-6",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Fengchi Hu",
+          "Qiude Huang",
+          "Su Su Htwe Chaw",
+          "Chengfeng Xia"
+        ],
+        "doi": "10.1038/s41467-026-79505-6",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 16 November 2026; doi:10.1038/s41467-026-79505-6Eburnane and aspidofractinine alkaloids are biogenetically related yet structurally distinct polycyclic monoterpenoids, whose syntheses have traditionally proceeded separately. Here, the authors report a divergent cascade from a common alkoxyallene precursor, enabling access to both scaffolds through acid controlled tandem pathways and total syntheses of representative alkaloids."
+      },
+      {
+        "title": "Knowledge-guided machine learning deciphers spatiotemporal dynamics in chemical reactor systems",
+        "link": "https://www.nature.com/articles/s41467-026-79078-4",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Shiyi Tang",
+          "Zhaoyang Duan",
+          "Zhou Tian",
+          "Wenli Du",
+          "Feng Qian"
+        ],
+        "doi": "10.1038/s41467-026-79078-4",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 16 November 2026; doi:10.1038/s41467-026-79078-4A physics-informed neural network embeds coking and heat transfer knowledge via an output integration layer and region-weighted loss to predict reactor spatiotemporal fields; it matches conventional simulation results, improves peak wall temperature accuracy, and runs about five orders of magnitude faster than conventional simulations."
+      },
+      {
+        "title": "Improving molecular property prediction with score-based diffusion models",
+        "link": "https://www.nature.com/articles/s41467-026-79240-y",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Julien Horwood",
+          "Dino Oglic",
+          "José Miguel Hernández-Lobato"
+        ],
+        "doi": "10.1038/s41467-026-79240-y",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 16 November 2026; doi:10.1038/s41467-026-79240-yThis work introduces a diffusion-based approach for small molecule prediction across a range of structure-activity and ADME tasks. It demonstrates strong predictive calibration and support for ensemble-driven uncertainty ranking."
+      },
+      {
+        "title": "Structurally guided wavefront neural encoder for broad-range generalizable 3D holography",
+        "link": "https://www.nature.com/articles/s41467-026-79408-6",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Yanan Zhang",
+          "Xingpeng Yan",
+          "Jiaqi Li",
+          "Zijian Shi",
+          "Yang Yu",
+          "Yang Zhang",
+          "Tao Jing"
+        ],
+        "doi": "10.1038/s41467-026-79408-6",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 16 November 2026; doi:10.1038/s41467-026-79408-6A single AI hologram generator works across distances and color without retraining, by learning how light scales — a step towards versatile, adaptive 3D holographic displays."
+      },
+      {
+        "title": "Encapsulating an iron complex within a heme and anthraquinone codecorated capsule for multiphoton C(sp3)−H bond oxygenation",
+        "link": "https://www.nature.com/articles/s41467-026-79524-3",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Lei Huang",
+          "Junkai Cai",
+          "Qiaojia Guo",
+          "Baotong Ding",
+          "Mingxu Liu",
+          "Chunming Ma",
+          "Chunying Duan"
+        ],
+        "doi": "10.1038/s41467-026-79524-3",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 16 November 2026; doi:10.1038/s41467-026-79524-3The allosteric effect in proteins controls biological function omnipotently, but simulating both the regulatory functions and catalytic processes of analogues is challenging. Here, the authors report the allosteric catalysis of a non-heme Fe(III)-complex encapsulated in the cavity of an anthraquinone and heme co-decorated coordination capsule."
+      },
+      {
+        "title": "A precommissural nucleus-cingulate circuit coordinates a stress-induced agitation-like state",
+        "link": "https://www.nature.com/articles/s41467-026-78982-z",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Mingdao Mu",
+          "Zixu Zhang",
+          "Shengru Hu",
+          "Chuanyao Sun",
+          "Shuyan Geng",
+          "Yun Zhu",
+          "Shuting Wang",
+          "Romeo C. W. Goh",
+          "Yihan Xu",
+          "Weiwei Zhang",
+          "Tianxiang Xu",
+          "An Liu",
+          "Junjie Yi",
+          "Wei Xie"
+        ],
+        "doi": "10.1038/s41467-026-78982-z",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 16 November 2026; doi:10.1038/s41467-026-78982-zAgitation links motor restlessness with negative affect, but its circuit basis is unclear. Here, the authors show that a stress-sensitive Prc-CCK-to-Cg2 pathway coordinates motor restlessness with aversive behavior in mice."
+      },
+      {
+        "title": "Identification and deployment of a wild soybean FD allele for high-density planting and increased yield",
+        "link": "https://www.nature.com/articles/s41467-026-79322-x",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Hong Li",
+          "Doudou Chen",
+          "Guyue Zhang",
+          "Zhihong Hou",
+          "Haiyang Li",
+          "Meiling Zhong",
+          "Yucheng Liu",
+          "Ruiping Wu",
+          "Tian Chen",
+          "Zheng Chen",
+          "Zhijun Che",
+          "Yuehua Yu",
+          "Zhiyong Ni",
+          "Xiaohuan Sun",
+          "Shaowei Feng",
+          "Jinxing Wang",
+          "Jiajun Wang",
+          "Lingping Kong",
+          "Jie Yang",
+          "Peiyong Xin",
+          "Jinfang Chu",
+          "Liyu Chen",
+          "Hui Yang",
+          "Baohui Liu",
+          "Sijia Lu",
+          "Yuefeng Guan",
+          "Qingshan Chen",
+          "Zhihui Sun",
+          "Chao Fang",
+          "Fanjiang Kong",
+          "Lin Yue"
+        ],
+        "doi": "10.1038/s41467-026-79322-x",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 16 November 2026; doi:10.1038/s41467-026-79322-xLoci that confer short internodes while increasing yield remain scarce in soybean. Here, the authors report wild soybean-derived basic leucine zipper transcription factor FDc1 that exerts a negative regulator effect on internode length, which enhances dense planting and grain yield."
+      },
+      {
+        "title": "Phenotypic discovery of GABAA receptor-mediated general anesthetics with analgesic activity",
+        "link": "https://www.nature.com/articles/s41467-026-79384-x",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Matthew N. McCarroll",
+          "Jarret A. P. Weinrich",
+          "Alyssa H. Marinas",
+          "Amanda Dombroski",
+          "Lain X. Pierce",
+          "Xilin Gu",
+          "Megan J. Larmore",
+          "Jinfeng Teng",
+          "Elizabeth J. Sisko",
+          "Christopher Andolina",
+          "Ricardo Da Luz",
+          "Ralph Zhang",
+          "Jack C. Taylor",
+          "Douglas Myers-Turnbull",
+          "Cole Helsell",
+          "Amanda Carbajal",
+          "Reid Kinser",
+          "Madison Jewell",
+          "Karnika Bhardwaj",
+          "Sian Rodriguez-Rosado",
+          "Israr Ali",
+          "Jennifer Deuis",
+          "Asa Andersson",
+          "Bruce P. Bean",
+          "Irina Vetter",
+          "Timofey Glinin",
+          "Sanziana A. Roman",
+          "James Koh",
+          "Michael P. Bokoch",
+          "Brian K. Shoichet",
+          "David Kokel",
+          "Ryan E. Hibbs",
+          "Allan I. Basbaum",
+          "Jason K. Sello"
+        ],
+        "doi": "10.1038/s41467-026-79384-x",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 16 November 2026; doi:10.1038/s41467-026-79384-xIn this study, high-throughput screening in zebrafish led to the discovery of nidradine, a new general anesthetic that acts on GABAA receptors and, unlike most general anesthetics, also relieves pain at non-sedating doses."
+      }
+    ],
+    "npj Clean Water": [
+      {
+        "title": "Ionic-liquid-tailoring of membranes for selective virus removal in sustainable wastewater treatment",
+        "link": "https://www.nature.com/articles/s41545-026-00650-y",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Mujeeb O. Kareem",
+          "Samar N. Abdelwadood",
+          "Tom Burton",
+          "Julio Rodriguez-Andres",
+          "Julio Carrera Montoya",
+          "Jason M. Mackenzie",
+          "James Mcelhinney",
+          "Ludovic F. Dumée",
+          "Inas M. Al Nashef"
+        ],
+        "doi": "10.1038/s41545-026-00650-y",
+        "journal": "npj Clean Water",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "npj Clean Water, Published online: 16 November 2026; doi:10.1038/s41545-026-00650-yIonic-liquid-tailoring of membranes for selective virus removal in sustainable wastewater treatment"
+      }
+    ],
+    "Nature Reviews Earth & Environment": [
+      {
+        "title": "Rapid ice loss events in a warming Arctic",
+        "link": "https://www.nature.com/articles/s43017-026-00848-1",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Jakob Dörr",
+          "François Massonnet",
+          "Annelies Sticker",
+          "Dániel Topál",
+          "Patricia DeRepentigny",
+          "Alison Delhasse",
+          "David Docquier",
+          "Lauren Hoffman",
+          "Marika M. Holland",
+          "Alexandra Jahn",
+          "Mehdi Pasha Karami",
+          "Torben Koenigk",
+          "Bruno Tremblay",
+          "Marius Årthun"
+        ],
+        "doi": "10.1038/s43017-026-00848-1",
+        "journal": "Nature Reviews Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Reviews Earth & Environment, Published online: 16 November 2026; doi:10.1038/s43017-026-00848-1The gradual transition of the Arctic sea-ice cover towards a seasonal ice-free state will likely be accelerated by rapid ice loss events (RILEs). This Review explores the mechanisms and impacts of RILEs and their projected role in Arctic sea-ice loss."
+      }
+    ],
+    "Advanced Science": [
+      {
+        "title": "Periprostatic Adipose Tissue Promotes Prostate Cancer Progression through Androgen Receptor‐Mediated Lipolysis",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202523148?af=R",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Shiting Zhao, Yuang Wei, Jiexiang Zhang, Yang Chen, Lei Li, Qiaoyun Long, Ping Gu, Wei Sun, Zhaoxi Zhang, Sharon Keying Ma, Shiqing Liang, Ziyu Zhao, Qing Liu, Mengyuan Xie, Jiayu Zhao, Yifan Zhao, Yi He, Tao Nie, Bin Lu, Jiaqing Shao, Fuwen Yuan, Song Xue, Andrew Man Lok Chan, Jie Li, Gang Xiao, Donghai Wu, Dongliang Xu, Hannah Xiaoyan Hui"
+        ],
+        "doi": "10.1002/advs.202523148",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Tension‐Enhanced Impulsive Launching Using Partially Inflated Pneumatic Actuators",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78713?af=R",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Ruoyu Feng, Yiming He, Siyuan Feng, Yuchen Wang, Weiyi Rao, Shuguang Li"
+        ],
+        "doi": "10.1002/advs.78713",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "An APOA5‐Derived Signature Bridges Cholesterol Homeostasis to T‐Cell Exhaustion and Directs Lung Adenocarcinoma Immunotherapy Response",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78660?af=R",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Min Deng, Sek Man Su, Zhiran Zhai, Tingting An, Yuqing Wang, Ying Yang, Di Mu, Yanjie Wang, Dongyang Tang, Xin Zhang, Xiaoling Li, Elaine Lai‐Han Leung, Xiaoling Xu, Chen Huang, Chuxia Deng"
+        ],
+        "doi": "10.1002/advs.78660",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Neutrophil‐Derived Biomimetic Nanoreactors Reprogram the Mitochondrial Metabolism‐Inflammation Axis to Alleviate Hepatic Ischemia‐Reperfusion Injury",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78722?af=R",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Pu Shen, Mingbin Zhan, Kaijun Huang, Quanshi Lin, Shuting Xie, Renguo Guan, Haoxiang Yuan, Ye Lin, Xianwen Wang, Zhijin Fan"
+        ],
+        "doi": "10.1002/advs.78722",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "WDR76 Drives Hepatocellular Carcinoma Stemness and Progression by Stabilizing CBX5 and Promoting Phase Separation‐Dependent Chromatin Remodeling",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78700?af=R",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Jingduo Deng, Wenke Yu, Weiming Yan, Xiaona Fang, Yu Zhang, Yishan Peng, Yu Nie, Xinyi Zhou, Bin Yang, Zeheng Feng, Siqi Chen, Qishan Liu, Yongxin Xie, Yaqing Du, Jianning Song, Yuhai Yuan, Juntao Xie, Xin‐Yuan Guan, Mingxin Pan, Yi Gao, Qian Yan, Yuan Cheng"
+        ],
+        "doi": "10.1002/advs.78700",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Chiral‐Regulated Kresling Structure for Reconfigurable Multimodal Motion",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78712?af=R",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Zhi‐Chuan Tang, Anqi Wang, Yi‐Zhou Yang, Zhi‐Xuan Cui, Hui‐Ling Sun, De‐Sheng Jiang"
+        ],
+        "doi": "10.1002/advs.78712",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Covalent–Organic Frameworks for Food Waste Prevention: From Molecular Programming to Preservation, Sensing, and Packaging",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78706?af=R",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Jing Su, Xuecheng Zhu, Dianwei Zhang, Huilin Liu, Baoguo Sun"
+        ],
+        "doi": "10.1002/advs.78706",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Reproductive History, Biological Indicators, and Pain Vulnerability in Aging Women: A Multi‐Cohort Study",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78707?af=R",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Wei Zhang, Zhanbo Wang, Xueqiang Wang, Xuejing Lu, Li Hu"
+        ],
+        "doi": "10.1002/advs.78707",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Complementary Cardioprotection and Efferocytosis by Circulating Vesicle Recruitment and SIRPα Blockade after Myocardial Ischemia/Reperfusion",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78697?af=R",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Qi Pan, Ye Zhu, Ziqin Zhou, Yao Jiang, Yuejin Yang, Ling Yu, Yuanwei Pan, Guihao Chen"
+        ],
+        "doi": "10.1002/advs.78697",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Mitigation of Interfacial Phonon Scattering in Polyimine/Graphene Composites Through Controllable In Situ Construction of Liquid Crystal Networks",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78663?af=R",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Yingchun Liu, Chenyan Li, Ruquan Fang, Xin Ying Kong, Xiaoxiao Guan, Maoping Lyu, Guokang Chen, Bo‐Mei Liu, Jesse Zhu, Hui Zhang"
+        ],
+        "doi": "10.1002/advs.78663",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Bacteroides Fragilis‐Derived Ceramide‐1‐phosphate Contributes to Depression Comorbidity in Irritable Bowel Syndrome Through Hippocampal SMPD4 and Myelin Disruption",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78678?af=R",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Ping Zheng, Shicai Xie, Demin Gao, Wenyu Fang, Pallavi Asthana, Susma Gurung, Ling Zhao, Lixiang Zhai, Danny J. Yu, Hongyan Qin, Hoi Leong Xavier Wong, Zhaoxiang Bian, Qin Liu"
+        ],
+        "doi": "10.1002/advs.78678",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      }
+    ],
+    "Ecology Letters": [
+      {
+        "title": "Conserved Upper Thermal Limits and Small Safety Margins in Soil Copiotrophic Bacteria",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70483?af=R",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Ariel Ignacio Favier, Alejandra Hernández‐Terán, Celia C. Symons, María Rebolleda‐Gómez"
+        ],
+        "doi": "10.1111/ele.70483",
+        "journal": "Ecology Letters",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Letter",
+        "abstract": "Ecology Letters, Volume 29, Issue 11, November 2026."
+      }
+    ],
+    "Nature": [
+      {
+        "title": "The psychology of imaginary friends — and why they are good for kids",
+        "link": "https://www.nature.com/articles/d41586-026-03713-9",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Josie Glausiusz"
+        ],
+        "doi": "10.1038/d41586-026-03713-9",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03713-9Children often conjure up invisible pals to keep them company. A psychologist delves into the reasons why."
+      },
+      {
+        "title": "Is the sixth great extinction imminent? Scientists must draw on natural history for clues",
+        "link": "https://www.nature.com/articles/d41586-026-03712-w",
+        "pub_date": "2026-11-16",
+        "authors": [
+          "Elizabeth Blackmore",
+          "C. Brandon Ogbunugafor"
+        ],
+        "doi": "10.1038/d41586-026-03712-w",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03712-wA lack of crosstalk between research disciplines is hampering scholars’ ability to fully examine how people have altered Earth’s biodiversity."
+      }
+    ]
+  }
+}
