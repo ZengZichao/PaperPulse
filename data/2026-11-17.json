@@ -1,0 +1,838 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T12:51:17.023271+00:00",
+  "total_journals": 12,
+  "total_articles": 37,
+  "journals": {
+    "Molecular Ecology Resources": [
+      {
+        "title": "Breath to Genome: Whole Genome Sequencing of Large Whales From Blow Sampling",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.70219?af=R",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Éadin N. O'Mahony, Morgan L. McCarthy, Eric M. Keen, Janie Wray, Christie J. McMillan, Sheila J. Thornton, Luke E. Rendell, Oscar E. Gaggiotti, Morten Tange Olsen"
+        ],
+        "doi": "10.1111/1755-0998.70219",
+        "journal": "Molecular Ecology Resources",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Article",
+        "abstract": "Molecular Ecology Resources, Volume 26, Issue 8, November 2026."
+      }
+    ],
+    "Scientific Data": [
+      {
+        "title": "A Synthetic Population and Small-Area Estimate Dataset for Health Behaviors and Outcomes in the United States",
+        "link": "https://www.nature.com/articles/s41597-026-08743-6",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Emma Von Hoene",
+          "Aanya Gupta",
+          "Sara Von Hoene",
+          "Hamdi Kavak",
+          "Amira Roess",
+          "Taylor Anderson"
+        ],
+        "doi": "10.1038/s41597-026-08743-6",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 17 November 2026; doi:10.1038/s41597-026-08743-6A Synthetic Population and Small-Area Estimate Dataset for Health Behaviors and Outcomes in the United States"
+      },
+      {
+        "title": "OTTER-NYC: A Minute-Scale Multimodal Dataset for Urban Flood Event Dynamics and Forecasting",
+        "link": "https://www.nature.com/articles/s41597-026-08642-w",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Seongwon Jin",
+          "Jiho Park",
+          "Juheon Kim",
+          "Jehong Bang",
+          "Seunghwan An",
+          "Jibum Kim"
+        ],
+        "doi": "10.1038/s41597-026-08642-w",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 17 November 2026; doi:10.1038/s41597-026-08642-wOTTER-NYC: A Minute-Scale Multimodal Dataset for Urban Flood Event Dynamics and Forecasting"
+      },
+      {
+        "title": "Multi-omics data resource of pancreatic islet and β cell responses to pro-inflammatory cytokines",
+        "link": "https://www.nature.com/articles/s41597-026-08514-3",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Soumyadeep Sarkar",
+          "Javier E. Flores",
+          "Navaj Nune",
+          "Mireia Ramos-Rodriguez",
+          "Xiaoyan Yi",
+          "Arturo Roca-Rivada",
+          "Marlie M. Maestas",
+          "Austin Gluth",
+          "Farooq Syed",
+          "Young-Mo Kim",
+          "Jennifer E. Kyle",
+          "Kierstin L. Webster",
+          "Wenting Wu",
+          "Ashley N. Ives",
+          "Batoul Hammoud",
+          "Abhishek Kulkarni",
+          "Emily C. Elliott",
+          "Youngki You",
+          "Preethi Krishnan",
+          "Tatsuyoshi Kono",
+          "Theodora Papadopoulou",
+          "James M. Fulcher",
+          "Emily K. Sims",
+          "Sarah A. Tersey",
+          "Lori Sussel",
+          "Bobbie-Jo M. Webb-Robertson",
+          "Wei-Jun Qian",
+          "Jennifer S. Stancill",
+          "John A. Corbett",
+          "Tong Zhang",
+          "Thomas O. Metz",
+          "Jeffrey R. Millman",
+          "Carmella Evans-Molina",
+          "Lorenzo Pasquali",
+          "Raghavendra G. Mirmira",
+          "Decio L. Eizirik",
+          "Ernesto S. Nakayasu"
+        ],
+        "doi": "10.1038/s41597-026-08514-3",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 17 November 2026; doi:10.1038/s41597-026-08514-3Multi-omics data resource of pancreatic islet and β cell responses to pro-inflammatory cytokines"
+      },
+      {
+        "title": "Unifying biomedical knowledge in a modern multimodal graph",
+        "link": "https://www.nature.com/articles/s41597-026-08302-z",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Lucas Vittor",
+          "Ayush Noori",
+          "Iñaki Arango",
+          "Joaquín Polonuer",
+          "Sam Rodriques",
+          "Andrew White",
+          "David A. Clifton",
+          "Marinka Zitnik"
+        ],
+        "doi": "10.1038/s41597-026-08302-z",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 17 November 2026; doi:10.1038/s41597-026-08302-zUnifying biomedical knowledge in a modern multimodal graph"
+      }
+    ],
+    "Trends in Microbiology": [
+      {
+        "title": "Plant autonomy in a function-rich microbial world",
+        "link": "https://www.cell.com/trends/microbiology/fulltext/S0966-842X(26)00311-2?rss=yes",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Victor S. Pylro, Luiz Eduardo V. Del Bem, Daniel K. Morais"
+        ],
+        "doi": null,
+        "journal": "Trends in Microbiology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Plants evolved in environments where microbes already performed key ecological functions. We hypothesize that persistent access to reliable microbial functions may have shaped plant autonomy, favoring reduced investment in costly autonomous processes. We distinguish this from plant–microbe coevolution and propose predictions testable with comparative genomics, crop wild relatives, and experimental evolution."
+      },
+      {
+        "title": "A multipathogen view of Epstein–Barr virus pathogenesis and tumorigenesis",
+        "link": "https://www.cell.com/trends/microbiology/fulltext/S0966-842X(26)00304-5?rss=yes",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Jiarui Tang, Ling Zhong, Lie Yuan, Di Su, Qinjian Zhao, Claude Krummenacher, Xiao Zhang"
+        ],
+        "doi": null,
+        "journal": "Trends in Microbiology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Epstein–Barr virus (EBV) infects more than 95% of the global population and contributes to multiple human cancers and autoimmune diseases. Co-infection with pathogens including Helicobacter pylori, human immunodeficiency virus, human papillomavirus, and Plasmodium falciparum can reshape host immunity and the EBV latency–lytic balance and, in some settings, promote reactivation. Collectively, these interactions may exacerbate chronic inflammation, immunosuppression, and epigenetic dysregulation to accelerate disease progression and tumor formation. Existing clinical treatments control only the active pathogens but fail to target latent EBV. Emerging strategies such as clustered regularly interspaced short palindromic repeats (CRISPR) gene editing and EBV-targeted immunotherapy aim to eliminate latent viral reservoirs. This review outlines the synergistic mechanisms of EBV co-infection in oncogenesis, highlighting that further research on pathogen interactions is vital for developing better prevention and treatment options."
+      }
+    ],
+    "Water Research": [
+      {
+        "title": "Induction-heated interfacial catalysis for self-cleaning membrane distillation for complex brines.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43038861/",
+        "pub_date": null,
+        "authors": [
+          "Jia H",
+          "Zhang J",
+          "Zhu G",
+          "Lin JA",
+          "Mu H",
+          "Li Z",
+          "Ronen A",
+          "Li J",
+          "Zhang W"
+        ],
+        "doi": "10.1016/j.watres.2026.127342",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43038861",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Membrane distillation (MD) can desalinate complex hypersaline brines, but practical operation is limited by temperature polarization and interfacial fouling or wetting. Here we introduce induction heating catalytic membrane distillation (IH-CMD), a reaction-separation platform that couples non-contact electromagnetic heating with peroxymonosulfate (PMS) activation at a PTFE-CoCu@Fe3O4 membrane-water interface. Under an alternating electromagnetic field, the PTFE-CoCu@Fe3O4 membrane achieved rapid interfacial heating (e.g., up to 210°C within one minute in air), which effectively mitigates temperature polarization and enhancing vapor flux by more than 3-fold compared to conventional MD. The hydroxyl-rich CoCu layer provided PMS-active sites and supported a hydrated outer interface; spectroscopy revealed induction-associated changes in surface hydroxylation, while density functional theory showed that hydroxylation state regulated PMS adsorption and polarization. This thermally regulated interface promoted catalytic oxidation, proposed to involve singlet oxygen and radical pathways alongside Co/Cu redox cycling, while improving resistance under gypsum-, surfactant-, oil-, and PFAS-containing conditions. Hollow-fiber membrane tests further demonstrated compatibility with a solenoid-coupled module and achieved 33.48 kg·m-2·h-1 freshwater production. These results establish an interface-centered heat-reaction-mass-transfer strategy for self-cleaning MD of complex hypersaline brines."
+      },
+      {
+        "title": "Root mucilage-inspired hydrogel composite membranes enable high-efficacy ammonia recovery.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43038865/",
+        "pub_date": null,
+        "authors": [
+          "Chen C",
+          "Li Y",
+          "Zhou Z",
+          "Li S",
+          "Chou L",
+          "Han L",
+          "Shen L"
+        ],
+        "doi": "10.1016/j.watres.2026.127329",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43038865",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Ammonia recovery from wastewater via membrane stripping is a compelling route for pollution control and nutrient recycling, yet its deployment is hindered by a trade-off between permeation flux and fouling resistance. Inspired by plant root mucilage, which enriches and transports nutrients from soil to roots, we present a polyvinylidene fluoride (PVDF) membrane coated with a mucilage-like hydrogel layer for ammonia (NH3) recovery. This biomimetic coating, fabricated from chitosan (CS) and sodium alginate (SA), mimics functional traits of root mucilage. Abundant polar groups in the hydrogel layer promote NH3 partitioning and localized NH3 enrichment, thereby improving interfacial NH3 supply, while the highly hydrated network facilitates NH3 diffusion at a rate comparable to that in bulk solution. Together, these features offset the transport penalty imposed by the dense hydrogel layer. Concurrently, this coating enhances antifouling performance through a smoother surface, sub-nanometre size sieving, hydration shielding, and Donnan exclusion. In a 180-h real-digestate test, the PVDF@CS/SA membrane maintained an NH3 flux comparable to that of the pristine PVDF membrane, yet showed a lower fouling-induced flux decline (7% vs. 56%). This work provides a new paradigm for developing advanced antifouling membranes that overcome the permeation flux-fouling resistance trade-off."
+      },
+      {
+        "title": "Anodic boundary-layer pumping enables membraneless organophosphonate conversion and phosphorus recovery in recirculating cooling water.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43038860/",
+        "pub_date": null,
+        "authors": [
+          "Ma R",
+          "Zhou J",
+          "Li J",
+          "Liu Y",
+          "Yan W",
+          "Tian MG",
+          "Xu H"
+        ],
+        "doi": "10.1016/j.watres.2026.127338",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43038860",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Organophosphonate antiscalants in recirculating cooling water resist degradation and limit phosphorus (P) recovery. Here, an anodic-pumping-enhanced membraneless electrochemical system (A-MFES) was developed to couple organophosphonate conversion with P recovery. Directional pumping through a porous Ti/PbO2 anode enhanced contact with electroactive surfaces and transported the acidic interfacial solution containing reactive chlorine into the pumped effluent. Pumping controls, free-chlorine measurements, and quenching responses supported the coupling of interfacial oxidation with continued chlorine-mediated solution-phase oxidation, extending oxidant utilization beyond the electrode surface. Using ethylenebis(nitrilodimethylene) tetraphosphonic acid (EDTMP) as the representative compound, A-MFES achieved 57.1% oxidation during single-pass operation and also converted structurally distinct organophosphonate antiscalants. Coupling with a pumped-cathode precipitation unit enabled 59.6% P recovery as hydroxyapatite-containing calcium phosphate, with 63.5% oxidation in the coupled process. Sustained oxidation during continuous operation and conversion in real recirculating cooling water supported the applicability of the oxidation unit. In high-hardness synthetic cooling water, the integrated process achieved 60.0% EDTMP oxidation and 49.5% P recovery alongside sequential hardness removal. This study establishes directional anodic pumping as a strategy for extending interfacial oxidation into the effluent and integrating organophosphonate conversion with mineral recovery in a membraneless process."
+      },
+      {
+        "title": "Meta-omics deciphers the role of migratory bird feces-derived phages in promoting the persistence of ARGs in opportunistic pathogens in the Yangtze Estuary wetlands.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43038859/",
+        "pub_date": null,
+        "authors": [
+          "Jiao X",
+          "Fang R",
+          "Huang L",
+          "Ye S",
+          "Xu Y",
+          "An S",
+          "Lv B",
+          "Xie B",
+          "He G",
+          "Wu D"
+        ],
+        "doi": "10.1016/j.watres.2026.127334",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43038859",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Migratory birds are well-documented antibiotic resistance gene (ARG) transboundary vectors, yet fecal ARG persistence in estuarine wetlands remains poorly understood. To explain this issue, we profiled metagenomic/viromic data across pre-arrival, staging, departure phases in the Yangtze Estuary, a world-class conservation wetland. Migratory bird feces had significantly lower ARG loads than local free-range duck feces as contrast (T-test, P < 0.01, n = 32), but harbored distinct resistance profiles dominated bacA (bacitracin), bla1 (β-lactam), and arnA (peptide) resistance genes. Bird arrivals triggered waterborne ARG surges to -0.88 ± 0.16 log10 (ARGs/cell) (P < 0.01, n = 30), while sedimentary resistomes stayed stable (One-way ANOVA test, P > 0.05, n = 24). Pronounced taxonomic differences between avian and wetland bacteria restricted most ARG-carrying bacteria to short-term existence. However, some opportunistic pathogens (e.g. Escherichia, Pseudomonas) achieved stable niches via deterministic niche selection, serving as shared host genera for avian and environmental phages. Unlike the bulk metagenomic ARGs correlating strongly with bacterial community structure (Spearman, Rho = 0.43, P < 0.01), viromic ARGs were decoupled from phage dynamics and minimally responsive to physicochemical stressors (Mantel test, R2 = 0.11 vs. 0.32, P < 0.01). MetaCHIP analysis of Nanopore-Illumina hybrid assembled bins from viable communities detected 3 transferred contigs associated with plasmids. Meanwhile, phage-associated ARGs derived from wild birds exploited opportunistic pathogens as hosts to sustain persistence in wetlands. These findings reveal that conventional bacteria-centric monitoring underestimates avian-borne antimicrobial resistance in the Yangtze Estuary wetland, calling for virome-inclusive management there."
+      },
+      {
+        "title": "Which uncertainties matter? Global sensitivity analysis of model-based and data-driven leakage detection methods via sparse-grid stochastic collocation.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43038863/",
+        "pub_date": null,
+        "authors": [
+          "Steins E",
+          "Koslowski J",
+          "Cominola A"
+        ],
+        "doi": "10.1016/j.watres.2026.127199",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43038863",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Leakages in water distribution networks cause water loss globally, jeopardize water quality, and increase energy consumption for water supply. While numerous software-based detection methods to enable prompt leakage detection have been proposed in the literature, most are developed using synthetic data that fails to represent the range of errors and operating conditions encountered in practice. To address this gap, we conduct a variance-based global sensitivity analysis of the detection performance of two state-of-the-art leakage detection methods, data-driven and model-based, under uncertainties in the number of pressure sensors, sensor accuracy, hydraulic model parameters, and a method hyperparameter. To keep the analysis tractable, we use sparse-grid stochastic collocation, reducing the number of model evaluations by orders of magnitude relative to Monte Carlo. We assess convergence, robustness, and credibility of the estimates. In this study, sensor number and measurement accuracy dominate detection performance for both methods, whereas hydraulic parameters and the detection threshold are secondary; finer rankings among the remaining inputs differ by leakage type and method but often fall within the estimated uncertainty. The two methods fail in different regimes, motivating hybrid strategies that combine their strengths."
+      },
+      {
+        "title": "Chlorination of a chlorothalonil metabolite (R471811) and aniline: Kinetics and mechanisms.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43038862/",
+        "pub_date": null,
+        "authors": [
+          "Zhang T",
+          "Merle T",
+          "von Gunten U"
+        ],
+        "doi": "10.1016/j.watres.2026.127152",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43038862",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Chlorothalonil metabolites (CMs) have been detected ubiquitously and persistently in European groundwater, despite the ban of chlorothalonil in the European Union and Switzerland in 2019. Among the six frequently detected CMs, CM (R471811), which contains two amide groups and one sulfonic acid moiety, has been detected most frequently and at the highest concentrations. This metabolite has been shown to be partially abated during mild chlorination, despite its limited removal by ozonation or hydroxyl radical-driven advanced oxidation processes, thereby warranting further investigation of its chlorination kinetics and mechanisms. CM was found to react primarily with hypochlorite via nucleophilic attack at the two amide nitrogen atoms, exhibiting distinct species-specific second-order rate constants of 24 M-1s-1 and 0.19 M-1s-1, respectively for the two reaction steps. The reaction initially yielded N-chloramides, which subsequently underwent a Hofmann rearrangement to form an aniline-type compound. The rearrangement from aromatic N-chloramide to aniline was confirmed during chlorination of the model compound 2,4,5-trichlorobenzamide with the detection of 2,4,5-trichloroaniline. To elucidate the fate of aniline, its kinetics and mechanisms for the reaction with chlorine were further investigated. Chlorination of aniline was dominated by hypochlorous acid, with an apparent second-order rate constant of 4.9 × 104 M-1s-1 at pH 7. The reaction is proposed to initially form N-chloroaniline, followed by cleavage of the NCl bond generating phenylnitrenium cations, leaving the ortho and para positions available for nucleophilic substitution. As a consequence, 2-chloroaniline, 4-chloroaniline, and 4-aminophenol were detected as initial chlorination products. Subsequently, 2-chloroaniline was transformed to 4-amino-3-chlorophenol, while a fraction of 4-aminophenol was further oxidized to the potentially toxic products, 4-nitroso- and 4-nitrophenol, with yields of ≤ 4.5%."
+      }
+    ],
+    "Nature": [
+      {
+        "title": "The prospect of a ‘super’ El Niño demands better ocean monitoring",
+        "link": "https://www.nature.com/articles/d41586-026-03744-2",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Jing Xu",
+          "Hui Lin"
+        ],
+        "doi": "10.1038/d41586-026-03744-2",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03744-2The prospect of a ‘super’ El Niño demands better ocean monitoring"
+      },
+      {
+        "title": "AI wearables could exploit people’s most vulnerable moments",
+        "link": "https://www.nature.com/articles/d41586-026-03742-4",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Tony Huiquan Zhang",
+          "Jing Hu"
+        ],
+        "doi": "10.1038/d41586-026-03742-4",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03742-4AI wearables could exploit people’s most vulnerable moments"
+      },
+      {
+        "title": "Should we move from artificial intelligence to artificial life?",
+        "link": "https://www.nature.com/articles/d41586-026-03743-3",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Otto Petrovic"
+        ],
+        "doi": "10.1038/d41586-026-03743-3",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03743-3Should we move from artificial intelligence to artificial life?"
+      },
+      {
+        "title": "New US Congress should ‘reimagine’ science — not just return to the past",
+        "link": "https://www.nature.com/articles/d41586-026-03709-5",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Kenneth M. Evans"
+        ],
+        "doi": "10.1038/d41586-026-03709-5",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03709-5For science policy to be effective, the public must be engaged in the process of funding research."
+      },
+      {
+        "title": "The world’s most precious brain samples — and what they teach us about being human",
+        "link": "https://www.nature.com/articles/d41586-026-03711-x",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Rachel Fieldhouse"
+        ],
+        "doi": "10.1038/d41586-026-03711-x",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03711-xHow do human neurons behave in their natural environment? To answer that question, you need rare brain samples taken from living humans — and very steady hands."
+      },
+      {
+        "title": "How measuring the state of nature can reverse biodiversity loss",
+        "link": "https://www.nature.com/articles/d41586-026-03714-8",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Carolyn J. Hogg",
+          "Chris S. Elphick",
+          "Jacqueline R. Beggs",
+          "Catherine Price",
+          "Bruce Burns",
+          "Eleanor Bruce",
+          "Britta Sjöstedt",
+          "John Finch",
+          "Rodrigo Arriagada",
+          "Nicholas N. Ngepah",
+          "Maria Armoudian",
+          "Maria J. Santos"
+        ],
+        "doi": "10.1038/d41586-026-03714-8",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03714-8A collective effort by governments, communities and businesses to track the impacts of conservation and restoration is essential to maintaining nature and the services it provides."
+      }
+    ],
+    "Microbiological Research": [
+      {
+        "title": "Bacterial extracellular vesicles in metabolic diseases: From pathogenic mediators to therapeutic carriers.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43038760/",
+        "pub_date": null,
+        "authors": [
+          "Nie X",
+          "Wang Y",
+          "Xie J",
+          "Nie S"
+        ],
+        "doi": "10.1016/j.micres.2026.128832",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43038760",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "The incidence of metabolic diseases (e.g. obesity, diabetes, and osteoporosis) is rising year by year worldwide. The gut microbiota, as a complex microbial ecosystem, is closely associated with the onset and progression of various metabolic diseases due to its dysbiosis. Recent studies have shown that extracellular vesicles derived from gut microbiota play a crucial role in bacterial-host communication. However, the specific roles and mechanisms of bacterial extracellular vesicles (bEVs) in metabolic diseases remain to be further explored. This review summarizes the biogenesis and composition of bEVs and critically examines their dual roles in the pathogenesis and treatment of metabolic diseases. We further discuss recent research progress on engineering strategies, including parental strain engineering, cargo loading, and surface functionalization to optimize the therapeutic efficacy of bEVs. Finally, we highlight key translational challenges and future prospects in bEVs-based development. This review aims to provide a theoretical foundation and new intervention strategies for the treatment of metabolic diseases."
+      },
+      {
+        "title": "A Streptomyces-derived cyclic peptide valinomycin primes two-layered plant local immunity and systemic disease resistance.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43038761/",
+        "pub_date": null,
+        "authors": [
+          "Yoo N",
+          "Kang J",
+          "Kim DR",
+          "Kim J",
+          "Park J",
+          "Sang MK",
+          "Kim JS",
+          "Choi K",
+          "Lee JH",
+          "Kwak YS",
+          "Chi SW",
+          "Chung EH"
+        ],
+        "doi": "10.1016/j.micres.2026.128829",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43038761",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Intensive research has led to the identification of various natural compounds as alternative and complementary agents for the chemical management of plant diseases. Here, we propose that valinomycin, a cyclic peptide produced by Streptomyces bacillaris S8, is a putative biocontrol agent against various plant pathogens with dual functions. The compound demonstrated antifungal activity against the plant pathogenic fungus, Botrytis cinerea (B. cinerea), a necrotrophic fungal pathogen that causes gray mold disease in many plant species. Intriguingly, valinomycin boosted plant immunity with priming activity in response to pathogen infection. Plants treated with valinomycin exhibited an increased flg22-mediated reactive oxygen species (ROS) burst, mitogen-activated protein kinase (MAPK) phosphorylation, and callose deposition, known hallmarks of pathogen-associated molecular patterns (PAMPs)-triggered immunity (PTI). Regarding effector-triggered immunity (ETI), valinomycin potentiated hypersensitive response (HR), a representative phenotype of the ETI responses. Furthermore, ROS burst assay revealed that valinomycin simultaneously facilitated PTI and ETI that mutually strengthen each other. Valinomycin increased the resistance against Pseudomonas syringae pv. tomato DC3000 (Pto DC3000), without antibacterial activity. Valinomycin primes plant immunity by modulating plant hormone crosstalk, extending to systemic resistance in Arabidopsis. Notably, valinomycin also enhanced disease resistance in tobacco and soybean, demonstrating its potential for expanded application to many crop species. Therefore, our study highlights valinomycin as a versatile natural compound with potential as a biocontrol agent, combining direct antifungal activity with plant immune-priming function across multiple plant species."
+      }
+    ],
+    "Genome Biology and Evolution": [
+      {
+        "title": "Generative continuous time model reveals epistatic signatures in protein evolution.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43041169/",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Pagnani A",
+          "Barrat-Charlaix P"
+        ],
+        "doi": "10.1093/gbe/evag281",
+        "journal": "Genome Biology and Evolution",
+        "source": "pubmed",
+        "pmid": "43041169",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Protein evolution is fundamentally shaped by epistasis, where the effect of a mutation depends on the sequence context. As standard phylogenetic methods assume independently evolving sites, there is a need for more complex models based on accurate estimations of the fitness landscape. Good candidates are modern generative models - such as the Potts model - which successfully capture epistatic effects. However, recent works on generative evolutionary models usually use discrete time, making them difficult to integrate with the standard frameworks in evolutionary biology. We introduce a continuous-time sequence evolution model using the Gillespie algorithm and parameterized by a generative Potts model. This approach enables us to simulate realistic, family-specific evolutionary trajectories and allows for direct comparison with independent-site models. Surprisingly, we find that while epistasis significantly slows down evolution, it does not change the average evolutionary rates at individual sites. This is explained by the rate heterogeneity caused by context-dependence: we show that the rate at some positions varies between null to high values depending on the context, while other positions are essentially independent from the context. Finally, we show that epistasis leads to a systematic underestimation bias in the inference of evolutionary distance between sequences. Overall, our work provides a new tool for simulating realistic protein evolution and offers novel insights into the complex interplay between epistasis and evolutionary dynamics."
+      }
+    ],
+    "Nature Communications": [
+      {
+        "title": "EpiPack: A computational framework for reference mapping and out-of-reference detection for single-cell ATAC-seq data with heterogeneous peak features",
+        "link": "https://www.nature.com/articles/s41467-026-78924-9",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Yuqi Cheng",
+          "Xiuwei Zhang"
+        ],
+        "doi": "10.1038/s41467-026-78924-9",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 17 November 2026; doi:10.1038/s41467-026-78924-9EpiPack maps single-cell chromatin accessibility data across heterogeneous datasets and identifies cell types and states absent from reference atlases, enabling analysis of disease-associated cellular changes."
+      },
+      {
+        "title": "RSM01, an extended half-life RSV monoclonal antibody with a high barrier to in vitro resistance",
+        "link": "https://www.nature.com/articles/s41467-026-79029-z",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Jonne Terstappen",
+          "Emanuele C. Gustani Buss",
+          "Cassandra A. L. Simonich",
+          "Jason S. McLellan",
+          "Vicky-Lynne Baillie",
+          "Jesse D. Bloom",
+          "Louis J. Bont",
+          "Mauricio T. Caballero",
+          "Klasina Chappin",
+          "Janissa J. A. van Duijn",
+          "Gavin Juviler",
+          "Robert Jan Lebbink",
+          "Isabelle C. E. van Lotringen",
+          "Joris J. T. Roggekamp",
+          "Anouk Versnel",
+          "Marco C. Viveen",
+          "Hanneke J.A.A. van Zoggel",
+          "Eveline M. Delemarre",
+          "Aurelio Bonavia",
+          "Natalie I. Mazur"
+        ],
+        "doi": "10.1038/s41467-026-79029-z",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 17 November 2026; doi:10.1038/s41467-026-79029-zRSM01 showed broad neutralizing activity against circulating LMIC RSV strains. Authors found a high barrier to resistance, supporting RSM01 as an alternative should resistance emerge with widespread use of current licensed anti-RSV mAbs."
+      },
+      {
+        "title": "Dearomatization and cycloaddition of furans and indoles enable divergent syntheses of spirooxindole alkaloids",
+        "link": "https://www.nature.com/articles/s41467-026-79458-w",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Yuen Tsz Cheung",
+          "Yichen Liu",
+          "Rongbiao Tong"
+        ],
+        "doi": "10.1038/s41467-026-79458-w",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 17 November 2026; doi:10.1038/s41467-026-79458-wDearomatization offers powerful routes to molecular complexity, yet strategies that couple distinct dearomatization products remain underdeveloped. Here, the authors report an oxidative strategy linking indole and furan dearomatization to rapidly access diverse tetracyclic spirooxindoles, including natural products."
+      },
+      {
+        "title": "Transforming spinel LiMn2O4 into a Na-layered cathode",
+        "link": "https://www.nature.com/articles/s41467-026-79390-z",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Zixin Wu",
+          "Diancheng Chen",
+          "Ting Lin",
+          "Maolin Yang",
+          "Chunjing Hu",
+          "Dian Zhang",
+          "Leiyu Chen",
+          "Yonglin Tang",
+          "Qirui Liu",
+          "Yilong Chen",
+          "Yawen Yan",
+          "Kang Zhang",
+          "Xiaoxiao Kuai",
+          "Qingsong Wang",
+          "Yinguo Xiao",
+          "Chao Li",
+          "Yang Sun",
+          "Xiang Liu",
+          "Lin Gu",
+          "Yu Qiao",
+          "Shi-Gang Sun"
+        ],
+        "doi": "10.1038/s41467-026-79390-z",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 17 November 2026; doi:10.1038/s41467-026-79390-zSpinel LiMn2O4 has potential to be transformed into a layered Na-storage material, but the mechanism remains unclear. Here, authors investigate the ion migration mechanism during the transformation and evaluate the Na storage performance of the resulting material, including application in pouch and cylindrical cells."
+      },
+      {
+        "title": "Gut microbiota GABA regulation by intestinal pH osmolality and microbial consumption",
+        "link": "https://www.nature.com/articles/s41467-026-78313-2",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Kun Ye",
+          "Serafina Plüss",
+          "Claudia Moresi",
+          "Selma Aslani",
+          "Denisa Mujezinovic",
+          "Fabián A. Cornejo",
+          "Christophe Lacroix",
+          "Markus Arnoldini",
+          "Benoit Pugin"
+        ],
+        "doi": "10.1038/s41467-026-78313-2",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 17 November 2026; doi:10.1038/s41467-026-78313-2Here, the authors show that low pH and high osmolality promote microbial GABA production, yet physiological acidity fails to raise GABA in colon models due to microbial consumption. In mice lacking GABA-consuming bacteria, acidification increased GABA, highlighting a pH, osmolality regulated production–consumption balance."
+      },
+      {
+        "title": "Full-circle polychromatic photoluminescence in Mn-doped zero-dimensional metal halide under high-pressure",
+        "link": "https://www.nature.com/articles/s41467-026-79598-z",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Jiaxiang Wang",
+          "Lingrui Wang",
+          "Yulia Lekina",
+          "Shuhe Hu",
+          "Xueqian Wu",
+          "Yijia Huang",
+          "Kai Wang",
+          "Haizhong Guo",
+          "Zexiang Shen"
+        ],
+        "doi": "10.1038/s41467-026-79598-z",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 17 November 2026; doi:10.1038/s41467-026-79598-zMn2+-doped zero-dimensional halides combine blue host emission with green-to-red Mn2+ emission. High pressure and low temperature tune excitons, carrier dynamics and energy transfer, enabling multicolor emission across the visible gamut."
+      },
+      {
+        "title": "Atomic-level coordination-engineered quantum dots orchestrate mitochondrial energy rescue for diabetic bone regeneration",
+        "link": "https://www.nature.com/articles/s41467-026-79398-5",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Min Jiang",
+          "Hongrui Qin",
+          "Hongyong Zhao",
+          "Wenjun Ma",
+          "Ping Tang",
+          "Hongjiang Wei",
+          "Guangyu Jian",
+          "Ding Chen",
+          "Zishuo Cheng",
+          "Richard D. Cannon",
+          "Ping Ji",
+          "Dize Li",
+          "Tao Chen"
+        ],
+        "doi": "10.1038/s41467-026-79398-5",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 17 November 2026; doi:10.1038/s41467-026-79398-5Here the authors identify deleterious mitochondrial transfer in osteoimmunological processes as a key driver of impaired diabetic bone healing and engineer quantum dots to boost energy-regulation and restore functional mitochondrial transfer."
+      },
+      {
+        "title": "Exciton binding regulation in oxygen-independent tumor photooxidation enables synchronous photoluminescence for cancer theranostics",
+        "link": "https://www.nature.com/articles/s41467-026-79452-2",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Yizhou Yan",
+          "Running Cheng",
+          "Mo Zhang",
+          "Meng Wang",
+          "Yan Guo",
+          "Yunning Chen",
+          "Meichi Chong",
+          "Qixin Zhou",
+          "Yongfa Zhu"
+        ],
+        "doi": "10.1038/s41467-026-79452-2",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 17 November 2026; doi:10.1038/s41467-026-79452-2Overcoming the accuracy-efficiency trade-off in light-driven cancer therapy is challenging for developing theranostic systems. Here, the authors report a fullerene-loaded heptazine‒perylene nanopolymer that facilitates cancer theranostics through the oxygen-independent oxidation of intracellular biomolecules, and through spatiotemporal fluorescence imaging with resistance to photobleaching."
+      }
+    ],
+    "Briefings in Bioinformatics": [
+      {
+        "title": "CausalMut: a causal deep learning framework for enzyme mutational effect prediction",
+        "link": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag642/9070021?rss=1",
+        "pub_date": "2026-11-17",
+        "authors": [],
+        "doi": "10.1093/bib/bbag642",
+        "journal": "Briefings in Bioinformatics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "AbstractAccurate prediction of enzyme mutational effects on catalytic kinetics is fundamental to data-driven enzyme engineering, yet existing deep learning models are fundamentally constrained by biases inherent in the data generation process. Experimental datasets are conditioned on prevailing experimental choices rather than uniform mutation interventions, which introduces spurious correlations that compromise model generalization. To address this challenge, CausalMut is proposed as a causality-guided deep learning framework that disentangles genuine mutational causal effects from confounding biases. The data generation mechanism is first formalized via a structural causal graph, revealing the experimental environment as a confounder that induces distributional imbalance across mutation types. Building on this analysis, CausalMut integrates two components: a Multi-scale Interaction Enhanced Network (MIENet), which captures complex interactions among the wild-type enzyme, substrate, and mutant without 3D structural information; and a Joint Focal-IPS optimization strategy, which corrects distributional imbalances at both the amino-acid and mutant levels. Comprehensive experiments on three real-world enzyme kinetic datasets ($k_{\\text{cat}}$, $K_{m}$, and $k_{\\text{cat}}/K_{m}$) against five state-of-the-art baselines demonstrate average improvements of 16.24% in root mean square error and 22.19% in $R^{2}$. CausalMut maintains consistent superiority under three biologically motivated distribution-shift settings, and case studies further demonstrate its ability to identify high-activity variants within a fixed screening budget, validating its robustness and practical utility."
+      }
+    ],
+    "eLife": [
+      {
+        "title": "Hierarchical neural circuit theory of normalization and inter-areal communication",
+        "link": "https://elifesciences.org/articles/111297",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Asit Pal",
+          "David J Heeger",
+          "Shivang Rawat",
+          "Stefano Martiniani"
+        ],
+        "doi": null,
+        "journal": "eLife",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Neuroscience",
+        "abstract": "The primate brain exhibits a hierarchical, modular architecture with conserved microcircuits executing canonical computations across reciprocally connected cortical areas. We present a hierarchical neural circuit theory with feedback connections that dynamically implements divisive normalization across its hierarchy. In a two-stage instantiation (V1 ↔ V2), increasing feedback from V2 to V1 amplifies responses in both areas. We analytically derive power spectra (V1) and coherence spectra (V1-V2) as functions of frequency (f) and compare them with experimental observations: peaks in both spectra shift to higher frequencies with increased stimulus contrast, and power decays as 1/f4 at high frequencies. The closed-form spectra are validated against direct stochastic simulation of the full nonlinear circuit across contrasts. The theory further predicts distinctive spectral signatures of feedback and input gain modulation. Crucially, the theory offers a unified view of inter-areal communication, defined as the ability to linearly predict neural activity in one brain area from neural activity in another, with emergent features consistent with empirical observations of both communication subspaces and inter-areal coherence. It admits a low-dimensional communication subspace, where inter-areal communication is lower-dimensional than within-area communication. It further predicts that: (1) increasing feedback strength enhances inter-areal communication and diminishes within-area communication, without altering the subspace dimensionality; (2) communication is strongest, and the subspace dimensionality lowest, at the frequencies at which V1-V2 coherence peaks; (3) normalization reduces the subspace dimensionality. Finally, a three-area (V1 ↔ V4 and V1 ↔ V5) instantiation of the theory demonstrates that differential feedback from higher to lower cortical areas dictates their dynamic functional connectivity. Altogether, our theory provides a robust and analytically tractable framework for generating experimentally testable predictions about normalization, inter-areal communication, and functional connectivity."
+      },
+      {
+        "title": "Adaptation of an herbivorous arthropod to green tea plants by overcoming catechin defenses",
+        "link": "https://elifesciences.org/articles/110082",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Brendan Abiskaroon",
+          "Maksymilian Chruszcz",
+          "Masanobu Yamamoto",
+          "Naoki Takeda",
+          "Ricardo Hernandez Arriaza",
+          "Ryutaro Murakami",
+          "Shogo Sasaki",
+          "Takeshi Suzuki",
+          "Vladimir Zhurov",
+          "Vojislava Grbic"
+        ],
+        "doi": null,
+        "journal": "eLife",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Green tea catechins protect tea plants from biotic stressors. Among herbivorous mites, the generalist Tetranychus urticae has not been reported as a tea pest. In contrast, some populations of Tetranychus kanzawai thrive on tea plants. Here, we investigated the mechanism of this adaptation. Green tea catechins were repellent and toxic to T. urticae and tea non-adapted T. kanzawai and had an antifeedant effect on the latter. We identified an intradiol ring-cleavage dioxygenase DOG15, a gene horizontally transferred from fungi, as required for the adaptation of T. kanzawai to tea plants. Tea feeding strongly induces DOG15 expression in tea-adapted T. kanzawai, with mRNA and protein levels up to 31.6 and 12.1 times higher than in tea-fed T. urticae. We also identified two amino acid substitutions in DOG15 between the two Tetranychus species that increased the catechin-cleaving activity of the T. kanzawai enzyme. These substitutions predispose T. kanzawai but not T. urticae for the adaptation to tea plants. Inducible expression of modified DOG15 then enables T. kanzawai to efficiently detoxify green tea catechins. Our findings reveal how a horizontally transferred gene can be co-opted through structural and regulatory changes to overcome plant chemical defenses."
+      },
+      {
+        "title": "Transposons contribute to splice-isoform diversity in the Drosophila brain",
+        "link": "https://elifesciences.org/articles/110625",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Christoph Daniel Treiber",
+          "Malak Choucri",
+          "Tina Rainey"
+        ],
+        "doi": null,
+        "journal": "eLife",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "The extraordinary complexity of the brain depends in part on the vast diversity of mRNA isoforms it expresses, often in a cell-type specific manner. In a recent study, we found that intronic transposable elements (TEs) are spliced into neural transcripts and diversify the splice isoform repertoire of neurons and glia (Treiber and Waddell, 2020). A recent paper by Azad et al. revisits these findings using their TIDAL analysis pipeline applied to our published data (Azad et al., 2024). Their analysis did not find any of the splicing reads we reported and although they used RT-PCR to test seven of the 264 TE–gene pairs we had previously reported, they failed to validate TE–gene splicing in any of them. Here, we conduct a quantitative analysis of TE exonisation and show that intronic TE insertions are frequently recruited as alternative exons, with exon usage ranging from rare events to near-complete inclusion in transcripts. We implement this analysis in an improved version of our TEChim software and present clear support for TE–gene splicing at the seven loci tested by Azad et al. We also identify methodological issues in the experimental and computational design of the Azad et al. study that likely explains their failure to detect TE–gene chimeras, while demonstrating that TE–gene splicing can be detected by RT-PCR under appropriate experimental conditions. Together, our data demonstrates that TE splice isoforms are not rare artefacts but measurable and biologically relevant features of the Drosophila brain transcriptome that may contribute to the molecular complexity and functional adaptability of the brain."
+      }
+    ],
+    "Nature Genetics": [
+      {
+        "title": "Integrated QTL mapping and CRISPR screening in pooled iPSC-derived microglia reveals genetic drivers of neurodegenerative risk",
+        "link": "https://www.nature.com/articles/s41588-026-02843-0",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Marta Perez-Alcantara",
+          "Sam J. Washer",
+          "Yixi Chen",
+          "Juliette Steer",
+          "Daianna Gonzalez-Padilla",
+          "Joe McWilliam",
+          "David Willé",
+          "Nikolaos Panousis",
+          "Peep Kolberg",
+          "Elena Navarro-Guerrero",
+          "Kaur Alasoo",
+          "Hazel Hall-Roberts",
+          "Julie Williams",
+          "Sally A. Cowley",
+          "Gosia Trynka",
+          "Andrew R. Bassett"
+        ],
+        "doi": "10.1038/s41588-026-02843-0",
+        "journal": "Nature Genetics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Genetics, Published online: 17 November 2026; doi:10.1038/s41588-026-02843-0This study presents a scalable framework for understanding the genetic determinants of gene expression and cellular phenotype in stem-cell-derived microglia-like cells and linking these to neurodegenerative disease."
+      },
+      {
+        "title": "Evolutionary lineage-specific and heterochromatin-independent repression of transposon-derived sequences",
+        "link": "https://www.nature.com/articles/s41588-026-02823-4",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Wayo Matsushima",
+          "Julien Duc",
+          "Shaoline Sheppard",
+          "Cyril Pulver",
+          "Delphine Grun",
+          "Charlène Raclot",
+          "Romain Forey",
+          "Sandra Offner",
+          "Evarist Planet",
+          "Didier Trono"
+        ],
+        "doi": "10.1038/s41588-026-02823-4",
+        "journal": "Nature Genetics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Genetics, Published online: 17 November 2026; doi:10.1038/s41588-026-02823-4This study identifies SCAN zinc-finger proteins as rapidly evolving transcription factors that target lineage-specific transposable elements and restrict their regulatory activity without canonical repressive chromatin modifications."
+      }
+    ],
+    "Communications Biology": [
+      {
+        "title": "SP6 scaffolds DNA-PKcs and recruits PP2A to license DNA damage repair in human multipotent trophoblasts",
+        "link": "https://www.nature.com/articles/s42003-026-10700-3",
+        "pub_date": "2026-11-17",
+        "authors": [
+          "Yanqing Tang",
+          "Chengtao Gu",
+          "Yufang Lv",
+          "Jiayi Jiang",
+          "Yulong Zhong",
+          "Kunlin Zeng",
+          "Chao Li",
+          "Changmiao Pang",
+          "Shufei Xie",
+          "Qifeng Yang",
+          "Feifan Zhang",
+          "Jinhao Ye",
+          "Xianhua Ye",
+          "Degong Ruan",
+          "Aidong Zhou",
+          "Yanglin Chen",
+          "Liangzhong Sun",
+          "Zhexin Zhu",
+          "Pentao Liu",
+          "Xihe Li",
+          "Xi Chen",
+          "Jin Jin",
+          "Shanshan Ai",
+          "Xuefei Gao"
+        ],
+        "doi": "10.1038/s42003-026-10700-3",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 17 November 2026; doi:10.1038/s42003-026-10700-3SP6 functions as a scaffold for DNA-PK complex assembly and promotes PP2A-mediated dephosphorylation of DNA-PKcs to enable NHEJ DNA repair in human multipotent trophoblast stem cells."
+      }
+    ]
+  }
+}
