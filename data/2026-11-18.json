@@ -1,0 +1,692 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T12:44:15.330851+00:00",
+  "total_journals": 15,
+  "total_articles": 30,
+  "journals": {
+    "Nature Genetics": [
+      {
+        "title": "Regularized ensemble polygenic risk prediction with GWAS summary statistics",
+        "link": "https://www.nature.com/articles/s41588-026-02844-z",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Zijie Zhao",
+          "Stephen Dorn",
+          "Yuchang Wu",
+          "Xiaoyu Yang",
+          "Alexander Beckerman",
+          "Jin Jin",
+          "Qiongshi Lu"
+        ],
+        "doi": "10.1038/s41588-026-02844-z",
+        "journal": "Nature Genetics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Genetics, Published online: 18 November 2026; doi:10.1038/s41588-026-02844-zPUMAS-ensemble combines multiple polygenic risk scores using genome-wide association study summary statistics, improving genetic risk prediction across traits and ancestry groups without requiring individual-level training data."
+      }
+    ],
+    "Nature Reviews Earth & Environment": [
+      {
+        "title": "A multi-sensor approach to monitor trail-running impacts on soil",
+        "link": "https://www.nature.com/articles/s43017-026-00865-0",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Félicien Tenas"
+        ],
+        "doi": "10.1038/s43017-026-00865-0",
+        "journal": "Nature Reviews Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Reviews Earth & Environment, Published online: 18 November 2026; doi:10.1038/s43017-026-00865-0Félicien Tenas explains how a combination of LiDAR, time-lapse imagery and soil moisture sensors are used to monitor soil geomorphology changes during trail running events."
+      },
+      {
+        "title": "The importance of deep time from Hutton to Earth system science",
+        "link": "https://www.nature.com/articles/s43017-026-00853-4",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Chengshan Wang",
+          "Robert M. Hazen",
+          "Michael J. Benton",
+          "Marcia Bjornerud",
+          "Kim A. Cheek",
+          "Sierd Cloetingh",
+          "Robert Frodeman",
+          "Bilal U. Haq",
+          "Vincent Ialenti",
+          "Lee R. Kump",
+          "Timothy M. Lenton",
+          "Dietmar Müller",
+          "Shanan E. Peters",
+          "Zoe Shipton",
+          "Neil Shubin",
+          "Hans Thybo",
+          "Chao Ma"
+        ],
+        "doi": "10.1038/s43017-026-00853-4",
+        "journal": "Nature Reviews Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Reviews Earth & Environment, Published online: 18 November 2026; doi:10.1038/s43017-026-00853-4Modern observations sample only a brief interval of Earth history, limiting tests of Earth system behaviour beyond present conditions. Integrating deep-time evidence with observations and Earth system model results can extend empirical testing across a much wider range of environmental conditions."
+      }
+    ],
+    "Scientific Data": [
+      {
+        "title": "Telomere-to-telomere gap-free genome assembly of ancient Morus alba var. multicaulis (Perr.) Loudon from the Yellow River Old Course",
+        "link": "https://www.nature.com/articles/s41597-026-08735-6",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Qiong Liu",
+          "Feng-Jie Gu",
+          "Sha-Sha Zhai",
+          "Lei Wang",
+          "Ying-Peng Wu",
+          "Xue-Yan Zhao",
+          "Qi Jing",
+          "Sheng-Ling Ren",
+          "Zhi-Cheng Wu",
+          "Ji-Tong Chen",
+          "Ji-Mang Zhang",
+          "Yu-Tong Zhao",
+          "En-Teng Wang",
+          "Ling-Yun Zhang",
+          "Dan Liu"
+        ],
+        "doi": "10.1038/s41597-026-08735-6",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 18 November 2026; doi:10.1038/s41597-026-08735-6Telomere-to-telomere gap-free genome assembly of ancient Morus alba var. multicaulis (Perr.) Loudon from the Yellow River Old Course"
+      }
+    ],
+    "Biogeosciences": [
+      {
+        "title": "Verification of coastal enhanced weathering by tracking the dissolution of alkaline minerals: theory and laboratory tests with olivine",
+        "link": "https://doi.org/10.5194/bg-23-8421-2026",
+        "pub_date": "2026-11-18",
+        "authors": [],
+        "doi": null,
+        "journal": "Biogeosciences",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Verification of coastal enhanced weathering by tracking the dissolution of alkaline minerals: theory and laboratory tests with olivine Alexander Milde and Lennart T. Bach Biogeosciences, 23, 8421–8435, https://doi.org/10.5194/bg-23-8421-2026, 2026 Adding specific types of finely ground rock to the ocean is a way to accelerate a natural process that removes carbon dioxide from the atmosphere. We looked at whether it is possible to use fluorescent sand grains to measure how much of the rock added to the ocean has dissolved, and therefore how much carbon will eventually be removed from the atmosphere. We found that fluorescent sand grains likely can be used this way, however it will take a lot more work to refine the process."
+      }
+    ],
+    "Nature Communications": [
+      {
+        "title": "Lysine-R2HGylation-C5 identified as a post-translational modification in R2HG-elevated cancers",
+        "link": "https://www.nature.com/articles/s41467-026-79668-2",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Qian Zhao",
+          "Peiwu Huang",
+          "Changhao Yuan",
+          "Peng Xia",
+          "Qiang-Shuai Gu",
+          "Tonghua Yang",
+          "Xiang David Li",
+          "Ruijun Tian",
+          "Dan Yang"
+        ],
+        "doi": "10.1038/s41467-026-79668-2",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 18 November 2026; doi:10.1038/s41467-026-79668-2R-2-hydroxyglutarate is a cancer-linked metabolite whose mechanisms are incompletely understood. Here, the authors identify and structurally characterize lysineR2HGylation as a protein modification and develop probes that reveal GSTP1 as a functional target in leukemia cells."
+      },
+      {
+        "title": "A revised genome annotation of the model cyanobacterium Synechocystis based on start and stop codon-enriched ribosome profiling and proteogenomics",
+        "link": "https://www.nature.com/articles/s41467-026-79174-5",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Lydia Hadjeras",
+          "Vanessa Krauspe",
+          "Rick Gelhausen",
+          "Benjamin Heiniger",
+          "Philipp Spät",
+          "Viktoria Reimann",
+          "Garance Jaques",
+          "Paul Minges",
+          "Raphael Bilger",
+          "Maren Gerstner",
+          "Boris Maček",
+          "Christian H. Ahrens",
+          "Rolf Backofen",
+          "Cynthia M. Sharma",
+          "Wolfgang R. Hess"
+        ],
+        "doi": "10.1038/s41467-026-79174-5",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 18 November 2026; doi:10.1038/s41467-026-79174-5Information on protein-coding segments in a genome is frequently incomplete and genes encoding very short proteins are often overlooked. Here, the authors present a riboproteogenomic approach. The results support the existence of many additional protein-coding sequences in a model cyanobacterium."
+      },
+      {
+        "title": "VapC40 diverts autophagic flux from xenophagy to mitophagy via ammonia-dependent metabolic toxicity",
+        "link": "https://www.nature.com/articles/s41467-026-79313-y",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Xin Ge",
+          "Dingpu Liu",
+          "Haoran Wang",
+          "Yuhui Dong",
+          "Lin Li",
+          "Yifan Duan",
+          "Puxiu Shen",
+          "Yue Li",
+          "Jiaming Zhang",
+          "Yicheng Sun",
+          "Hairong Huang",
+          "Xiangmei Zhou",
+          "Ruichao Yue"
+        ],
+        "doi": "10.1038/s41467-026-79313-y",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 18 November 2026; doi:10.1038/s41467-026-79313-yIn this work, the authors show that a bacterial virulence factor from Mycobacterium bovis rewires nitrogen metabolism in infected immune cells, producing ammonia that damages lysosomes and mitochondria and allows the bacteria to avoid destruction."
+      },
+      {
+        "title": "Superionicity and premelting of iron-rich (Fe,Mg)O at Earth’s core-mantle boundary",
+        "link": "https://www.nature.com/articles/s41467-026-79523-4",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Wei Zhang",
+          "Tao Wang",
+          "Guilin Liu",
+          "Zhongfa Zhou",
+          "Duck Young Kim",
+          "Yu He"
+        ],
+        "doi": "10.1038/s41467-026-79523-4",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 18 November 2026; doi:10.1038/s41467-026-79523-4Zhang et al. find that oxygen moves rapidly through iron-rich oxides near melting, lowering viscosity and enhancing element transport at Earth’s core-mantle boundary, with implications for ultralow-velocity zones."
+      },
+      {
+        "title": "An ingestible, bio-inspired self-powered electrocapsule for in situ ethanol clearance mitigates systemic and neurobehavioral toxicity",
+        "link": "https://www.nature.com/articles/s41467-026-79347-2",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Yiran Pu",
+          "Wenqi Wei",
+          "Yuanmeng He",
+          "Kai Yong",
+          "Mei Chen",
+          "Yajing Zhang",
+          "Yue Wu",
+          "Jiaxin Long",
+          "Yunxiang He",
+          "Gonghua Hong",
+          "Hao Wu",
+          "Junling Guo"
+        ],
+        "doi": "10.1038/s41467-026-79347-2",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 18 November 2026; doi:10.1038/s41467-026-79347-2Alcohol intoxication remains a leading cause of death and accidents. Here, the authors develop a self-powered electrocapsule that enables local intestinal ethanol conversion, reducing systemic ethanol exposure and associated toxicity in rats."
+      },
+      {
+        "title": "4D printing of multi-state pH-responsive microstructures",
+        "link": "https://www.nature.com/articles/s41467-026-79348-1",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "H. B. Duc Tran",
+          "Philipp Mainik",
+          "Santiago Gomez Melo",
+          "Lilliana Flórido Martins",
+          "Ulrich S. Schwarz",
+          "Christoph A. Spiegel",
+          "Eva Blasco"
+        ],
+        "doi": "10.1038/s41467-026-79348-1",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 18 November 2026; doi:10.1038/s41467-026-79348-1Deep eutectic systems (DESs) are emerging versatile functional materials for 3D printing. Here, the authors demonstrate the fabrication of multi-state pH-responsive microactuators based on polymerizable DESs using multiphoton 3D laser printing."
+      },
+      {
+        "title": "Chromosomally unstable cancer cells exhibit heightened dependence on the mitotic SKA complex",
+        "link": "https://www.nature.com/articles/s41467-026-79311-0",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Maud Schoot Uiterkamp",
+          "Elsa S. Coolen",
+          "Klaas de Lint",
+          "Adi Tarrab",
+          "Kruno Vukušić",
+          "Davy Rockx",
+          "Martin A. Rooimans",
+          "Tess de Kleijn",
+          "Iris J. Harmsen",
+          "Rodrigo Leite de Oliveira",
+          "Floris Foijer",
+          "René H. Medema",
+          "Iva M. Tolić",
+          "Uri Ben-David",
+          "Rob M. F. Wolthuis",
+          "Gerben Vader"
+        ],
+        "doi": "10.1038/s41467-026-79311-0",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 18 November 2026; doi:10.1038/s41467-026-79311-0Targeting chromosome segregation in chromosomally unstable cancer cells holds promise for anti-cancer therapy. Here, Schoot Uiterkamp et al. identify the mitotic SKA complex as a potential target to combat chromosomally aberrant cancer."
+      },
+      {
+        "title": "GTP hydrolysis by Ras proceeds without a stabilized nucleophilic water molecule",
+        "link": "https://www.nature.com/articles/s41467-026-79248-4",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Takashi Kawamura",
+          "Wakako Fujimoto-Sakisaka",
+          "Yoshiteru Makino",
+          "Shigeyuki Matsumoto",
+          "Tatsuya Ohyama",
+          "Yoko Yoshikawa",
+          "Chiduru Watanabe",
+          "Fangjia Luo",
+          "Taisuke Horikawa",
+          "Yuto Nagoshi",
+          "Kyohei Soga",
+          "Tomoyuki Tanaka",
+          "Rie Tanaka",
+          "Shigeki Owada",
+          "Kensuke Tono",
+          "Kazuya Hasegawa",
+          "Hitomi Yuki",
+          "Morihito Okada",
+          "Ryosuke Matsubara",
+          "Atsuo Tamura",
+          "Teruki Honma",
+          "Shigeki Kiyonaka",
+          "So Iwata",
+          "Eriko Nango",
+          "Takashi Kumasaka",
+          "Fumi Shima"
+        ],
+        "doi": "10.1038/s41467-026-79248-4",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 18 November 2026; doi:10.1038/s41467-026-79248-4Ras proteins switch off by hydrolyzing GTP, but the structural pathway remains unclear. Here, authors use time-resolved crystallography to show that Ras can convert from state 1 directly to GDP without adopting state 2."
+      }
+    ],
+    "Nature Food": [
+      {
+        "title": "Towards a more nuanced interpretation of cardiovascular nutrition science",
+        "link": "https://www.nature.com/articles/s43016-026-01473-3",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Arne Astrup",
+          "Ronald M. Krauss",
+          "Faidon Magkos",
+          "Carlo Agostoni",
+          "James O. Hill"
+        ],
+        "doi": "10.1038/s43016-026-01473-3",
+        "journal": "Nature Food",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Food, Published online: 18 November 2026; doi:10.1038/s43016-026-01473-3The debate over saturated fat continues to dominate cardiovascular nutrition, despite growing recognition that foods, dietary patterns and food matrices matter more than isolated nutrients. The continued treatment of saturated fat as a single biological entity may divert attention from the characteristics of foods and dietary patterns that truly determine cardiovascular risk."
+      }
+    ],
+    "Nature Methods": [
+      {
+        "title": "Transforming molecular evolutionary analyses with protein foundation models",
+        "link": "https://www.nature.com/articles/s41592-026-03304-6",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Sudhir Kumar",
+          "Rohan Alibutud",
+          "John B. Allard",
+          "Mohammad E. Mowlaei",
+          "Xinghua Shi"
+        ],
+        "doi": "10.1038/s41592-026-03304-6",
+        "journal": "Nature Methods",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Methods, Published online: 18 November 2026; doi:10.1038/s41592-026-03304-6This Perspective traces the history of evolutionary analysis from early substitution matrices to coevolutionary models and proposes that protein foundation models complement classical statistical models by enabling single-sequence evolutionary analysis and will shift the field from modeling independent residue differences to studying the evolution of residue dependencies."
+      },
+      {
+        "title": "A zero-shot spillover denoiser for highly multiplexed images",
+        "link": "https://www.nature.com/articles/s41592-026-03263-y",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Jason Lequyer",
+          "Ferris Nowlan",
+          "Wen-Hsin Hsu",
+          "Reuben Philip",
+          "Anna Christina Erpf",
+          "Angela M. Y. Chan",
+          "Christine Tran",
+          "Ben X. Wang",
+          "Zoltan Maliga",
+          "Hartland Warren Jackson",
+          "Laurence Pelletier"
+        ],
+        "doi": "10.1038/s41592-026-03263-y",
+        "journal": "Nature Methods",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Methods, Published online: 18 November 2026; doi:10.1038/s41592-026-03263-ySpillOT is a zero-shot denoising and spillover correction tool for multiplexed imaging data."
+      }
+    ],
+    "Communications Biology": [
+      {
+        "title": "Bomb-radiocarbon validated otoliths reveal 130-year lifespans and declining recruitment for blue sucker Cycleptus elongatus of the Upper Missouri River, Montana, USA",
+        "link": "https://www.nature.com/articles/s42003-026-11219-3",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Alec R. Lackmann",
+          "Allen H. Andrews",
+          "Luke M. Holmquist",
+          "Negar Haghipour",
+          "Grant Grisak",
+          "Molly A. H. Webb",
+          "Mark E. Clark",
+          "Zachary R. Shattuck"
+        ],
+        "doi": "10.1038/s42003-026-11219-3",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 18 November 2026; doi:10.1038/s42003-026-11219-3Bomb-radiocarbon validated otoliths reveal 130-year lifespans and declining recruitment for blue sucker Cycleptus elongatus of the Upper Missouri River, Montana, USA"
+      }
+    ],
+    "Water Research": [
+      {
+        "title": "Dynamic ice-to-water transport controls the fate of PFAS in a seasonally ice-covered lake: Integrating laboratory-derived transport rates into a modified QWASI fugacity model.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43044428/",
+        "pub_date": null,
+        "authors": [
+          "Li H",
+          "Liu Y",
+          "Shi X",
+          "Lu J",
+          "Guo J"
+        ],
+        "doi": "10.1016/j.watres.2026.127350",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43044428",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Seasonal lake ice fundamentally alters the transport of per- and polyfluoroalkyl substances (PFAS), but the mechanisms governing their ultimate fate remain poorly understood. In this study, we integrated field monitoring, laboratory freezing experiments, and a modified QWASI fugacity model to quantify the dynamic transport of PFOA, PFOS, PFBA, and PFBS among ice, water, and sediments in Wuliangsuhai Lake during the continuous ice-growth period. The model explicitly incorporated experimentally derived ice-to-water transport rates of PFAS together with dynamically varying ice and water volumes. Field observations showed that PFAS concentrations in ice were only 38.1-77.7% of those in under-ice water, while laboratory experiments demonstrated that the ice-to-water transport increased with the growth rate of ice and was consistently greater for PFBA and PFBS than for PFOA and PFOS. The observations agreed well with the model predictions, with relative errors not exceeding 23.05% for all of the media. Simulations suggested that long-chain PFAS were predominantly transferred to sediments through particle-associated processes, whereas short-chain PFAS remained in the aqueous phase due to enhanced ice-to-water transport and weaker particle partitioning. The findings demonstrate that the growth of lake ice reshapes PFAS transport pathways by establishing the ice-water interface as a key transport boundary governing PFAS redistribution among environmental media, thereby providing a mechanistic basis for predicting contaminant fate and environmental risks in seasonally ice-covered lakes."
+      },
+      {
+        "title": "Component-specific roles of freshwater dissolved organic matter in regulating PFAS partitioning between water and SPM.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43044427/",
+        "pub_date": null,
+        "authors": [
+          "Yu L",
+          "Shi W",
+          "Ma W",
+          "Guo W",
+          "Hua Z",
+          "Xing X",
+          "Zhu X"
+        ],
+        "doi": "10.1016/j.watres.2026.127351",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43044427",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "The amphiphilicity of per- and polyfluoroalkyl substances (PFASs) facilitates their transport in both the dissolved phase and suspended particulate matter (SPM). However, the effects of component-specific freshwater dissolved organic matter (DOM) on PFAS water-SPM partitioning remain poorly known. This study examined 19 PFASs and DOM components at 123 sampling sites across a sub-watershed of the lower Yangtze River, clarifying the varying impacts of fluorescent-specific DOM on the partitioning of PFASs. The findings revealed four DOM components, with microbial humic-like C1 and tryptophan-like C3 predominating, indicating strong microbial and autochthonous influences alongside spatially variable terrestrial inputs. PFASs were ubiquitous in both phases, with about one-fifth of the water-volume-equivalent burden present in the SPM on a median basis. The loading of some long-chain PFASs in SPM even exceeded those detected in the operationally dissolved phase. PFOA and PFBA dominated the dissolved phase, whereas PFHxA and PFHpS predominated in SPM; major hotspots occurred in the western and northwestern QRB. Long-chain PFASs generally exhibited stronger particle affinity, but elevated upper-tail log Kd for PFHxA and PFHpA partly weakened the overall chain-length dependence. DOM components exhibited component-specific associations with PFAS partitioning behaviors, with greater correlations observed for protein-like than humic-like components. Specifically, tryptophan-like C3 exhibited a negative association with log Kd, possibly facilitating PFAS solubility, whereas the mixed protein- and fulvic-like C4 enhanced the partitioning affinity of PFASs to SPM, likely through DOM-mediated co-sorption and colloid-particle coupling. In contrast, there was no significant correlation identified between humic-like C1/C2 and PFAS log Kd. These findings underscore the significance of considering DOM components when evaluating the behaviors and fate of PFASs in aquatic ecosystems."
+      },
+      {
+        "title": "Thermally activated regeneration of spent LiFePO(4) with a nitrogen and phosphorus co-doped carbon layer for lithium extraction from salt-lake brine.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43044431/",
+        "pub_date": null,
+        "authors": [
+          "Bao Y",
+          "Pan Y",
+          "Da Y",
+          "Wang H",
+          "Miao L",
+          "Li K",
+          "An X",
+          "Fu Y",
+          "Chen W"
+        ],
+        "doi": "10.1016/j.watres.2026.127333",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43044431",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Spent LiFePO4 (S-LFP) cathodes and Mg-rich salt-lake brines are conventionally handled by separate industries. Here, S-LFP powder was converted into a lithium-selective electrode for hybrid capacitive deionization (HCDI) through a two-stage thermal treatment with LiOH·H2O and discarded cooked egg yolk, which couples lithium replenishment with the growth of an N,P-co-doped carbon shell. In the optimized material, R-LFP@CNP20, the Li/Fe molar ratio recovered from 0.87 to 1.05, the heterosite FePO4 reflections disappeared, and a locally 2-4 nm carbon coating formed. In 1 M LiCl, R-LFP@CNP20 delivered 157.4 mAh g-1 at 1 C and 121.8 mAh g-1 at 10 C, showed the lowest charge-transfer resistance (1.66 Ω) and retained 92.9% of its capacity after 120 cycles at 10 C. In HCDI, it captured 6.46 mg g-1 Li+ from an 8.18 mg L⁻¹ feed with the lowest adsorption-step energy consumption of the series. It retained 70.3% of its adsorption capacity after 100 cycles and released 52.8% less Fe than S-LFP, and anode-replacement tests indicated a substantial counter-electrode contribution to full-cell decay. In Qinghai brine with a Mg/Li molar ratio of 9.9, the Li/Mg separation factor reached 7.42, and the Li fraction of the adsorbed cations increased from 9.0 to 41.2 mol%. Redirecting regenerated S-LFP to lithium extraction therefore connects spent-battery recycling with salt-lake lithium recovery, with Mg co-uptake and counter-electrode durability identified as the main remaining constraints."
+      }
+    ],
+    "Nature": [
+      {
+        "title": "How to make AI data centres more sustainable",
+        "link": "https://www.nature.com/articles/d41586-026-03708-6",
+        "pub_date": "2026-11-18",
+        "authors": [],
+        "doi": "10.1038/d41586-026-03708-6",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03708-6Tech companies and governments face opposition over data centres’ expansion, in part because of their huge power requirements. They must not be powered with fossil fuels."
+      },
+      {
+        "title": "At-home microbiome tests are taking off. Can they be trusted?",
+        "link": "https://www.nature.com/articles/d41586-026-03710-y",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Amber Dance"
+        ],
+        "doi": "10.1038/d41586-026-03710-y",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03710-yOur reporter mailed off her poo to find out what two companies say about her microbiome. Here’s what she found."
+      }
+    ],
+    "Nature Water": [
+      {
+        "title": "Unveiling the sulfammox paradox through cryptic oxygen permeation driving ammonia oxidation over presumed sulfate reduction",
+        "link": "https://www.nature.com/articles/s44221-026-00738-2",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Fumin Zuo",
+          "Qianwen Sui",
+          "Dawei Yu",
+          "Junya Zhang",
+          "Qihe Tang",
+          "Shihao Song",
+          "Yuansong Wei"
+        ],
+        "doi": "10.1038/s44221-026-00738-2",
+        "journal": "Nature Water",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Water, Published online: 18 November 2026; doi:10.1038/s44221-026-00738-2This study shows that ammonia oxidation in the proposed sulfammox process occurs independently of sulfate reduction and is instead associated with an oxygen-permeation-driven nitrification–anammox cascade under micro-oxic conditions."
+      }
+    ],
+    "Microbiological Research": [
+      {
+        "title": "Learning from nature: What non-native halophilic and halotolerant bacteria reveal about root immunity under salt stress.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43044247/",
+        "pub_date": null,
+        "authors": [
+          "Ahmadi F"
+        ],
+        "doi": "10.1016/j.micres.2026.128827",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43044247",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Soil salinity is increasingly recognised as one of the main limits to crop production worldwide, yet attempts to use halophilic and halotolerant plant growth-promoting bacteria in saline agriculture have produced mixed and often disappointing results, particularly when strains are moved onto non-native host plants. In this review, the literature is brought together to examine how such non-native halophilic and halotolerant bacteria behave at the root-soil interface under salt stress, and which molecular, physiological, and ecological factors determine whether they are rejected by, or can pass through, plant defence barriers. The article first summarises how salinity reshapes root immune organisation, from root system architecture and cell-wall properties to redox homeostasis and ABA-SA-JA signalling, and how these changes open and close specific spatial and temporal windows for microbial entry, recognition and persistence. Plant immune responses to native and non‑native halophilic bacteria are compared, revealing that differences in MAMP perception, PTI dynamics, and host-microbe feedback determine host preference and colonisation in saline rhizospheres. These findings are summarised in a mechanistic model describing six main bacterial tactics that modulate recognition, signalling, oxidative stress, hormonal balance, and cell‑wall-apoplast properties to evade or adjust host immunity. Looking across different plant-bacteria pairs and experimental setups, the review discusses why promising halophilic inoculants so often fail when transferred to new hosts, which trait combinations are repeatedly associated with successful non-native colonisation, and where the major gaps remain in in planta and systems-level evidence. Together, these points are used to argue that future microbiome-based strategies for salt-affected soils need to be designed around plant immune architecture, salinity-induced physiological states and ecological fit, rather than relying only on generic stress-alleviating traits."
+      }
+    ],
+    "Briefings in Bioinformatics": [
+      {
+        "title": "ANCHOR: AI-NGS consensus hierarchy for optimized refinement of high-affinity binders from affinity maturation",
+        "link": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag639/9085576?rss=1",
+        "pub_date": "2026-11-18",
+        "authors": [],
+        "doi": "10.1093/bib/bbag639",
+        "journal": "Briefings in Bioinformatics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "AbstractAffinity maturation for the systematic discovery of high-affinity protein reagents remains a major challenge in display-based protein engineering, largely because phenotypic enrichment frequently fails to correlate with true binding affinity. To improve candidate identification, we developed ANCHOR, an artificial intelligence (AI) and next-generation sequencing (NGS) consensus hierarchy for optimized refinement that implements a score-decoupled, two-stage strategy. Enrichment-trained classifier and regression models are used to construct a candidate pool, from which group-specific consensus sequences are subsequently derived without ranking candidates solely by individual model scores. Using the phosphotyrosine-binding Fyn SH2 domain as a model system, the two models achieved strong performance on untouched independent test sets (classification area under the receiver operating characteristic curve (AUROC) = 0.974; regression Pearson’s r = 0.870). By leveraging a biopanning-guided filter, ANCHOR reduced the searchable sequence space by approximately four orders of magnitude while maintaining a ~90% overlap with exhaustive screening and retained 297 enrichment-predicted variants. These variants were grouped by residue identity at the least-conserved position (P4) and consensus sequences were derived within each group. Among the 16 evaluable consensus variants, 9 (56%) matched or exceeded the affinity of TrM, a previously established 100-fold-improved superbinder, with several showing a two-fold further improvement. Exploratory analyses using a structural proxy indicated robustness to parameter choices and a higher observed hit rate for ANCHOR than for the evaluated alternatives. Application to a public anti-HER2 scFv yeast-display NGS dataset demonstrated computational portability across datasets and library designs. Collectively, ANCHOR provides a practical framework for prioritizing affinity-maturation candidates from display-derived NGS data."
+      },
+      {
+        "title": "Rethinking long-read haplotype phasing evaluation with Phasing F1-score",
+        "link": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag634/9085567?rss=1",
+        "pub_date": "2026-11-18",
+        "authors": [],
+        "doi": "10.1093/bib/bbag634",
+        "journal": "Briefings in Bioinformatics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "AbstractHaplotype phasing is central to genomic analysis and molecular diagnosis because whether variants occur in cis or in trans can strongly influence their functional and clinical consequences. Although long-read sequencing has substantially improved haplotype phasing, evaluation of long-read phasing algorithms still relies on conventional metrics, including switch error rate, Hamming error rate, block NG50 and phase percentage. Here we show that these metrics have fundamental limitations: they lack direct biological or clinical interpretability, can yield ambiguous rankings, and can even be artificially optimized by methods that produce biologically uninformative results. To address these limitations, we introduce Phasing F1-score, a single interpretable metric that quantifies how accurately and completely a method recovers pairwise phase relationships between heterozygous variants, which is relevant to identifying compound heterozygosity. Phasing F1-score integrates multiple aspects of performance, including phasing accuracy, contiguity and completeness, into a single measure, enables unambiguous comparison of phasing algorithms and is robust against artificial manipulation. We further developed PIE, a parallel toolkit for efficient computation of Phasing F1-score and region-specific phasing evaluation, and used it to benchmark major long-read phasing algorithms across 38 datasets from Oxford Nanopore and PacBio HiFi platforms. Our results show that phasing performance varies across genomic regions, highlighting the need for region-specific method selection. To support practical applications, we developed PieStore, a database for querying region-specific phasing performance and selecting the most suitable phasing algorithm. Together, this work establishes Phasing F1-score as a robust and interpretable framework for haplotype phasing evaluation and provides PieStore as a practical resource."
+      }
+    ],
+    "Communications Earth & Environment": [
+      {
+        "title": "Disentangling positional change from intensity in the palaeoclimate reconstruction of circulation patterns",
+        "link": "https://www.nature.com/articles/s43247-026-04134-2",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Edward C. G. Forman",
+          "Zoë A. Thomas",
+          "Paul D. M. Hughes",
+          "Mark D. Peaple"
+        ],
+        "doi": "10.1038/s43247-026-04134-2",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 18 November 2026; doi:10.1038/s43247-026-04134-2Conventional proxy-based reconstructions risk conflating positional shifts with intensity changes of circulation patterns, spatial networks and dimension-specific proxies can be used to separate these compounding effects."
+      }
+    ],
+    "Nature Ecology & Evolution": [
+      {
+        "title": "Author Correction: Convergent resistance to GABA receptor neurotoxins through plant–insect coevolution",
+        "link": "https://www.nature.com/articles/s41559-026-03261-5",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Lei Guo",
+          "Xiaomu Qiao",
+          "Dilêr Haji",
+          "Tianhao Zhou",
+          "Zhihan Liu",
+          "Noah K. Whiteman",
+          "Jia Huang"
+        ],
+        "doi": "10.1038/s41559-026-03261-5",
+        "journal": "Nature Ecology & Evolution",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Ecology & Evolution, Published online: 18 November 2026; doi:10.1038/s41559-026-03261-5Author Correction: Convergent resistance to GABA receptor neurotoxins through plant–insect coevolution"
+      },
+      {
+        "title": "The legacy of agriculture on human genome regulation",
+        "link": "https://www.nature.com/articles/s41559-026-03199-8",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Isar Nassiri"
+        ],
+        "doi": "10.1038/s41559-026-03199-8",
+        "journal": "Nature Ecology & Evolution",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Ecology & Evolution, Published online: 18 November 2026; doi:10.1038/s41559-026-03199-8A study of 1,092 contemporary individuals questions the notion that the shift to agriculture necessarily resulted in a substantially higher pathogen burden, and suggests instead that there were concurrent regulatory changes in both immune and metabolically active tissues."
+      },
+      {
+        "title": "Genomic signatures of recent human adaptation to the foraging-to-farming transition",
+        "link": "https://www.nature.com/articles/s41559-026-03227-7",
+        "pub_date": "2026-11-18",
+        "authors": [
+          "Bridget Chak",
+          "Evan Wu",
+          "George H. Perry",
+          "Nathaniel J. Dominy",
+          "Anne Dumaine",
+          "David Enard",
+          "Raúl Aguirre-Gamboa",
+          "Etienne Patin",
+          "Lluís Quintana-Murci",
+          "Brenna M. Henn",
+          "Marlo Moller",
+          "Justin Myrick",
+          "Akmel Negash",
+          "Paul J. Norman",
+          "Brooke Scelza",
+          "Caitlin Uren",
+          "Nicole Shedd",
+          "Zhiping Weng",
+          "Ruwandi Ranasinghe",
+          "Niraj Rai",
+          "Jonathan K. Pritchard",
+          "Maanasa Raghavan",
+          "Luis B. Barreiro"
+        ],
+        "doi": "10.1038/s41559-026-03227-7",
+        "journal": "Nature Ecology & Evolution",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Ecology & Evolution, Published online: 18 November 2026; doi:10.1038/s41559-026-03227-7Here the authors assess genomic changes spanning the transition to farming with whole-genome sequences from 1,092 individuals. They find positive selection on genes associated with immune function and convergent adaptations across all groups, despite their genetic and geographic diversity."
+      }
+    ]
+  }
+}
