@@ -1,0 +1,599 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T12:20:21.334106+00:00",
+  "total_journals": 5,
+  "total_articles": 27,
+  "journals": {
+    "Microbiological Research": [
+      {
+        "title": "Forsythiaside A enhances host defense against Pseudomonas aeruginosa pneumonia by modulating gut microbiota-derived indole-3-lactic acid and AhR signaling.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43067215/",
+        "pub_date": null,
+        "authors": [
+          "Chen Y",
+          "Ding J",
+          "Zhang Y",
+          "Liu J",
+          "Lan Y",
+          "Fan X",
+          "Ji T",
+          "Han Y",
+          "Lin Y",
+          "Jiang J"
+        ],
+        "doi": "10.1016/j.micres.2026.128838",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43067215",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Pseudomonas aeruginosa pneumonia poses a major clinical challenge due to its high pathogenicity and rising antibiotic resistance. Forsythiae Fructus has long been used in traditional Chinese medicine for treating lung diseases, particularly bacterial pneumonia. However, whether its major bioactive constituent, forsythiaside A (FA), exerts therapeutic effects against P. aeruginosa-induced pneumonia and the underlying mechanisms remain unclear. In this study, we evaluated the protective effect of FA in a PAO1-induced murine pneumonia model. Although FA exhibited negligible direct antibacterial activity in vitro, it markedly alleviated pulmonary infection and lung injury in vivo, indicating a host-directed protection. Furthermore, depletion of the gut microbiota by antibiotics attenuated the therapeutic effect of FA, whereas fecal microbiota transplantation from FA-treated mice improved disease outcomes, highlighting the crucial role of the gut microbiota in FA mediated protection. 16S rRNA sequencing and untargeted metabolomics analysis showed that FA reshaped the gut microbiota, leading to the enrichment of Limosilactobacillus reuteri and increased production of the tryptophan-derived metabolite indole-3-lactic acid (ILA). Mechanistically, ILA activated AhR signaling pathway in macrophages to upregulate CYP1A1 and CYP1B1 expressions, which in turn triggered intracellular ROS generation and ultimately enhanced macrophage-mediated bacterial killing. Moreover, combining FA with polymyxin B improved therapeutic efficacy against P. aeruginosa-induced pneumonia. Collectively, these findings demonstrate that FA protects against P. aeruginosa pneumonia through a novel gut microbiota dependent, host-directed mechanism, highlighting its potential as a therapeutic candidate for bacterial pneumonia."
+      }
+    ],
+    "Scientific Data": [
+      {
+        "title": "LangFabric: A Language-Annotated Multimodal Fabric Dataset for Fabric Defect Detection",
+        "link": "https://www.nature.com/articles/s41597-026-08651-9",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Yan-Qin Ni",
+          "Pei-Kai Huang",
+          "Tz-Gang Wang",
+          "Wei-Jen Wang",
+          "Deron Liang",
+          "Chia-Yu Lin"
+        ],
+        "doi": "10.1038/s41597-026-08651-9",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 22 November 2026; doi:10.1038/s41597-026-08651-9LangFabric: A Language-Annotated Multimodal Fabric Dataset for Fabric Defect Detection"
+      },
+      {
+        "title": "A dataset of bullet impact images for ballistic trajectory reconstruction in crime scene investigation using Deep Learning",
+        "link": "https://www.nature.com/articles/s41597-026-08657-3",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Silvia Fábregues-Pons",
+          "Jorge Pérez-Aracil",
+          "José Luis Ferrando",
+          "Pedro Solís",
+          "Consuelo Cid",
+          "Sancho Salcedo-Sanz"
+        ],
+        "doi": "10.1038/s41597-026-08657-3",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 22 November 2026; doi:10.1038/s41597-026-08657-3A dataset of bullet impact images for ballistic trajectory reconstruction in crime scene investigation using Deep Learning"
+      },
+      {
+        "title": "Gridded data of pastoralist and agro-pastoralist population distribution across Africa",
+        "link": "https://www.nature.com/articles/s41597-026-08351-4",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "John Mutua",
+          "Nathaniel Jensen",
+          "Reason Mlambo",
+          "Gary R. Watmough"
+        ],
+        "doi": "10.1038/s41597-026-08351-4",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 22 November 2026; doi:10.1038/s41597-026-08351-4Gridded data of pastoralist and agro-pastoralist population distribution across Africa"
+      },
+      {
+        "title": "Vehicle registrations, socioeconomic and political data to understand electric vehicle adoption in Alabama",
+        "link": "https://www.nature.com/articles/s41597-026-08641-x",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Mesut Yavuz",
+          "Matthew Hudnall"
+        ],
+        "doi": "10.1038/s41597-026-08641-x",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 22 November 2026; doi:10.1038/s41597-026-08641-xVehicle registrations, socioeconomic and political data to understand electric vehicle adoption in Alabama"
+      },
+      {
+        "title": "An N-of-1 longitudinal and multimodal physiological dataset from para-handcycling training and endurance competition",
+        "link": "https://www.nature.com/articles/s41597-026-08691-1",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Elisabetta Spinazzola",
+          "Luciano Prono"
+        ],
+        "doi": "10.1038/s41597-026-08691-1",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 22 November 2026; doi:10.1038/s41597-026-08691-1An N-of-1 longitudinal and multimodal physiological dataset from para-handcycling training and endurance competition"
+      },
+      {
+        "title": "A Large-Scale In Vivo Ultrasound Localization Microscopy Dataset of the Mouse Brain for Microvascular Imaging",
+        "link": "https://www.nature.com/articles/s41597-026-08523-2",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Brice Rauby",
+          "Nin Ghigo",
+          "Gerardo Ramos-Palacios",
+          "Alexis Leconte",
+          "Stephen A. Lee",
+          "Alice Wu",
+          "Paul Xing",
+          "Oleksandra Gulenko",
+          "Louis Caron",
+          "Antoine Malescot",
+          "Eric Martineau",
+          "Jonathan Porée",
+          "Maxime Gasse",
+          "Ravi L. Rungta",
+          "Abbas F. Sadikot",
+          "Jean Provost"
+        ],
+        "doi": "10.1038/s41597-026-08523-2",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 22 November 2026; doi:10.1038/s41597-026-08523-2A Large-Scale In Vivo Ultrasound Localization Microscopy Dataset of the Mouse Brain for Microvascular Imaging"
+      },
+      {
+        "title": "Spin-Polarised Electronic Structure and Chemical Bonding Data for 2,500+ Halide Double Perovskites",
+        "link": "https://www.nature.com/articles/s41597-026-08649-3",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Luc Walterbos",
+          "Alex McEwan",
+          "Ravindra Shinde",
+          "Janine George",
+          "Linn Leppert"
+        ],
+        "doi": "10.1038/s41597-026-08649-3",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 22 November 2026; doi:10.1038/s41597-026-08649-3Spin-Polarised Electronic Structure and Chemical Bonding Data for 2,500+ Halide Double Perovskites"
+      },
+      {
+        "title": "Wide Angle X-Ray Scattering Data Set of Gypsum Compounds",
+        "link": "https://www.nature.com/articles/s41597-026-08677-z",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Markus Wilhelm",
+          "Frank Lotter",
+          "Bastian Engelmann"
+        ],
+        "doi": "10.1038/s41597-026-08677-z",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 22 November 2026; doi:10.1038/s41597-026-08677-zWide Angle X-Ray Scattering Data Set of Gypsum Compounds"
+      }
+    ],
+    "Nature Communications": [
+      {
+        "title": "Electrically induced glass transition of polyelectrolyte complexes enables kinetic ionic diodes",
+        "link": "https://www.nature.com/articles/s41467-026-79559-6",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Chankyu Kim",
+          "Chan-Hyuk Jeon",
+          "Jowon Shin",
+          "Younghoon Kim",
+          "Owen A. Lee",
+          "Ryan C. Hayward",
+          "Hyeong Jun Kim"
+        ],
+        "doi": "10.1038/s41467-026-79559-6",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79559-6The glass transition induces changes in material properties, transforming a rigid glass into a soft rubber. Here the authors demonstrate an electrically induced glass transition in a polyelectrolyte complex, sandwiched between two oppositely charged ionoelastomers and applying time-temperature-salt superposition principle."
+      },
+      {
+        "title": "The genetic and proteomic determinants of pediatric stature development and their link to adult height and type 2 diabetes",
+        "link": "https://www.nature.com/articles/s41467-026-79465-x",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "N. Fragoso-Bargas",
+          "AE Lupu",
+          "I. Campillo-Pereda",
+          "Y. Huang",
+          "J. Sundfjord",
+          "R. Karimi",
+          "T. Lind",
+          "JC Holm",
+          "LA Holm",
+          "A. Havdahl",
+          "OA Andreassen",
+          "S. O’Rahilly",
+          "P. Sole-Navais",
+          "B. Jacobsson",
+          "E. Bratland",
+          "G. Davey Smith",
+          "PB Juliusson",
+          "KK Ong",
+          "T. Hansen",
+          "PR Njølstad",
+          "M. Vaudel",
+          "S. Johansson"
+        ],
+        "doi": "10.1038/s41467-026-79465-x",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79465-xChildhood growth reflects complex genetic and biological processes, but their developmental timing is not fully understood. Here, the authors identify stage‑specific genetic and proteomic influences on growth from infancy through childhood, and reveal links between early growth patterns and later type 2 diabetes risk."
+      },
+      {
+        "title": "A quantitative deep-learning-based framework reveals a continuum of chromatin sensitivities across transcription factors",
+        "link": "https://www.nature.com/articles/s41467-026-79404-w",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Lukas Burger",
+          "Noa Gil",
+          "Dirk Schübeler"
+        ],
+        "doi": "10.1038/s41467-026-79404-w",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79404-wThe authors develop a deep-learning-based framework revealing that TF binding sensitivity to chromatin is a continuum rather than a binary feature, and that binding patterns can be explained by a mixture of hierarchical and cooperative mechanisms."
+      },
+      {
+        "title": "Benzoxaboroles target CPSF3 for degradation through a SUMO-dependent pathway in trypanosomes",
+        "link": "https://www.nature.com/articles/s41467-026-79400-0",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Ning Zhang",
+          "Farnaz Zahedifard",
+          "Abdul Samad",
+          "Simone Altmann",
+          "Melanie Ridgway",
+          "Richard J. Wall",
+          "Michele Tinti",
+          "Eric C. Schirmer",
+          "David Horn",
+          "Martin Zoltner",
+          "Mark C. Field"
+        ],
+        "doi": "10.1038/s41467-026-79400-0",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79400-0Benzoxaborole drugs, such as acoziborole, target CPSF3 and mRNA processing in multiple parasites. Here the authors find that these drugs rapidly and specifically target trypanosome CPSF3 for degradation, in a SUMO- and proteasome-dependent manner."
+      },
+      {
+        "title": "Foliar and floral frost damage reshape reproductive phenology with limited carry-over effects",
+        "link": "https://www.nature.com/articles/s41467-026-79723-y",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Jianhong Lin",
+          "Nicolas Delpierre",
+          "Cyrille Rathgeber",
+          "Hai Ren",
+          "Jian-Guo Huang",
+          "Frank Berninger",
+          "Xiaobo Li",
+          "Qianqian Ma"
+        ],
+        "doi": "10.1038/s41467-026-79723-y",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79723-yLate spring frost can damage plant tissues and disrupt reproduction. The authors show that frost damage to leaves shortens the fruit development period, whereas damage to flowers prolongs it, with limited carry-over effects into the following year."
+      },
+      {
+        "title": "Chronically stable, frequency-selective auditory brainstem stimulation via ultra-flexible penetrating electrode arrays",
+        "link": "https://www.nature.com/articles/s41467-026-79747-4",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Jinxi Pan",
+          "Bodi Liu",
+          "Zeyu Wang",
+          "Guangyuan Chen",
+          "Chengyao Wang",
+          "Ying Chen",
+          "Huan Jia",
+          "Zhaoyan Wang",
+          "Chi Ren",
+          "Zhengtuo Zhao",
+          "Hao Wu"
+        ],
+        "doi": "10.1038/s41467-026-79747-4",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79747-4Surface auditory brainstem implants have poor spatial resolution and limited tonotopic access. Here, the authors develop a high-density, ultra-flexible penetrating array for frequency-selective cochlear nucleus stimulation and use-dependent plasticity in downstream auditory circuits."
+      },
+      {
+        "title": "Desmin filaments extend along actin filaments within the mouse skeletal muscle sarcomere",
+        "link": "https://www.nature.com/articles/s41467-026-79344-5",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Sunu Joseph",
+          "Joon-Hyuk Ko",
+          "Nitsan Dahan",
+          "Tali Dadosh",
+          "Hana K. Pak",
+          "Jonathan A. Kirk",
+          "Wonho Jhe",
+          "Shenhav Shemer"
+        ],
+        "doi": "10.1038/s41467-026-79344-5",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79344-5Here, the authors use super-resolution microscopy to show that desmin filaments extend beyond Z-lines and align with actin inside mouse skeletal muscle sarcomeres, where they help support force generation when sarcomeres are stretched."
+      },
+      {
+        "title": "Denitrogenative glycosylations of glycosyl sulfonohydrazides",
+        "link": "https://www.nature.com/articles/s41467-026-79707-y",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Shiyin Zhao",
+          "Shuai Chen",
+          "Han Ma",
+          "Yong Nian",
+          "Bo Yang",
+          "Feng Zhu"
+        ],
+        "doi": "10.1038/s41467-026-79707-y",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79707-yDespite notable progress, the development of novel and efficient glycosyl radical precursors that are readily accessible, synthetically versatile, and compatible with stereoselective coupling platforms remains an ongoing challenge. Here the authors report a nickel-catalysed stereoselective denitrogenative glycosylation of redox-neutral glycosyl sulfonohydrazides via anomeric C–N bond homolysis."
+      }
+    ],
+    "Communications Biology": [
+      {
+        "title": "CLEC2D orchestrates immune evasion and intrinsic oncogenic signals to fuel triple-negative breast cancer",
+        "link": "https://www.nature.com/articles/s42003-026-11357-8",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Meimei Lai",
+          "Ju Huang",
+          "Yuping Tang",
+          "Yinrui Ren",
+          "Jiayu Chen",
+          "Yeyao Yan",
+          "Haijia Ye",
+          "Lingxiao Ye",
+          "Tong Wang",
+          "Guang Wu",
+          "Licai He",
+          "Jiawei Cao",
+          "Minghua Jiang",
+          "Haihua Gu"
+        ],
+        "doi": "10.1038/s42003-026-11357-8",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 22 November 2026; doi:10.1038/s42003-026-11357-8CLEC2D orchestrates immune evasion and intrinsic oncogenic signals to fuel triple-negative breast cancer"
+      },
+      {
+        "title": "Regulatory architecture shapes how historical contingency affects the resilience of evolutionary potential in Pseudomonas aeruginosa",
+        "link": "https://www.nature.com/articles/s42003-026-11346-x",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Gaston L. Castillo Moro",
+          "Román A. Martino",
+          "Paula A. Pasolli",
+          "Albano H. Tenaglia",
+          "Romina A. Tobares",
+          "Susanne Häussler",
+          "Pablo I. Nikel",
+          "Andrea M. Smania"
+        ],
+        "doi": "10.1038/s42003-026-11346-x",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 22 November 2026; doi:10.1038/s42003-026-11346-xRegulatory architecture shapes how historical contingency affects the resilience of evolutionary potential in Pseudomonas aeruginosa"
+      },
+      {
+        "title": "Topology of brain-wide co-fluctuations distinguishes task states and shows associations with personality and behavioral symptoms",
+        "link": "https://www.nature.com/articles/s42003-026-11292-8",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Chunyin Siu",
+          "Saad Pirzada",
+          "Cameron Glick",
+          "Richard Betzel",
+          "Giovanni Petri",
+          "Jeremy R. Manning",
+          "Leanne Williams",
+          "Manish Saggar"
+        ],
+        "doi": "10.1038/s42003-026-11292-8",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 22 November 2026; doi:10.1038/s42003-026-11292-8Topology of brain-wide co-fluctuations distinguishes task states and shows associations with personality and behavioral symptoms"
+      }
+    ],
+    "Water Research": [
+      {
+        "title": "Acceleration of nitrogen removal from oligotrophic reservoir water: Mechanisms underlying the aerobic denitrification driven by photogenerated electrons.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43067263/",
+        "pub_date": null,
+        "authors": [
+          "Li J",
+          "Shi X",
+          "Chen X",
+          "Huang T",
+          "Wen G"
+        ],
+        "doi": "10.1016/j.watres.2026.127379",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43067263",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Carbon limitation and aerobic conditions severely restrict denitrification in oligotrophic reservoir waters. To overcome these constraints, we developed a photoelectrotrophic denitrification (PEDeN) system that utilized photogenerated electrons as an alternative electron source for aerobic denitrifiers, achieving 96% total nitrogen removal within 18 h without an externally applied electrical bias. For the first time, aerobic denitrification outperformed anoxic denitrification in this system, with a total nitrogen removal rate 2.7-fold higher than that under anoxic conditions. This may have resulted from stimulation by the oxygen reduction current, which promoted the secretion of extracellular polymeric substances (EPS) containing electron mediators by denitrifying bacteria, thereby enhancing their ability to utilize electrode-derived electrons under aerobic conditions. Moreover, compared with anoxic-light conditions, aerobic-light conditions showed greater metagenomic potential for acetate assimilation, the TCA cycle, cytochrome maturation, and electroactive substance biosynthesis; narG, norB, and nosZ transcript levels were 52.6, 17.5, and 16.0 times those under anoxic-light conditions, respectively. These findings suggested that, under specific electrochemical conditions, aerobic conditions may facilitate the combined utilization of external-circuit electrons and organic carbon through cellular metabolism, thereby improving denitrification performance. This study offers new insights into potential strategies for nitrogen removal in oligotrophic reservoir waters."
+      },
+      {
+        "title": "Concentration-Dependent chlorine tolerance despite equivalent CT exposures in multidrug-resistant Stenotrophomonas maltophilia isolate: Associated with putative ribosomal remodeling.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43067262/",
+        "pub_date": null,
+        "authors": [
+          "Luo J",
+          "Wei Y",
+          "He Y",
+          "Guo Y",
+          "Zhai H",
+          "Zhan S"
+        ],
+        "doi": "10.1016/j.watres.2026.127364",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43067262",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "The persistence of antibiotic-resistant bacteria (ARB) during chlorination challenges water treatment efficacy. We investigated the chlorine tolerance of a newly isolated strain of Stenotrophomonas maltophilia XH by integrating chlorine species and physiological assays with whole-genome, transcriptomic, proteomic, and network analyses. Whole-genome sequencing analysis combined with antibiotic susceptibility testing confirmed that S. maltophilia XH is multidrug-resistant. Concentration-dependent biomolecular defense strategies under equivalent nominal CT (Concentration × Time; 20 mg Cl2·min/L: 1 mg Cl2/L × 20 min vs. 2 mg Cl2/L × 10 min) exposures via multi-omics analysis were first-time comprehensively shown. S. maltophilia XH has high chlorine tolerance. The adaptive strategies of S. maltophilia XH to chlorine were quite distinct from Escherichia coli. Under equivalent nominal CT, distinct exposure dynamics induced different molecular responses. Under 1 mg Cl2/L × 20 min, the bacterium maintained homeostasis primarily through DNA repair and signaling suppression, without apparent cellular oxidative stress responses. Under 2 mg Cl2/L × 10 min, an energy-conserving strategy was revealed: cellular resources were redirected from routine biosynthesis toward membrane repair, ROS detoxification, and extracellular scavenging. A transcriptome-proteome uncoupling response, which could be driven by putative ribosomal remodeling, was observed in S. maltophilia XH. Moreover, this chlorine tolerance strategy concurrently potentiated some macrolide resistance gene expression. Traditional E. coli-based benchmarks could be ineffective against ARB. Effective inactivation could require a high initial chlorine concentration to rapidly breach physiological tolerance thresholds before adaptive networks activate. Additionally, multi-omics demonstrates that transcriptomics alone is insufficient for predicting bacterial responses, and multi-omics analysis provides more information."
+      },
+      {
+        "title": "Storage-enabled microbiomes for low-carbon wastewater treatment: Linking carbon capture and retention to electron allocation and process control.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43067261/",
+        "pub_date": null,
+        "authors": [
+          "Wang H",
+          "Weng H",
+          "Gao X",
+          "Zhang L",
+          "Peng Y"
+        ],
+        "doi": "10.1016/j.watres.2026.127373",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43067261",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Carbon-limited wastewater treatment is often interpreted as a shortage of biodegradable organic matter, yet treatment performance also depends on when influent carbon is captured, how long it is retained, and how effectively its reducing equivalents are directed to target reactions. Intracellular storage decouples substrate uptake from later electron use by retaining carbon as polyhydroxyalkanoates (PHA) and glycogen, while polyphosphate cycling supports energy conservation and phosphorus transformations. This Review develops a mechanistic framework for storage-enabled microbiomes in low-C/N wastewater treatment. We distinguish three constraints that can be hidden by similar bulk C/N ratios: insufficient electron inventory, premature carbon loss, and weak coupling between reserve mobilization and terminal respiration. We then connect reserve turnover with central metabolism, respiratory electron carriers, denitrifying reductases, and community-level division of labour. Across post-anoxic denitrification, partial denitrification-anammox, denitrifying phosphorus removal, sulfur-assisted nitrogen removal, and PHA recovery, process performance depends on matching reserve formation, retention, and mobilization with reaction-specific electron and energy demand. We further establish an evidence framework that separates temporal association, stoichiometric plausibility, population or pathway assignment, and perturbation-supported causality. By strengthening intracellular carbon accumulation, preserving reserve-derived electron potential across redox stages and directing subsequent electron release toward target reactions, storage-enabled microbiomes can improve the effective utilization of influent carbon under low-C/N conditions. The engineering benefits of this strategy should be evaluated through nutrient-removal performance, nitrogen-product profiles, N₂O emissions, aeration demand, sulfate and alkalinity balances, sludge production, resource-recovery trade-offs, and disturbance resilience."
+      },
+      {
+        "title": "Dynamic coupling and decoupling of odorants and non-CO(2) GHGs during sludge treatment: Associations with EPS redistribution and PFS conditioning.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43067260/",
+        "pub_date": null,
+        "authors": [
+          "Zhu X",
+          "Lan S",
+          "Gao W",
+          "Xu Q",
+          "Wang Q",
+          "Liu W"
+        ],
+        "doi": "10.1016/j.watres.2026.127356",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43067260",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Sludge treatment units in municipal wastewater treatment plants (WWTPs) are major sources of nitrogen- and sulfur-containing odorants and non-CO2 greenhouse gases (GHGs). Although odorant and non-CO2 GHG generation are intrinsically coupled via shared anaerobic metabolic pathways, most studies focus on isolated end-of-pipe emissions, leaving their generation profiles and coupling-decoupling mechanisms under thickening and chemical conditioning largely unexplored. Here, we quantified apparent generation rates and stage-specific pollutant loads across the treatment train, including secondary sludge (SS), thickened sludge (TKS), conditioned sludge (CS), and dewatered sludge (DS). The redistribution of extracellular polymeric substances (EPS) and physicochemical changes were analyzed to develop a mechanistic interpretation of pollutant generation patterns. The results revealed pronounced stage-specific divergence: odorant generation rates increased from 2.5 to 2.8 μg·kg-1·h-1 in SS/TKS to 46.3-111.4 μg·kg-1·h-1 in CS/DS, while the dominant GHG shifted from CH4 to N2O. Secondary sedimentation, thickening, and conditioning accounted for > 97 % of the total estimated load for each pollutant category. Notably, pollutant generation patterns shifted from coupling in TKS to decoupling following conditioning. In thickened sludge, mild EPS redistribution under neutral anaerobic conditions suggested enhanced substrate bioavailability, helping explain the concurrent increases in odorant and CH4 generation. Polyferric sulfate (PFS) conditioning induced asymmetric EPS redistribution and acidic, sulfate-rich conditions; these changes were associated with a sharp increase in odorant generation, near-complete suppression of biological CH4 generation, and transient N2O release through chemical reactions. These findings associate the observed coupling-decoupling patterns with EPS redistribution and physicochemical changes, informing stage-specific coordinated management of both pollutant categories."
+      },
+      {
+        "title": "Physical transport modulates river-sourced OAE efficiency: evidence from an extreme flood in a semi-enclosed estuary.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43067265/",
+        "pub_date": null,
+        "authors": [
+          "Xiong B",
+          "Hao L",
+          "Komai K",
+          "Nakayama K",
+          "Zheng X",
+          "Yano S"
+        ],
+        "doi": "10.1016/j.watres.2026.127347",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43067265",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Ocean alkalinity enhancement (OAE) through river-sourced alkalinity addition has been proposed as a scalable marine carbon dioxide removal strategy, but OAE responses in biogeochemically complex estuaries remain poorly characterized. Using a validated three-dimensional coupled hydrodynamic-biogeochemical model, we examined four prescribed alkalinity increments (+200 to +2000 µmol kg-1) in Yatsushiro Sea during the July 2018 flood. Flood hydrology controlled when and where added alkalinity was delivered, concentrating the perturbation near the surface. For the +500 µmol kg-1 scenario, scaling the CO2-flux response (ΔF) by delivered alkalinity reduced the station-specific R2 for its association with background pCO2 by >94% (residual R2 = 0.004-0.027), indicating that the raw association is strongly linked to differences in delivered alkalinity. The annual delivered-alkalinity-normalized CO2-flux response varied little among doses at St.13 (population coefficient of variation, CV 4.0%) but remained strongly location dependent, with spatial CVs of 58.0%-77.4% at fixed doses. Event-scale carbonate diagnostics showed transient increases in both the Revelle factor and direct total alkalinity sensitivity within the predefined 192-h flood window. At high doses, localized surface Ωaragonite values exceeded the chemical screening line for potential secondary precipitation, identifying a dose-dependent risk that requires site-specific assessment. Together, these results frame extreme floods as favorable delivery windows whose modeled outcomes vary with location, dose, and carbonate state. Because river discharge can be readily measured, discharge-guided dosing provides a practical framework for managing these windows, while precipitation risk and downstream carbon accounting remain priorities for field validation."
+      },
+      {
+        "title": "Environmentally relevant antibiotics reduce algal production of the climate-active gas dimethyl sulfide in aquatic ecosystems.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43067264/",
+        "pub_date": null,
+        "authors": [
+          "Yang W",
+          "Zhou R",
+          "Zhang X",
+          "Zhang W",
+          "Shu P",
+          "Qin H",
+          "Li W"
+        ],
+        "doi": "10.1016/j.watres.2026.127349",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43067264",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Environmental antibiotics threaten marine climate regulation by disrupting microbial sulfur cycling. As key producers of dimethylsulfoniopropionate (DMSP) and its cleavage product dimethylsulfide (DMS), critical drivers of marine cloud formation and climate regulation, dinoflagellates play a pivotal role in global sulfur cycling. This study demonstrates that realistic concentrations (0.1-10 μg/L) of tetracycline (TCs) and sulfadiazine (SDZ) inhibit DMSP and DMS production in marine (Gymnodinium sp.) and freshwater (Peridinium umbonatum) dinoflagellates, despite no observable growth inhibition. Enzymatic assays showed that the activities of DMSP- and DMS-related enzymes (DSYB and DddX) were suppressed under antibiotic exposure in a dose-dependent manner, with TCs exerting stronger inhibitory effects than SDZ. Molecular docking identified stronger TCs-DSYB binding, which may explain its superior enzyme inhibition. Metabolomics uncovered antibiotic-induced sulfur pathway diversion: freshwater species accumulated methionine derivatives, while marine counterparts shifted toward dimethylsulfoxide production, reducing DMS yield by 37-83% in the growth phase. This disruption translates to potential reduction in marine DMS flux. Our findings highlight antibiotics as emerging climate stressors, capable of impairing biogenic cooling mechanisms through enzymatic interference and metabolic rerouting. This study underscores the urgent need to integrate antibiotic pollution into climate models and marine conservation strategies to mitigate unintended climatic consequences."
+      },
+      {
+        "title": "Illuminating an overlooked sewage crisis: synthesising evidence on foul waste contamination in surface water sewers across England and Wales.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43067266/",
+        "pub_date": null,
+        "authors": [
+          "White JC",
+          "Pecorelli JP",
+          "Lee RG",
+          "Hannah DM",
+          "Khamis K",
+          "Clark J",
+          "Anthony J",
+          "Hill MJ"
+        ],
+        "doi": "10.1016/j.watres.2026.127297",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43067266",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Separated sewer systems are designed to convey sewage towards treatment facilities while independently directing surface waters into freshwater environments. However, sewer-related issues can lead to foul waste contaminating surface water pipes, which subsequently enters waterbodies via 'Polluted Surface Water Outfalls' (F-PSWOs). Despite creating significant environmental and human health problems globally, F-PSWOs remain overlooked and under-researched. This paper synthesises evidence from England and Wales (United Kingdom) on F-PSWO causes, impacts and management pathways. A novel conceptualisation is presented that details illicit misconnections, failing sewer infrastructure and foul sewer blockages as primary F-PSWO causes. These have been historically examined in silos, but their collective and interactive effects should be more widely investigated. F-PSWO impacts have been sparsely researched, but elevated concentrations of ammonia- and phosphorus-related parameters, increased biochemical oxygen demand and declines in pollution-sensitive taxa have been consistently reported. These trends were broadly supported in new empirical analysis spanning Greater London, where F-PSWOs yielded strong statistical effects on water quality and ecological responses that exceeded Combined Sewer Overflow (CSO) influences. This potentially reflects lower CSO densities, but nevertheless indicates that F-PSWOs can be a principal driver of sewage-related impacts in certain freshwater contexts. Finally, F-PSWO management pathways from their original cause to remediation are outlined, including challenges surrounding legal complexities in sewerage governance, monitoring inefficiencies and public (un)awareness, which are discussed alongside emerging opportunities. This study hence sheds much-needed light on this neglected sewage crisis, and highlights the pressing need to protect freshwater ecosystems from the environmental damages caused by F-PSWOs."
+      }
+    ]
+  }
+}
