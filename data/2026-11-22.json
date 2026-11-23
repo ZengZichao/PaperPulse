@@ -1,8 +1,8 @@
 {
   "date": "2026-11-22",
-  "generated_at": "2026-11-22T12:20:21.334106+00:00",
-  "total_journals": 5,
-  "total_articles": 27,
+  "generated_at": "2026-11-23T14:06:36.628095+00:00",
+  "total_journals": 11,
+  "total_articles": 83,
   "journals": {
     "Microbiological Research": [
       {
@@ -28,6 +28,23 @@
         "translation": null,
         "article_type": "Journal Article",
         "abstract": "Pseudomonas aeruginosa pneumonia poses a major clinical challenge due to its high pathogenicity and rising antibiotic resistance. Forsythiae Fructus has long been used in traditional Chinese medicine for treating lung diseases, particularly bacterial pneumonia. However, whether its major bioactive constituent, forsythiaside A (FA), exerts therapeutic effects against P. aeruginosa-induced pneumonia and the underlying mechanisms remain unclear. In this study, we evaluated the protective effect of FA in a PAO1-induced murine pneumonia model. Although FA exhibited negligible direct antibacterial activity in vitro, it markedly alleviated pulmonary infection and lung injury in vivo, indicating a host-directed protection. Furthermore, depletion of the gut microbiota by antibiotics attenuated the therapeutic effect of FA, whereas fecal microbiota transplantation from FA-treated mice improved disease outcomes, highlighting the crucial role of the gut microbiota in FA mediated protection. 16S rRNA sequencing and untargeted metabolomics analysis showed that FA reshaped the gut microbiota, leading to the enrichment of Limosilactobacillus reuteri and increased production of the tryptophan-derived metabolite indole-3-lactic acid (ILA). Mechanistically, ILA activated AhR signaling pathway in macrophages to upregulate CYP1A1 and CYP1B1 expressions, which in turn triggered intracellular ROS generation and ultimately enhanced macrophage-mediated bacterial killing. Moreover, combining FA with polymyxin B improved therapeutic efficacy against P. aeruginosa-induced pneumonia. Collectively, these findings demonstrate that FA protects against P. aeruginosa pneumonia through a novel gut microbiota dependent, host-directed mechanism, highlighting its potential as a therapeutic candidate for bacterial pneumonia."
+      }
+    ],
+    "Biological Reviews": [
+      {
+        "title": "Beyond the patches: navigating species diversity in human‐altered landscapes",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/brv.70220?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Julio J. Chacón‐Pacheco, J. Nicolás Urbina‐Cardona, Jesús Ballesteros‐Correa"
+        ],
+        "doi": "10.1002/brv.70220",
+        "journal": "Biological Reviews",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Original Article",
+        "abstract": "Biological Reviews, EarlyView."
       }
     ],
     "Scientific Data": [
@@ -188,194 +205,49 @@
         "abstract": "Scientific Data, Published online: 22 November 2026; doi:10.1038/s41597-026-08677-zWide Angle X-Ray Scattering Data Set of Gypsum Compounds"
       }
     ],
-    "Nature Communications": [
+    "EMBO Reports": [
       {
-        "title": "Electrically induced glass transition of polyelectrolyte complexes enables kinetic ionic diodes",
-        "link": "https://www.nature.com/articles/s41467-026-79559-6",
+        "title": "DCAF15-ANKIB1 E3 super-complex licenses NLRP3 inflammasome activation via KAT5 serine ubiquitination.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43069261/",
         "pub_date": "2026-11-22",
         "authors": [
-          "Chankyu Kim",
-          "Chan-Hyuk Jeon",
-          "Jowon Shin",
-          "Younghoon Kim",
-          "Owen A. Lee",
-          "Ryan C. Hayward",
-          "Hyeong Jun Kim"
+          "Yin H",
+          "Li Y",
+          "Meng A",
+          "Cao X",
+          "Lang S",
+          "Wang H",
+          "Yan R",
+          "Tian Y",
+          "Liu X",
+          "Li Z",
+          "Peng L",
+          "Fang R"
         ],
-        "doi": "10.1038/s41467-026-79559-6",
-        "journal": "Nature Communications",
+        "doi": "10.1038/s44319-026-00987-y",
+        "journal": "EMBO Reports",
+        "source": "pubmed",
+        "pmid": "43069261",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Aberrant activation of the NLRP3 inflammasome is a key driver of inflammatory diseases such as sepsis. The acetyltransferase KAT5 acetylates NLRP3 and promotes the subsequent full activation of the NLRP3 inflammasome, but the mechanism by which KAT5 exerts its acetyltransferase activity to acetylate NLRP3 is not well characterized. Here, we identify that the E3 ligase DCAF15 plays a critical role in positively regulating NLRP3 inflammasome activation. Specifically, DCAF15 deficiency significantly attenuates LPS-induced inflammatory response in vitro and in vivo. Furthermore, DCAF15 interacts with the RBR-type E3 ligase ANKIB1 to form a complex, which promotes KAT5 ubiquitination in a Ser123-dependent manner. Accordingly, ANKIB1 knockdown significantly impairs NLRP3 inflammasome activation. Consequently, KAT5-S123A remarkably decreases NLRP3 acetylation levels and thereby reduces inflammatory responses in vitro and in vivo. Our study uncovers DCAF15‑ANKIB1‑mediated Ser123‑dependent KAT5 ubiquitination as regulator of NLRP3 acetylation and inflammasome activation."
+      }
+    ],
+    "Cladistics": [
+      {
+        "title": "Data swamping in phylogenetics: does morphology still matter in total evidence analysis?",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/cla.70082?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Daniel Yudi Miyahara Nakamura, Ward C. Wheeler, Taran Grant"
+        ],
+        "doi": "10.1111/cla.70082",
+        "journal": "Cladistics",
         "source": "rss",
         "pmid": null,
         "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79559-6The glass transition induces changes in material properties, transforming a rigid glass into a soft rubber. Here the authors demonstrate an electrically induced glass transition in a polyelectrolyte complex, sandwiched between two oppositely charged ionoelastomers and applying time-temperature-salt superposition principle."
-      },
-      {
-        "title": "The genetic and proteomic determinants of pediatric stature development and their link to adult height and type 2 diabetes",
-        "link": "https://www.nature.com/articles/s41467-026-79465-x",
-        "pub_date": "2026-11-22",
-        "authors": [
-          "N. Fragoso-Bargas",
-          "AE Lupu",
-          "I. Campillo-Pereda",
-          "Y. Huang",
-          "J. Sundfjord",
-          "R. Karimi",
-          "T. Lind",
-          "JC Holm",
-          "LA Holm",
-          "A. Havdahl",
-          "OA Andreassen",
-          "S. O’Rahilly",
-          "P. Sole-Navais",
-          "B. Jacobsson",
-          "E. Bratland",
-          "G. Davey Smith",
-          "PB Juliusson",
-          "KK Ong",
-          "T. Hansen",
-          "PR Njølstad",
-          "M. Vaudel",
-          "S. Johansson"
-        ],
-        "doi": "10.1038/s41467-026-79465-x",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79465-xChildhood growth reflects complex genetic and biological processes, but their developmental timing is not fully understood. Here, the authors identify stage‑specific genetic and proteomic influences on growth from infancy through childhood, and reveal links between early growth patterns and later type 2 diabetes risk."
-      },
-      {
-        "title": "A quantitative deep-learning-based framework reveals a continuum of chromatin sensitivities across transcription factors",
-        "link": "https://www.nature.com/articles/s41467-026-79404-w",
-        "pub_date": "2026-11-22",
-        "authors": [
-          "Lukas Burger",
-          "Noa Gil",
-          "Dirk Schübeler"
-        ],
-        "doi": "10.1038/s41467-026-79404-w",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79404-wThe authors develop a deep-learning-based framework revealing that TF binding sensitivity to chromatin is a continuum rather than a binary feature, and that binding patterns can be explained by a mixture of hierarchical and cooperative mechanisms."
-      },
-      {
-        "title": "Benzoxaboroles target CPSF3 for degradation through a SUMO-dependent pathway in trypanosomes",
-        "link": "https://www.nature.com/articles/s41467-026-79400-0",
-        "pub_date": "2026-11-22",
-        "authors": [
-          "Ning Zhang",
-          "Farnaz Zahedifard",
-          "Abdul Samad",
-          "Simone Altmann",
-          "Melanie Ridgway",
-          "Richard J. Wall",
-          "Michele Tinti",
-          "Eric C. Schirmer",
-          "David Horn",
-          "Martin Zoltner",
-          "Mark C. Field"
-        ],
-        "doi": "10.1038/s41467-026-79400-0",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79400-0Benzoxaborole drugs, such as acoziborole, target CPSF3 and mRNA processing in multiple parasites. Here the authors find that these drugs rapidly and specifically target trypanosome CPSF3 for degradation, in a SUMO- and proteasome-dependent manner."
-      },
-      {
-        "title": "Foliar and floral frost damage reshape reproductive phenology with limited carry-over effects",
-        "link": "https://www.nature.com/articles/s41467-026-79723-y",
-        "pub_date": "2026-11-22",
-        "authors": [
-          "Jianhong Lin",
-          "Nicolas Delpierre",
-          "Cyrille Rathgeber",
-          "Hai Ren",
-          "Jian-Guo Huang",
-          "Frank Berninger",
-          "Xiaobo Li",
-          "Qianqian Ma"
-        ],
-        "doi": "10.1038/s41467-026-79723-y",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79723-yLate spring frost can damage plant tissues and disrupt reproduction. The authors show that frost damage to leaves shortens the fruit development period, whereas damage to flowers prolongs it, with limited carry-over effects into the following year."
-      },
-      {
-        "title": "Chronically stable, frequency-selective auditory brainstem stimulation via ultra-flexible penetrating electrode arrays",
-        "link": "https://www.nature.com/articles/s41467-026-79747-4",
-        "pub_date": "2026-11-22",
-        "authors": [
-          "Jinxi Pan",
-          "Bodi Liu",
-          "Zeyu Wang",
-          "Guangyuan Chen",
-          "Chengyao Wang",
-          "Ying Chen",
-          "Huan Jia",
-          "Zhaoyan Wang",
-          "Chi Ren",
-          "Zhengtuo Zhao",
-          "Hao Wu"
-        ],
-        "doi": "10.1038/s41467-026-79747-4",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79747-4Surface auditory brainstem implants have poor spatial resolution and limited tonotopic access. Here, the authors develop a high-density, ultra-flexible penetrating array for frequency-selective cochlear nucleus stimulation and use-dependent plasticity in downstream auditory circuits."
-      },
-      {
-        "title": "Desmin filaments extend along actin filaments within the mouse skeletal muscle sarcomere",
-        "link": "https://www.nature.com/articles/s41467-026-79344-5",
-        "pub_date": "2026-11-22",
-        "authors": [
-          "Sunu Joseph",
-          "Joon-Hyuk Ko",
-          "Nitsan Dahan",
-          "Tali Dadosh",
-          "Hana K. Pak",
-          "Jonathan A. Kirk",
-          "Wonho Jhe",
-          "Shenhav Shemer"
-        ],
-        "doi": "10.1038/s41467-026-79344-5",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79344-5Here, the authors use super-resolution microscopy to show that desmin filaments extend beyond Z-lines and align with actin inside mouse skeletal muscle sarcomeres, where they help support force generation when sarcomeres are stretched."
-      },
-      {
-        "title": "Denitrogenative glycosylations of glycosyl sulfonohydrazides",
-        "link": "https://www.nature.com/articles/s41467-026-79707-y",
-        "pub_date": "2026-11-22",
-        "authors": [
-          "Shiyin Zhao",
-          "Shuai Chen",
-          "Han Ma",
-          "Yong Nian",
-          "Bo Yang",
-          "Feng Zhu"
-        ],
-        "doi": "10.1038/s41467-026-79707-y",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79707-yDespite notable progress, the development of novel and efficient glycosyl radical precursors that are readily accessible, synthetically versatile, and compatible with stereoselective coupling platforms remains an ongoing challenge. Here the authors report a nickel-catalysed stereoselective denitrogenative glycosylation of redox-neutral glycosyl sulfonohydrazides via anomeric C–N bond homolysis."
+        "article_type": "Research Article",
+        "abstract": "Cladistics, EarlyView."
       }
     ],
     "Communications Biology": [
@@ -593,6 +465,997 @@
         "translation": null,
         "article_type": "Review",
         "abstract": "Separated sewer systems are designed to convey sewage towards treatment facilities while independently directing surface waters into freshwater environments. However, sewer-related issues can lead to foul waste contaminating surface water pipes, which subsequently enters waterbodies via 'Polluted Surface Water Outfalls' (F-PSWOs). Despite creating significant environmental and human health problems globally, F-PSWOs remain overlooked and under-researched. This paper synthesises evidence from England and Wales (United Kingdom) on F-PSWO causes, impacts and management pathways. A novel conceptualisation is presented that details illicit misconnections, failing sewer infrastructure and foul sewer blockages as primary F-PSWO causes. These have been historically examined in silos, but their collective and interactive effects should be more widely investigated. F-PSWO impacts have been sparsely researched, but elevated concentrations of ammonia- and phosphorus-related parameters, increased biochemical oxygen demand and declines in pollution-sensitive taxa have been consistently reported. These trends were broadly supported in new empirical analysis spanning Greater London, where F-PSWOs yielded strong statistical effects on water quality and ecological responses that exceeded Combined Sewer Overflow (CSO) influences. This potentially reflects lower CSO densities, but nevertheless indicates that F-PSWOs can be a principal driver of sewage-related impacts in certain freshwater contexts. Finally, F-PSWO management pathways from their original cause to remediation are outlined, including challenges surrounding legal complexities in sewerage governance, monitoring inefficiencies and public (un)awareness, which are discussed alongside emerging opportunities. This study hence sheds much-needed light on this neglected sewage crisis, and highlights the pressing need to protect freshwater ecosystems from the environmental damages caused by F-PSWOs."
+      }
+    ],
+    "Trends in Ecology & Evolution": [
+      {
+        "title": "Toward an integrated understanding of animal weapons",
+        "link": "https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00289-2?rss=yes",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Christine W. Miller"
+        ],
+        "doi": null,
+        "journal": "Trends in Ecology & Evolution",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Our Opinion article was published with an incorrect citation. The corrected text, reference citation, and reference details appear below. The authors apologize for this oversight."
+      },
+      {
+        "title": "A brief stocktake of the leaf economics spectrum centred on leaf lifespan and specific leaf area",
+        "link": "https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00288-0?rss=yes",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Ian J. Wright, Ülo Niinemets, Peter B. Reich, Mark Westoby"
+        ],
+        "doi": null,
+        "journal": "Trends in Ecology & Evolution",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "The leaf economics spectrum (LES) was proposed as an analogy linking leaf construction, physiology, lifespan, and ecological strategy. Two decades later, its value lies both in relation to broad-scale trait correlations and to questions those correlations continue to generate. We revisit the LES with emphasis on the leaf lifespan–specific leaf area relationship, a direct expression of the investment–duration trade-off at the heart of leaf economics. Subsequent work has revealed scale dependence from leaves to ecosystems and exposed persistent misunderstandings, such as the assumption that fast-return leaves necessarily imply fast-growing adult plants. Future advances need targeted leaf lifespan data, stronger cost–benefit theory, and more comprehensive tests of how LES relationships shift across environments, ontogeny, and organisational scales."
+      }
+    ],
+    "Nature Communications": [
+      {
+        "title": "Electrically induced glass transition of polyelectrolyte complexes enables kinetic ionic diodes",
+        "link": "https://www.nature.com/articles/s41467-026-79559-6",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Chankyu Kim",
+          "Chan-Hyuk Jeon",
+          "Jowon Shin",
+          "Younghoon Kim",
+          "Owen A. Lee",
+          "Ryan C. Hayward",
+          "Hyeong Jun Kim"
+        ],
+        "doi": "10.1038/s41467-026-79559-6",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79559-6The glass transition induces changes in material properties, transforming a rigid glass into a soft rubber. Here the authors demonstrate an electrically induced glass transition in a polyelectrolyte complex, sandwiched between two oppositely charged ionoelastomers and applying time-temperature-salt superposition principle."
+      },
+      {
+        "title": "The genetic and proteomic determinants of pediatric stature development and their link to adult height and type 2 diabetes",
+        "link": "https://www.nature.com/articles/s41467-026-79465-x",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "N. Fragoso-Bargas",
+          "AE Lupu",
+          "I. Campillo-Pereda",
+          "Y. Huang",
+          "J. Sundfjord",
+          "R. Karimi",
+          "T. Lind",
+          "JC Holm",
+          "LA Holm",
+          "A. Havdahl",
+          "OA Andreassen",
+          "S. O’Rahilly",
+          "P. Sole-Navais",
+          "B. Jacobsson",
+          "E. Bratland",
+          "G. Davey Smith",
+          "PB Juliusson",
+          "KK Ong",
+          "T. Hansen",
+          "PR Njølstad",
+          "M. Vaudel",
+          "S. Johansson"
+        ],
+        "doi": "10.1038/s41467-026-79465-x",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79465-xChildhood growth reflects complex genetic and biological processes, but their developmental timing is not fully understood. Here, the authors identify stage‑specific genetic and proteomic influences on growth from infancy through childhood, and reveal links between early growth patterns and later type 2 diabetes risk."
+      },
+      {
+        "title": "A quantitative deep-learning-based framework reveals a continuum of chromatin sensitivities across transcription factors",
+        "link": "https://www.nature.com/articles/s41467-026-79404-w",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Lukas Burger",
+          "Noa Gil",
+          "Dirk Schübeler"
+        ],
+        "doi": "10.1038/s41467-026-79404-w",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79404-wThe authors develop a deep-learning-based framework revealing that TF binding sensitivity to chromatin is a continuum rather than a binary feature, and that binding patterns can be explained by a mixture of hierarchical and cooperative mechanisms."
+      },
+      {
+        "title": "Benzoxaboroles target CPSF3 for degradation through a SUMO-dependent pathway in trypanosomes",
+        "link": "https://www.nature.com/articles/s41467-026-79400-0",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Ning Zhang",
+          "Farnaz Zahedifard",
+          "Abdul Samad",
+          "Simone Altmann",
+          "Melanie Ridgway",
+          "Richard J. Wall",
+          "Michele Tinti",
+          "Eric C. Schirmer",
+          "David Horn",
+          "Martin Zoltner",
+          "Mark C. Field"
+        ],
+        "doi": "10.1038/s41467-026-79400-0",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79400-0Benzoxaborole drugs, such as acoziborole, target CPSF3 and mRNA processing in multiple parasites. Here the authors find that these drugs rapidly and specifically target trypanosome CPSF3 for degradation, in a SUMO- and proteasome-dependent manner."
+      },
+      {
+        "title": "Foliar and floral frost damage reshape reproductive phenology with limited carry-over effects",
+        "link": "https://www.nature.com/articles/s41467-026-79723-y",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Jianhong Lin",
+          "Nicolas Delpierre",
+          "Cyrille Rathgeber",
+          "Hai Ren",
+          "Jian-Guo Huang",
+          "Frank Berninger",
+          "Xiaobo Li",
+          "Qianqian Ma"
+        ],
+        "doi": "10.1038/s41467-026-79723-y",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79723-yLate spring frost can damage plant tissues and disrupt reproduction. The authors show that frost damage to leaves shortens the fruit development period, whereas damage to flowers prolongs it, with limited carry-over effects into the following year."
+      },
+      {
+        "title": "Chronically stable, frequency-selective auditory brainstem stimulation via ultra-flexible penetrating electrode arrays",
+        "link": "https://www.nature.com/articles/s41467-026-79747-4",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Jinxi Pan",
+          "Bodi Liu",
+          "Zeyu Wang",
+          "Guangyuan Chen",
+          "Chengyao Wang",
+          "Ying Chen",
+          "Huan Jia",
+          "Zhaoyan Wang",
+          "Chi Ren",
+          "Zhengtuo Zhao",
+          "Hao Wu"
+        ],
+        "doi": "10.1038/s41467-026-79747-4",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79747-4Surface auditory brainstem implants have poor spatial resolution and limited tonotopic access. Here, the authors develop a high-density, ultra-flexible penetrating array for frequency-selective cochlear nucleus stimulation and use-dependent plasticity in downstream auditory circuits."
+      },
+      {
+        "title": "Desmin filaments extend along actin filaments within the mouse skeletal muscle sarcomere",
+        "link": "https://www.nature.com/articles/s41467-026-79344-5",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Sunu Joseph",
+          "Joon-Hyuk Ko",
+          "Nitsan Dahan",
+          "Tali Dadosh",
+          "Hana K. Pak",
+          "Jonathan A. Kirk",
+          "Wonho Jhe",
+          "Shenhav Shemer"
+        ],
+        "doi": "10.1038/s41467-026-79344-5",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79344-5Here, the authors use super-resolution microscopy to show that desmin filaments extend beyond Z-lines and align with actin inside mouse skeletal muscle sarcomeres, where they help support force generation when sarcomeres are stretched."
+      },
+      {
+        "title": "Denitrogenative glycosylations of glycosyl sulfonohydrazides",
+        "link": "https://www.nature.com/articles/s41467-026-79707-y",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Shiyin Zhao",
+          "Shuai Chen",
+          "Han Ma",
+          "Yong Nian",
+          "Bo Yang",
+          "Feng Zhu"
+        ],
+        "doi": "10.1038/s41467-026-79707-y",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 22 November 2026; doi:10.1038/s41467-026-79707-yDespite notable progress, the development of novel and efficient glycosyl radical precursors that are readily accessible, synthetically versatile, and compatible with stereoselective coupling platforms remains an ongoing challenge. Here the authors report a nickel-catalysed stereoselective denitrogenative glycosylation of redox-neutral glycosyl sulfonohydrazides via anomeric C–N bond homolysis."
+      }
+    ],
+    "Molecular Ecology": [
+      {
+        "title": "Conserved Transcriptomic Heat Stress Response Signatures in Coral Recruits From Crosses of Thermally Distinct Broodstock",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70622?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Richard C. Edmunds, Alex Macadam, Carys A. Morgans, Guy A. McCutchan, Thomas Danhorn, Patrick W. Laffy, Patrick Buerger, Madeleine J. H. van Oppen, Kate M. Quigley, Annika M. Lamb"
+        ],
+        "doi": "10.1111/mec.70622",
+        "journal": "Molecular Ecology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Original Article",
+        "abstract": "Molecular Ecology, Volume 35, Issue 22, November 2026."
+      },
+      {
+        "title": "Natural History Insights Decode the Genomic and Sensory Architecture of Niche Expansion in the Papilio xuthus",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70672?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Yunfei Wu, Chong Liu, Kaixin Guo, Bangxian Zhang, Jiajia Wang, Yan Dong"
+        ],
+        "doi": "10.1111/mec.70672",
+        "journal": "Molecular Ecology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Original Article",
+        "abstract": "Molecular Ecology, Volume 35, Issue 22, November 2026."
+      }
+    ],
+    "Advanced Science": [
+      {
+        "title": "MACE4IRmol: An Uncertainty‐Aware Foundation Model for Molecular Infrared Spectroscopy",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78542?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Nitik Bhatia, Ondřej Krejčí, Silvana Botti, Patrick Rinke, Miguel A. L. Marques"
+        ],
+        "doi": "10.1002/advs.78542",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Site‐Specific F‐ or OH‐Bridged Rare‐Earth Clusters: Toward Single‐Molecule Dual‐Mode Bioimaging Agents",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78857?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Sai‐Sai Xie, Xia‐Li Ding, Sen Yu, Xin‐Yuan Wei, Ya‐Nan Duan, Peng‐Fei Sun, Yu Wang, Xiangquan Hu, Yuan‐Qi Zhai, Junya Mu, Shaohui Ma, Ye Gao, Xufeng Zhang, Yi Lv, Yan‐Zhen Zheng"
+        ],
+        "doi": "10.1002/advs.78857",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Non‐Reciprocal Thermal Metamaterials With Programmable Functionality",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78701?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Qingxiang Ji, Qi Zhang, Brahim Lemkalli, Jinliang Wang, Bohan Li, Changguo Wang, Muamer Kadic"
+        ],
+        "doi": "10.1002/advs.78701",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Generative AI Models for Exploring Diffusion Dynamics from Multi‐Frame Particle Tracking",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78895?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Jianan Wei, Qiang Zhang, Hao Sun, Yi Yang, Wenguan Wang"
+        ],
+        "doi": "10.1002/advs.78895",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Visualizing Hidden Cellular Consequences of Infection by a Minimal Genome Virus",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78899?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Kesha Xu, Wenjing Wang, Jingyu Hu, Yanyang Zhou, Weina Shang, Yan Yan, Ge Bai, Jiyong Zhou, Jinyan Gu"
+        ],
+        "doi": "10.1002/advs.78899",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Disruption of the TCF7L1‐TLE3 Complex by Sulforaphane De‐Represses TFRC Transcription to Overcome Chemoresistance Through Ferroptosis in Pancreatic Cancer",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78876?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Ce Liu, Bo Zhang, Pengtao Liu, Hongli Zhang, Qianmin Xu, Mintong Tian, Jinjing Zhang, Ting Wang, Li Xu, Kang Xu, Qipeng Yuan"
+        ],
+        "doi": "10.1002/advs.78876",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "AI‐Driven Discovery of Nodakenin as a Novel Molecular Glue Targeting the TRIM28‐NR4A1‐LCN2 Axis to Induce Ferroptosis in Melanoma",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78734?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Xiao Li, Jun Yao, Dan Zu, Jian Yuren, Jinfu Li, Peng Wang, Yueying Fan, Zhanchen He, Xiangyang Li, Cheng Li, Shiqiang Jiang, Chao Yan, Yuhuan Peng, ZhaoXiang Wang, Bin Yin, Yede Zhao, Chiyu Jia"
+        ],
+        "doi": "10.1002/advs.78734",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Energy Landscape and Surface Reactivity Modulation of Hydrogen Isotope Getter: Poisoning Origins and Mitigation Approaches",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78918?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Qianwen Zhou, Panpan Zhou, Jingyu Hu, Yang Liu, Xuezhang Xiao, Jiahuan He, Xingwen Feng, Wenhua Luo, Xiulin Fan, Lixin Chen"
+        ],
+        "doi": "10.1002/advs.78918",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Gate‐Tunable Bipolar Photoresponse in Van der Waals Homojunctions for In‐Sensor Spatiotemporal Vision Computing",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78892?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Hai Phuong Duong, Vu Khac Dat, Ngoc Thanh Duong, Seungjin Lee, Minh Chien Nguyen, Hue Tran, Byung Hoon Lee, Van Cao Nguyen, Woo Jong Yu, Soo Min Kim, Hongseok Oh, Ki Kang Kim"
+        ],
+        "doi": "10.1002/advs.78892",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Nanocatalytic Pyroptosis Synergizes With High‐Frequency Irreversible Electroporation for Dual Biochemical/Physical Membrane Perforation in Prostate Cancer",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78840?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Jiajun Zhang, Qiwei Yang, Shuaidong Wang, Wang Ran, Meiqi Chang, Wei Feng, Jie Zhuang, Jinsong Guo, Shuangshuang Deng, Jinli Gao, Ruitian Wang, Li Ding, Yu Chen, Haifeng Wang"
+        ],
+        "doi": "10.1002/advs.78840",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Teriparatide Attenuates Sarcopenia by Stimulating MYOD Transcription via an MYH9‑Dependent AKT/CREB1 Signaling Axis",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78813?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Ting Lei, Zichao Jiang, Jiahao Wang, Yiyi Wang, Yuxin Chang, Zewu Zhu, Yihe Hu, Bin Chen"
+        ],
+        "doi": "10.1002/advs.78813",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Membrane‐Embedded Antioxidant Lipids Overcome the Rapid Clearance Dilemma for Dry Eye Disease Treatment",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78549?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Yatong Qin, Jinmin Ye, Xingyuan Wei, Xiao Wang, Mengdie Li, Changrong Shi, Weihong Yu, Fantian Zeng, Yujie Tian, Hehe Xiong, Zijian Zhou, Di Chen, Hang Song"
+        ],
+        "doi": "10.1002/advs.78549",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Selector‐Only Memory for All‐Digital Near‐Memory Computing",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78860?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Junseo Lee, Min Kyung Lee, Hyun Kyu Seo, Changhwan Shin, Seongil Im, Hyunsu Ju, Min Kyu Yang"
+        ],
+        "doi": "10.1002/advs.78860",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Hierarchically Governed Dissipation Enables Simultaneous Toughness, Resilience, and Repeatable Adhesion in Hydrogels for Wound Healing",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78836?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Zhikun Zhang, Daixing Zhang, Tingrui Zhang, Jingjing Xu, Zhonglin Sun, Rui Gao, Chenhuan Lai, Fuxiang Chu, Daihui Zhang, Yongxian Lai, Xiaofeng Ding"
+        ],
+        "doi": "10.1002/advs.78836",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Controlled Localization of Dual Oxides in SSZ‐13 Zeolites Promoting Catalytic Performances in Chloromethane‐to‐Olefins Conversion",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78898?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Changgi Kim, Seungdon Kwon, Eunseo Lee, Ji‐Woong Lee, Sung Hyun Yoo, Kyungsu Na"
+        ],
+        "doi": "10.1002/advs.78898",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Deep Brain Stimulation of the Nucleus Accumbens and Anterior Limb of the Internal Capsule in Severe Autism Spectrum Disorder: Clinical Outcomes and Infralimbic–Accumbens Circuit Involvement",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78874?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Yang Wu, Jia‐sheng Pei, Yi Guo, Sen‐lin Yin, Yang‐yang Xu, Li Yin, Yu Cao, Lu Gan, Hai‐fang Yu, Peng Yao, Meng‐qi Wang, Hao Deng, Xinyuejia Huang, Ling‐long Xiao, Yi‐feng Shi, Chong‐xi Xu, Hao‐ran Peng, Zhi‐yi Ren, Jian‐ping Lin, Bin Chi, Zhi‐ling Chen, Yang‐yang Lin, Shu‐xin Zhang, Bang‐qing Yuan, Wei Wang"
+        ],
+        "doi": "10.1002/advs.78874",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Rewritable Chirality of Metasurfaces with Permittivity‐Asymmetric Flatband Quasi‐Bound States in the Continuum",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78870?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Tao Jiang, Haiyang Hu, Dmytro Gryb, Leonardo de S. Menezes, Maxim V. Gorkunov, Alexander A. Antonov, Andreas Tittl"
+        ],
+        "doi": "10.1002/advs.78870",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Bimetallic Sites Cu/Co Alloy Targeting Quorum Sensing Reversing MRSA Ciprofloxacin Susceptibility",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78689?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Min Liu, Weijie Cai, Tong Xi, Bowen Zheng, Xinrui Zhang, Chunguang Yang"
+        ],
+        "doi": "10.1002/advs.78689",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "AARS1‐Mediated GLUD1 K503 Lactylation Drives Colorectal Cancer Metastasis Through Post‐Transcriptional Reprogramming",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78893?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Jinghang Qian, Jingru Shen, Guoqing Su, Jiayuan Jiang, Yu Zhu, Yanyan Chen, Yi Wang, Nannan Wang, Xing Huang, Chengshuai Si, Xu Zhang, Peng Shao, Yang Wang, Yuepeng Cao, Shouyong Gu, Songbing He, Liu Yang"
+        ],
+        "doi": "10.1002/advs.78893",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "An Injectable Hydrogel With Dynamic Anchoring of Salvianolic Acid B Enables Sustained Co‐Delivery With Bevacizumab for Retinal Trifunctional Recovery in Diabetic Retinopathy",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78891?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Bo Wang, Jiahui Huang, Richao Chen, Feng Cao"
+        ],
+        "doi": "10.1002/advs.78891",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Multi‐Stable Origami Metamaterials for Reusable Impact Cushioning",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78863?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Haiping Wu, Li Cheng, Hongbin Fang"
+        ],
+        "doi": "10.1002/advs.78863",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Soft Priming in the Mechanically Heterogeneous Primary Tumor Potentiates Negative Durotaxis as a Biophysical Hallmark of Brain Metastasis",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78889?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Yufan Zheng, Bai Zhang, Xueyi Li, Xiaomei Han, Silu Li, Bing Hu, Ying Xin, Yong‐Ping Zheng, Youhua Tan"
+        ],
+        "doi": "10.1002/advs.78889",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Electrolyte‐Facing Interfacial Engineering of Organic‐Inorganic Hybrid Cathodes for High‐Capacity and Stable Lithium‐Ion Batteries",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78875?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Minseong Kwon, Donghyeon Nam, Jiwon Bok, Jae Min Kim, Seung Woo Lee, Jeongmin Kim, Yoonhee Lee, Seoin Back, Jinhan Cho, Yongmin Ko"
+        ],
+        "doi": "10.1002/advs.78875",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Pediatric Tumor Immune Organoids Preserve Cellular Compartments and are Suitable for Preclinical Modeling of Emerging Immunotherapies",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78865?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Naiara Martinez‐Velez, Roel Polak, Willian Lee Wang, Diane Cruz‐Manjarrez, Maria F. Henao Echeverri, Moksha Desai, Yiyun Chen, Peng Xu, Cara C. Rada, Bita Sahaf, Hiroyuki Yoda, William A. Weiss, E. Alejandro Sweet‐Cordero, Elena Sotillo, Calvin J. Kuo, Crystal L. Mackall"
+        ],
+        "doi": "10.1002/advs.78865",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Inflammation‐Licensed MSCs Attenuate Acute Spinal Cord Injury by Suppressing NET Formation and Limiting Neutrophil Recruitment",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78809?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Yifan Liu, Haoyue Hu, Shulong Yin, Linquan Li, Han Zheng, Yi Chen, Wenxiang Li, Sheng Liu, Dapeng Zhang, Jie Liu, Tieyuan Zhang, Xiujuan Wang, Yongsheng Xu, Shiqing Feng, Chenxi Zhao"
+        ],
+        "doi": "10.1002/advs.78809",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "A High‐Efficiency In Vivo Continuous Evolution Platform for Antiviral Peptides Engineering",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78888?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Yu Hou, Liangying Deng, Jianliang Deng, Youcheng Zhang, Huacong Gao, Tianyao Zheng, Yujie He, Rui Gong, Dianbing Wang, Jinggang Lan, Minghai Chen, Xian‐En Zhang"
+        ],
+        "doi": "10.1002/advs.78888",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Elevated ATP‐Citrate Lyase Links Hyperglycemic Metabolism to Maternal Diabetes‐Induced Neural Tube Defects",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202517051?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Baoling Bai, Jiaxin Cheng, Shuangshuang Yang, Dan Li, Lingyun Liu, Chunrong Sun, Yihua Bao, Ting Zhang, Huili Li, Qin Zhang"
+        ],
+        "doi": "10.1002/advs.202517051",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Emulsion Topology Modulates Foliar Delivery across Structured Leaf Interfaces",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78912?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Abdallah Alayan, Jean‐Louis Bantignies, Christian Ligoure"
+        ],
+        "doi": "10.1002/advs.78912",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Photocurrent‐Detected Multidimensional Spectroscopy Reveals Composition‐Dependent Carrier Cooling in Operating Perovskite Solar Cells",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78894?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Edoardo Amarotti, Luca Bolzonello, Qi Shi, Sun‐Ho Lee, Torbjörn Pascher, Donatas Zigmantas, Niek van Hulst, Nam‐Gyu Park, Tönu Pullerits"
+        ],
+        "doi": "10.1002/advs.78894",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Rhizosphere Resource–Niche Coupling Mediates A Respiratory Trade‐Off in Microbial Carbon Use Under Contrasting Agricultural Management",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78900?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Rong Jia, Xinjie Chen, Mengsu Peng, Bahar S. Razavi, Min Chen, Yi Xu, Kyle Mason‐Jones, Laichun Guo, Hans Lambers, Zhaohai Zeng, Leanne Peixoto, Huadong Zang"
+        ],
+        "doi": "10.1002/advs.78900",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Conductive Coatings on Electrospun Nanofibers for Wearable Sensors: Materials, Processing, and Reliability",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78904?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Michał Kopacz, Yujang Cho, Il‐Doo Kim, Urszula Stachewicz"
+        ],
+        "doi": "10.1002/advs.78904",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Interpreting Mechano‐Virucidal Activity: Comment on “Designing Scalable Mechano‐Virucidal Nanostructured Acrylic Surfaces for Enhanced Viral Inactivation”",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78946?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Ángel Serrano‐Aroca"
+        ],
+        "doi": "10.1002/advs.78946",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Correspondence",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "NAT10‐Mediated Acetylation of the Matrix Protein Facilitates Henipavirus and Parahenipavirus Budding by Enhancing Lipid Binding",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78901?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Xianghan Duan, Yulong Wang, Tao Tan, Pengfei Ye, Chenchen Pei, Weifang Kang, Yiwen Chen, Weijian Wu, Jiahao Lin, Jun Qian, Linna Liu"
+        ],
+        "doi": "10.1002/advs.78901",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Raman Scattering of Surface Phonon Polaritons Under Nanoscale Confinement: The Role of Structure and Environment",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78236?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "George Zograf, Betül Küçüköz, Oleg Kotov, Naveen Shetty, Lunjie Zeng, Andrew B. Yankovich, Alok Ranjan, Avinas N. Shaji, Erik Lind, Tomasz J. Antosiewicz, Eva Olsson, Samuel Lara‐Avila, Timur O. Shegai"
+        ],
+        "doi": "10.1002/advs.78236",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Deep Learning Model Based on Automated CT Image Segmentation for Predicting Pathological Complete Response in Lung Cancer Patients Receiving Neoadjuvant Immunotherapy and Chemotherapy: A Multicenter Study",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78906?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Junfeng Zhao, Weihao Gai, Mengjie Fang, Xiran He, Xiang Yan, Ying Li, Jiaxuan Chen, Chuankun Han, Yali Xu, Nan Hong, Gen Lin, Yang Du, Yintao Li"
+        ],
+        "doi": "10.1002/advs.78906",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Ambient Drying Enabled Energy Efficient Fabrication of Skin‐Free Aerogel Evaporators for High‐Performance Interfacial Solar Evaporation",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78923?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Yunzheng Liang, Yitian Wu, Qianqian Xiong, Jing‐Wen DuanMu, Bo Fu, Yiming Bu, Xuan Wu, Gary Owens, Haolan Xu"
+        ],
+        "doi": "10.1002/advs.78923",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "A Single‐Cell Aging Phenotypic Index From Nanosensor Chemical Cytometry Associated With Therapeutic Potency",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78850?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Youngho Song, Jiyu Hyun, Jiseon An, Eun‐Cheol Lee, Hyun Su Park, Changyu Tian, Seongcheol Park, Changi Baek, Seunguk Lee, Seunghyuk Jung, Hyun‐Ji Park, Suk Ho Bhang, Soo‐Yeon Cho"
+        ],
+        "doi": "10.1002/advs.78850",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Bioinspired Plasma‐Programmed Supramolecular Interfaces for Proton Relay‐Driven Photocatalytic H2O2 Production",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78829?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Ran Sun, Kunge Hou, Guocheng Liu, Xiangzhu Yu, Shenghui Hou, Yujie Tan, Hui Xu, Xingang Liu, Jianyuan Hou, Andrew E. H. Wheatley, Renxi Zhang"
+        ],
+        "doi": "10.1002/advs.78829",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Palmitoylation of DLAT Licenses Cuproptosis by Antagonizing SYVN1‐Dependent Ubiquitination in Colorectal Cancer",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78753?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Jueting Cai, Mingyu Shi, Xiang Li, Junqi Zhang, Lingling Zhang"
+        ],
+        "doi": "10.1002/advs.78753",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Hydration‐Driven Self‐Strengthening Silk Fibroin Ionic Elastomer for Electro‐Immunomodulatory Achilles Tendon Repair",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78835?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Heng‐Jie Zeng, Guang‐Cheng Yuan, Fu‐Lai Zhu, Chi‐Yuan Chen, Jian Dong, Haikang Cai, Shengjie Ling, Li‐Bo Jiang"
+        ],
+        "doi": "10.1002/advs.78835",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Architecture‐Dependent Aromatic Residue Interactions Drive Optoelectronic Activity in Peptide Coassemblies",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78844?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Sheng Wei Tang, Anastasia Vlachou, Carly M. Rohlmeier, Ze‐Fan Yao, Zachari S. Mendoza, Yuyao Kuang, Natalie Celt, Kaitlyn G. Dold, Dmitry A. Fishman, Phanourios Tamamis, Herdeline Ann M. Ardoña"
+        ],
+        "doi": "10.1002/advs.78844",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Therapeutic Potential of Intermittent Theta Burst Stimulation in Central Nervous System Diseases: From Molecular Mechanisms to Clinical Translation",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78853?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Jingkai Tang, Xuchang Zhou, Hong Cao, Yajing Yang, Lu Gao, Dongxue Wang, Huili Deng, Zhangyu Lin, Xier Chen, Liang Wu, Guoxin Ni, Fengxia Liang"
+        ],
+        "doi": "10.1002/advs.78853",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "The Lysine Metabolism–Protein Modification Axis in Tumor Immunity",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78675?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Shutong Liu, Yao Xu, Xiaorui Li, Qihang Yuan, Guangzhen Wu"
+        ],
+        "doi": "10.1002/advs.78675",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Cationic Potential‐Guided Li/K Co‐Doping Enables Fast‐Charging Layered Oxide Cathodes for Sodium‐Ion Batteries",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78640?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Pengcheng Zhang, Xiaoqiong Ren, Hongzhe He, Jie Liu, Chenglin Yan, Yuan Cheng, Ke Wang, Huanting Wang, Baiqian Dai"
+        ],
+        "doi": "10.1002/advs.78640",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Discovery and Biocatalytic Application of Legume Isoflavonoid 2'/3'‐Hydroxylases for Astrapterocarpan Pathway",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78798?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Linlin Wang, Minghai Zhou, Ming Xiong, Chenlin Song, Shan Tan, Naiwen Zhang, Erqian Zhang, Yuxi Huang, Xuan Zhang, Min Ye, Xue Qiao"
+        ],
+        "doi": "10.1002/advs.78798",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "An Anti‐Adhesive Hydrogel Delivering Ginger‐Derived Exosome‐Like Nanoparticles Reshapes the Neuroinflammatory Microenvironment After Traumatic Brain Injury",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78724?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Jie Chen, Tong Zhu, Jinpeng Wen, Mengqing Shen, Beilin Hou, Boyuan Gu, Mingxia Zhang, Siyu Sun, Chunxia Yan, Bo Liu, Ke Wang, Bao Zhang"
+        ],
+        "doi": "10.1002/advs.78724",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Biomimetic Carbonate Aerogel via γ‐Dicalcium Silicate Mineralization for Concurrent CO2 Sequestration and All‐Season Building Thermoregulation",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78720?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Peng Liu, Jingkui Zhong, Wei Liu, Fei Jin, Abir Al‐Tabbaa, Liwu Mo"
+        ],
+        "doi": "10.1002/advs.78720",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Developmentally Informed Cell‐State Heterogeneity Reveals Targetable Cell‐State Plasticity in Multiple Myeloma",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78396?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Haoguang Chen, Shunnan Yao, Chunting Zhu, Fei Cheng, Zhenfeng Dai, Liqin Cao, Enfan Zhang, Jinna Zhang, Yifan Hou, Qiqi Shen, Xing Guo, Wen Cao, Jianwei Qu, Xi Huang, Qingxiao Chen, Huiyao Gu, Yunlu Jia, Jingsong He, Shanshan Pei, Zhen Cai"
+        ],
+        "doi": "10.1002/advs.78396",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "TFAP2‐Dependent Super‐Enhancer Activation of PAX3 Drives Chondrogenic Fate in the Cranial Neural Crest",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78662?af=R",
+        "pub_date": "2026-11-22",
+        "authors": [
+          "Junyan Lin, Xiaofeng Li, Barbara Vona, Shang Gao, Yue Gao, Lin Wang, Mulong Du, Yongchu Pan"
+        ],
+        "doi": "10.1002/advs.78662",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
       }
     ]
   }
