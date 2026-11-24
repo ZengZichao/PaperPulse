@@ -1,9 +1,801 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T02:47:04.032401+00:00",
-  "total_journals": 1,
-  "total_articles": 3,
+  "generated_at": "2026-11-24T14:37:33.716663+00:00",
+  "total_journals": 17,
+  "total_articles": 61,
   "journals": {
+    "Nucleic Acids Research": [
+      {
+        "title": "Beyond the rat: over a quarter century of disease model integration at the Rat Genome Database.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43074599/",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Smith JR",
+          "Demos WM",
+          "Eilbes MA",
+          "Kaldunski ML",
+          "Park CA",
+          "Tutaj M",
+          "Wang SJ",
+          "Gibson AC",
+          "Gollapally VR",
+          "Lamers L",
+          "Thota J",
+          "Tutaj MA",
+          "Brodie KC",
+          "Zacher S",
+          "De Pons JL",
+          "Dwinell MR",
+          "Kwitek AE"
+        ],
+        "doi": "10.1093/nar/gkag1207",
+        "journal": "Nucleic Acids Research",
+        "source": "pubmed",
+        "pmid": "43074599",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "The Rat Genome Database (RGD, https://rgd.mcw.edu) is a multispecies knowledgebase and the primary online resource for genomic, genetic, phenotypic, and disease data for rat. In the past 6 years, RGD has incorporated new data, including three new species, two rat reference genome assemblies, eight rat strain de novo assemblies from Dr Peter Doris' group, and variant data for 118 unique strains from the Hybrid Rat Discovery Panel. Systematic manual curation of metadata and consistent reprocessing of RNA-Seq data from the GEO database have resulted in the addition of a substantial dataset of standardized transcriptomic data. RGD's disease-centric focus has continued with the creation of four new disease portals, bringing the total number of portals up to sixteen and three existing portals have been updated. Four of RGD's data mining and analysis tools were redesigned with a cleaner, more intuitive look and feel and additional functionality. RGD's primary genome browser has been upgraded to JBrowse 2, a browser designed to facilitate analyses across species and between assemblies within a species. To support researchers wanting to learn more about using RGD's tools and data, RGD has begun a project to improve and expand the website's help pages and video tutorials."
+      },
+      {
+        "title": "Database resources of the National Center for Biotechnology Information in 2027.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43074598/",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Haro KJ",
+          "Bolton EE",
+          "Fine AM",
+          "Kelly C",
+          "Kim S",
+          "Landrum M",
+          "Lathrop S",
+          "Rangwala SH",
+          "Ward M",
+          "Chan J",
+          "Klimke W",
+          "Clough E",
+          "Soboleva A",
+          "Malheiro A",
+          "Murphy TD",
+          "Phan L",
+          "Pujar S",
+          "Trawick BW",
+          "Schneider VA",
+          "Pruitt KD"
+        ],
+        "doi": "10.1093/nar/gkag1211",
+        "journal": "Nucleic Acids Research",
+        "source": "pubmed",
+        "pmid": "43074598",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "The National Center for Biotechnology Information (NCBI) provides biomedical data resources including PubMed®, a repository of citations and abstracts published in life science journals, and ClinicalTrials.gov, a repository of clinical research summaries. NCBI also hosts a multitude of resources providing nucleotide sequences and sequence-derived products, such as proteins and protein structures. Search and retrieval operations are available for most of the 40 distinct repositories, knowledgebases, and services. The E-utilities and NCBI Datasets serve as the programming interface for most of these. Resources receiving significant updates in the past year include PubMed®, PubMed Central® (PMC), SciENcv, ClinicalTrials.gov, ClinVar, dbSNP, dbGaP, GTR, MedGen®, Pathogen Detection and the National Database of Antibiotic Resistant Organisms, and PubChem®. These resources can be accessed through the NCBI home page at https://www.ncbi.nlm.nih.gov."
+      },
+      {
+        "title": "OMA orthology in 2027: orthology, ancestral gene repertoires, and comparative genomics at scale.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43074597/",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Altenhoff A",
+          "Vesztrocy AW",
+          "Romashchenko N",
+          "Kim D",
+          "Train C",
+          "Pascarelli S",
+          "Prieto-Baños S",
+          "Kharrazi AY",
+          "Gavriilidou A",
+          "Haefliger Y",
+          "Aldà S",
+          "Damen R",
+          "Pankin A",
+          "James GV",
+          "Moi D",
+          "Nevers Y",
+          "Julca I",
+          "Majidian S",
+          "Dessimoz C",
+          "Glover N"
+        ],
+        "doi": "10.1093/nar/gkag1229",
+        "journal": "Nucleic Acids Research",
+        "source": "pubmed",
+        "pmid": "43074597",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "OMA is a longstanding resource for inferring and exploring orthologous relationships across the tree of life. Here, we describe recent developments that broaden the comparative genomics information and analyses supported by the OMA ecosystem. The latest OMA release contains 2983 extant genomes and 1226 ancestral genome reconstructions spanning all domains of life, with expanded eukaryotic representation and quality-assessed genome selection. We integrated protein structure-aware information across all proteins in OMA, providing structure-derived 3Di representations and structural alignments for hierarchical orthologous groups. For custom datasets, FastOMA enables scalable orthology across thousands of genomes, while OrthoXML-tools facilitates interoperable manipulation and downstream analysis of orthology data. Building on previous resources for ancestral gene repertoire and gene order reconstruction, an extended chromosome viewer enables richer exploration of gene order in extant and reconstructed ancestral genomes, including gene adjacency evolution and integrated downstream analyses. Functional analysis has been extended through the OMA REST API, enabling customizable Gene Ontology enrichment analyses of extant and ancestral gene sets. Finally, updated training resources and support for private deployments broaden access to the OMA ecosystem. Together, these developments provide an integrated framework for studying gene families and genome evolution from sequences, structures, and evolutionary context. OMA is freely accessible at https://omabrowser.org/."
+      }
+    ],
+    "Nature": [
+      {
+        "title": "Fight AI slop without punishing legitimate researchers",
+        "link": "https://www.nature.com/articles/d41586-026-03824-3",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Yinjie Jia",
+          "Pengfei Xu"
+        ],
+        "doi": "10.1038/d41586-026-03824-3",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03824-3Fight AI slop without punishing legitimate researchers"
+      },
+      {
+        "title": "The science on AI consciousness must acknowledge uncertainty",
+        "link": "https://www.nature.com/articles/d41586-026-03822-5",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Haewoon Kwak"
+        ],
+        "doi": "10.1038/d41586-026-03822-5",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03822-5The science on AI consciousness must acknowledge uncertainty"
+      },
+      {
+        "title": "Himalayan disasters demand biodiversity conservation across borders",
+        "link": "https://www.nature.com/articles/d41586-026-03825-2",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Guan-Long Cao"
+        ],
+        "doi": "10.1038/d41586-026-03825-2",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03825-2Himalayan disasters demand biodiversity conservation across borders"
+      },
+      {
+        "title": "Submission caps aren’t enough to tackle AI slop",
+        "link": "https://www.nature.com/articles/d41586-026-03823-4",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Sang-ji Choi"
+        ],
+        "doi": "10.1038/d41586-026-03823-4",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03823-4Submission caps aren’t enough to tackle AI slop"
+      },
+      {
+        "title": "Pakistani astronaut to become first foreign visitor to China’s space station",
+        "link": "https://www.nature.com/articles/d41586-026-03829-y",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Xiaoying You"
+        ],
+        "doi": "10.1038/d41586-026-03829-y",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03829-yMuhammad Zeeshan Ali is flying this week to the Tiangong module aboard a Chinese spacecraft."
+      },
+      {
+        "title": "How acidic compounds in human sweat open a mosquito ion channel",
+        "link": "https://www.nature.com/articles/d41586-026-03381-9",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Swathi Pantheerayil",
+          "Janesh Kumar"
+        ],
+        "doi": "10.1038/d41586-026-03381-9",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03381-9Structures of a mosquito receptor bound to acids from human skin could inspire tactics to stifle the attraction of malaria-carrying mosquitoes to humans."
+      },
+      {
+        "title": "Blend public cash and private innovation to unlock drug development",
+        "link": "https://www.nature.com/articles/d41586-026-03723-7",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Victor J. Dzau",
+          "Will Ellaissi",
+          "Emily L. Shambaugh"
+        ],
+        "doi": "10.1038/d41586-026-03723-7",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03723-7Common health conditions lack medicines and treatments because industry finds them too risky to invest in. Here’s what would help."
+      },
+      {
+        "title": "AI is ‘the end of mathematics as we know it’ — where does the field go next?",
+        "link": "https://www.nature.com/articles/d41586-026-03719-3",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Davide Castelvecchi"
+        ],
+        "doi": "10.1038/d41586-026-03719-3",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03719-3Mathematicians are bracing for a future when their profession could be mostly delegated to machines."
+      },
+      {
+        "title": "Menopause can speed up brain ageing — hormone therapy might protect it",
+        "link": "https://www.nature.com/articles/d41586-026-03667-y",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Rachel Fieldhouse"
+        ],
+        "doi": "10.1038/d41586-026-03667-y",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03667-yStudies are revealing how menopause can also affect the progression of Alzheimer’s disease."
+      },
+      {
+        "title": "Mini microscope captures brain activity while mice are on the go",
+        "link": "https://www.nature.com/articles/d41586-026-03380-w",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Weijian Yang",
+          "Marco Tripodi"
+        ],
+        "doi": "10.1038/d41586-026-03380-w",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03380-wA head-mounted device records neuronal activity as mice explore a naturalistic environment and interact with each other. Specialists discuss the technology and its applications."
+      }
+    ],
+    "Scientific Data": [
+      {
+        "title": "High-Resolution Anthropogenic Heat Flux from fossil fuel combustion and electricity consumption for the U.S.",
+        "link": "https://www.nature.com/articles/s41597-026-08670-6",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Pawlok Dass",
+          "Kevin R. Gurney",
+          "Lech Gawuc",
+          "Anna Kato",
+          "Bilal Aslam",
+          "Shanthi Swaroopa Hari Podhili"
+        ],
+        "doi": "10.1038/s41597-026-08670-6",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 24 November 2026; doi:10.1038/s41597-026-08670-6High-Resolution Anthropogenic Heat Flux from fossil fuel combustion and electricity consumption for the U.S."
+      },
+      {
+        "title": "A high-Reynolds-number experimental dataset of surface pressure and pressure-derived aerodynamic loads for three airfoils",
+        "link": "https://www.nature.com/articles/s41597-026-08653-7",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Junyi Tang",
+          "Yi Hui",
+          "Mingshui Li",
+          "Qingshan Yang"
+        ],
+        "doi": "10.1038/s41597-026-08653-7",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 24 November 2026; doi:10.1038/s41597-026-08653-7A high-Reynolds-number experimental dataset of surface pressure and pressure-derived aerodynamic loads for three airfoils"
+      },
+      {
+        "title": "Geomorphological landslide inventory of the Dubračina Valley using pseudo-stereoscopic LiDAR hillshade maps",
+        "link": "https://www.nature.com/articles/s41597-026-08715-w",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Petra Jagodnik",
+          "Federica Fiorucci",
+          "Sanja Bernat Gazibara",
+          "Michele Santangelo"
+        ],
+        "doi": "10.1038/s41597-026-08715-w",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 24 November 2026; doi:10.1038/s41597-026-08715-wGeomorphological landslide inventory of the Dubračina Valley using pseudo-stereoscopic LiDAR hillshade maps"
+      },
+      {
+        "title": "A chromosome-level genome assembly of the oligophagous leafminer Phytomyza vitalbae",
+        "link": "https://www.nature.com/articles/s41597-026-08621-1",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Fuyu Ye",
+          "Jianyang Guo",
+          "Nianwan Yang",
+          "Sujie Du",
+          "Xiaoming Man",
+          "Xue Ren",
+          "Wanxue Liu",
+          "Frédéric Francis"
+        ],
+        "doi": "10.1038/s41597-026-08621-1",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 24 November 2026; doi:10.1038/s41597-026-08621-1A chromosome-level genome assembly of the oligophagous leafminer Phytomyza vitalbae"
+      },
+      {
+        "title": "Chromosome-level genome of Trox cadaverinus Illiger, 1802 (Coleoptera: Scarabaeoidea: Trogidae)",
+        "link": "https://www.nature.com/articles/s41597-026-08904-7",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Qiang Ding",
+          "Xinwen Yang",
+          "Rongrong Shen",
+          "Xuan Zhou",
+          "David Král",
+          "Aleš Bezděk",
+          "Shaolong Wu",
+          "Ming Bai"
+        ],
+        "doi": "10.1038/s41597-026-08904-7",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 24 November 2026; doi:10.1038/s41597-026-08904-7Chromosome-level genome of Trox cadaverinus Illiger, 1802 (Coleoptera: Scarabaeoidea: Trogidae)"
+      },
+      {
+        "title": "A Large-Scale Coronal Mass Ejection Instance Segmentation Dataset with Catalog-Guided Selection and Two-Stage Human Refinement",
+        "link": "https://www.nature.com/articles/s41597-026-08688-w",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Yimin Wang",
+          "Xinye Tan",
+          "Jiahui Shan",
+          "Xin Liu",
+          "Zhanpeng Xu",
+          "Jiajia Liu",
+          "Ye Jiang",
+          "Xiaohua Yang",
+          "Li Feng",
+          "Xin Huang"
+        ],
+        "doi": "10.1038/s41597-026-08688-w",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 24 November 2026; doi:10.1038/s41597-026-08688-wA Large-Scale Coronal Mass Ejection Instance Segmentation Dataset with Catalog-Guided Selection and Two-Stage Human Refinement"
+      },
+      {
+        "title": "Expert validated forest dependent bird species vocalisation dataset and thresholds for BirdNET Analyzer 2.4 in the Colombian Amazon",
+        "link": "https://www.nature.com/articles/s41597-026-08778-9",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Charlie A. Tebbutt",
+          "Camilo Loaiza",
+          "Diana A. L. Lucena",
+          "Wilmer A. R. Riaño",
+          "Dhruv V. Cohen",
+          "Diego F. Rocha",
+          "Maria E. Mendiwelso",
+          "Trifosa I. Simamora",
+          "Kenneth Tyler Wilcox",
+          "Stephen J. Morreale",
+          "Shorna B. Allred",
+          "Silvia J. Alvarez",
+          "Laurel B. Symes"
+        ],
+        "doi": "10.1038/s41597-026-08778-9",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 24 November 2026; doi:10.1038/s41597-026-08778-9Expert validated forest dependent bird species vocalisation dataset and thresholds for BirdNET Analyzer 2.4 in the Colombian Amazon"
+      },
+      {
+        "title": "Transcriptome and chromatin accessibility across multiple tissues in largemouth bass (Micropterus salmoides) and Nile tilapia (Oreochromis niloticus) under heat stress",
+        "link": "https://www.nature.com/articles/s41597-026-08922-5",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Guili Song",
+          "Haijie Chen",
+          "Zhicheng Xv",
+          "Qianhui Sun",
+          "Shimei Lin",
+          "Yong Long"
+        ],
+        "doi": "10.1038/s41597-026-08922-5",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 24 November 2026; doi:10.1038/s41597-026-08922-5Transcriptome and chromatin accessibility across multiple tissues in largemouth bass (Micropterus salmoides) and Nile tilapia (Oreochromis niloticus) under heat stress"
+      }
+    ],
+    "Nature Genetics": [
+      {
+        "title": "Exhaustive rearrangement of an enhancer reveals that dependency-syntax encodes tissue specificity",
+        "link": "https://www.nature.com/articles/s41588-026-02838-x",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Joe J. Solvason",
+          "Krissie Tellez",
+          "Fabian Lim",
+          "Qiyang Wang",
+          "Benjamin P. Song",
+          "Jessica L. Grudzien",
+          "Sophia H. Le",
+          "Katrina M. Olson",
+          "Granton A. Jindal",
+          "Emma K. Farley"
+        ],
+        "doi": "10.1038/s41588-026-02838-x",
+        "journal": "Nature Genetics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Genetics, Published online: 24 November 2026; doi:10.1038/s41588-026-02838-xExhaustive rearrangement of an enhancer, tested by bulk and single-cell assays in whole embryos, reveals that transcription factor binding site order, orientation and spacing (syntax) control enhancer activity and tissue specificity."
+      }
+    ],
+    "Exploration": [
+      {
+        "title": "Dual Adenosine‐Modulating Nanoparticles for Metabolic‐Epigenetic Reinvigoration of Antitumor Immunity",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/exp2.70261?af=R",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Ying Ji, Wei Mu, Daoxia Guo, Lan Xu, Jinli Sun, Feng Xu, Nan Chen, Xiaoyuan Ji, Haiyun Song"
+        ],
+        "doi": "10.1002/exp2.70261",
+        "journal": "Exploration",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Exploration, EarlyView."
+      },
+      {
+        "title": "Pathogen‐Mimicking Nanovaccines: Bridging Material Innovation to Pandemic Preparedness",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/exp2.70259?af=R",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Jingdi Pan, Wei Li, Zongqiang Cui"
+        ],
+        "doi": "10.1002/exp2.70259",
+        "journal": "Exploration",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Exploration, EarlyView."
+      }
+    ],
+    "Nature Biotechnology": [
+      {
+        "title": "Modular mRNA-encoded helper proteins enhance DNA delivery",
+        "link": "https://www.nature.com/articles/s41587-026-03351-6",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Manthan N. Patel",
+          "Heewon Park",
+          "Nicolas Marzolini",
+          "Conor Dickson",
+          "Sarah O’Neill",
+          "Saw Yunn Nwe",
+          "Hsiang-Yung Wang",
+          "Shanay Desai",
+          "Taylor V. Brysgel",
+          "Sachchidanand Tiwari",
+          "Yufei Wang",
+          "Rhea Maheshwari",
+          "Eno-Obong Essien",
+          "Jacob S. Brenner"
+        ],
+        "doi": "10.1038/s41587-026-03351-6",
+        "journal": "Nature Biotechnology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Biotechnology, Published online: 24 November 2026; doi:10.1038/s41587-026-03351-6DNA delivery is improved with codelivered helper proteins."
+      }
+    ],
+    "Microbiological Research": [
+      {
+        "title": "Adaptive denitrification performance and underlying mechanisms of Pseudomonas stutzeri BBW831 under cadmium stress: EPS remodeling, pH-driven surface adsorption, and transcriptomic reprogramming.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43072074/",
+        "pub_date": null,
+        "authors": [
+          "Zhang J",
+          "Fang J",
+          "Cheng X",
+          "Tan M",
+          "Ma D",
+          "Li K"
+        ],
+        "doi": "10.1016/j.micres.2026.128851",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43072074",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Cadmium (Cd²⁺) strongly interferes with microbial nitrogen removal. This study investigated the denitrification performance, physiological responses, and molecular adaptations of Pseudomonas stutzeri BBW831 under Cd²⁺ stress up to 30 mg/L. Although Cd²⁺ exposure inhibited bacterial growth and markedly delayed nitrate removal, approximately 150 mg/L NO₃⁻-N was ultimately removed at all tested Cd²⁺ concentrations. However, persistent NO₂⁻-N accumulation at 30 mg/L Cd²⁺ (39.99 mg/L at the end of cultivation) indicated impaired downstream denitrification. Consistently, the activities of nitrate reductase and nitrite reductase decreased, with a more pronounced inhibition of nitrite reductase, accompanied by reductions in catalase, superoxide dismutase, and total antioxidant capacity. Cd²⁺ exposure also induced concentration-dependent changes in extracellular polymeric substances (EPS): EPS production peaked at 10 mg/L Cd²⁺ (123.55 ± 6.88 mg/g VSS), whereas higher concentrations reduced EPS production but increased the protein-to-polysaccharide ratio from 56:44-92:8. Three-dimensional excitation-emission matrix spectroscopy further revealed enhanced tryptophan-like protein fluorescence under Cd²⁺ stress. Surface characterization indicated Cd-associated signals and alterations in cell-envelope functional groups, while culture alkalinization suggested a potential contribution of pH-dependent surface interactions to Cd²⁺ binding. Transcriptomic analysis identified 681 differentially expressed genes, revealing extensive metabolic reprogramming. Genes associated with metal efflux, sulfur metabolism, Fe-S cluster assembly, and cell-envelope remodeling were upregulated, whereas multiple genes involved in the tricarboxylic acid cycle, oxidative phosphorylation, and nitrogen metabolism were downregulated. Such expression patterns were further validated by RT-qPCR. These findings provide insights into the adaptive responses of aerobic denitrifiers in Cd²⁺-containing environments and demonstrate the potential of strain BBW831 for Cd²⁺-polluted wastewater remediation."
+      },
+      {
+        "title": "Sterol-mediated control of conidiation via FgErg3B in Fusarium graminearum.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43072072/",
+        "pub_date": null,
+        "authors": [
+          "Xu Y",
+          "Fan D",
+          "Zheng X",
+          "Gao H",
+          "Pang M",
+          "Qin Z",
+          "Hu Y",
+          "Li N",
+          "Lin H"
+        ],
+        "doi": "10.1016/j.micres.2026.128840",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43072072",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Conidia (asexual spores) are the primary inoculum driving the spread of Fusarium head blight, yet chemical inhibition of conidiation in Fusarium graminearum and its underlying molecular mechanisms remain poorly understood. Here, we identify the ergosterol biosynthetic enzyme FgErg3B as a direct molecular target of pregnenolone, a steroid that strongly inhibits conidiation in F. graminearum. Deletion of FgERG3B reduced conidiation and abolished the response to pregnenolone, while microscale thermophoresis confirmed a high-affinity interaction between pregnenolone and FgErg3B in vitro. Structural modeling, molecular docking and site-directed mutagenesis further identified a hydrophobic pocket involved in pregnenolone binding. Further, lipidomic and transcriptomic analyses revealed coordinated changes in lipid metabolism following pregnenolone treatment or FgERG3B deletion, including reduced abundance of four triacylglycerol species and downregulated expression of eight lipid-droplet-associated genes. These findings link FgErg3B to lipid-droplet homeostasis and provide a possible metabolic connection between sterol metabolism and asexual development. Our study identifies FgErg3B as a molecular target for selective inhibition of conidiation and provides a basis for developing strategies to limit Fusarium disease dissemination through targeted suppression of conidial development."
+      },
+      {
+        "title": "Co-inoculation with Bacillus velezensis and Acinetobacter baumannii enhances crop Fe uptake in calcareous soils.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43072073/",
+        "pub_date": null,
+        "authors": [
+          "Zhu Z",
+          "Zhu J",
+          "Du J",
+          "Wang Q",
+          "Zhang S",
+          "Liu D",
+          "Liu Z",
+          "Sun S",
+          "Zhang R",
+          "Shen Q",
+          "Tan T",
+          "Xu Z"
+        ],
+        "doi": "10.1016/j.micres.2026.128839",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43072073",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Synthetic microbial communities (SynComs), known for their complementary functions and robust stability, are emerging as promising alternatives to single-strain microbial agents. Although the cross-feeding strategy has been widely applied to guide the design of SynComs for sustainable agriculture, its potential to enhance iron (Fe) biofortification for plants remains unexplored. This study aimed to construct a two-strain consortium centered on the beneficial rhizobacterium Bacillus velezensis SQR9 using a cross-feeding strategy, investigate the positive interactions between the two strains in promoting plant Fe uptake, and elucidate the mechanisms underlying their cross-feeding. The results showed that SQR9 engages in bidirectional cross-feeding with Acinetobacter baumannii H3. Compared with individual cultures, their co-culture significantly stimulated the growth of both strains. Furthermore, H3 significantly promoted the biofilm formation of SQR9 and potentiated its root colonization capacity. Crucially, pot experiments confirmed that co-inoculation with SQR9 and H3 more effectively promoted Fe uptake and growth of crops cultivated in calcareous soils. Metabolomic analyses further revealed that SQR9 and H3 mutually support each other's growth through the exchange of specific metabolites, such as α-aspartylphenylalanine and DL-tryptophan. In conclusion, our findings broaden the application prospects of SQR9 as a plant growth-promoting rhizobacterium (PGPR) in sustainable agriculture and provide critical theoretical guidance for the rational design of SynComs aimed at enhancing Fe nutrition in crops."
+      },
+      {
+        "title": "Stage-specific DNA 6 mA dynamics and metabolic remodeling during lipid accumulation in Mucor circinelloides WJ11.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43072075/",
+        "pub_date": null,
+        "authors": [
+          "Zhao J",
+          "Saeed MT",
+          "Wang X",
+          "Fan Y",
+          "Liu Q",
+          "Song Y"
+        ],
+        "doi": "10.1016/j.micres.2026.128833",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43072075",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "N⁶-methyladenine (6 mA) dynamics during microbial lipid accumulation remain poorly understood. In this study, 6mA-IP-seq profiles and transcriptomic changes were characterized across four fermentation stages of Mucor circinelloides WJ11, generating a time-resolved catalogue of candidate 6mA-enriched regions in an oleaginous fungus. Global 6 mA levels progressively declined from 0.40% to 0.25%, as quantified by HPLC-MS/MS and supported by dot blot analysis. Genes associated with 6mA-IP-seq peaks were enriched in fatty acid biosynthesis pathways. At the metabolic level, nitrogen limitation was accompanied by changes in respiratory-chain-associated protein concentrations, transient NADH accumulation during active lipogenesis, and transcriptional repression of tricarboxylic acid cycle genes. An early decrease in the S-adenosylmethionine (SAM)/S-adenosylhomocysteine (SAH) molar ratio and reduced expression of putative methyltransferases were also observed, and eight candidate methyltransferases were identified. Based on these temporally coordinated changes, a correlation-based mechanistic framework linking mitochondrial bioenergetics, methyl-donor metabolism, and epigenetic regulation is proposed, providing a foundation for future functional studies and the biotechnological improvement of microbial lipid production."
+      }
+    ],
+    "Water Research": [
+      {
+        "title": "Microbially mediated groundwater ammonium dynamics across redox zonation: Hydrogeochemical and metabolic constraints.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43072156/",
+        "pub_date": null,
+        "authors": [
+          "Shen S",
+          "Zhao Y",
+          "Ma Y",
+          "Zhang W",
+          "Du Y",
+          "Xie X"
+        ],
+        "doi": "10.1016/j.watres.2026.127398",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43072156",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Groundwater ammonium (NH4N) enrichment poses a major water-quality risk and ecological threat in arid and semi-arid regions, yet microbial mechanisms governing its dynamics across redox zonation remain underexplored. This study combined hydrogeochemical and isotopic investigations with metagenomic analyses to determine how microbially mediated source-sink processes regulate NH4N dynamics under contrasting redox conditions. Along the groundwater flow path from the lake-distal suboxic zone (G1) to the nearshore reducing zone (G2), nitrate (NO3N) declined markedly as NH4N accumulated progressively. Hydrogeochemical and isotopic evidence suggested that nitrification and anammox were associated with enhanced NH4N removal in the G1. In the G2, denitrification and dissimilatory nitrate reduction to ammonium (DNRA) potentially contributed to NO3N attenuation, whereas mineralization of nitrogen-containing OM and DNRA showed enhanced potential to promote in situ NH4N enrichment. Metagenomic and metagenome-assembled genome (MAG) analyses confirmed pronounced redox-driven functional partitioning. Enrichment of nitrification- and anammox-related genes (nxrA/B, hzsA/C and hao/hzo) in G1 indicated the metabolic potential for efficient NH4N removal. In contrast, genes associated with ammonification, nitrogen fixation, DNRA, and denitrification (gdhA, nrfA/H, nifD/H/K and napA/B) were co-enriched in G2, supporting enhanced functional potential for coupled NO3N attenuation and NH4N enrichment. PLS-SEM modeling further demonstrated that redox zonation reorganized microbial nitrogen transformation pathways along the groundwater flow path, shifting the system from oxidative NH4N consumption in G1 to reductive NH4N enrichment in G2. These findings reveal a redox-controlled microbial mechanism contributing to groundwater NH4N dynamics, with important implications for zone-specific management of nitrogen pollution in arid and semi-arid regions."
+      },
+      {
+        "title": "Making waves: Toward a stability-first framework for durable AOP-ceramic membrane systems in authentic water matrices.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43072153/",
+        "pub_date": null,
+        "authors": [
+          "Li Y",
+          "Xie X",
+          "Xu X"
+        ],
+        "doi": "10.1016/j.watres.2026.127382",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43072153",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Catalytic ceramic membranes that couple advanced oxidation with physical separation offer an attractive single-unit solution for water treatment. Although catalytic ceramic membrane systems have demonstrated promising performance in laboratory studies and pilot-scale applications, their engineering deployment remains limited. A major unresolved challenge is the lack of a consistent system-level approach for evaluating and managing long-term stability under realistic water matrices and operational disturbances. In authentic water matrices, fouling, scaling, and catalyst poisoning collectively shorten membrane life in ways that short-term lab tests fail to capture. The discussion focuses on three barriers to application-oriented transformation, including interference from natural organic matter and inorganic ions, real-world operating challenges (pressure fluctuations, vibration, harsh cleaning), and insufficient long-term stability data from short-term idealized studies. Within this stability-first perspective, system-level stability is considered across four interacting dimensions: catalytic stability, hydraulic stability, structural stability, and functional recoverability. The article then outlines current stability-enhancement strategies, including protective coatings, pore-structure engineering, and online cleaning, and notes that each carries inherent limitations. Critically, a major obstacle is the lack of standardized testing conditions, which hinders cross-study comparison. A two-tier assessment and reporting logic is therefore proposed to distinguish degradation under defined nominal conditions from recovery and resilience following operational disturbances. Looking forward, two research directions merit priority: standardized stability assessment and the development of functionally resilient systems that can manage and recover from performance loss. Prioritizing stability from the earliest stages of material design is essential to bridge the gap between laboratory-scale promise and real-world water treatment deployment."
+      },
+      {
+        "title": "Zero-valent iron enhanced simultaneous anammox-denitrification (SAD) for livestock wastewater treatment: dose-dependent responses and potential mass-transfer constraints induced by Fe-P mineralization.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43072152/",
+        "pub_date": null,
+        "authors": [
+          "Yang S",
+          "Liu X",
+          "Qiu Q",
+          "Zhang S",
+          "Wang H",
+          "Li M",
+          "Qiu L"
+        ],
+        "doi": "10.1016/j.watres.2026.127376",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43072152",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Zero-valent iron (ZVI) is capable of boosting simultaneous anammox and denitrification (SAD), yet the dose-dependent trade-off between nutrient removal and sludge interfacial properties, especially Fe-P mineralization-induced mass-transfer limitation, remains poorly understood. In this study, four continuous-flow upflow anaerobic sludge blanket (UASB) reactors with ZVI dosages of 0, 4, 8, and 12 g·L-1 were operated to evaluate nitrogen and phosphorus removal from simulated livestock anaerobic digestate. A dose-dependent trade-off was observed between moderate biological stimulation by ZVI and performance deterioration induced by excessive iron loading. Among the tested dosages, 4 g·L-1 ZVI yielded the optimal performance, with steady-state dissolved inorganic nitrogen (DIN) and COD removal efficiencies of 96.50% and 93.08%, respectively; the stoichiometrically estimated anammox contribution to DIN removal was 86.10%. Under this condition, the anammox-associated genera Candidatus Kuenenia and Candidatus Brocadia (combined relative abundance: 10.50%) coexisted with Pseudomonas (6.80%), a genus containing potentially denitrifying members, alongside favorable DIN removal. Increasing ZVI dosage further promoted phosphorus sequestration but failed to improve overall DIN removal. At 12 g·L-1, NH4⁺-N removal dropped below 15%, indicating severe deterioration of nitrogen removal capacity under excessive ZVI loading. Material characterization revealed that excess Fe2+ released from ZVI corrosion reacted with phosphate to form Fe-P mineral encrustation on granular sludge surfaces, accompanied by enhanced extracellular polymeric substance (EPS) deposition. The formed mineralized layer increased interfacial mass-transfer resistance, hindering substrate diffusion into the inner active zones of granules and driving microbial succession toward iron-tolerant denitrifiers, thereby suppressing anammox activity. Collectively, 4 g·L-1 was identified as the optimal ZVI dosage within the tested range, achieving a favorable balance among DIN removal, phosphorus sequestration, and microbial community structure. These findings suggest that excessive Fe-P mineralization may constrain substrate accessibility in ZVI-amended granular SAD systems."
+      },
+      {
+        "title": "Flood and low-flow dynamics across tile-drainage gradients in Midwestern U.S. watersheds.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43072154/",
+        "pub_date": null,
+        "authors": [
+          "Chen X",
+          "Lu C",
+          "Seybold E",
+          "Burgin A",
+          "Liu W",
+          "Huang H"
+        ],
+        "doi": "10.1016/j.watres.2026.127343",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43072154",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Subsurface tile drainage alters water movement through agricultural landscapes, potentially affecting watershed responses to both excess water and water scarcity. However, how flood and low-flow characteristics vary across watersheds with different tile-drainage percentages remains poorly understood, limiting our ability to evaluate its broader hydrological implications. We examined flood and low-flow events during 1981-2023 across approximately 500 non-nested Midwestern watersheds spanning tile-drainage percentages from 0% to over 80%. Annual discharge deviation was defined as the percentage difference between annual mean discharge and each watershed's long-term mean discharge. Watersheds with higher tile-drainage percentages generally exhibited larger positive deviations during wet years (precipitation anomaly >1σ) and more negative deviations during dry years (precipitation anomaly <-1σ). Positive discharge deviations during wet years were generally greater in magnitude than negative deviations during dry years, although these patterns varied seasonally. At the event scale, tile-drainage percentage was positively associated with flood runoff volume and low-flow deficit and negatively associated with flood-low-flow transition frequency. Analyses using tile-drainage percentage as the sole predictor revealed nonlinear relationships, including relatively elevated peak discharge at intermediate drainage percentages. After accounting for precipitation, topography, soil texture, and cropland coverage, associations with flood runoff, peak discharge, low-flow deficit, and low-flow duration remained statistically significant, although the flood-runoff and peak-discharge relationships became approximately linear. These findings show that hydrological characteristics vary systematically across the tile-drainage gradient, while also indicating that some apparent relationships are partly associated with differences in climate and landscape characteristics among watersheds. Our results highlight the importance of considering both flood and low-flow responses, together with climatic and landscape conditions, when evaluating tile-drainage design and watershed management."
+      },
+      {
+        "title": "EPS-mediated metal retention extends bacterial protection across species during manure compost recycling.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43072155/",
+        "pub_date": null,
+        "authors": [
+          "He W",
+          "Xing Y",
+          "Cai H",
+          "Sun Z",
+          "Wang W",
+          "Li J",
+          "Li C",
+          "Xing Y"
+        ],
+        "doi": "10.1016/j.watres.2026.127306",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43072155",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Bacterial detoxification traits can protect individual cells from heavy metals, but whether these benefits extend to neighboring species and ultimately influence metal fate remains unclear. We investigated this across four manure composting systems using community profiling, isolate-level EPS perturbations, co-cultures, and bioaugmentation. Correlation and Random Forest analyses linked substrate-specific bacterial taxa to operationally stable Cu/Zn fractions. Pig-compost-derived isolates affiliated with these taxa exhibited higher EPS production and predominantly surface-associated Cu/Zn retention. Alginate deletion reduced Cu and Zn surface adsorption by 47% and 25%, respectively, while increasing intracellular accumulation by ∼30%; D-tyrosine treatment and surface EPS stripping showed similar metal-partitioning responses, with exopolysaccharides most strongly associated with surface retention. In co-cultures, wild-type C1 increased the growth of comparison partners to an average of 1.9 times their monoculture levels, whereas alginate deletion weakened this benefit. C1-derived EPS preparations also promoted partner growth more effectively than equivalent-carbon cell-free supernatants. Bioaugmentation with the high-EPS consortium reduced soil-available Cu/Zn and maize leaf Cu/Zn concentrations by averages of 47.7% and 32.0%, respectively, relative to uninoculated controls. Together, these findings link polysaccharide-associated extracellular Cu/Zn retention to interspecies facilitation and highlight its potential for trait-guided metal stabilization during manure compost recycling."
+      }
+    ],
+    "Briefings in Bioinformatics": [
+      {
+        "title": "Systematic benchmarking of Hi-C-based scaffolding methods in genome assembly",
+        "link": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag647/9121111?rss=1",
+        "pub_date": "2026-11-24",
+        "authors": [],
+        "doi": "10.1093/bib/bbag647",
+        "journal": "Briefings in Bioinformatics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "AbstractHigh-throughput chromosome conformation capture (Hi-C) technology is crucial for scaffolding, a key step to generate chromosome-level high-quality genome assemblies. However, although several Hi-C-based scaffolding tools have been developed, their utility in genome assembly remains constrained by inconsistent performance, making a systematic benchmarking urgently needed. Here, we present a comprehensive benchmark of five prominent Hi-C scaffolders using simulated contig assemblies considering various factors, including contig lengths, chimeric contig proportions, Hi-C coverage depths, and ploidy levels. Our analysis revealed that chimeric contigs and species ploidy are the two factors with the greatest impact on scaffolding performance, making contig clustering the primary bottleneck. Additionally, we developed a novel metric termed the Hi-C scaffolding index to assess both scaffolding accuracy and genome assembly quality. We further demonstrated its utility in detecting assembly errors, thereby facilitating assembly quality improvements. Finally, evaluations across six real datasets revealed that current tools exhibit uniform reliability on diploid genomes but display marked performance disparities on polyploid genomes. Overall, our study provides a rigorous benchmark of current Hi-C scaffolding methods and offers actionable guidance for algorithm optimization and tool selection."
+      },
+      {
+        "title": "MitoLODE: a virtual mitochondrion framework with knowledge graph priors for trajectory modeling and mechanistic perturbation analysis",
+        "link": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag536/9121096?rss=1",
+        "pub_date": "2026-11-24",
+        "authors": [],
+        "doi": "10.1093/bib/bbag536",
+        "journal": "Briefings in Bioinformatics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "AbstractMitochondria play a central role in the pathogenesis of major diseases. Tracking how they evolve under disease conditions is valuable for understanding pathological mechanisms and identifying intervention windows. Existing single-cell trajectory inference methods rely on pseudotime rather than a real temporal axis, and rarely model disease and control as independent trajectories. Virtual cell methods target one-shot drug perturbation responses and do not handle the continuous temporal evolution of disease phenotypes. To address these gaps, we propose a virtual mitochondrion research paradigm. We first curate and construct MitoKG, a mitochondria-specific heterogeneous knowledge graph integrated from five authoritative databases. MitoKG contains 2549 nodes of four types and 23 019 edges of five relation types. Building on these priors, we develop MitoLODE, a conditioned dual-trajectory neural ordinary differential equation framework. MitoLODE embeds graph priors and temporal features throughout encoding, continuous-time dynamics, and decoding, modeling disease and control evolution as two coupled paths. Benchmarked against eight baselines across four datasets covering Parkinson’s disease, cardiac, and pancreatic differentiation, MitoLODE leads in most settings and remains robust under low-data regimes and extrapolation to unseen time points. Two synthetic datasets with known ground truth validate its trajectory recovery under controlled conditions. Building on the trained model, we design a gradient-guided perturbation procedure that identifies potential intervention targets aligned with known Parkinson’s pathology. We develop MGMI, a large language model-based reasoning module that grounds model outputs in MitoKG nodes and turns them into confidence-graded mechanistic hypotheses, which nonetheless require experimental validation."
+      },
+      {
+        "title": "DiffKnock: diffusion-based knockoff inference for neural networks with applications to single-cell RNA-sequencing data",
+        "link": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag645/9121093?rss=1",
+        "pub_date": "2026-11-24",
+        "authors": [],
+        "doi": "10.1093/bib/bbag645",
+        "journal": "Briefings in Bioinformatics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "AbstractHigh-throughput single-cell RNA-sequencing (scRNA-seq) technologies have revolutionized our ability to characterize cellular heterogeneity and dissect gene regulatory mechanisms. These data, however, are inherently high-dimensional and correlated, posing substantial challenges for statistical inference and feature selection. Identifying disease-related genes, while rigorously controlling false discoveries, remains a key challenge in scRNA-seq data analysis. Traditional methods often rely on parametric assumptions, which may fail to capture complex relationships and can suffer from inflated false discovery rates (FDRs) in high-dimensional settings. We introduce DiffKnock, a diffusion-based knockoff framework for high-dimensional feature selection with finite-sample FDR control. DiffKnock addresses two key limitations of existing knockoff methods: preserving complex feature dependencies and detecting nonlinear associations. Our approach leverages diffusion models to generate valid knockoffs and employs neural network-based gradient and filter statistics to construct antisymmetric feature importance measures. Through simulations, DiffKnock demonstrates higher power than autoencoder-based, GAN-based, and Gaussian-based knockoff methods while maintaining target FDR, indicating superior performance in scenarios with complex nonlinear relationships. By applying the method to murine single-cell RNA-seq data of LPS-stimulated macrophages, we also identified canonical NF-$\\kappa $B target genes (Ccl3, Hmox1). In another application to Religious Orders Study and Rush Memory and Aging Project donor-level pseudobulk transcriptomic data, DiffKnock further identifies a strong microglial signal for CERAD score, with PTPRG emerging as the most stable selected gene under both gradient- and filter-based statistics. These results highlight that, by combining flexible deep generative models with rigorous statistics, DiffKnock is a powerful and reliable tool for analyzing scRNA-seq data and other high-dimensional structured data."
+      }
+    ],
+    "eLife": [
+      {
+        "title": "Applying functional MRI analysis techniques to whole-brain calcium-imaging data to investigate structural and functional relationships in Drosophila melanogaster",
+        "link": "https://elifesciences.org/articles/107990",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Alexander Woodward",
+          "Hideyuki Okano",
+          "Junichi Hata",
+          "Takuto Okuno"
+        ],
+        "doi": null,
+        "journal": "eLife",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Neuroscience",
+        "abstract": "Clarifying the relationship between structure and function is important for understanding the brain. In Drosophila melanogaster, FlyEM and FlyWire electron microscopy-based connectome data, and whole-brain calcium-imaging data are available. We applied pre-processing methods from functional magnetic resonance imaging to whole-brain calcium-imaging data and comprehensively investigated the optimal parameters. Then, we found that the FC–SC (functional and structural connectivity) correlation decreased linearly with region of interest count, and this trend was the same in flies and humans. We also developed a new, more robust method to quantify the degree of pre- and post-synaptic segregation, and investigated this in the fly whole-brain. This revealed that many neurons have unsegregated synapses. We extracted highly unsegregated synapses and compared them with random-extracted null SC matrices. Their FC–SC correlation was significantly higher, indicating that these synapses contribute to FC well. Conversely, highly segregated synapses showed significantly lower FC–SC correlation and contribute less to FC. Neurons with unsegregated synapses, like non-spiking neurons, are spread throughout the whole-brain, and they are thought to have a significant influence on FC."
+      },
+      {
+        "title": "Developmental bias explains the evolutionary trend towards simple leaf shapes",
+        "link": "https://elifesciences.org/articles/110692",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Ard A Louis",
+          "James S Malone",
+          "Liliana M Dávalos",
+          "Nora S Martin",
+          "Samuel HA von der Dunk"
+        ],
+        "doi": null,
+        "journal": "eLife",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Evolutionary Biology",
+        "abstract": "The relative influence of developmental bias and natural selection on evolutionary outcomes remains a central, unresolved question in evolutionary biology. Here, we combine large-scale phylogenetic trees with herbarium data to confirm that, across the evolutionary history of angiosperms, transitions from complex to simple leaf shapes have occurred at a significantly higher rate than the reverse. To investigate whether this directional trend reflects an underlying developmental bias, we simulate evolutionary transitions by introducing random mutations into a well-established computational model of leaf development. Despite excluding selection, the transition rates produced by the model closely align with those observed in the phylogenetic data. This agreement indicates that a strong developmental bias, reflecting the relative ease with which gene regulatory networks generate simple over complex leaves, has played a major role in shaping the evolution of leaf morphology. Our findings echo recent work showing that similar biases towards simplicity influence the evolution of molecular structures, including RNA secondary structures and protein quaternary assemblies. Together, these results suggest that a developmental bias favouring simplicity may be a widespread and general feature of evolutionary systems."
+      }
+    ],
     "Nature Communications": [
       {
         "title": "Host control of rhizobial proliferation in soybean nodules",
@@ -85,6 +877,453 @@
         "translation": null,
         "article_type": null,
         "abstract": "Nature Communications, Published online: 24 November 2026; doi:10.1038/s41467-026-78606-6Iso-Seq enabled isoform discovery of human retina at single cell levels. This study revealed novel isoforms, splice junctions and alternative promoters across major retinal cell types, providing insights into the retinal transcriptomic landscape."
+      },
+      {
+        "title": "Retraction Note: Combination of PARP and KRASG12D inhibitors enhances therapeutic efficacy by exploiting vulnerabilities in PDAC",
+        "link": "https://www.nature.com/articles/s41467-026-80283-4",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Xin Xu",
+          "Xin Chen",
+          "Rongli Xu",
+          "Zhenyu Huo",
+          "Changying Li",
+          "Somaira Nowsheen",
+          "Khaled Aziz",
+          "Fan Yao",
+          "Zhenkun Lou",
+          "Min Deng"
+        ],
+        "doi": "10.1038/s41467-026-80283-4",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 24 November 2026; doi:10.1038/s41467-026-80283-4Retraction Note: Combination of PARP and KRASG12D inhibitors enhances therapeutic efficacy by exploiting vulnerabilities in PDAC"
+      },
+      {
+        "title": "Dissecting the root-fungal interface in 3D reveals spatially distinct signalling landscapes",
+        "link": "https://www.nature.com/articles/s41467-026-79701-4",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Syona Baptista Thomas",
+          "M Sreepadmanabh",
+          "Vidha Srivastava",
+          "Abhirami Puzhakkal",
+          "Tapomoy Bhattacharjee",
+          "Amey Redkar"
+        ],
+        "doi": "10.1038/s41467-026-79701-4",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 24 November 2026; doi:10.1038/s41467-026-79701-4Plant-fungal interactions in the rhizosphere influence plant health. Here the authors describe an optically transparent granular microgel matrix that mimics the mechanical properties of natural microenvironments to dissect fungal development and pathogenesis."
+      },
+      {
+        "title": "Bacteria-induced TLR2 signaling unleashes multiple mechanisms to reduce Treg immunosuppression and enhance cancer immunity",
+        "link": "https://www.nature.com/articles/s41467-026-79362-3",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Timothy F. Campbell",
+          "Jesse Garcia Castillo",
+          "Sebastian Fernandez",
+          "Ola Mostafa",
+          "Diego Gonzalez Ventura",
+          "Jenna Vickery",
+          "Stefan Homentcovschi",
+          "Nicole Flores Hernandez",
+          "Julia Ybarra",
+          "Daniel A. Portnoy",
+          "Michel DuPage"
+        ],
+        "doi": "10.1038/s41467-026-79362-3",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 24 November 2026; doi:10.1038/s41467-026-79362-3Toll-like receptor (TLR) signaling is known to support T cell priming, but how different TLRs regulate intratumoral effector T cell function is unknown. The authors here demonstrate that TLR2 signaling in dendritic cells upon Listeria infection enhances cancer immunity by disrupting regulatory T cells and promoting tumor antigen presentation by DCs to CD8 T cells."
+      },
+      {
+        "title": "Diminished subsurface oxygen maximum linked to rapid decline of the North Pacific Central Mode Water",
+        "link": "https://www.nature.com/articles/s41467-026-79475-9",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Lixiao Xu",
+          "Jing Liu",
+          "Huishi Pan",
+          "Xiao-Tong Zheng",
+          "Zhaohui Chen",
+          "Sebastian Mieruch",
+          "Shang-Ping Xie",
+          "Bo Qiu",
+          "Angelicque E. White",
+          "James T. Potemra",
+          "David M. Karl",
+          "Fernando Santiago-Mandujano",
+          "Hu Yang",
+          "Xiaopei Lin",
+          "Junjie Xu"
+        ],
+        "doi": "10.1038/s41467-026-79475-9",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 24 November 2026; doi:10.1038/s41467-026-79475-9North Pacific Central Mode Water (CMW) shows a rapid decline from early 2020s, decreasing the subsurface oxygen maximum documented by Station ALOHA. Remarkably, the 2023–2024 El Niño failed to restore CMW due to atmospheric teleconnection."
+      },
+      {
+        "title": "A meta-analysis of genome-wide DNA methylation in endometriosis",
+        "link": "https://www.nature.com/articles/s41467-026-79365-0",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Bastien Ducreux",
+          "Linda C. Giudice",
+          "Marina Sirota",
+          "Sally Mortlock",
+          "Krina Zondervan",
+          "Nilufer Rahmioglu",
+          "Merli Saare",
+          "Serdar E. Bulun",
+          "Damian Roqueiro",
+          "Yoshiaki Yamagata",
+          "Iveta Yotova",
+          "Rene Wenzl",
+          "Masao Izawa",
+          "Julie Firmin",
+          "Lucile Ferreux",
+          "Mathilde Bourdon",
+          "Louis Marcellin",
+          "Pietro Santulli",
+          "Charles Chapron",
+          "Catherine Patrat",
+          "Patricia Fauque"
+        ],
+        "doi": "10.1038/s41467-026-79365-0",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 24 November 2026; doi:10.1038/s41467-026-79365-0Epigenetics are increasingly thought to have a role in endometriosis. Here, the authors meta-analyse DNA methylation data to show the methylation differences between healthy endometrial tissue and ectopic endometrial lesions."
+      },
+      {
+        "title": "Programmable synaptic and stochastic regimes in a monolayer hBN atomristor",
+        "link": "https://www.nature.com/articles/s41467-026-79568-5",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Yu-Rim Jeon",
+          "Sangheon Oh",
+          "Ebenezer C. Usih",
+          "Jeonghwan Kim",
+          "Chandan Biswas",
+          "Joseph S. Friedman",
+          "A. Alec Talin",
+          "Deji Akinwande"
+        ],
+        "doi": "10.1038/s41467-026-79568-5",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 24 November 2026; doi:10.1038/s41467-026-79568-52D materials show rich dynamic behaviors, but most devices support only one operating regime. Jeon et al. report that a monolayer hBN memristor enables electrically programmable switching between synaptic and stochastic behaviors, providing distinct operating regimes within a single atomically thin device."
+      }
+    ],
+    "Molecular Biology and Evolution": [
+      {
+        "title": "Correction to: Therapeutic management and risk of colectomy in patients with acute severe ulcerative colitis and previous exposure to anti-tumor necrosis factor drugs: a comparative study of GETECCU",
+        "link": "https://academic.oup.com/ecco-jcc/article/doi/10.1093/ecco-jcc/jjag162/9117458?rss=1",
+        "pub_date": "2026-11-24",
+        "authors": [],
+        "doi": "10.1093/ecco-jcc/jjag162",
+        "journal": "Molecular Biology and Evolution",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "This is a correction to: Francisco Mesonero, López-García Alicia, Miranda-Bautista José, Rubín de Célix Cristina, Marín-Jiménez Ignacio, Suárez Ferrer Cristina, Martin-Cardona Albert, Fuentes-Valenzuela Esteban, Mínguez Alejando, Castaño Andrés, Roig Cristina, Fernández-Clotet Agnès, Gargallo-Puyuelo Carla Jerusalén, Álvarez Herrero Begoña, García María José, Segarra-Ortega José Xavier, Rodríguez-Grau María Carmen, López Romero-Salazar Francisco, Omella Ignacio, Martín-Rodríguez Daniel, González Vivo María, Ponferrada-Díaz Ángel, Baston-Rey Iria, Benítez José María, Reygosa Cristina, Lastiri González Ernesto Alejandro, Delgado-Guillena Pedro Genaro, Torrealba Leyanira, Hernández-Camba Alejandro, Bernal Lorena, Piñero Gisela, Brunet Eduard, Irabien Martín, Marquès-Camí Miquel, Zabana Yamile, Gutiérrez Ana, Young Group of GETECCU, Therapeutic management and risk of colectomy in patients with acute severe ulcerative colitis and previous exposure to anti-tumor necrosis factor drugs: a comparative study of GETECCU, Journal of Crohn’s and Colitis, Volume 19, Issue 12, December 2025, jjaf183, https://doi.org/10.1093/ecco-jcc/jjaf183"
+      }
+    ],
+    "Annual Review of Genetics": [
+      {
+        "title": "From Determinants to Condensates: Revisiting the Function of Germ Granules.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43073026/",
+        "pub_date": null,
+        "authors": [
+          "Hakes AC",
+          "Seydoux G"
+        ],
+        "doi": "10.1146/annurev-genet-031126-031856",
+        "journal": "Annual Review of Genetics",
+        "source": "pubmed",
+        "pmid": "43073026",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Germ granules are RNA-protein assemblies that segregate to the primordial germ cells (PGCs) in embryos. Germ granules are often considered cell fate determinants, yet not all animals use germ granules to specify germ cell fate. The function of germ granules is of renewed interest now that they are recognized as biomolecular condensates, cellular compartments that assemble without limiting membranes. We highlight common features of germ granules in Drosophila melanogaster, Caenorhabditis elegans, and Danio rerio, including a core shell architecture, complex mRNA composition, and concentration of PIWI-class Argonautes. These features suggest that a primary role of germ granules is to transmit condensate-based epigenetic programs across generations. Germ granules were also co-opted as vehicles for RNA localization by a small group of transcripts required to launch the germline, including Nanos. We suggest that this secondary function may have led to specializations in germ granule architecture to accommodate species-specific constraints on mRNA regulation."
+      },
+      {
+        "title": "The Role of Transposable Elements in Neurodegenerative Diseases.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43073025/",
+        "pub_date": null,
+        "authors": [
+          "Garza R",
+          "Guiloff A",
+          "Barker RA",
+          "Jakobsson J"
+        ],
+        "doi": "10.1146/annurev-genet-011626-025242",
+        "journal": "Annual Review of Genetics",
+        "source": "pubmed",
+        "pmid": "43073025",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "The molecular and cellular mechanisms underlying neurodegenerative diseases remain incompletely understood, hindering the development of disease-modifying therapies. Therefore, new conceptual frameworks for neurodegeneration are urgently needed. This review examines evidence suggesting that transposable elements (TEs) play a role in these diseases. Aberrant TE activation has been reported in Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and multiple sclerosis, and it is increasingly linked to innate immune activation, genomic instability, and neuronal dysfunction. Due to their repetitive nature, TEs are difficult to study. However, recent advances in sequencing technologies now enable more precise profiling of TE expression and activity in the aging and diseased brain. In this review, we discuss recent findings and key methodological and bioinformatic challenges. We also highlight emerging models that position TEs as potential drivers of chronic neuroinflammation and neurodegeneration, with important implications for the development of novel biomarkers and therapeutic strategies for these currently incurable diseases."
+      },
+      {
+        "title": "RNA-Guided Genome Organization Across Scales.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43073024/",
+        "pub_date": null,
+        "authors": [
+          "Indra S",
+          "Padinhateeri R",
+          "Notani D"
+        ],
+        "doi": "10.1146/annurev-genet-022026-092318",
+        "journal": "Annual Review of Genetics",
+        "source": "pubmed",
+        "pmid": "43073024",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "The genome is hierarchically folded, from one-dimensional organization along the chromatin fiber involving nucleosomes, epigenetic marks, and proteins to three-dimensional regulatory element-driven chromatin loops and large chromatin domains. These layers are spatially coordinated with nuclear bodies to shape genome organization in a spatiotemporal manner. Genome folding is not a static architectural outcome but rather an actively regulated process requiring the coordinated action of diverse molecular factors across scales. Although DNA sequence, histone modifications, and proteins have traditionally been viewed as the primary determinants of genome organization, RNA has recently emerged as an integral regulatory layer shaping genome architecture. Beyond serving as a transcriptional output, RNA functions as an active organizational component that modulates chromatin structure, stabilizes regulatory interactions, and coordinates molecular assemblies within the nucleus. In this review, we present a conceptual framework for RNA-mediated genome organization across scales, emphasizing unifying principles rather than individual molecular players or RNA classes while drawing on selected well-studied examples for illustration."
+      },
+      {
+        "title": "Transcript Direct Repair: RNA-Guided Pathways of DNA Double-Strand Break Repair.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43073023/",
+        "pub_date": null,
+        "authors": [
+          "Lu Y",
+          "Storici F"
+        ],
+        "doi": "10.1146/annurev-genet-111523-102639",
+        "journal": "Annual Review of Genetics",
+        "source": "pubmed",
+        "pmid": "43073023",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "The Central Dogma of molecular biology has traditionally emphasized a unidirectional flow of genetic information from DNA to RNA to protein, with RNA-to-DNA information transfer being viewed as a specialized process associated primarily with selfish genetic elements or telomere maintenance. However, emerging evidence demonstrates that endogenous RNA directly participates in DNA double-strand break (DSB) repair. We synthesize these findings within the framework of transcript direct repair (TDR), defining pathways in which transcripts serve as genetic templates or structural scaffolds to facilitate repair. We highlight how eukaryotic DNA polymerases, including Pol θ and Pol ζ, utilize intrinsic reverse transcriptase activity for RNA-templated DNA synthesis independent of viral enzymes. By unifying RNA-templated homologous recombination and RNA-mediated end-joining mechanisms, we establish TDR as a crucial, physiological component of genome maintenance. Finally, we discuss TDR's evolutionary implications, such as whole-intron deletions, illustrating how endogenous transcription shapes long-term genome remodeling."
+      },
+      {
+        "title": "The Genetics of Sleep Regulation in Mice.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43073022/",
+        "pub_date": null,
+        "authors": [
+          "Funato H",
+          "Liu Q",
+          "Yanagisawa M"
+        ],
+        "doi": "10.1146/annurev-genet-011626-022010",
+        "journal": "Annual Review of Genetics",
+        "source": "pubmed",
+        "pmid": "43073022",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Sleep is essential for health, yet the mechanisms that generate sleep states and encode the need for sleep are not yet fully understood. Mouse genetics has begun to transform these mechanisms into testable problems by linking specific genes and circuits to vigilance-state dynamics. Here, we review forward-genetic approaches that have uncovered unanticipated regulators as well as reverse-genetic strategies accelerated by CRISPR and adult brain-wide adeno-associated virus (AAV) perturbation. Recent work converges on phosphorylation-centered control of non-rapid-eye-movement sleep (NREMS), exemplified by the SIK3-HDAC4 pathway and related kinase-phosphatase networks. We discuss how neuromodulators orchestrate vigilance states through circuit- and receptor-dependent mechanisms and discuss emerging roles of ion channels, astrocytes, and microglia. Finally, we address methodological constraints in mouse sleep phenotyping and genetic manipulation that shape the interpretation of sleep phenotypes."
+      }
+    ],
+    "Nature Food": [
+      {
+        "title": "The uncertain future of insect frass in agriculture",
+        "link": "https://www.nature.com/articles/s43016-026-01480-4",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "David Houben",
+          "Michel-Pierre Faucon",
+          "Anne-Maïmiti Dulaurent"
+        ],
+        "doi": "10.1038/s43016-026-01480-4",
+        "journal": "Nature Food",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Food, Published online: 24 November 2026; doi:10.1038/s43016-026-01480-4While the promise of insect farming is increasingly under scrutiny, frass remains an overlooked output that exposes the divide between industrial standardization and agroecological diversity. Yet frass is not simply an agricultural input, but a reflection of the system from which it emerges."
+      }
+    ],
+    "Communications Earth & Environment": [
+      {
+        "title": "Probabilistic multi-horizon spatiotemporal forecasting of injection-induced seismicity in geothermal systems",
+        "link": "https://www.nature.com/articles/s43247-026-04200-9",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Zhengfa Bi",
+          "Nori Nakata"
+        ],
+        "doi": "10.1038/s43247-026-04200-9",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 24 November 2026; doi:10.1038/s43247-026-04200-9QuakeCastNet forecasts seismicity rates and spatial distributions at two geothermal sites, where the network improves early forecasts, decay adaptation addresses shut-in conditions absent from network training, and the sites show contrasting temporal and spatial responses."
+      }
+    ],
+    "Communications Biology": [
+      {
+        "title": "Organization, development, and plasticity of the serotonergic dorsal raphe nucleus projectome",
+        "link": "https://www.nature.com/articles/s42003-026-11384-5",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Lucía Jiménez-Fernández",
+          "Zoltán Kristóf Varga",
+          "Klara Thurner",
+          "Florence Kermen"
+        ],
+        "doi": "10.1038/s42003-026-11384-5",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 24 November 2026; doi:10.1038/s42003-026-11384-5Organization, development, and plasticity of the serotonergic dorsal raphe nucleus projectome"
+      },
+      {
+        "title": "MHC-E presentation of lentivirus antigens can induce differential NKG2C NK cell responses",
+        "link": "https://www.nature.com/articles/s42003-026-11365-8",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Philippe Rascle",
+          "Simon B. Gressens",
+          "Kyle Kroll",
+          "Esther Lee",
+          "Andrew Hudson",
+          "Brady Hueber",
+          "Rhianna Jones",
+          "Griffin Woolley",
+          "Michaela Müller-Trutwin",
+          "François J. Villinger",
+          "Stephanie Jost",
+          "R. Keith Reeves"
+        ],
+        "doi": "10.1038/s42003-026-11365-8",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 24 November 2026; doi:10.1038/s42003-026-11365-8MHC-E presentation of lentivirus antigens can induce differential NKG2C NK cell responses"
+      },
+      {
+        "title": "Guanylate-binding protein 5 at the crossroads of infection, sterile immunity, and malignancy",
+        "link": "https://www.nature.com/articles/s42003-026-11387-2",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Tao Wang",
+          "Yuchang Song",
+          "Shiqi Jia",
+          "Lixin Zhu"
+        ],
+        "doi": "10.1038/s42003-026-11387-2",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 24 November 2026; doi:10.1038/s42003-026-11387-2Guanylate-binding protein 5 at the crossroads of infection, sterile immunity, and malignancy"
+      }
+    ],
+    "Nature Methods": [
+      {
+        "title": "Author Correction: GHT-SELEX demonstrates unexpectedly high intrinsic sequence specificity and complex DNA binding of many human transcription factors",
+        "link": "https://www.nature.com/articles/s41592-026-03416-z",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Arttu Jolma",
+          "Aldo Hernandez-Corchado",
+          "Ally W. H. Yang",
+          "Ali Fathi",
+          "Kaitlin U. Laverty",
+          "Alexander Brechalov",
+          "Rozita Razavi",
+          "Mihai Albu",
+          "Hong Zheng",
+          "Ivan V. Kulakovskiy",
+          "Hamed S. Najafabadi",
+          "Timothy R. Hughes",
+          "Philipp Bucher",
+          "Bart Deplancke",
+          "Oriol Fornes",
+          "Jan Grau",
+          "Ivo Grosse",
+          "Fedor A. Kolpakov",
+          "Vsevolod J. Makeev",
+          "Marjan Barazandeh",
+          "Zhenfeng Deng",
+          "Chun Hu",
+          "Samuel A. Lambert",
+          "Zain M. Patel",
+          "Sara E. Pour",
+          "Mikhail Salnikov",
+          "Isaac Yellan",
+          "Georgy Meshcheryakov",
+          "Giovanna Ambrosini",
+          "Antoni J. Gralak",
+          "Sachi Inukai",
+          "Judith F. Kribelbauer-Swietek",
+          "Marie-Luise Plescher",
+          "Semyon Kolmykov",
+          "Ivan Yevshin",
+          "Nikita Gryzunov",
+          "Ivan Kozin",
+          "Mikhail Nikonov",
+          "Vladimir Nozdrin",
+          "Arsenii Zinkevich",
+          "Katerina Faltejskova",
+          "Pavel Kravchenko",
+          "Sergey Abramov",
+          "Alexandr Boytsov",
+          "Vasilii Kamenets",
+          "Dmitry Penzar",
+          "Anton Vlasov",
+          "Ilya E. Vorontsov",
+          "Quaid Morris",
+          "Xiaoting Chen",
+          "Matthew T. Weirauch"
+        ],
+        "doi": "10.1038/s41592-026-03416-z",
+        "journal": "Nature Methods",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Methods, Published online: 24 November 2026; doi:10.1038/s41592-026-03416-zAuthor Correction: GHT-SELEX demonstrates unexpectedly high intrinsic sequence specificity and complex DNA binding of many human transcription factors"
+      },
+      {
+        "title": "ISOMPRA enables the disambiguation of transcriptional and post-transcriptional effects of genetic variants",
+        "link": "https://www.nature.com/articles/s41592-026-03302-8",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Anthony D. Fischer",
+          "Din Selmanovic",
+          "Colin P. Florian",
+          "Tomás Lagunas Jr.",
+          "Stephen P. Plassmeyer",
+          "Ozair Habib",
+          "Lily Meyer",
+          "Rebecca Chase",
+          "Joseph D. Dougherty"
+        ],
+        "doi": "10.1038/s41592-026-03302-8",
+        "journal": "Nature Methods",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Methods, Published online: 24 November 2026; doi:10.1038/s41592-026-03302-8ISOMPRA is a new method for assessing transcriptional and post-transcriptional effects of regulatory elements in a massively parallel reporter assay. This method can be used in vivo or in vitro to understand variants associated with disease."
       }
     ]
   }
