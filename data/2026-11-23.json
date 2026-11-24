@@ -1,85 +1,26 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T14:06:36.626978+00:00",
-  "total_journals": 16,
-  "total_articles": 56,
+  "generated_at": "2026-11-24T02:47:04.029883+00:00",
+  "total_journals": 34,
+  "total_articles": 121,
   "journals": {
-    "Nature Astronomy": [
+    "PLOS Biology": [
       {
-        "title": "Author Correction: Abundant ammonia and nitrogen-rich soluble organic matter in samples from asteroid (101955) Bennu",
-        "link": "https://www.nature.com/articles/s41550-026-03052-9",
+        "title": "When should adaptation arise from a polygenic response versus few large-effect changes?",
+        "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004119",
         "pub_date": "2026-11-23",
         "authors": [
-          "Daniel P. Glavin",
-          "Jason P. Dworkin",
-          "Conel M. O’D. Alexander",
-          "José C. Aponte",
-          "Allison A. Baczynski",
-          "Jessica J. Barnes",
-          "Hans A. Bechtel",
-          "Eve L. Berger",
-          "Aaron S. Burton",
-          "Paola Caselli",
-          "Angela H. Chung",
-          "Simon J. Clemett",
-          "George D. Cody",
-          "Gerardo Dominguez",
-          "Jamie E. Elsila",
-          "Kendra K. Farnsworth",
-          "Dionysis I. Foustoukos",
-          "Katherine H. Freeman",
-          "Yoshihiro Furukawa",
-          "Zack Gainsforth",
-          "Heather V. Graham",
-          "Tommaso Grassi",
-          "Barbara Michela Giuliano",
-          "Victoria E. Hamilton",
-          "Pierre Haenecour",
-          "Philipp R. Heck",
-          "Amy E. Hofmann",
-          "Christopher H. House",
-          "Yongsong Huang",
-          "Hannah H. Kaplan",
-          "Lindsay P. Keller",
-          "Bumsoo Kim",
-          "Toshiki Koga",
-          "Michael Liss",
-          "Hannah L. McLain",
-          "Matthew A. Marcus",
-          "Mila Matney",
-          "Timothy J. McCoy",
-          "Ophélie M. McIntosh",
-          "Angel Mojarro",
-          "Hiroshi Naraoka",
-          "Ann N. Nguyen",
-          "Michel Nuevo",
-          "Joseph A. Nuth III",
-          "Yasuhiro Oba",
-          "Eric T. Parker",
-          "Tanya S. Peretyazhko",
-          "Scott A. Sandford",
-          "Ewerton Santos",
-          "Philippe Schmitt-Kopplin",
-          "Frederic Seguin",
-          "Danielle N. Simkus",
-          "Anique Shahid",
-          "Yoshinori Takano",
-          "Kathie L. Thomas-Keprta",
-          "Havishk Tripathi",
-          "Gabriella Weiss",
-          "Yuke Zheng",
-          "Nicole G. Lunning",
-          "Kevin Righter",
-          "Harold C. Connolly Jr.",
-          "Dante S. Lauretta"
+          "William R. Milligan",
+          "Laura K. Hayward",
+          "Guy Sella"
         ],
-        "doi": "10.1038/s41550-026-03052-9",
-        "journal": "Nature Astronomy",
+        "doi": "10.1371/journal.pbio.3004119",
+        "journal": "PLOS Biology",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Nature Astronomy, Published online: 23 November 2026; doi:10.1038/s41550-026-03052-9Author Correction: Abundant ammonia and nitrogen-rich soluble organic matter in samples from asteroid (101955) Bennu"
+        "abstract": "by William R. Milligan, Laura K. Hayward, Guy Sella When will adaptation involve a few genetic changes of large effect versus a polygenic response? There are compelling reasons to expect polygenic adaptation to be common, yet direct evidence is lacking. Conversely, there are hundreds of examples of large-effect adaptations across species, but it is unclear whether they occur frequently within any given species. These different lines of evidence are hard to synthesize, in part due to the lack of theory that relates them. To address this gap, we frame the question in terms of the properties of an adaptive trait. We ask how the genetic basis of adaptation depends on key aspects of genetic variation in the trait and on the degree to which its selection pressures have changed. To this end, we consider a quantitative trait subject to stabilizing selection and model its response when a population at mutation–selection–drift balance experiences a sudden shift in the trait optimum. Using this model, we delimit how the contributions of large-effect and polygenic changes to adaptation depend on the genetics and ecology of adaptive traits, as well as on other salient factors. Thus, we formulate testable predictions for when different modes of adaptation are expected."
       }
     ],
     "Scientific Data": [
@@ -263,6 +204,710 @@
         "abstract": "Scientific Data, Published online: 23 November 2026; doi:10.1038/s41597-026-08909-2A twelve-language dataset for the study of event descriptions in expository and narrative texts"
       }
     ],
+    "Nature Astronomy": [
+      {
+        "title": "Author Correction: Abundant ammonia and nitrogen-rich soluble organic matter in samples from asteroid (101955) Bennu",
+        "link": "https://www.nature.com/articles/s41550-026-03052-9",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Daniel P. Glavin",
+          "Jason P. Dworkin",
+          "Conel M. O’D. Alexander",
+          "José C. Aponte",
+          "Allison A. Baczynski",
+          "Jessica J. Barnes",
+          "Hans A. Bechtel",
+          "Eve L. Berger",
+          "Aaron S. Burton",
+          "Paola Caselli",
+          "Angela H. Chung",
+          "Simon J. Clemett",
+          "George D. Cody",
+          "Gerardo Dominguez",
+          "Jamie E. Elsila",
+          "Kendra K. Farnsworth",
+          "Dionysis I. Foustoukos",
+          "Katherine H. Freeman",
+          "Yoshihiro Furukawa",
+          "Zack Gainsforth",
+          "Heather V. Graham",
+          "Tommaso Grassi",
+          "Barbara Michela Giuliano",
+          "Victoria E. Hamilton",
+          "Pierre Haenecour",
+          "Philipp R. Heck",
+          "Amy E. Hofmann",
+          "Christopher H. House",
+          "Yongsong Huang",
+          "Hannah H. Kaplan",
+          "Lindsay P. Keller",
+          "Bumsoo Kim",
+          "Toshiki Koga",
+          "Michael Liss",
+          "Hannah L. McLain",
+          "Matthew A. Marcus",
+          "Mila Matney",
+          "Timothy J. McCoy",
+          "Ophélie M. McIntosh",
+          "Angel Mojarro",
+          "Hiroshi Naraoka",
+          "Ann N. Nguyen",
+          "Michel Nuevo",
+          "Joseph A. Nuth III",
+          "Yasuhiro Oba",
+          "Eric T. Parker",
+          "Tanya S. Peretyazhko",
+          "Scott A. Sandford",
+          "Ewerton Santos",
+          "Philippe Schmitt-Kopplin",
+          "Frederic Seguin",
+          "Danielle N. Simkus",
+          "Anique Shahid",
+          "Yoshinori Takano",
+          "Kathie L. Thomas-Keprta",
+          "Havishk Tripathi",
+          "Gabriella Weiss",
+          "Yuke Zheng",
+          "Nicole G. Lunning",
+          "Kevin Righter",
+          "Harold C. Connolly Jr.",
+          "Dante S. Lauretta"
+        ],
+        "doi": "10.1038/s41550-026-03052-9",
+        "journal": "Nature Astronomy",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Astronomy, Published online: 23 November 2026; doi:10.1038/s41550-026-03052-9Author Correction: Abundant ammonia and nitrogen-rich soluble organic matter in samples from asteroid (101955) Bennu"
+      }
+    ],
+    "Nature Geoscience": [
+      {
+        "title": "Last glacial North Pacific oxygenation due to North Atlantic circulation changes",
+        "link": "https://www.nature.com/articles/s41561-026-02122-x",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Martin Tetard",
+          "Alexandre Pohl",
+          "Yusuke Okazaki",
+          "Andy Ridgwell",
+          "Ekaterina Ovsepyan",
+          "Luc Beaufort"
+        ],
+        "doi": "10.1038/s41561-026-02122-x",
+        "journal": "Nature Geoscience",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Geoscience, Published online: 23 November 2026; doi:10.1038/s41561-026-02122-xTransient weakening of the Atlantic Meridional Overturning Circulation during the last glacial period may have led to a contraction of oxygen minimum zones in the North Pacific, according to benthic foraminifera proxy records and Earth system simulations."
+      }
+    ],
+    "Journal of Bacteriology": [
+      {
+        "title": "Transposon insertion sequencing identifies genetic determinants of intrinsic rifamycin resistance in Mycobacterium abscessus.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070858/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Sawai K",
+          "Hirakawa H",
+          "Mima T",
+          "Morishige Y",
+          "Maeda Y",
+          "Shinohara M",
+          "Mitarai S",
+          "Doi Y",
+          "Minato Y"
+        ],
+        "doi": "10.1128/jb.00358-26",
+        "journal": "Journal of Bacteriology",
+        "source": "pubmed",
+        "pmid": "43070858",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "[UNLABELLED] Mycobacterium abscessus exhibits intrinsic resistance to many antimicrobial agents, including rifampicin, a frontline anti-tuberculosis drug, severely limiting treatment options. Here, we used transposon insertion sequencing (Tn-Seq) to perform a genome-wide screen to identify genes required for intrinsic rifampicin resistance in M. abscessus. We uncovered candidate genes that confer intrinsic resistance to the rifamycin-class antibiotics, rifampicin, and rifabutin. The genes we identified included previously reported genes, such as arr, helR, and MAB_2807. By comparing our results with the rifampicin intrinsic resistance gene in Mycobacterium tuberculosis, we found that the mechanisms underlying rifampicin intrinsic resistance were distinct between the two species. The contribution of seven representative candidate genes to rifampicin resistance was confirmed by characterizing targeted gene deletion or transposon insertion mutants. Among these determinants, MAB_2807 was identified as a major efflux-based contributor to rifamycin resistance, and its disruption increased intracellular rifampicin accumulation. In addition to known resistance determinants, Tn-Seq revealed contributions from many genes involved in cell envelope processes to rifamycin resistance. Guided by this genetic signature, we evaluated the combined effects of cell wall-targeting antimicrobial agents with rifamycins. We found that rifamycins displayed selective synergistic interactions with specific β-lactam antimicrobial agents. Interestingly, rifamycin exposure altered cell envelope ultrastructure and increased accumulation of the peptidoglycan precursor UDP-N-acetylglucosamine, suggesting that rifampicin perturbs envelope-associated metabolic homeostasis. These findings highlight rifamycin-induced vulnerable cellular processes that may inform rational combination strategies. [IMPORTANCE] Rifamycins are cornerstone antibiotics for the treatment of mycobacterial infections, yet they are ineffective against Mycobacterium abscessus. Here, we used transposon insertion sequencing to systematically identify genes that contribute to intrinsic rifamycin resistance in M. abscessus. Because recent studies have shown that chemical modification of rifamycins can overcome specific intrinsic resistance mechanisms, a comprehensive understanding of these determinants could facilitate the development of next-generation rifamycins with improved activity against M. abscessus. In addition, we unexpectedly found that rifamycin exposure alters cell envelope structure, the intracellular levels of a key metabolic intermediate in peptidoglycan biosynthesis, and susceptibility to certain β-lactams in M. abscessus. These findings may help guide the rational development of combination therapeutic strategies with rifamycins."
+      },
+      {
+        "title": "A two-step model of FtsZ-ring disassembly in Bacillus subtilis.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070855/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Lastra LC",
+          "Adebiyi KO",
+          "Yu Y",
+          "Jacobson SC",
+          "Kearns DB"
+        ],
+        "doi": "10.1128/jb.00482-26",
+        "journal": "Journal of Bacteriology",
+        "source": "pubmed",
+        "pmid": "43070855",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Bacillus subtilis grows and divides by binary fission directed by medial localization of cell division protein FtsZ. Disruption of either the Min system or EzrA results in aberrant FtsZ positioning. Here, we grow cells in microfluidic channels and find that cells lacking MinD or EzrA appear to be similarly defective in Z-ring disassembly after septation, but play different roles as simultaneous disruption results in a synergistic defect in division. Moreover, we account for a low frequency of minicell formation in the absence of EzrA, as MinD but not EzrA is necessary for removal of ZapA from polar Z-rings. Finally, overexpression of MinCD inhibits division through pervasive Z-ring disassembly, but appears to concentrate ZapA through localized sequestration. Combined, our results indicate a closer relationship between MinCD and ZapA than previously recognized and show that Z-ring disassembly can be genetically separated into discrete steps. We propose a two-step model for Z-ring disassembly that mirrors the assembly process, such that after and/or during septation, the Z-ring separately decondenses, and protofilaments are disassembled to monomers for recycling.IMPORTANCEBacteria divide by polymerizing and condensing the cell division protein FtsZ and encode a suite of proteins that control FtsZ spatial localization. Here, we compare two FtsZ regulatory proteins, MinD and EzrA, in the bacterium Bacillus subtilis and find that they are required for the disassembly of FtsZ at two different steps after division. Based on our results, we propose a two-step model of Z-ring disassembly where FtsZ protofilaments are decondensed and depolymerized separately. Finally, most regulators of FtsZ tend to be considered from the standpoint of Z-ring assembly, and we assert that Z-ring disassembly and monomer recycling are just as important for timely division."
+      },
+      {
+        "title": "A NanAKE-like pathway enables sialic acid catabolism in gut microbiome member Hungatella hathewayi.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070845/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Phandanouvong-Lozano V",
+          "Pastore L",
+          "Miller G",
+          "Lin KY",
+          "Wolf AR"
+        ],
+        "doi": "10.1128/jb.00281-26",
+        "journal": "Journal of Bacteriology",
+        "source": "pubmed",
+        "pmid": "43070845",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "[UNLABELLED] Sialic acids are abundant components of host- and diet-derived glycans in the human gut that shape microbial fitness and interspecies competition. Free sialic acids can be a nutrient source but also stimulate inflammation and pathogen colonization. Escherichia coli and Bacteroides spp. catabolize sialic acids via the NanAKE and NanLE-RokA pathways, yet the metabolic capacity of many microbiome members remains undefined. To identify sialic acid-catabolizing bacteria, we cultured fecal samples from healthy human donors. The gut anaerobe Hungatella hathewayi was selected under sialic acid-supplemented conditions. H. hathewayi is a poorly characterized gram-positive Lachnospiraceae species associated with long-lived individuals and purine metabolism. Here we establish that H. hathewayi grows robustly on sialic acids as a sole carbon source. H. hathewayi encodes a NanAKE-like pathway in a locus containing a nanA ortholog divergently oriented to nanKE orthologs. We functionally validated these orthologs through growth assays and heterologous complementation in E. coli knockout strains. Comparative analyses further showed that key catalytic residues in H. hathewayi NanA are conserved despite overall sequence divergence from E. coli. H. hathewayi also encodes putative transport and regulatory proteins near the nan-like genes. These putative proteins are not orthologous to the E. coli NanT transporter or NanR regulator but are instead related to transporters and regulators identified in other gut anaerobes. Together, these findings identify H. hathewayi as an overlooked but capable sialic acid degrader and expand our understanding of sialic acid metabolism within the human gut microbiome. [IMPORTANCE] Sialic acids play an important role in mammalian and microbial signaling. Excess free sialic acids increase susceptibility to gut pathogens and induce inflammation. Gut bacteria can consume free sialic acids, and the catabolic pathways involved are conserved across diverse bacteria, including Escherichia coli and Bacteroides fragilis. We identify Hungatella hathewayi as another bacterium capable of sialic acid consumption and define the enzymes responsible. H. hathewayi is a prevalent member of the human gut microbiome that is enriched in the gut microbiomes of long-lived individuals and is expected to contribute to purine degradation to limit gout risk. Defining sialic acid catabolism in non-model species will elucidate the evolution and conservation of this pathway as well as microbiome sialic acid metabolism."
+      },
+      {
+        "title": "AlgR regulates expression of the biofilm adhesin CdrA in Pseudomonas aeruginosa.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070839/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Andersen JB",
+          "Levin Rybtke M",
+          "Shahryari S",
+          "Høst-Madsen W",
+          "Givskov M",
+          "Tolker-Nielsen T"
+        ],
+        "doi": "10.1128/jb.00385-26",
+        "journal": "Journal of Bacteriology",
+        "source": "pubmed",
+        "pmid": "43070839",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "[UNLABELLED] The opportunistic pathogen Pseudomonas aeruginosa forms antibiotic-tolerant biofilms that cause persistent and chronic infections. Knowledge of the mechanistic basis of biofilm formation is needed for future development of medicine against tenacious biofilm infections. Here, we demonstrate that the transcriptional regulator AlgR is essential for expression of the cdrA gene, which encodes a biofilm adhesin. Using transcriptional reporters and protein analysis, we show that deletion of algR abolishes cdrA transcription and production of the CdrA protein. Electrophoretic mobility shift assays provided evidence that AlgR binds directly to the cdrA promoter. Phenotypic analysis showed that algR mutants are defective in CdrA-mediated cell aggregation. Disruption of a putative AlgR binding box eliminated binding of AlgR to the cdrA promoter and abolished CdrA-dependent aggregation. Epistasis analysis indicated that AlgR is epistatic to FleQ in the regulation of cdrA. Experiments with fimS, stk1, and algR-D54N mutants suggested that induction of cdrA occurs without phosphorylation of AlgR. [IMPORTANCE] Our findings establish AlgR as a direct transcriptional activator of cdrA and highlight the protein as a central regulator of biofilm-associated traits in P. aeruginosa and a potential target for strategies aimed at controlling biofilm-related infections."
+      },
+      {
+        "title": "Effects of increased 2',3'-cNMPs in E. coli: pleiotropic transcriptional changes and direct regulation of a nucleotide metabolic enzyme.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070835/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Marotta NJ",
+          "Moyo N",
+          "Lopez JR",
+          "Mali S",
+          "Weinert EE"
+        ],
+        "doi": "10.1128/jb.00392-26",
+        "journal": "Journal of Bacteriology",
+        "source": "pubmed",
+        "pmid": "43070835",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "[UNLABELLED] 2',3'-Cyclic nucleotide monophosphates (2',3'-cNMPs) are ubiquitous intracellular small molecules with similarities to known nucleotide second messengers. This work investigated the effects of increased intracellular 2',3'-cNMP levels on the Escherichia coli transcriptome across several growth phases and two experimental methods. Results of the analysis highlighted dramatic changes in the transcriptome as cells enter stationary phase, including altered amino acid metabolism and metal homeostasis. Phenotypic studies validated the transcriptional changes and identified a role for 2',3'-cNMPs in modulating stationary-phase cell density, as well as investigated possible mechanisms of 2',3'-cAMP-mediated regulation. This work provides insights into the physiological effects of 2',3'-cNMP signaling and highlights how modulating 2',3'-cNMP levels could potentially be used to control bacterial behavior. [IMPORTANCE] Bacteria utilize a range of intracellular signaling molecules, including nucleotide second messengers, to alter behavior in response to environmental stimuli and growth phase. Understanding the roles of poorly understood signaling molecules will provide new insights into how intracellular pathways are controlled and improve predictive models of bacterial behavior. This study demonstrates that in Escherichia coli, increased 2',3'-cyclic nucleotide monophosphate levels modulate the transcriptome, particularly during the transition to stationary phase when concentrations naturally decrease. Effects of maintaining 2',3'-cAMP levels as cells exit the exponential phase include altered metal resistance and activity of adenylosuccinate synthase, which affects nucleotide pools, highlighting roles in important bacterial phenotypes."
+      },
+      {
+        "title": "Identifying phage host receptors using TraDIS.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070818/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Gentle B",
+          "Scott HN",
+          "Maher C",
+          "Grainge I"
+        ],
+        "doi": "10.1128/jb.00569-25",
+        "journal": "Journal of Bacteriology",
+        "source": "pubmed",
+        "pmid": "43070818",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "[UNLABELLED] The growing antimicrobial resistance crisis has sparked renewed interest in using bacteriophage (phage) as a treatment for antibiotic-resistant infections. Phage are viruses that infect and often kill bacteria and have served as key models for many molecular biology studies. There are many complex phage-bacterial interactions that dictate the success or failure of the phage life cycle, but many of these are not well understood or characterized. These include the specific interactions to recognize a bacterium during the infection process, bacterial phage defense mechanisms, and metabolic pathways that are key to phage replication. In this study, a novel Escherichia coli phage, Arnold, is characterized, and the genome sequence is reported. We then use transposon-directed insertion-site sequencing to screen a library of E. coli mutants to identify over 200 genes involved in Arnold phage infection or in phage resistance. Using this approach, we identified both an outer membrane protein (BtuB, vitamin B12 transporter) and an inner membrane protein (SdaC, serine/proton symporter) that are essential for phage infection; deletions in these genes were shown to provide immunity to infection by this phage. Understanding the genetic basis of phage infection and phage resistance should allow us to select or design phage to target specific bacterial pathogens in the future. [IMPORTANCE] Antimicrobial resistance (AMR) is a global threat to modern health, and new solutions are needed to fight multi-drug resistant infections. One promising solution are bacteriophages, viruses that naturally infect and kill bacteria. Phage infection is very strain specific, governed by the interaction of phage proteins with a cell surface receptor. In order to understand the rules that govern which phage can infect which bacteria, we need to identify these interacting partners. We report the genome of a phage infecting Escherichia coli and use transposon insertion sequencing to identify genes involved in phage infection, including what we propose are the cell surface receptors required for infection. This knowledge is essential for understanding and potentially engineering targeted phage treatments against specific bacterial pathogens."
+      }
+    ],
+    "mBio": [
+      {
+        "title": "The mechanosensitive channel MscS links lipoteichoic acid synthesis alterations to beta-lactam sensitivity in Staphylococcus aureus.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070679/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Shah M",
+          "Kanampalliwar A",
+          "Bae T"
+        ],
+        "doi": "10.1128/mbio.01500-26",
+        "journal": "mBio",
+        "source": "pubmed",
+        "pmid": "43070679",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Lipoteichoic acid (LTA) is an essential cell envelope polymer in Staphylococcus aureus and contributes to beta-lactam resistance in methicillin-resistant S. aureus (MRSA). Mutations that alter LTA synthesis sensitize MRSA to beta-lactam antibiotics, but the mechanism connecting the envelope polymer defects to antibiotic susceptibility has remained unclear. Here, using suppressor mutants with a mutation in RNA polymerase subunits, we found that LTA synthesis defects increased expression of a ParB-like protein and the mechanosensitive channel MscS. This locus was repressed in RNA polymerase suppressor mutants, which restored beta-lactam resistance, whereas induced expression of both genes reduced resistance. Increased ParBL-MscS expression was associated with decreased intracellular potassium and reduced cyclic di-AMP (c-di-AMP), linking altered membrane-envelope physiology to second messenger signaling. LTA synthesis mutants also showed reduced production of penicillin-binding protein 4 (PBP4), an important determinant of beta-lactam resistance. Modest restoration of PBP4 improved resistance in the mutant with reduced LTA abundance, whereas the mutant producing elongated LTA showed a distinct response, indicating that different LTA defects impose different envelope stresses. Also, under reduced LTA conditions, increased c-di-AMP level alone was not sufficient to restore PBP4 expression and beta-lactam resistance. Together, these findings identify a potassium-dependent pathway connecting LTA synthesis, mechanosensitive channel activity, c-di-AMP signaling, PBP4 production, and beta-lactam resistance. This work reveals how cell envelope perturbations are converted into cytoplasmic regulatory responses that control antibiotic susceptibility and suggests that ion homeostasis and c-di-AMP signaling may be exploitable pathways for restoring beta-lactam efficacy against MRSA.IMPORTANCEAntibiotic-resistant Staphylococcus aureus, including methicillin-resistant S. aureus (MRSA), is difficult to treat because it can withstand many beta-lactam antibiotics. Changes in lipoteichoic acid (LTA), a major cell-envelope polymer, increase beta-lactam sensitivity, but the underlying mechanism has been unclear. Here, we show that LTA synthesis defects activate a pathway involving the predicted membrane channel MscS. This pathway lowers intracellular potassium, reduces cyclic di-AMP signaling, and decreases production of PBP4, a cell-wall synthesis enzyme that contributes to beta-lactam resistance. These changes make MRSA more vulnerable to beta-lactam antibiotics. Our findings show that antibiotic resistance depends not only on drug targets but also on coordination between the cell envelope, ion homeostasis, and intracellular signaling. This connection identifies physiological pathways that may be exploited to restore beta-lactam efficacy against resistant S. aureus."
+      }
+    ],
+    "Nature Reviews Bioengineering": [
+      {
+        "title": "Ex vivo and in vivo CAR engineering",
+        "link": "https://www.nature.com/articles/s44222-026-00510-x",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Joshua Saskin",
+          "Daniel Park",
+          "Luojia Yang",
+          "Xiaoyu Huang",
+          "Saba Fooladi",
+          "Tanyeri Barak",
+          "S. Stephen Yi",
+          "Nidhi Sahni",
+          "Murat Gunel",
+          "Sidi Chen",
+          "Lei Peng"
+        ],
+        "doi": "10.1038/s44222-026-00510-x",
+        "journal": "Nature Reviews Bioengineering",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Reviews Bioengineering, Published online: 23 November 2026; doi:10.1038/s44222-026-00510-xThe landscape of CAR therapy is rapidly evolving. This Review examines how genetic and cellular engineering shape ex vivo and in vivo CAR therapies, spanning cell source, genome editing, receptor and circuit design, delivery, manufacturing, and safety. It also proposes a framework for aligning engineering strategies with disease-specific therapeutic needs."
+      }
+    ],
+    "Biogeosciences": [
+      {
+        "title": "Unveiling carbonate dissolution in coastal sediments and its influence on seawater buffering capacity with δ13CDIC and 224Ra–228Th disequilibria",
+        "link": "https://doi.org/10.5194/bg-23-8559-2026",
+        "pub_date": "2026-11-23",
+        "authors": [],
+        "doi": null,
+        "journal": "Biogeosciences",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Unveiling carbonate dissolution in coastal sediments and its influence on seawater buffering capacity with δ13CDIC and 224Ra–228Th disequilibria Xinjie Ma, Xiangming Shi, Yingxu Wu, Xiangqi Yi, Biqi Zheng, and Di Qi Biogeosciences, 23, 8559–8575, https://doi.org/10.5194/bg-23-8559-2026, 2026 We studied a coastal maricultural bay to reveal the role of sediment CaCO3 dissolution in benthic DIC effluxes and acidification mitigation. In combination of the applications of radioisotopes and stable carbon isotope, we addressed the mechanism that benthic disturbance lowered CaCO3 dissolution. Our study challenges the idea that organic degradation dominates sediment DIC production and presents the processes regulating the sediment CaCO3 dissolution."
+      }
+    ],
+    "Nature": [
+      {
+        "title": "Build for the future climate — or waste trillions of dollars",
+        "link": "https://www.nature.com/articles/d41586-026-03722-8",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Saroj Kanta Mishra"
+        ],
+        "doi": "10.1038/d41586-026-03722-8",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03722-8Development planning needs a permanent system that connects climate projections to the decisions that shape what infrastructure gets built."
+      },
+      {
+        "title": "It’s our duty to promote ourselves: even to other scientists. Am I wrong?",
+        "link": "https://www.nature.com/articles/d41586-026-02203-2",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Rachael Pells"
+        ],
+        "doi": "10.1038/d41586-026-02203-2",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-02203-2A jury weighs in on whether it’s a researcher’s responsibility to convince colleagues that their work matters — or whether others should come to them instead."
+      },
+      {
+        "title": "Ayanna Howard thinks ‘everyone has to be part of’ building ethical AI tools",
+        "link": "https://www.nature.com/articles/d41586-026-03721-9",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Katherine Skipper"
+        ],
+        "doi": "10.1038/d41586-026-03721-9",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03721-9The researcher and educator explains why she’s optimistic about the future of work and what individuals can do to thrive alongside artificial intelligence."
+      },
+      {
+        "title": "Hexa-substituted benzene synthesis with non-classical carbocations",
+        "link": "https://www.nature.com/articles/s41586-026-11449-9",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Guillaume Mollaert",
+          "Hang-Fei Tu",
+          "Jacob R. King",
+          "Mihai V. Popescu",
+          "Zexian Li",
+          "Quan Zhang",
+          "Eric Palomo",
+          "Robert S. Paton",
+          "Marcos G. Suero"
+        ],
+        "doi": "10.1038/s41586-026-11449-9",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/s41586-026-11449-9Hexa-substituted benzene synthesis with non-classical carbocations"
+      },
+      {
+        "title": "COP31 went down in flames over fossil fuels — it sends an important message",
+        "link": "https://www.nature.com/articles/d41586-026-03827-0",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "James Dinneen"
+        ],
+        "doi": "10.1038/d41586-026-03827-0",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03827-0Nature reporter James Dinneen reflects on the first international climate summit to collapse since 2009."
+      },
+      {
+        "title": "Continuous N-to-C Peptide Synthesis",
+        "link": "https://www.nature.com/articles/s41586-026-11448-w",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Jingjun Yin",
+          "Ji Qi",
+          "Zhiyan Song",
+          "Baoqiang Wan",
+          "Jin Zhang",
+          "Fangzhou Xie",
+          "Enkai Wang",
+          "Yang Cao",
+          "Hongming Li",
+          "Qixue Yuan",
+          "Jinxiang He",
+          "Xiao Wang",
+          "Liwen Xu",
+          "Chunrui Sun",
+          "Kai-Jiong Xiao",
+          "Feng Peng",
+          "Shishi Lin",
+          "Gao Shang",
+          "Lu Wang",
+          "Jing Xu",
+          "Jiwen Jiang",
+          "Xiupeng Duan",
+          "Donghong Li",
+          "Mengli Zhang",
+          "Haijiang Nan",
+          "Like Chen",
+          "Fang Wang",
+          "Tong Kang",
+          "Minyi Feng",
+          "Guiquan Liu",
+          "Louis-Charles Campeau"
+        ],
+        "doi": "10.1038/s41586-026-11448-w",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/s41586-026-11448-wContinuous N-to-C Peptide Synthesis"
+      },
+      {
+        "title": "Architecture of the poxvirus early-transcription machinery and portal complex",
+        "link": "https://www.nature.com/articles/s41586-026-11458-8",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Benoît Arragain",
+          "Lukas W. Bauer",
+          "Victor-Valentin Hodirnau",
+          "Florian K. M. Schur"
+        ],
+        "doi": "10.1038/s41586-026-11458-8",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/s41586-026-11458-8Architecture of the poxvirus early-transcription machinery and portal complex"
+      },
+      {
+        "title": "‘Mozart of maths’ Terence Tao is your guide to what underpins reality",
+        "link": "https://www.nature.com/articles/d41586-026-03720-w",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Itai Yanai"
+        ],
+        "doi": "10.1038/d41586-026-03720-w",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03720-wA Fields Medallist reveals how curiosity about numbers can lead to solutions in the real world."
+      },
+      {
+        "title": "Chemistry giant George Whitesides dies: one of the most influential researchers of his generation",
+        "link": "https://www.nature.com/articles/d41586-026-03808-3",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Lauren Wolf"
+        ],
+        "doi": "10.1038/d41586-026-03808-3",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03808-3Beloved intellectual mentored hundreds of scientists and switched fields many times to solve global challenges."
+      },
+      {
+        "title": "How to make climate anxiety your superpower",
+        "link": "https://www.nature.com/articles/d41586-026-03818-1",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Nick Petrić Howe"
+        ],
+        "doi": "10.1038/d41586-026-03818-1",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03818-1Climate change can provoke anxiety in many. Here’s how one Nature reporter channelled his anxiety into action."
+      },
+      {
+        "title": "Is trust in science falling, or does it just feel that way?",
+        "link": "https://www.nature.com/articles/d41586-026-03724-6",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Linda Nordling"
+        ],
+        "doi": "10.1038/d41586-026-03724-6",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03724-6Half of the scientists who took Nature’s survey felt that trust in science has dropped. They are only partly right."
+      },
+      {
+        "title": "How AI shocks are rattling the next generation of mathematicians — in charts",
+        "link": "https://www.nature.com/articles/d41586-026-03795-5",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Davide Castelvecchi"
+        ],
+        "doi": "10.1038/d41586-026-03795-5",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03795-5Students are markedly less optimistic about the technology than their professors, according to survey results."
+      }
+    ],
+    "Microbiology Spectrum": [
+      {
+        "title": "Molecular assay development and validation using ITS1 and HSP70 gene targets for identifying Leishmania species in American cutaneous leishmaniasis in the State of Amazonas, Brazil.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070512/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Santos FJdA",
+          "Leturiondo AL",
+          "Ferreira CdO",
+          "Dos Santos da Silva CG",
+          "Ramasawmy R",
+          "Andrade Júnior MCd",
+          "Santos DMd",
+          "Souza GCd",
+          "Smith-Doria S",
+          "da Silva JB",
+          "Santos JESd",
+          "Pennini SN",
+          "Talhari S",
+          "Barbosa Guerra MdGV",
+          "Guerra JAdO",
+          "Talhari C"
+        ],
+        "doi": "10.1128/spectrum.00392-26",
+        "journal": "Microbiology Spectrum",
+        "source": "pubmed",
+        "pmid": "43070512",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "[UNLABELLED] Leishmaniasis, caused by protozoa of the genus Leishmania, presents diverse clinical forms. In Brazil, L. (Viannia) braziliensis and L. (V.) guyanensis are the main species causing cutaneous leishmaniasis (CL). Species identification is essential, as treatment differs. Antimonial meglumine or amphotericin B is recommended for L. (V.) braziliensis, while pentamidine or amphotericin B for L. (V.) guyanensis. Conventional diagnostic methods often lack sensitivity and ability to identify the parasite species for tailoring proper treatment. Molecular identification provides a sensitive alternative for accurate diagnosis, epidemiological assessment, and treatment guidance. This study developed and validated a molecular assay targeting the ITS1 and HSP70 genes to detect and identify Leishmania species in clinical samples. Quantitative polymerase chain reaction (qPCR) assays with TaqMan probes targeting the ITS1 and HSP70 genes were developed to detect Leishmania subgenera and species in biopsy and filter paper samples. Diagnostic accuracy and test agreement were assessed. The assays demonstrated high diagnostic accuracy. ITS1 revealed 99.7% sensitivity and 94% specificity, and HSP70 showed 99.6% sensitivity and 95% specificity compared with microscopy detection. Agreement with direct microscopy was high (Kappa = 0.95-0.96). Species identification revealed L. (V.) guyanensis (83%), L. (V.) braziliensis (12%), L. (Leishmania) amazonensis (3%), L. (V.) lainsoni (1.7%), and L. (V.) naiffi (0.3%). The qPCR panel represents a significant advance in molecular diagnosis of leishmaniasis, combining high sensitivity, specificity, and practical applicability. It provides accurate species identification and offers essential support for effective epidemiological surveillance and target therapy in endemic regions. [IMPORTANCE] American cutaneous leishmaniasis diagnosis in endemic regions, such as the State of Amazonas (Brazil), remains challenging, as conventional methods often fail to detect low parasite infections or identify species. This study addresses this diagnostic gap by developing and validating a dual-target quantitative polymerase chain reaction panel with the ITS1 and HSP70 genes. This assay demonstrated excellent diagnostic accuracy (AUC > 0.95). The high sensitivity and compatibility with filter paper samples provide a less invasive and more practical solution for sample collection and transport. Implementation of this molecular tool is fundamental to facilitating epidemiological surveillance and ensuring species-specific treatment for the parasite."
+      },
+      {
+        "title": "Genetic variability of the pneumococcal wciZ-gene and how it relates to capsule-type prediction.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070502/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Itzek A",
+          "Martin A",
+          "van der Linden M"
+        ],
+        "doi": "10.1128/spectrum.01479-26",
+        "journal": "Microbiology Spectrum",
+        "source": "pubmed",
+        "pmid": "43070502",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "[UNLABELLED] Streptococcus pneumoniae serotypes 15B and 15C differ solely in the O-acetylation state of their capsular polysaccharides, determined by the activity of the wciZ-encoded O-acetyltransferase. Variation in the number of thymine-adenine (TA) repeats within the wciZ reading frame can induce frameshift events, resulting in either functional (15B) or non-functional (15C) enzyme variants. To characterize wciZ diversity and assess the accuracy of genome-based capsule-type prediction models, the wciZ TA repeat regions of all serotype 15B and 15C isolates from Germany's national invasive pneumococcal disease (IPD) surveillance 2022-2024 were analyzed. A total of 364 wciZ genes were partially sequenced, revealing 19 distinct TA repeat variants. In addition to known repeat counts, previously unreported variants with 2, 12, 13, 14, and 15 repeats were identified. Two novel mutational mechanisms influencing serotype expression emerged: (i) a single thymine deletion upstream of the repeat region, potentially abolishing enzyme activity even when the reading frame is restored, and (ii) a 13-nucleotide deletion downstream of the repeats, causing premature translational termination despite eight TA repeats normally associated with serotype 15B. The distribution of repeat numbers showed a steep, right-skewed, unimodal profile with eight repeats predominating, suggesting a mutational hotspot, and a three-repeat expansion consistently resulting in a 15B phenotype. The SeroBA version currently implemented in the PathogenWatch pipeline correctly predicted most identified variants; however, rare mutations outside the TA repeat region, particularly mutations restoring the reading frame while potentially impairing enzyme function, can compromise prediction accuracy and should be considered in future genome-based serotyping frameworks. [IMPORTANCE] Streptococcus pneumoniae is a major cause of invasive infections, including pneumonia, sepsis, and meningitis. This makes the accurate surveillance and characterization of circulating strains essential for the development of effective prevention strategies. Among pneumococci, serotypes 15B and 15C are a notable example of how subtle genetic changes can result in different capsule phenotypes, which can have significant diagnostic and epidemiological implications. This study reveals that the molecular basis of the 15B/15C switch is more complex than previously assumed, demonstrating unexpected genetic diversity and novel mutational mechanisms within the wciZ gene that distinguish the serotypes. The study demonstrates that serotype assignment based solely on thymine-adenine repeat counts can result in systematic misclassification. By improving our understanding of capsule variation between serotypes 15B and 15C, this study provides valuable insights into genome-based serotyping, enhances the interpretation of surveillance data, and emphasizes the necessity of continuously reassessing molecular prediction."
+      },
+      {
+        "title": "Blood transcriptional signatures reflect pulmonary inflammatory programs in Mycobacterium tuberculosis-infected C3HeB/FeJ mice.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070501/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Nakamura H",
+          "Omori S",
+          "Seto S",
+          "Hijikata M",
+          "Keicho N"
+        ],
+        "doi": "10.1128/spectrum.02330-26",
+        "journal": "Microbiology Spectrum",
+        "source": "pubmed",
+        "pmid": "43070501",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "[UNLABELLED] Blood transcriptional signatures have been widely investigated as biomarkers for distinguishing tuberculosis (TB) disease states in humans. Previous studies have also shown that the peripheral blood transcriptional profiles of Mycobacterium tuberculosis-infected C3HeB/FeJ mice recapitulate key features of human active TB blood signatures. However, the extent to which these peripheral blood responses reflect localized transcriptional programs in infected lungs remains unclear. In this study, we performed RNA sequencing (RNA-seq) in parallel on lung and blood samples from M. tuberculosis-infected C3HeB/FeJ mice to systematically map the relationship between pulmonary and peripheral transcriptional responses. Transcriptomic analysis revealed that inflammatory immune pathways, including type I interferon (IFN) responses, were commonly enriched across both tissues. Among the upregulated differentially expressed genes, 134 genes were shared between the lungs and blood. These shared transcripts were strongly associated with type I IFN signaling and neutrophil/myeloid-driven inflammatory responses. Genes with human orthologs were then ranked by differential expression magnitude and expression abundance across the two tissues, and the 10 highest-ranked genes were selected as a Top10 signature. This Top10 signature showed discriminatory performance across multiple TB disease states in independent human TB blood RNA-seq cohorts, comparable to that obtained using previously reported blood transcriptional signatures. Collectively, these findings suggest that blood transcriptional signatures in this mouse model share features with pulmonary inflammatory programs, providing experimental insight into how peripheral blood responses reflect disease-associated lung pathology during progressive TB. [IMPORTANCE] Blood transcriptional biomarkers are being investigated for the diagnosis and risk prediction of tuberculosis (TB). However, the relationship between blood RNA signatures and transcriptional programs in infected lungs remains poorly understood. In this study, we identified a common inflammatory transcriptional program shared across the blood and lungs of Mycobacterium tuberculosis-infected C3HeB/FeJ mice, a susceptible in vivo model resembling the key pathological features of human TB. The shared upregulated genes primarily included inflammatory genes related to type I interferon and neutrophil-mediated inflammatory responses. A representative Top10 gene signature derived from this shared program showed discriminatory performance across multiple clinical TB disease states in human TB cohorts, comparable to that obtained using previously reported blood transcriptional signatures. These findings suggest that blood transcriptional signatures overlap with the immune and inflammatory programs occurring in infected lungs and potentially provide a framework for the discovery of biomarkers for TB disease classification."
+      },
+      {
+        "title": "BK polyomavirus genotype differs between biological compartments in children undergoing hematopoietic stem cell transplants.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070500/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Hurst TN",
+          "Cox CR",
+          "Zhang G",
+          "Walder TA",
+          "Meeds HL",
+          "Hsu W-W",
+          "Kleiboeker SB",
+          "Ziady A",
+          "Sabulski A",
+          "Jodele S",
+          "Seif AE",
+          "Davies SM",
+          "Rubinstein JD",
+          "Laskin BL",
+          "Blackard JT"
+        ],
+        "doi": "10.1128/spectrum.02254-26",
+        "journal": "Microbiology Spectrum",
+        "source": "pubmed",
+        "pmid": "43070500",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "BK polyomavirus (BKV) infection is widespread, with seroprevalence around 80%-90%. During hematopoietic stem cell transplant (HSCT), BKV reactivation can cause hemorrhagic cystitis, thrombotic microangiopathy, and occasionally nephropathy. These conditions can lead to life-threatening organ injury. BKV is a small double-stranded DNA virus whose genome comprises early and late protein-coding regions and a non-coding control region. BKV is highly diverse and can be categorized into different genotypes based on variability within the viral protein 1 region. Mutations within the BKV coding and non-coding regions have been shown to affect virulence and cell tropism. In this study, we evaluated BKV genomes from the urine and/or plasma from 20 pediatric HSCT recipients to detect differences in BKV genotypes over time or between compartments. BKV-positive plasma and urine samples were collected, BKV was isolated and amplified, and viral genomes were sequenced by next-generation sequencing. In a group of 10 patients (\"Compartmentalization group\"), distinct BKV genotypes were detected in urine versus plasma in six patients (60%) at 1-month post-HSCT. BKV sequences among patients with concordant genotypes differed across compartments, despite sharing the same genotype. We also identified differences in T-cell epitopes that suggest some degree of immune selection, with differences greater across compartments than over time.IMPORTANCEBK polyomavirus (BKV) infection and/or reactivation causes severe toxicity after hematopoietic stem cell transplant, including hemorrhagic cystitis and thrombotic microangiopathy. Infections are commonly urinary, but viremia in addition to cystitis occurs in a proportion of cases. BKV detection in the blood is associated with an increased risk of BKV-associated hemorrhagic cystitis. The role of viral diversity in virulence, pathogenesis, and prognosis is poorly understood and is needed to develop prophylactic and therapeutic strategies. Uncovering BKV diversity in vivo will provide insight into how immune selection determines inter-compartmental spread. Understanding the role of BKV diversity throughout the body is important for therapeutic success, including virus-specific T-cell therapy and vaccine development."
+      },
+      {
+        "title": "Valnemulin, a repurposed oral drug, demonstrates dual activity against Neisseria gonorrhoeae and Chlamydia trachomatis.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070494/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Abdelsattar AS",
+          "Abutaleb NS",
+          "Kikiowo B",
+          "Kurosu M",
+          "Seleem MN"
+        ],
+        "doi": "10.1128/spectrum.00803-26",
+        "journal": "Microbiology Spectrum",
+        "source": "pubmed",
+        "pmid": "43070494",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "[UNLABELLED] The most prevalent bacterial sexually transmitted infections are caused by Neisseria gonorrhoeae and Chlamydia trachomatis. According to the World Health Organization, over 211 million cases were reported in 2020. Currently, ceftriaxone is the only recommended single-dose intramuscular therapy for gonorrhea, but it exhibits minimal to no efficacy against chlamydial infections. Azithromycin and doxycycline are recommended to treat C. trachomatis infections; however, N. gonorrhoeae has developed resistance to both. Hence, no single drug is available that can effectively target both pathogens. Through a drug repurposing approach, with a particular focus on uncommon or underexplored drugs, we identified valnemulin, a pleuromutilin derivative and veterinary antibiotic, as a potent dual-acting agent. Valnemulin showed potent activity against multidrug-resistant N. gonorrhoeae, with its minimum inhibitory concentrations as low as 0.03 μg/mL and retained activity against azithromycin-resistant N. gonorrhoeae. Additionally, valnemulin demonstrated anti-C. trachomatis activity at concentrations of 0.008 μg/mL. Moreover, valnemulin exhibited rapid bactericidal activity, a prolonged post-antibiotic effect, and a low propensity for resistance development. Insights into the mechanisms of action and binding sites were investigated as well. Valnemulin exhibited potent inhibition in the bacterial transcription/translation assay with an IC50 value of 0.07 μg/mL. Molecular docking with the 23S rRNA crystal structure revealed a highly favorable interaction with a binding affinity of -9.197 kcal mol-1. In a murine genital tract N. gonorrhoeae infection model, a single day of valnemulin treatment reduced gonococcal burden by 83%. Overall, our findings demonstrate that valnemulin is a promising candidate to treat sexually transmitted infections and deserves further investigation. [IMPORTANCE] The traditional drug discovery process is both time-consuming and costly, typically requiring 10-15 years and costing around $2 billion. Therefore, a therapeutic repurposing approach has emerged as an efficient alternative strategy for drug discovery that significantly reduces development time and cost. In an effort to identify new therapeutics against Chlamydia trachomatis/Neisseria gonorrhoeae infections through a drug repurposing approach, valnemulin was identified as a promising anti-C. trachomatis and anti-N. gonorrhoeae agent."
+      },
+      {
+        "title": "Plasmid-borne ThyA2 and DfrA mediate antimetabolite resistance in Staphylococcus aureus USA200.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070492/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Wu D",
+          "Zhuang J",
+          "Deng Y",
+          "Ling F",
+          "Chen X",
+          "Liu X"
+        ],
+        "doi": "10.1128/spectrum.02234-26",
+        "journal": "Microbiology Spectrum",
+        "source": "pubmed",
+        "pmid": "43070492",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Clinically used antimetabolites can impose selective pressures on bacteria, yet naturally occurring genetic determinants that shape bacterial responses to these compounds remain incompletely defined. Screening of methicillin-sensitive Staphylococcus aureus and methicillin-resistant S. aureus strains identified a USA200 isolate with markedly reduced susceptibility to 5-fluorouracil (5FU), whereas most isolates were highly susceptible. We therefore investigated the genetic basis of 5FU resistance in this isolate. The elevated 5FU resistance was independent of PBP2a-mediated β-lactam resistance. Long-read sequencing revealed that USA200 carries a 36.92-kb plasmid encoding a divergent thymidylate synthase paralog, ThyA2, in addition to chromosomal ThyA. Heterologous expression of thyA2 increased 5FU resistance in susceptible S. aureus backgrounds, whereas deletion of thyA2 in USA200 reduced the 5FU minimum inhibitory concentration to susceptible-strain levels without altering cefuroxime or cefazolin susceptibility. The same plasmid also encoded an adjacent dfrA gene, and dfrA deletion markedly reduced trimethoprim-sulfamethoxazole resistance without affecting 5FU or cephalosporin susceptibility. Thus, USA200 carries adjacent plasmid-borne determinants with separable antimetabolite-specific functions. ThyA2 mediates resistance to a chemotherapeutic pyrimidine analog, whereas DfrA mediates resistance to an antibacterial antifolate. These findings highlight the need to account for strain-specific resistance determinants when evaluating the antibacterial activity of 5FU.IMPORTANCECertain drugs used in cancer chemotherapy, such as 5-fluorouracil, can also inhibit bacterial growth, raising interest in their potential repurposing as antibacterial agents. However, whether bacteria already carry genes that counteract these effects is not well understood. We show that a clinical strain of the pathogen Staphylococcus aureus harbors a small plasmid encoding two physically linked but functionally independent genes: one that enables the bacterium to tolerate a chemotherapy drug, and another that enables resistance to an antibiotic combination used to treat staph infections. Neither gene affects the other drug's activity. These findings highlight that mobile genetic elements in bacteria can carry genes that influence susceptibility to non-antibiotic clinical drugs, with implications for antibacterial drug repurposing strategies and for understanding strain-specific responses to these drugs."
+      }
+    ],
+    "Trends in Microbiology": [
+      {
+        "title": "What microbial scaling reveals about biological constraints",
+        "link": "https://www.cell.com/trends/microbiology/fulltext/S0966-842X(26)00313-6?rss=yes",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Xiaoli Chen, Jiesi Lei, Wendy K. Wang, Lingchong You"
+        ],
+        "doi": null,
+        "journal": "Trends in Microbiology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Microbial systems exhibit reproducible quantitative relationships across multiple levels of organization, from genomes and cellular physiology to communities and macroecological dynamics. Examples include the scaling of functional gene counts with total gene content, plasmid copy number with plasmid length, ribosome allocation and antibiotic-induced lysis rate with growth rate, focal species effects with the background community function, and abundance variance as a power of the mean abundance. In this review, we examine how comparisons and perturbations reveal when scaling relationships persist, shift, or break down, thereby helping to distinguish competing mechanistic interpretations. Together, these scaling relationships provide quantitative baselines for describing recurring organization across biological levels and probing the constraints that govern their applicability."
+      }
+    ],
+    "Cell": [
+      {
+        "title": "Fate patterns self-organize through the coupling of structures across cell and supracellular levels of organization",
+        "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01348-6?rss=yes",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Clint S. Ko, Ruonan Chen, Nina T. Magid, Katharine Courtemanche, Pearson W. Miller, Alan R. Rodrigues, Amy E. Shyer"
+        ],
+        "doi": null,
+        "journal": "Cell",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "During limb formation, a field of homogeneous cells transforms into adjacent cartilage and soft tissue domains by spatially self-organizing its own differentiation without concentration-dependent molecular guidance."
+      },
+      {
+        "title": "Neural correlates of facial recognition in a social wasp",
+        "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01345-0?rss=yes",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Christopher M. Jernigan, Lorenz C.C. Mammen, Winrich A. Freiwald, Michael J. Sheehan"
+        ],
+        "doi": null,
+        "journal": "Cell",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Like humans and other primates, whose brains contain face cells within visual processing regions, the brains of the paper wasp species Polistes fuscatus, whose members recognize social partners by their unique facial markings, contain “wasp cells” within the lateral protocerebrum. And like wasps during social recognition, these cells differentiate between facial patterns."
+      },
+      {
+        "title": "Autoantibody origins in lupus and upon recurrence post CAR-T therapy",
+        "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01338-3?rss=yes",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Amalie Grenov, Jongwon Yoon, Vasileios A. Samelis, Daniel M. Snell, Anna Mikolajczak, Hao Wang, Erdem Gürel, Ana Rodriguez-Ronchel, Gülçin Yegen, Rocco D’Antuono, Max Emmerich, Samra Turajlić, Lydia Lee, Bahar Artim Esen, Anisur Rahman, Paul Maciocia, Carola G. Vinuesa"
+        ],
+        "doi": null,
+        "journal": "Cell",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Autoantibody production in lupus depends on ongoing replenishment of short-lived plasma cells from a long-lived cell cohort of precursors. Distinct B cell sources fuel recurrence upon anti-CD19 and anti-BCMA CAR-T therapies, indicating directions for therapy optimization strategy."
+      }
+    ],
     "Nature Genetics": [
       {
         "title": "A draft mouse pangenome graph reference",
@@ -296,214 +941,56 @@
         "abstract": "Nature Genetics, Published online: 23 November 2026; doi:10.1038/s41588-026-02842-1Three base-level graph-based mouse pangenomes built on the C57BL/6J mouse telomere-to-telomere backbone provide resources for improved alignment, reduced reference bias, more accurate variant calling and downstream functional genomics."
       }
     ],
-    "Nature Biotechnology": [
+    "Molecular Ecology": [
       {
-        "title": "A unified framework for scalable differential testing for spatial omics",
-        "link": "https://www.nature.com/articles/s41587-026-03284-0",
+        "title": "Molecular Plasticity Contributes to Thermal Resilience in Two Coastal Fish Species",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70670?af=R",
         "pub_date": "2026-11-23",
         "authors": [
-          "Kaishu Mason",
-          "Yijia Jiang",
-          "Konstantin A. Klötzer",
-          "Sijia Huang",
-          "Nancy R. Zhang"
+          "Breana M. Riordan, Ludovic Dutoit, Tania M. King, Luciano B. Beheregaray, Neil J. Gemmell, Anthony J. R. Hickey, Sheri L. Johnson"
         ],
-        "doi": "10.1038/s41587-026-03284-0",
-        "journal": "Nature Biotechnology",
+        "doi": "10.1111/mec.70670",
+        "journal": "Molecular Ecology",
         "source": "rss",
         "pmid": null,
         "translation": null,
-        "article_type": null,
-        "abstract": "Nature Biotechnology, Published online: 23 November 2026; doi:10.1038/s41587-026-03284-0A scalable framework enables cell-type-resolved analysis of spatial omics data."
+        "article_type": "Original Article",
+        "abstract": "Molecular Ecology, Volume 35, Issue 22, November 2026."
       }
     ],
-    "Communications Biology": [
+    "Nature Methods": [
       {
-        "title": "Neural representation of tactile and visual words in the ventral occipitotemporal cortex",
-        "link": "https://www.nature.com/articles/s42003-026-11321-6",
+        "title": "Tracking individual birds by their song",
+        "link": "https://www.nature.com/articles/s41592-026-03406-1",
         "pub_date": "2026-11-23",
         "authors": [
-          "Zhenglong Lin",
-          "Yufei Tan",
-          "Canhuang Luo",
-          "Jiajia Yang",
-          "Geqi Qi",
-          "Hiroaki Shigemasu",
-          "Kiyoshi Nakahara",
-          "Hiroshi Kadota",
-          "Jinglong Wu",
-          "Min Xu"
+          "Amanda Navine",
+          "Patrick Hart"
         ],
-        "doi": "10.1038/s42003-026-11321-6",
-        "journal": "Communications Biology",
+        "doi": "10.1038/s41592-026-03406-1",
+        "journal": "Nature Methods",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Communications Biology, Published online: 23 November 2026; doi:10.1038/s42003-026-11321-6Neural representation of tactile and visual words in the ventral occipitotemporal cortex"
-      },
-      {
-        "title": "Mechanistic insights into gating dynamics of the ionotropic glutamate delta receptor GluD1",
-        "link": "https://www.nature.com/articles/s42003-026-11371-w",
-        "pub_date": "2026-11-23",
-        "authors": [
-          "Zonglin Dai",
-          "Guifang Duan",
-          "Minglu Zhu",
-          "Ao Yang",
-          "Marco C. Miotto",
-          "Hui Shan",
-          "Ling Liang",
-          "Yue Yin",
-          "Guangxi Wang",
-          "Yuxin Yin"
-        ],
-        "doi": "10.1038/s42003-026-11371-w",
-        "journal": "Communications Biology",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Biology, Published online: 23 November 2026; doi:10.1038/s42003-026-11371-wMechanistic insights into gating dynamics of the ionotropic glutamate delta receptor GluD1"
-      },
-      {
-        "title": "The significance of inflammasome-associated cytokines IL-1β and IL-18 in gastric and pancreatic cancers",
-        "link": "https://www.nature.com/articles/s42003-026-11416-0",
-        "pub_date": "2026-11-23",
-        "authors": [
-          "Yu C. J. Chey",
-          "Brendan J. Jenkins",
-          "Ruby E. Dawson"
-        ],
-        "doi": "10.1038/s42003-026-11416-0",
-        "journal": "Communications Biology",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Biology, Published online: 23 November 2026; doi:10.1038/s42003-026-11416-0The significance of inflammasome-associated cytokines IL-1β and IL-18 in gastric and pancreatic cancers"
+        "abstract": "Nature Methods, Published online: 23 November 2026; doi:10.1038/s41592-026-03406-1An automated approach to analyzing soundscape recordings distinguishes differences in song structure between individual birds of the same species. This represents a new, non-invasive tool for monitoring birds across the landscape."
       }
     ],
-    "Water Research": [
+    "Trends in Ecology & Evolution": [
       {
-        "title": "Reactive nitrogen intermediate regulation couples sulfur-driven denitrification with antibiotic transformation.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43068544/",
-        "pub_date": null,
+        "title": "A 2027 horizon scan of biological conservation issues",
+        "link": "https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00285-5?rss=yes",
+        "pub_date": "2026-11-23",
         "authors": [
-          "Zhang J",
-          "Dong C",
-          "Cui S",
-          "Zhang L",
-          "Wang Y",
-          "Cheng D",
-          "Ren C",
-          "Cao X",
-          "Zhou G",
-          "Jiang F",
-          "Liu H"
+          "William J. Sutherland, Holly Butterworth, Stewart J. Clarke, Jason Dinsdale, Nigel R. Doar, Helen Doran, Daniel J. Field, Erica Fleishman, Kevin J. Gaston, James E. Herbert-Read, Alice C. Hughes, Jonathan Hughes, Hermanni Kaartokallio, Ajay Karki, Ritesh Kumar, Jean Paul Metzger, James E. Palardy, James W. Pearce-Higgins, Nathalie Pettorelli, Irene R. Schloss, Mark D. Spalding, Eleanor R. Tew, Anastasiya Timoshyna, Nicolas Tubbs, Varsha Vijay, Jonathan Wentworth, Jeremy D. Wilson, Ann Thornton"
         ],
-        "doi": "10.1016/j.watres.2026.127377",
-        "journal": "Water Research",
-        "source": "pubmed",
-        "pmid": "43068544",
+        "doi": null,
+        "journal": "Trends in Ecology & Evolution",
+        "source": "rss",
+        "pmid": null,
         "translation": null,
-        "article_type": "Journal Article",
-        "abstract": "The widespread presence of antibiotics in aquatic environments underscores a persistent challenge for conventional wastewater treatment systems, which are primarily designed to remove nutrients and readily biodegradable organic matter. Free nitrous acid (FNA), a transient reactive nitrogen intermediate capable of transforming antibiotics, remains difficult to regulate under engineered conditions. Here, we demonstrate that sulfur-driven autotrophic denitrification (SAD) provides a biological route to regulate FNA concentration through the coupled effects of microbial nitrite accumulation and sulfur oxidation-associated acidification. Functional differentiation in nitrate and nitrite reduction pathways among sulfur-autotrophic denitrifiers was associated with distinct nitrite accumulation and FNA dynamics. Sulfamethoxazole (SMX) transformation kinetics were strongly correlated with FNA concentrations across contrasting microbial, pH, and oxygen conditions. Time-resolved transformation products revealed sequential SMX conversion, and theoretical calculations supported the relative energetic favorability of the proposed FNA-induced transformation routes. 13C tracing provided direct evidence for partial mineralization of SMX-derived carbon. FNA-mediated transformation extended to structurally distinct antibiotics, including sulfonamides, fluoroquinolones, and tetracyclines. During 270 days of operation in S0-based treatment wetlands receiving nitrified effluent from a recirculating aquaculture system, the enrichment of sulfur-autotrophic denitrifiers was associated with increased FNA concentrations and enhanced SMX attenuation while maintaining stable nitrate removal. Mild pH regulation from 7.5 to 6.5 further increased FNA levels and more than doubled SMX removal without compromising nitrate removal. These findings establish SAD as a biological route for regulating reactive nitrogen intermediates, linking nitrogen cycling with antibiotic transformation and extending the functional scope of autotrophic denitrification beyond nutrient removal."
-      },
-      {
-        "title": "Intensity-dependent reversal of magnetic field effects on biofilm-associated fouling in reclaimed water distribution systems.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43068547/",
-        "pub_date": null,
-        "authors": [
-          "Liu Z",
-          "Xiao Y",
-          "Chen L",
-          "Tao H",
-          "Wu J",
-          "Li Y",
-          "Wei S",
-          "Tao R",
-          "Liu J",
-          "Yu R",
-          "Li Y"
-        ],
-        "doi": "10.1016/j.watres.2026.127358",
-        "journal": "Water Research",
-        "source": "pubmed",
-        "pmid": "43068547",
-        "translation": null,
-        "article_type": "Journal Article",
-        "abstract": "Magnetic field (MF) treatment has been proposed as a non-chemical strategy for fouling control in reclaimed-water distribution systems, yet previous studies have reported inconsistent outcomes. Whether these contrasting effects arise from differences in field intensity remains unclear. Here, pilot-scale reclaimed-water distribution systems were operated for 800 h under six MF intensities (0, 10, 30, 100, 300, and 600 mT) to determine how field intensity regulates fouling accumulation and biofilm development. Fouling responses reversed across the intensity gradient. Compared with the untreated control, 10 and 30 mT increased total fouling accumulation by 12.1-13.4% and 24.2-26.7%, respectively, whereas 100, 300, and 600 mT reduced it by 4.5-6.1%, 26.8-27.3%, and 41.9-42.5%, respectively. These changes were accompanied by intensity-dependent microbial physiological responses. Lower-intensity MFs (10-30 mT) induced a moderate increase in ROS-associated fluorescence together with enhanced antioxidant responses, and were associated with sustained cellular activity, greater EPS production, and denser biofilm-associated deposits. Higher-intensity MFs (100-600 mT) produced a much greater ROS-associated fluorescence signal, accompanied by impaired antioxidant defenses, intensified lipid peroxidation, reduced cellular activity, lower EPS production, and more fragmented fouling structures. Metatranscriptomic analysis further revealed clear functional differentiation in fouling communities, with lower-intensity MFs enriching pathways related to colonization, quorum sensing, carbon metabolism, ABC transport, antioxidant defense, and EPS-associated secretion, whereas higher-intensity MFs were associated with stress-related colonization responses, oxidative-stress-associated energy metabolism, and altered EPS/transport-associated functions. Overall, the results support an intensity-dependent reversal in the magnetic-field response within the tested range, with lower-intensity treatments associated with adaptive antioxidant regulation and higher-intensity treatments associated with oxidative damage. These findings help explain the inconsistent effects previously reported for MF treatment and highlight the importance of field-intensity optimization for reliable fouling control in reclaimed-water distribution systems."
-      },
-      {
-        "title": "In-situ conversion of pollutants into catalysts: revealing high-valent bimetallic synergy for self-catalytic decomplexation of heavy-metal complexes.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43068545/",
-        "pub_date": null,
-        "authors": [
-          "Yang Y",
-          "Hou Z",
-          "Ma Z",
-          "Liu Y",
-          "Yang X",
-          "Li M",
-          "Cao T",
-          "Tian L",
-          "Wang M",
-          "Song Y",
-          "Zhang Q"
-        ],
-        "doi": "10.1016/j.watres.2026.127348",
-        "journal": "Water Research",
-        "source": "pubmed",
-        "pmid": "43068545",
-        "translation": null,
-        "article_type": "Journal Article",
-        "abstract": "The decomplexation of heavy-metal complexes by advanced oxidation processes (AOPs) remains challenging due to stable metal-ligand coordination and energy-intensive operation. The ligand-to-metal charge transfer (LMCT) pathway is promising but remains constrained by stringent triggering conditions, such as strong alkalinity or UV irradiation. In real wastewater, heavy metals rarely exist alone; Co, Cu, Ni, and other metals coexist, creating both a challenge and an overlooked resource. Herein, using NTA-Ni as a model pollutant, we demonstrate that these coexisting metals can be exploited as in-situ co-catalysts, transforming metal pollutants from passive targets into active catalytic regulators. Trace Co(II) (10 μM) markedly enhances PMS activation, enabling a self-catalytic Co/Ni bimetallic-center strategy that achieves near-complete NTA-Ni decomplexation (98.9%) within 10 min at mild pH using only 1.0 mM PMS, a sixfold reduction in oxidant dosage relative to conventional AOPs. Mechanistic studies reveal that Ni/Co coupling reorganizes the coordination environment and accelerates interfacial electron transfer, redirecting PMS activation from a Ni‑centered to a thermodynamically favored Co‑centered pathway. This shift generates Co(IV)-dominated intermediates and promotes Ni(III) accumulation, which together trigger sulfate‑assisted coordination‑sphere reconstruction and destabilize the NTA-Ni framework. The strategy is effective for multiple complexed heavy metals, including Ni, Cu, Pb, Mn, and Cd, and remains robust in natural water matrices and real electroplating wastewaters, achieving >94% decomplexation efficiency and stable continuous-flow treatment. This work presents a cost-effective self-catalytic route that converts coexisting heavy metals into functional catalytic participants, offering a resource-utilization paradigm for complex industrial wastewater treatment."
-      },
-      {
-        "title": "Dynamic interfacial charge buffering in single-atom nano-islands: breaking the activity-stability trade-off in catalytic ozonation.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43068546/",
-        "pub_date": null,
-        "authors": [
-          "Zhou X",
-          "Feng C",
-          "Chen T",
-          "Yan N",
-          "Zhang J",
-          "Liang Z",
-          "Yin C",
-          "Huang X",
-          "Zhang X"
-        ],
-        "doi": "10.1016/j.watres.2026.127315",
-        "journal": "Water Research",
-        "source": "pubmed",
-        "pmid": "43068546",
-        "translation": null,
-        "article_type": "Journal Article",
-        "abstract": "Heterogeneous catalytic ozonation is a promising process for removing refractory organic contaminants from wastewater. However, achieving high catalytic activity while maintaining stable performance under complex aqueous conditions remains a critical challenge. Here, we develop a Mn single-atom nano-island catalyst featuring dynamic interfacial charge buffering to overcome the activity-stability trade-off in water purification. The nano-island catalyst based on the CeO2 substrate (MnSA/FLP-CeO2) achieved efficient and robust removal of diverse organic contaminants in multiple water matrices, including secondary effluent of pharmaceutical wastewater. It exhibited markedly enhanced catalytic performance, with a 3.8-fold enhancement in normalized reaction kinetics compared with conventional CeO2, while maintaining stable contaminant removal over a broad pH from 3 to 11 with minimal Mn leaching. Mechanism investigations revealed that the small CeO2 nanoparticle islands stabilize atomically dispersed Mn sites and create asymmetric interfacial Mn-O-Ce sites, where Mn 3d-O 2p-Ce 4f orbital coupling facilitates interfacial charge redistribution and promotes the formation of critical intermediates *OO to generate ·OH. Meanwhile, the hydroxyl-rich bulk CeO2 sea buffers proton fluctuations to stabilize the local reaction microenvironment. Consequently, this nano-island catalyst occupied a previously unattained region of activity (mass activity) versus stability (pH robustness) among reported metal oxide and single-atom catalysts. This work provides a promising strategy for designing highly active and durable catalysts for sustainable water purification."
-      },
-      {
-        "title": "Divergent time-lagged effects of aquatic vegetation types on organic pollution: 25 years of satellite-based retrieval in a large shallow lake.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43068548/",
-        "pub_date": null,
-        "authors": [
-          "Cai C",
-          "Pang W",
-          "Bai C",
-          "Sun W",
-          "Wang Z",
-          "Kong Q",
-          "Zhang J",
-          "Zhang H"
-        ],
-        "doi": "10.1016/j.watres.2026.127327",
-        "journal": "Water Research",
-        "source": "pubmed",
-        "pmid": "43068548",
-        "translation": null,
-        "article_type": "Journal Article",
-        "abstract": "Organic pollution poses a persistent threat to large shallow lakes. Its responses to ecological restoration are often temporally delayed rather than instantaneous, which can obscure the timing of restoration effects and reduce the reliability of short-term assessments. Aquatic vegetation and algal blooms (AB) play important roles in organic pollution dynamics, but different aquatic components, such as floating and emergent aquatic vegetation (FEAV), submerged aquatic vegetation (SAV) and AB, exert distinct time-lagged correlations with chemical oxygen demand (COD) due to differences in biomass turnover and environmental conditions. However, the lag times, driving mechanisms, and predictive relevance of these component-specific effects remain poorly quantified. Here, we reconstructed half-yearly spatial datasets of four aquatic components (FEAV, SAV, AB, open water (OW)) and COD in Nansi Lake from 2000 to 2024, using 437 Landsat images, 35,798 COD monitoring records, field samples, UAV imagery, and multi-source environmental factors. Pixel-scale cross-correlation analysis was used to identify lagged effects of aquatic components on COD. Distinct aquatic components showed divergent lag structures. AB and OW were dominated by rapid responses of 0-0.5 years, FEAV showed intermediate lags of 1-1.5 years, and SAV exhibited longer lags of 2-2.5 years. These dominant lags represent the time offsets at which the correlations between component changes and COD are strongest, characterizing long-term temporal associations and highlighting the importance of accounting for antecedent aquatic conditions. These lagged relationships varied across sub-lakes, offshore gradients, and environmental backgrounds. SAV lags were mainly constrained by topographic and thermal conditions, whereas FEAV lags were more closely linked to water-surface fluctuations, vegetation-algal interactions, atmospheric disturbances, and local topographic conditions. To validate the ecological realism of these identified delays, the lag features were integrated into predictive models for COD retrieval. Incorporating these vegetation-leading lag features substantially improved COD prediction performance, with R² increasing from 0.35 to 0.51 and concordance correlation coefficient (CCC) increasing from 0.56 to 0.68, while RMSE and MAE decreased from 0.71 and 0.54 mg/L to 0.61 and 0.47 mg/L, respectively. These findings demonstrate that time-lagged associations between aquatic components and COD are ecologically meaningful and can improve the detection of delayed restoration signals, supporting more robust long-term organic pollution mitigation and adaptive management in large shallow lakes."
+        "article_type": null,
+        "abstract": "We present our 18th horizon scan of issues that may impact global biodiversity conservation in the next decade. Issues are either novel (largely unknown) or represent a substantial step-change in impact. The initial list of 96 issues was scored by 28 scientists, practitioners, and policymakers. The 35 highest-ranked issues were discussed at a workshop and then rescored to identify the 15 top-ranked issues. Activities in space feature prominently this year with mirrors that could affect nocturnal wildlife and interrupted satellite data affecting global environmental monitoring. We highlight an increase in data manipulation for financial gain and a disconnect between temperature increases at the sea surface and the seafloor. Raising awareness of these issues could provide early opportunities to mitigate foreseeable impacts on biodiversity conservation."
       }
     ],
     "Nature Communications": [
@@ -703,98 +1190,544 @@
         "abstract": "Nature Communications, Published online: 23 November 2026; doi:10.1038/s41467-026-79932-5Based on net primary productivity, the 8,137 parks across mainland China sequestered 52.7 Mt C in 2020. Within the 5,425 urban parks, large ones (>100 hectares) contributed over 90%, while 10-50 hectares ones drove the shift from carbon sources to sinks."
       }
     ],
-    "Molecular Ecology": [
+    "Current Biology": [
       {
-        "title": "Molecular Plasticity Contributes to Thermal Resilience in Two Coastal Fish Species",
-        "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70670?af=R",
+        "title": "A gut-brain axis for aversive interoception drives innate and anticipatory emesis in Drosophila",
+        "link": "https://www.cell.com/current-biology/fulltext/S0960-9822(26)01527-7?rss=yes",
         "pub_date": "2026-11-23",
         "authors": [
-          "Breana M. Riordan, Ludovic Dutoit, Tania M. King, Luciano B. Beheregaray, Neil J. Gemmell, Anthony J. R. Hickey, Sheri L. Johnson"
+          "Rashmi Karunakaran, Prerana Choudhary, Neena Baburaj, Arjit Kant Gupta, Meghna Sawant, Zeyu Chang, Nitin Gupta, Meet Zandawala, Gaurav Das"
         ],
-        "doi": "10.1111/mec.70670",
-        "journal": "Molecular Ecology",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": "Original Article",
-        "abstract": "Molecular Ecology, Volume 35, Issue 22, November 2026."
-      }
-    ],
-    "Biogeosciences": [
-      {
-        "title": "Unveiling carbonate dissolution in coastal sediments and its influence on seawater buffering capacity with δ13CDIC and 224Ra–228Th disequilibria",
-        "link": "https://doi.org/10.5194/bg-23-8559-2026",
-        "pub_date": "2026-11-23",
-        "authors": [],
         "doi": null,
-        "journal": "Biogeosciences",
+        "journal": "Current Biology",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Unveiling carbonate dissolution in coastal sediments and its influence on seawater buffering capacity with δ13CDIC and 224Ra–228Th disequilibria Xinjie Ma, Xiangming Shi, Yingxu Wu, Xiangqi Yi, Biqi Zheng, and Di Qi Biogeosciences, 23, 8559–8575, https://doi.org/10.5194/bg-23-8559-2026, 2026 We studied a coastal maricultural bay to reveal the role of sediment CaCO3 dissolution in benthic DIC effluxes and acidification mitigation. In combination of the applications of radioisotopes and stable carbon isotope, we addressed the mechanism that benthic disturbance lowered CaCO3 dissolution. Our study challenges the idea that organic degradation dominates sediment DIC production and presents the processes regulating the sediment CaCO3 dissolution."
-      }
-    ],
-    "Nature Food": [
-      {
-        "title": "Biodiversity footprints of food consumption decouple from economic growth at high income levels",
-        "link": "https://www.nature.com/articles/s43016-026-01465-3",
-        "pub_date": "2026-11-23",
-        "authors": [
-          "Hanzhong Zheng",
-          "Koen J. J. Kuipers",
-          "Selwyn Hoeks",
-          "Sarah Sim",
-          "Mark A. J. Huijbregts"
-        ],
-        "doi": "10.1038/s43016-026-01465-3",
-        "journal": "Nature Food",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Food, Published online: 23 November 2026; doi:10.1038/s43016-026-01465-3An analysis of 158 countries over 25 years shows that biodiversity footprints of food consumption are more likely to decouple from economic growth at higher income levels, with stronger decoupling for plant-based foods than for animal-based foods, especially ruminant meat."
+        "abstract": "Karunakaran et al. identify an aversive gut-brain axis in Drosophila, comprising gut sensory channels, neuropeptides, and a central brain network of serotonergic, dopaminergic, and mushroom body neurons. This axis detects toxin-induced gut distress and drives innate and learned anticipatory emesis. Such an interoceptive axis could influence feeding, metabolism, and neurodegeneration."
       },
       {
-        "title": "El Niño amplified food insecurity in early modern Europe from 1500 to 1800",
-        "link": "https://www.nature.com/articles/s43016-026-01460-8",
+        "title": "Goal-dependent gain modulation drives thermosensory behavioral responses in C. elegans",
+        "link": "https://www.cell.com/current-biology/fulltext/S0960-9822(26)01525-3?rss=yes",
         "pub_date": "2026-11-23",
         "authors": [
-          "Emile Esmaili",
-          "Michael J. Puma",
-          "Francis Ludlow",
-          "Eva Jobbová",
-          "Janavi Kumar",
-          "Poul Holm",
-          "Fredrik Charpentier Ljungqvist",
-          "John Alphonsus Matthews",
-          "Johannes Rom Dahl",
-          "Andrea Seim"
+          "Malcom Díaz García, Sandeep Kumar, Jonathan Beagan, Ernesto Cabezas-Bou, Matthew J. Thomas, Lin Shao, Xingyang Fu, Andrea Cuentas-Condori, Jacqueline R. McVay, Josh D. Hawk, Andrew Lauziere, William Mohler, Hari Shroff, Damon Clark, Daniel A. Colón-Ramos"
         ],
-        "doi": "10.1038/s43016-026-01460-8",
-        "journal": "Nature Food",
+        "doi": null,
+        "journal": "Current Biology",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Nature Food, Published online: 23 November 2026; doi:10.1038/s43016-026-01460-8The El Niño/Southern Oscillation is a dominant source of global interannual climate variability, yet its influence on historical food security in Europe remains underexplored. Drawing on a dataset of 160 European famine episodes, this study shows the association between El Niño events and the onset and duration of famine episodes."
+        "abstract": "Díaz García and Kumar et al. show that the C. elegans thermosensory neuron AFD integrates recent temperature changes while learned goal-dependent gain amplifies responses near the animal’s preferred temperature, enabling a derivative-based sensory code to represent a learned goal and support thermotactic navigation."
+      },
+      {
+        "title": "Rapid diversification of neural cell types during evolution",
+        "link": "https://www.cell.com/current-biology/fulltext/S0960-9822(26)01472-7?rss=yes",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Jenks Hehmeyer, Daria Harris, Christopher J. Lowe, Heather Marlow"
+        ],
+        "doi": null,
+        "journal": "Current Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "By generating a full body cell atlas of the acorn worm and carrying out cross-phyla comparisons, Hehmeyer et al. find that animal neurons evolve rapidly by gene reshuffling. All bilaterian nervous systems have a common lexicon of homeodomain transcription factors and pan-neuronal genes associated with neuron cell identity."
+      },
+      {
+        "title": "Source population identity predicts success better than environmental matching in stickleback introductions",
+        "link": "https://www.cell.com/current-biology/fulltext/S0960-9822(26)01470-3?rss=yes",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Lucas Eckert, Daniel I. Bolnick, Alison M. Derry, Grant E. Haines, Alexis M. Heckley, Åsa J. Lind, Catherine L. Peichel, Allison M. Roth, Natalie C. Steinel, Kristen Vlahiotis, Jesse N. Weber, Andrew P. Hendry, Rowan D.H. Barrett"
+        ],
+        "doi": null,
+        "journal": "Current Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Eckert et al. introduce >12,000 threespine stickleback from multiple source populations into nine lakes with divergent environmental conditions. The relative success of each source population is largely consistent across lakes, suggesting that stable differences among populations, rather than environmental matching, predict which sources succeed."
+      },
+      {
+        "title": "Prelimbic neurons represent diverse danger-modulated behaviors and veridical threat probability structure",
+        "link": "https://www.cell.com/current-biology/fulltext/S0960-9822(26)01456-9?rss=yes",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Mahsa Moaddab, Tatum S. Lee, Claire O. Bolarinwa, Aleah M. DuBois, Portia I. Hartono, Michael A. McDannald"
+        ],
+        "doi": null,
+        "journal": "Current Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Moaddab et al. record prelimbic neurons in rats discriminating danger, uncertainty, and safety cues. Prelimbic firing reflects diverse danger-modulated behaviors beyond freezing, tunes to each cue’s veridical shock probability, and is inhibited by predicted shock, revealing an internal representation of environmental threat structure."
       }
     ],
-    "Nature Ecology & Evolution": [
+    "Nature Biotechnology": [
       {
-        "title": "Spongolivella ellipsoides",
-        "link": "https://www.nature.com/articles/s41559-026-03243-7",
+        "title": "A unified framework for scalable differential testing for spatial omics",
+        "link": "https://www.nature.com/articles/s41587-026-03284-0",
         "pub_date": "2026-11-23",
         "authors": [
-          "Sophie Westacott"
+          "Kaishu Mason",
+          "Yijia Jiang",
+          "Konstantin A. Klötzer",
+          "Sijia Huang",
+          "Nancy R. Zhang"
         ],
-        "doi": "10.1038/s41559-026-03243-7",
-        "journal": "Nature Ecology & Evolution",
+        "doi": "10.1038/s41587-026-03284-0",
+        "journal": "Nature Biotechnology",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Nature Ecology & Evolution, Published online: 23 November 2026; doi:10.1038/s41559-026-03243-7Sophie Westacott was not looking for this species of radiolarian, but it was the one she found."
+        "abstract": "Nature Biotechnology, Published online: 23 November 2026; doi:10.1038/s41587-026-03284-0A scalable framework enables cell-type-resolved analysis of spatial omics data."
+      }
+    ],
+    "Journal of Virology": [
+      {
+        "title": "Neuraminidase-based cross-protective immunity against H5N1 influenza viruses in humans.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070703/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Sanz-Muñoz I",
+          "Ciria-Gil CJ",
+          "Martín-Toribio A",
+          "Toquero-Asensio M",
+          "Sánchez-Martínez J",
+          "Rodríguez-Crespo C",
+          "Hernández M",
+          "Barragan-Martin I",
+          "Landeras-Bueno S",
+          "Eiros JM",
+          "Elsayed AM",
+          "Martinez-Sobrido L",
+          "Nogales A"
+        ],
+        "doi": "10.1128/jvi.00929-26",
+        "journal": "Journal of Virology",
+        "source": "pubmed",
+        "pmid": "43070703",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Highly pathogenic avian influenza A(H5N1) virus continues to expand globally across wild birds, poultry, and mammalian hosts, and the detection of genetic features associated with mammalian adaptation underscores the need to define pre-existing human immunity relevant to pandemic preparedness. Although serologic and vaccine studies have historically emphasized hemagglutinin (HA); neuraminidase (NA) is a key antigen capable of providing protective immunity. Here, we performed a retrospective analysis of NA-specific antibodies in human sera collected across 10 influenza seasons spanning the pre- and post-2009 pandemic periods. A total of 749 paired serum samples (1,498 total) were obtained prior to seasonal inactivated influenza vaccination (T1) and 28 days after vaccination (T2). NA-inhibiting antibodies were measured by enzyme-linked lectin assay using N1 antigens representing three genotypes (B.3.13, D1.1, and EA-2021-AB) from clade 2.3.4.4b A(H5N1) viruses. HA responses were assessed by hemagglutination inhibition (HAI), and neutralizing antibodies by luciferase-based microneutralization. NA-inhibiting antibodies were detectable against all three genotypes across seasons, with measurable cross-reactive activity present in a substantial proportion of individuals before vaccination. Vaccination modestly increased NA-inhibiting titers, particularly after 2009-2010 following the introduction of A(H1N1)pdm09 into vaccine formulations. The highest responses occurred during post-pandemic seasons, suggesting enhanced cross-reactivity against H5N1 clade 2.3.4.4b viruses. In contrast, HAI activity against H5 was generally low or undetectable, despite detectable HA-reactive antibodies by enzyme-linked immunosorbent assay. These data indicate that cross-reactive NA-specific antibodies are present in human sera and can be boosted by seasonal vaccination, supporting increased consideration of NA in influenza serosurveillance and vaccine evaluation.IMPORTANCEThe continued spread of A(H5N1) viruses and reports of mammalian adaptation markers heighten concerns about potential zoonotic transmission into humans. Most studies of human antibody responses focus on influenza HA, but NA is also an important immune target. By analyzing paired sera from humans collected over 10 influenza seasons, we show that NA-inhibiting antibodies cross-reacting with multiple contemporary genotypes from clade 2.3.4.4b A(H5N1) viruses are detectable and can be modestly but consistently boosted by seasonal inactivated influenza vaccination, particularly after the 2009 pandemic. The increase in cross-reactive NA responses observed during post-pandemic seasons suggests that A(H1N1)pdm09 exposure may have enhanced immunity recognizing contemporary H5N1 viruses. These findings highlight the importance of inducing NA-specific antibodies during influenza vaccination and of including NA in surveillance and in the assessment of vaccines intended to improve preparedness for emerging influenza viruses."
+      },
+      {
+        "title": "Structural and biochemical insights into infectious bronchitis virus endoribonuclease Nsp15.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070691/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Daquilanea EJ",
+          "Graf AE",
+          "Khan AM",
+          "Sharma K",
+          "Dutcher R",
+          "Stanley RE",
+          "Borgnia MJ",
+          "Frazier MN"
+        ],
+        "doi": "10.1128/jvi.01600-26",
+        "journal": "Journal of Virology",
+        "source": "pubmed",
+        "pmid": "43070691",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "RNA viruses are not only a human health concern but also an economic concern due to animal infections in major industries. Nsp15, a uridine-specific endoribonuclease conserved across vertebrate nidoviruses, processes viral RNA to evade detection by the host immune system. While the enzymatic function is conserved, the oligomeric state necessary for activity does not appear to be strictly conserved across nidoviruses. How oligomerization affects Nsp15 RNA recognition and processing remains understudied. Here, we report the first cryogenic electron microscopy (Cryo-EM) structure of a γ-coronavirus Nsp15, using infectious bronchitis virus (IBV), a major poultry pathogen, as a model γ-coronavirus. The structure was determined at 2.4 Å resolution and reveals that IBV Nsp15 adopts the characteristic hexameric architecture observed in α- and β-coronavirus Nsp15, including HCoV-229E, SARS-CoV-2, SARS-CoV, MERS-CoV, and MHV. To investigate IBV Nsp15 substrate specificity, we performed endoribonuclease assays using diverse RNA substrates. Despite the high degree of conserved structure, we used Förster resonance energy transfer (FRET) to show that IBV Nsp15 exhibits distinct substrate preferences for the nucleotide adjacent to the cleavage site, though this preference does appear to be context-dependent when using more complicated substrates. We also demonstrate that, while not essential for catalysis, divalent metal ions enhance endoribonuclease activity. Collectively, these findings establish the structural and functional framework for γ-coronavirus Nsp15 activity, uncover differences in RNA substrate specificity, and highlight conserved and divergent features of Nsp15 across different nidoviruses that could be utilized for the development of new antiviral targets.IMPORTANCEInfectious bronchitis virus (IBV), a γ-coronavirus, is a major poultry pathogen that encodes an endoribonuclease conserved across coronaviruses. While its enzymatic function is conserved, assembly differs across the viral family. Structural studies revealed that the IBV endoribonuclease assembles into a hexameric structure much like other coronaviruses, yet Förster resonance energy transfer assays demonstrated a sequence preference for the nucleotide 5' to the cleaved base that has not been observed with previous homologs. Additionally, we found that metal ions can boost endoribonuclease activity but are not strictly required. These findings establish a structural and biochemical framework of the IBV endoribonuclease and expand our knowledge of the enzyme across coronaviruses."
+      },
+      {
+        "title": "CMV-driven IFNγ-mediated sensitization of AML cells renders them preferentially susceptible to NKG2C(pos) NK cell killing.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070690/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Moskorz W",
+          "Cadeddu RP",
+          "Uhrberg M",
+          "Walker A",
+          "Jäger PS",
+          "Yigzaw WE",
+          "Grutza R",
+          "Grothmann R",
+          "Trilling M",
+          "Dietrich S",
+          "Cosmovici C",
+          "Haas R",
+          "Timm J"
+        ],
+        "doi": "10.1128/jvi.00629-26",
+        "journal": "Journal of Virology",
+        "source": "pubmed",
+        "pmid": "43070690",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Human cytomegalovirus (CMV) infection represents a significant risk factor for transplant recipients, including patients undergoing hematopoietic stem cell transplantation (HSCT). Interestingly, several studies have reported an association between early CMV reactivation and a reduced risk of leukemia relapse, particularly in acute myeloid leukemia (AML). Given that CMV profoundly shapes the natural killer (NK) cell compartment, a contribution of CMV-primed NK cells to this effect has been proposed. To explore this mechanism, we analyzed the relationship between NK cell functionality and CMV reactivation in the context of AML. Consistent with the observations in peripheral blood, CMV-seropositive HSCT recipients displayed expanded NKG2Cpos NK cell populations within the bone marrow, characterized by high Granzyme B expression. CMV replication was associated with elevated plasma IFNγ levels, which in vitro rendered AML cells more susceptible to apoptosis when co-cultured with peripheral blood mononuclear cells. Importantly, IFNγ treatment modulated NK cell responses by inducing a variety of NK cell ligands, including HLA-E on primary bone marrow-derived blasts, and AML cell lines. In line with this, the activation of CMV-associated NKG2Cpos NK cells was enhanced upon stimulation with IFNγ-pretreated AML cells. In summary, our findings demonstrate that CMV replication induces a transient increase in IFNγ levels that influences both AML and NK cells, ultimately enhancing AML cell susceptibility to NK cell-mediated cytotoxicity, thereby suggesting a role for the NKG2C-HLA-E axis.IMPORTANCEPrevious studies suggested that CMV reactivation after HSCT may reduce leukemia relapse in AML patients, but the underlying mechanism remains unclear. Here, we show that CMV replication induces IFNγ release, which sensitizes AML cells to NK cell-mediated killing. This effect involves upregulation of HLA-E on AML cells and activation of expanded NKG2Cpos NK cells within the bone marrow. Our findings uncover a novel IFNγ-dependent link between CMV replication and enhanced NK cell cytotoxicity in AML, suggesting that combining IFNγ treatment with NK cell-based immunotherapy or NKG2A blockade could reduce post-HSCT relapse, even in CMV-negative patients."
+      }
+    ],
+    "Communications Biology": [
+      {
+        "title": "Neural representation of tactile and visual words in the ventral occipitotemporal cortex",
+        "link": "https://www.nature.com/articles/s42003-026-11321-6",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Zhenglong Lin",
+          "Yufei Tan",
+          "Canhuang Luo",
+          "Jiajia Yang",
+          "Geqi Qi",
+          "Hiroaki Shigemasu",
+          "Kiyoshi Nakahara",
+          "Hiroshi Kadota",
+          "Jinglong Wu",
+          "Min Xu"
+        ],
+        "doi": "10.1038/s42003-026-11321-6",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 23 November 2026; doi:10.1038/s42003-026-11321-6Neural representation of tactile and visual words in the ventral occipitotemporal cortex"
+      },
+      {
+        "title": "Mechanistic insights into gating dynamics of the ionotropic glutamate delta receptor GluD1",
+        "link": "https://www.nature.com/articles/s42003-026-11371-w",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Zonglin Dai",
+          "Guifang Duan",
+          "Minglu Zhu",
+          "Ao Yang",
+          "Marco C. Miotto",
+          "Hui Shan",
+          "Ling Liang",
+          "Yue Yin",
+          "Guangxi Wang",
+          "Yuxin Yin"
+        ],
+        "doi": "10.1038/s42003-026-11371-w",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 23 November 2026; doi:10.1038/s42003-026-11371-wMechanistic insights into gating dynamics of the ionotropic glutamate delta receptor GluD1"
+      },
+      {
+        "title": "The significance of inflammasome-associated cytokines IL-1β and IL-18 in gastric and pancreatic cancers",
+        "link": "https://www.nature.com/articles/s42003-026-11416-0",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Yu C. J. Chey",
+          "Brendan J. Jenkins",
+          "Ruby E. Dawson"
+        ],
+        "doi": "10.1038/s42003-026-11416-0",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 23 November 2026; doi:10.1038/s42003-026-11416-0The significance of inflammasome-associated cytokines IL-1β and IL-18 in gastric and pancreatic cancers"
+      },
+      {
+        "title": "LPAGVgat neurons promote REM sleep and ameliorate chronic stress-induced sleep deficits in mice",
+        "link": "https://www.nature.com/articles/s42003-026-11456-6",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Qizhou Ke",
+          "Wanqi Ding",
+          "Yangqiao Xiao",
+          "Wenjie Meng",
+          "Hong Yu"
+        ],
+        "doi": "10.1038/s42003-026-11456-6",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 23 November 2026; doi:10.1038/s42003-026-11456-6LPAGVgat neurons promote REM sleep and ameliorate chronic stress-induced sleep deficits in mice"
+      },
+      {
+        "title": "Spatial logic of transcriptional activation by a methylation-binding synthetic effector on circular DNA",
+        "link": "https://www.nature.com/articles/s42003-026-11407-1",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Lauryn Piggatt",
+          "Zanir Hirani",
+          "Isioma Enwerem-Lackland",
+          "Leila Mwangi",
+          "Eric Warga",
+          "Margaret Dugoni",
+          "Jacob Elmer",
+          "Karmella A. Haynes"
+        ],
+        "doi": "10.1038/s42003-026-11407-1",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 23 November 2026; doi:10.1038/s42003-026-11407-1Spatial logic of transcriptional activation by a methylation-binding synthetic effector on circular DNA"
+      },
+      {
+        "title": "Strain-resolved HiFi assemblies reveal seep microbiome adaptive divergence and interactions with viruses",
+        "link": "https://www.nature.com/articles/s42003-026-11347-w",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Hai-Li Ran",
+          "Ming Yang",
+          "Zhi-Heng Zhou",
+          "Ji-Wei Li",
+          "Pei-Yuan Qian",
+          "Zhaoming Gao"
+        ],
+        "doi": "10.1038/s42003-026-11347-w",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 23 November 2026; doi:10.1038/s42003-026-11347-wStrain-resolved HiFi assemblies reveal seep microbiome adaptive divergence and interactions with viruses"
+      },
+      {
+        "title": "Enhanced viral facilitated microbial host adaptability in deep-sea seamount sediments",
+        "link": "https://www.nature.com/articles/s42003-026-11405-3",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Qian Wen",
+          "Shuaishuai Xu",
+          "Yuanhao Liu",
+          "Boyong Jiang",
+          "Yi Liu",
+          "Songze Chen",
+          "Zhiyuan Ding",
+          "Jun Wang",
+          "Zhaojun Fan",
+          "Yingying Ge",
+          "Shu Shen",
+          "Shengwei Hou",
+          "Fei Deng"
+        ],
+        "doi": "10.1038/s42003-026-11405-3",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 23 November 2026; doi:10.1038/s42003-026-11405-3Enhanced viral facilitated microbial host adaptability in deep-sea seamount sediments"
+      },
+      {
+        "title": "Molecular mechanisms of USP7 and MAGEL2 complex assembly",
+        "link": "https://www.nature.com/articles/s42003-026-11332-3",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Emilie J. Korchak",
+          "Gabriella A. Soriano",
+          "Irina V. Semenova",
+          "Yunfeng Li",
+          "Denis Štepihar",
+          "Tara Bayat",
+          "Bing Hao",
+          "Klementina Fon Tacer",
+          "Irina Bezsonova"
+        ],
+        "doi": "10.1038/s42003-026-11332-3",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 23 November 2026; doi:10.1038/s42003-026-11332-3Molecular mechanisms of USP7 and MAGEL2 complex assembly"
+      },
+      {
+        "title": "Understanding inflammatory mechanisms and skeletal remodeling in rheumatoid arthritis-associated bone loss",
+        "link": "https://www.nature.com/articles/s42003-026-11472-6",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Chan Mi Kang",
+          "Yeong-Chan Cho",
+          "Jung-Min Kim"
+        ],
+        "doi": "10.1038/s42003-026-11472-6",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 23 November 2026; doi:10.1038/s42003-026-11472-6Understanding inflammatory mechanisms and skeletal remodeling in rheumatoid arthritis-associated bone loss"
+      }
+    ],
+    "The Innovation": [
+      {
+        "title": "AlphaCoast Foundations: A Unified Representation Framework for Coastal Observation",
+        "link": "https://www.cell.com/the-innovation/fulltext/S2666-6758(26)00398-X?rss=yes",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Fengqin Yan, Fenzhen Su"
+        ],
+        "doi": null,
+        "journal": "The Innovation",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": null
+      },
+      {
+        "title": "Public conditions for AI-enabled microenterprise growth",
+        "link": "https://www.cell.com/the-innovation/fulltext/S2666-6758(26)00396-6?rss=yes",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Jifei Zhang"
+        ],
+        "doi": null,
+        "journal": "The Innovation",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": null
+      },
+      {
+        "title": "Defining safe and just boundaries for the Third Pole Region",
+        "link": "https://www.cell.com/the-innovation/fulltext/S2666-6758(26)00395-4?rss=yes",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Bo Su, Cunde Xiao, Lan Wang-Erlandsson, Albert V. Norström, Zhihan Zheng, Haipeng Feng, Hao Cui, Ziqian Zhong, Huike Dong, Xiaoye Yang, Wendy Broadgate, Johan Rockström, Tandong Yao, Deliang Chen"
+        ],
+        "doi": null,
+        "journal": "The Innovation",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": null
+      }
+    ],
+    "Water Research": [
+      {
+        "title": "Reactive nitrogen intermediate regulation couples sulfur-driven denitrification with antibiotic transformation.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43068544/",
+        "pub_date": null,
+        "authors": [
+          "Zhang J",
+          "Dong C",
+          "Cui S",
+          "Zhang L",
+          "Wang Y",
+          "Cheng D",
+          "Ren C",
+          "Cao X",
+          "Zhou G",
+          "Jiang F",
+          "Liu H"
+        ],
+        "doi": "10.1016/j.watres.2026.127377",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43068544",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "The widespread presence of antibiotics in aquatic environments underscores a persistent challenge for conventional wastewater treatment systems, which are primarily designed to remove nutrients and readily biodegradable organic matter. Free nitrous acid (FNA), a transient reactive nitrogen intermediate capable of transforming antibiotics, remains difficult to regulate under engineered conditions. Here, we demonstrate that sulfur-driven autotrophic denitrification (SAD) provides a biological route to regulate FNA concentration through the coupled effects of microbial nitrite accumulation and sulfur oxidation-associated acidification. Functional differentiation in nitrate and nitrite reduction pathways among sulfur-autotrophic denitrifiers was associated with distinct nitrite accumulation and FNA dynamics. Sulfamethoxazole (SMX) transformation kinetics were strongly correlated with FNA concentrations across contrasting microbial, pH, and oxygen conditions. Time-resolved transformation products revealed sequential SMX conversion, and theoretical calculations supported the relative energetic favorability of the proposed FNA-induced transformation routes. 13C tracing provided direct evidence for partial mineralization of SMX-derived carbon. FNA-mediated transformation extended to structurally distinct antibiotics, including sulfonamides, fluoroquinolones, and tetracyclines. During 270 days of operation in S0-based treatment wetlands receiving nitrified effluent from a recirculating aquaculture system, the enrichment of sulfur-autotrophic denitrifiers was associated with increased FNA concentrations and enhanced SMX attenuation while maintaining stable nitrate removal. Mild pH regulation from 7.5 to 6.5 further increased FNA levels and more than doubled SMX removal without compromising nitrate removal. These findings establish SAD as a biological route for regulating reactive nitrogen intermediates, linking nitrogen cycling with antibiotic transformation and extending the functional scope of autotrophic denitrification beyond nutrient removal."
+      },
+      {
+        "title": "Intensity-dependent reversal of magnetic field effects on biofilm-associated fouling in reclaimed water distribution systems.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43068547/",
+        "pub_date": null,
+        "authors": [
+          "Liu Z",
+          "Xiao Y",
+          "Chen L",
+          "Tao H",
+          "Wu J",
+          "Li Y",
+          "Wei S",
+          "Tao R",
+          "Liu J",
+          "Yu R",
+          "Li Y"
+        ],
+        "doi": "10.1016/j.watres.2026.127358",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43068547",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Magnetic field (MF) treatment has been proposed as a non-chemical strategy for fouling control in reclaimed-water distribution systems, yet previous studies have reported inconsistent outcomes. Whether these contrasting effects arise from differences in field intensity remains unclear. Here, pilot-scale reclaimed-water distribution systems were operated for 800 h under six MF intensities (0, 10, 30, 100, 300, and 600 mT) to determine how field intensity regulates fouling accumulation and biofilm development. Fouling responses reversed across the intensity gradient. Compared with the untreated control, 10 and 30 mT increased total fouling accumulation by 12.1-13.4% and 24.2-26.7%, respectively, whereas 100, 300, and 600 mT reduced it by 4.5-6.1%, 26.8-27.3%, and 41.9-42.5%, respectively. These changes were accompanied by intensity-dependent microbial physiological responses. Lower-intensity MFs (10-30 mT) induced a moderate increase in ROS-associated fluorescence together with enhanced antioxidant responses, and were associated with sustained cellular activity, greater EPS production, and denser biofilm-associated deposits. Higher-intensity MFs (100-600 mT) produced a much greater ROS-associated fluorescence signal, accompanied by impaired antioxidant defenses, intensified lipid peroxidation, reduced cellular activity, lower EPS production, and more fragmented fouling structures. Metatranscriptomic analysis further revealed clear functional differentiation in fouling communities, with lower-intensity MFs enriching pathways related to colonization, quorum sensing, carbon metabolism, ABC transport, antioxidant defense, and EPS-associated secretion, whereas higher-intensity MFs were associated with stress-related colonization responses, oxidative-stress-associated energy metabolism, and altered EPS/transport-associated functions. Overall, the results support an intensity-dependent reversal in the magnetic-field response within the tested range, with lower-intensity treatments associated with adaptive antioxidant regulation and higher-intensity treatments associated with oxidative damage. These findings help explain the inconsistent effects previously reported for MF treatment and highlight the importance of field-intensity optimization for reliable fouling control in reclaimed-water distribution systems."
+      },
+      {
+        "title": "In-situ conversion of pollutants into catalysts: revealing high-valent bimetallic synergy for self-catalytic decomplexation of heavy-metal complexes.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43068545/",
+        "pub_date": null,
+        "authors": [
+          "Yang Y",
+          "Hou Z",
+          "Ma Z",
+          "Liu Y",
+          "Yang X",
+          "Li M",
+          "Cao T",
+          "Tian L",
+          "Wang M",
+          "Song Y",
+          "Zhang Q"
+        ],
+        "doi": "10.1016/j.watres.2026.127348",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43068545",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "The decomplexation of heavy-metal complexes by advanced oxidation processes (AOPs) remains challenging due to stable metal-ligand coordination and energy-intensive operation. The ligand-to-metal charge transfer (LMCT) pathway is promising but remains constrained by stringent triggering conditions, such as strong alkalinity or UV irradiation. In real wastewater, heavy metals rarely exist alone; Co, Cu, Ni, and other metals coexist, creating both a challenge and an overlooked resource. Herein, using NTA-Ni as a model pollutant, we demonstrate that these coexisting metals can be exploited as in-situ co-catalysts, transforming metal pollutants from passive targets into active catalytic regulators. Trace Co(II) (10 μM) markedly enhances PMS activation, enabling a self-catalytic Co/Ni bimetallic-center strategy that achieves near-complete NTA-Ni decomplexation (98.9%) within 10 min at mild pH using only 1.0 mM PMS, a sixfold reduction in oxidant dosage relative to conventional AOPs. Mechanistic studies reveal that Ni/Co coupling reorganizes the coordination environment and accelerates interfacial electron transfer, redirecting PMS activation from a Ni‑centered to a thermodynamically favored Co‑centered pathway. This shift generates Co(IV)-dominated intermediates and promotes Ni(III) accumulation, which together trigger sulfate‑assisted coordination‑sphere reconstruction and destabilize the NTA-Ni framework. The strategy is effective for multiple complexed heavy metals, including Ni, Cu, Pb, Mn, and Cd, and remains robust in natural water matrices and real electroplating wastewaters, achieving >94% decomplexation efficiency and stable continuous-flow treatment. This work presents a cost-effective self-catalytic route that converts coexisting heavy metals into functional catalytic participants, offering a resource-utilization paradigm for complex industrial wastewater treatment."
+      },
+      {
+        "title": "Dynamic interfacial charge buffering in single-atom nano-islands: breaking the activity-stability trade-off in catalytic ozonation.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43068546/",
+        "pub_date": null,
+        "authors": [
+          "Zhou X",
+          "Feng C",
+          "Chen T",
+          "Yan N",
+          "Zhang J",
+          "Liang Z",
+          "Yin C",
+          "Huang X",
+          "Zhang X"
+        ],
+        "doi": "10.1016/j.watres.2026.127315",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43068546",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Heterogeneous catalytic ozonation is a promising process for removing refractory organic contaminants from wastewater. However, achieving high catalytic activity while maintaining stable performance under complex aqueous conditions remains a critical challenge. Here, we develop a Mn single-atom nano-island catalyst featuring dynamic interfacial charge buffering to overcome the activity-stability trade-off in water purification. The nano-island catalyst based on the CeO2 substrate (MnSA/FLP-CeO2) achieved efficient and robust removal of diverse organic contaminants in multiple water matrices, including secondary effluent of pharmaceutical wastewater. It exhibited markedly enhanced catalytic performance, with a 3.8-fold enhancement in normalized reaction kinetics compared with conventional CeO2, while maintaining stable contaminant removal over a broad pH from 3 to 11 with minimal Mn leaching. Mechanism investigations revealed that the small CeO2 nanoparticle islands stabilize atomically dispersed Mn sites and create asymmetric interfacial Mn-O-Ce sites, where Mn 3d-O 2p-Ce 4f orbital coupling facilitates interfacial charge redistribution and promotes the formation of critical intermediates *OO to generate ·OH. Meanwhile, the hydroxyl-rich bulk CeO2 sea buffers proton fluctuations to stabilize the local reaction microenvironment. Consequently, this nano-island catalyst occupied a previously unattained region of activity (mass activity) versus stability (pH robustness) among reported metal oxide and single-atom catalysts. This work provides a promising strategy for designing highly active and durable catalysts for sustainable water purification."
+      },
+      {
+        "title": "Divergent time-lagged effects of aquatic vegetation types on organic pollution: 25 years of satellite-based retrieval in a large shallow lake.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43068548/",
+        "pub_date": null,
+        "authors": [
+          "Cai C",
+          "Pang W",
+          "Bai C",
+          "Sun W",
+          "Wang Z",
+          "Kong Q",
+          "Zhang J",
+          "Zhang H"
+        ],
+        "doi": "10.1016/j.watres.2026.127327",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43068548",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Organic pollution poses a persistent threat to large shallow lakes. Its responses to ecological restoration are often temporally delayed rather than instantaneous, which can obscure the timing of restoration effects and reduce the reliability of short-term assessments. Aquatic vegetation and algal blooms (AB) play important roles in organic pollution dynamics, but different aquatic components, such as floating and emergent aquatic vegetation (FEAV), submerged aquatic vegetation (SAV) and AB, exert distinct time-lagged correlations with chemical oxygen demand (COD) due to differences in biomass turnover and environmental conditions. However, the lag times, driving mechanisms, and predictive relevance of these component-specific effects remain poorly quantified. Here, we reconstructed half-yearly spatial datasets of four aquatic components (FEAV, SAV, AB, open water (OW)) and COD in Nansi Lake from 2000 to 2024, using 437 Landsat images, 35,798 COD monitoring records, field samples, UAV imagery, and multi-source environmental factors. Pixel-scale cross-correlation analysis was used to identify lagged effects of aquatic components on COD. Distinct aquatic components showed divergent lag structures. AB and OW were dominated by rapid responses of 0-0.5 years, FEAV showed intermediate lags of 1-1.5 years, and SAV exhibited longer lags of 2-2.5 years. These dominant lags represent the time offsets at which the correlations between component changes and COD are strongest, characterizing long-term temporal associations and highlighting the importance of accounting for antecedent aquatic conditions. These lagged relationships varied across sub-lakes, offshore gradients, and environmental backgrounds. SAV lags were mainly constrained by topographic and thermal conditions, whereas FEAV lags were more closely linked to water-surface fluctuations, vegetation-algal interactions, atmospheric disturbances, and local topographic conditions. To validate the ecological realism of these identified delays, the lag features were integrated into predictive models for COD retrieval. Incorporating these vegetation-leading lag features substantially improved COD prediction performance, with R² increasing from 0.35 to 0.51 and concordance correlation coefficient (CCC) increasing from 0.56 to 0.68, while RMSE and MAE decreased from 0.71 and 0.54 mg/L to 0.61 and 0.47 mg/L, respectively. These findings demonstrate that time-lagged associations between aquatic components and COD are ecologically meaningful and can improve the detection of delayed restoration signals, supporting more robust long-term organic pollution mitigation and adaptive management in large shallow lakes."
       }
     ],
     "npj Biofilms & Microbiomes": [
@@ -821,119 +1754,29 @@
         "translation": null,
         "article_type": null,
         "abstract": "npj Biofilms and Microbiomes, Published online: 23 November 2026; doi:10.1038/s41522-026-01205-2Subacute ruminal acidosis tolerance: phenotyping and nutritional management through host–microbiome interaction insights"
-      }
-    ],
-    "eLife": [
-      {
-        "title": "ATP8B1–TMEM30B flippase activity maintains stereocilia lipid asymmetry required for hearing",
-        "link": "https://elifesciences.org/articles/110466",
-        "pub_date": "2026-11-23",
-        "authors": [
-          "Alyssa Luz-Ricca",
-          "Betsy Szeto",
-          "Emma Kim",
-          "Henry Newkirk De Hoyos",
-          "Jung-Bum Shin",
-          "Jun-Sub Im",
-          "Nikhil Amin",
-          "Rachel Jonas",
-          "Sihan Li",
-          "Takesha Foster"
-        ],
-        "doi": null,
-        "journal": "eLife",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Sensory hair cells convert sound-induced vibrations into electrical signals through a process called mechano-electrical transduction (MET). While the protein components of the MET complex are well studied, increasing evidence indicates that MET channel properties are significantly modulated by the surrounding lipid bilayer. The asymmetric distribution of membrane lipids between the inner and outer membrane leaflets is well established to shape membrane mechanics. The recent discovery that the core MET components TMC1 and TMC2 also act as lipid scramblases suggests a direct role for membrane lipid asymmetry in the dynamic shaping of auditory transduction. Because scramblase activity of TMC1/2 disrupts lipid asymmetry, we hypothesized that an opposing flippase may be required to restore and maintain lipid asymmetry. Here, we identify the P4-ATPase ATP8B1 and its chaperone TMEM30B as selectively expressed in mouse outer hair cells (OHCs), enriched in stereocilia, and upregulated following the onset of MET and hearing. Loss of either protein results in elevated auditory brainstem response (ABR) thresholds, phosphatidylserine (PS) externalization, and rapid hair-cell degeneration, demonstrating that lipid homeostasis is crucial for OHC survival. Together, these findings establish ATP8B1 and TMEM30B as key regulators of membrane lipid asymmetry in sensory hair cells and establish TMEM30B as a novel deafness gene."
       },
       {
-        "title": "Pre-rRNA represses gene transcription in the XY body of male germ cells",
-        "link": "https://elifesciences.org/articles/112193",
+        "title": "Aspergillus neoalliaceus suppresses Saposhnikovia divaricata root rot through functional reprogramming of the rhizosphere microbiome",
+        "link": "https://www.nature.com/articles/s41522-026-01193-3",
         "pub_date": "2026-11-23",
         "authors": [
-          "Chencheng Yao",
-          "Lin lin Chen",
-          "Peng Li",
-          "Qilin Li",
-          "Si Chen",
-          "Xiao Chen Gai",
-          "Xiaochun Yu",
-          "Yifan Sun"
+          "Yanzhe Ding",
+          "Yuqi Zhao",
+          "Chongbo Sun",
+          "Limin Yang",
+          "Zhuo Sun",
+          "Hongmei Lin",
+          "Yunhe Wang",
+          "Jian Zhang",
+          "Zhongming Han"
         ],
-        "doi": null,
-        "journal": "eLife",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": "Cell Biology",
-        "abstract": "Nucleolus is disassembled when the nuclear envelope breaks down during mitosis prophase. However, the dynamics of nucleolus in meiotic prophase remain unclear. Here, by tracking nucleolar components of spermatocytes in mice, we show that the nucleolus is fragmented even before the breakdown of the nuclear envelope. Instead of dissolving in nucleoplasm or cytoplasm, the nucleolar components are reaggregated and fused with the XY body during prophase I of meiosis. The dynamic relocation of the nucleolar components to the XY body is governed by the ATR-dependent signaling pathway. Moreover, the relocated pre-ribosomal RNA (pre-rRNA) covers the entire X and Y chromosomes. The treatment with RNA polymerase I inhibitor BMH-21 only disrupts the accumulation of pre-rRNA but not other nucleolar components on the X and Y chromosomes. Surprisingly, this disruption of pre-rRNA induces the recruitment of RNA polymerase II to the XY body and partially abolishes meiotic sex chromosome inactivation (MSCI). Taken together, this study reveals pre-rRNA as a key epigenetic regulator for MSCI."
-      }
-    ],
-    "Nature Methods": [
-      {
-        "title": "Tracking individual birds by their song",
-        "link": "https://www.nature.com/articles/s41592-026-03406-1",
-        "pub_date": "2026-11-23",
-        "authors": [
-          "Amanda Navine",
-          "Patrick Hart"
-        ],
-        "doi": "10.1038/s41592-026-03406-1",
-        "journal": "Nature Methods",
+        "doi": "10.1038/s41522-026-01193-3",
+        "journal": "npj Biofilms & Microbiomes",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Nature Methods, Published online: 23 November 2026; doi:10.1038/s41592-026-03406-1An automated approach to analyzing soundscape recordings distinguishes differences in song structure between individual birds of the same species. This represents a new, non-invasive tool for monitoring birds across the landscape."
-      }
-    ],
-    "Nature": [
-      {
-        "title": "Build for the future climate — or waste trillions of dollars",
-        "link": "https://www.nature.com/articles/d41586-026-03722-8",
-        "pub_date": "2026-11-23",
-        "authors": [
-          "Saroj Kanta Mishra"
-        ],
-        "doi": "10.1038/d41586-026-03722-8",
-        "journal": "Nature",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03722-8Development planning needs a permanent system that connects climate projections to the decisions that shape what infrastructure gets built."
-      },
-      {
-        "title": "It’s our duty to promote ourselves: even to other scientists. Am I wrong?",
-        "link": "https://www.nature.com/articles/d41586-026-02203-2",
-        "pub_date": "2026-11-23",
-        "authors": [
-          "Rachael Pells"
-        ],
-        "doi": "10.1038/d41586-026-02203-2",
-        "journal": "Nature",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-02203-2A jury weighs in on whether it’s a researcher’s responsibility to convince colleagues that their work matters — or whether others should come to them instead."
-      },
-      {
-        "title": "Ayanna Howard thinks ‘everyone has to be part of’ building ethical AI tools",
-        "link": "https://www.nature.com/articles/d41586-026-03721-9",
-        "pub_date": "2026-11-23",
-        "authors": [
-          "Katherine Skipper"
-        ],
-        "doi": "10.1038/d41586-026-03721-9",
-        "journal": "Nature",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03721-9The researcher and educator explains why she’s optimistic about the future of work and what individuals can do to thrive alongside artificial intelligence."
+        "abstract": "npj Biofilms and Microbiomes, Published online: 23 November 2026; doi:10.1038/s41522-026-01193-3Aspergillus neoalliaceus suppresses Saposhnikovia divaricata root rot through functional reprogramming of the rhizosphere microbiome"
       }
     ],
     "Nucleic Acids Research": [
@@ -1357,6 +2200,469 @@
         "translation": null,
         "article_type": "Journal Article",
         "abstract": "Genome-wide association studies (GWAS) have identified disease-associated loci, but linking these signals to molecular mechanisms remains difficult because of linkage disequilibrium and context-dependent genetic regulation. CellColocDB is a disease- and window-centred resource integrating GWAS-QTL colocalization across bulk, sorted-cell, and single-cell QTL datasets. The current release includes 2805 GWAS datasets covering 1201 diseases and traits and 40 516 GWAS windows, together with 23 QTL sources, 316 QTL contexts, and 89 842 molecular features. CellColocDB contains 3 572 118 coloc.abf results with PP.H4 > 0.5, including 1 609 418 with PP.H4 ≥ 0.8. Analyses are organized as GWAS dataset × GWAS window × QTL context × molecular feature tasks, allowing contexts and molecular features to be compared within the same GWAS region. coloc.abf is the primary colocalization analysis, with coloc-SuSiE and SMR/HEIDI providing complementary evidence where available. Task-specific ABF top SNPs are linked to CAUSALdb2 fine-mapping results from seven methods. Results are available through disease-, QTL context-, gene-, and locus-level views, with regional association tracks and matched variants, and can be queried by gene, genomic region, or GWAS window ID. CellColocDB is freely available at http://www.mulinlab.org/colocdb/."
+      }
+    ],
+    "Nature Food": [
+      {
+        "title": "Biodiversity footprints of food consumption decouple from economic growth at high income levels",
+        "link": "https://www.nature.com/articles/s43016-026-01465-3",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Hanzhong Zheng",
+          "Koen J. J. Kuipers",
+          "Selwyn Hoeks",
+          "Sarah Sim",
+          "Mark A. J. Huijbregts"
+        ],
+        "doi": "10.1038/s43016-026-01465-3",
+        "journal": "Nature Food",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Food, Published online: 23 November 2026; doi:10.1038/s43016-026-01465-3An analysis of 158 countries over 25 years shows that biodiversity footprints of food consumption are more likely to decouple from economic growth at higher income levels, with stronger decoupling for plant-based foods than for animal-based foods, especially ruminant meat."
+      },
+      {
+        "title": "El Niño amplified food insecurity in early modern Europe from 1500 to 1800",
+        "link": "https://www.nature.com/articles/s43016-026-01460-8",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Emile Esmaili",
+          "Michael J. Puma",
+          "Francis Ludlow",
+          "Eva Jobbová",
+          "Janavi Kumar",
+          "Poul Holm",
+          "Fredrik Charpentier Ljungqvist",
+          "John Alphonsus Matthews",
+          "Johannes Rom Dahl",
+          "Andrea Seim"
+        ],
+        "doi": "10.1038/s43016-026-01460-8",
+        "journal": "Nature Food",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Food, Published online: 23 November 2026; doi:10.1038/s43016-026-01460-8The El Niño/Southern Oscillation is a dominant source of global interannual climate variability, yet its influence on historical food security in Europe remains underexplored. Drawing on a dataset of 160 European famine episodes, this study shows the association between El Niño events and the onset and duration of famine episodes."
+      }
+    ],
+    "PLOS Computational Biology": [
+      {
+        "title": "Statistical analysis of residue contact energies reveals folding determinants of ion channels",
+        "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014990",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Svetlana I. Tarnovskaya",
+          "Boris S. Zhorov",
+          "Denis B. Tikhonov"
+        ],
+        "doi": "10.1371/journal.pcbi.1014990",
+        "journal": "PLOS Computational Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "by Svetlana I. Tarnovskaya, Boris S. Zhorov, Denis B. Tikhonov Tetrameric and pseudo-tetrameric cationic channels, which are targeted by many drugs and toxins, play key roles in the cell physiology and pathophysiology. This diverse superfamily of P-loop channels includes but is not limited to voltage-gated potassium, sodium and calcium channels, TRP channels, and ionotropic glutamate receptors. In hundreds of crystal and cryoEM structures of P-loop channels, the general folding is rather similar but subfamily-specific structural details vary greatly. The latter underlie atomic mechanisms of ion selectivity, gating, sensitivity to drugs and toxins, and dysfunction of thousands disease-associated variants. Understanding these mechanisms may benefit from comparative analyses of multiple structures. Here, we propose a statistical method to reveal structural determinants of folding in related proteins, which involves clustering of residue-residue contact energies. We applied the method to a pH-gated potassium channel KcsA and a voltage-gated sodium channel NavAb. Twenty 3D-aligned experimental structures of each channel with universal residue labels were downloaded from database www.plic3da.com and Monte Carlo energy minimized. Residue contact energies clustered in the multidimensional space of contacts automatically discriminated open vs. closed states of KcsA, and wild-type vs. chimeric structures of NavAb. We found and analyzed specific contacts that underlie structural peculiarities. The proposed approach may help detecting folding peculiarities and their structural determinants between subfamilies of P-loop channels, within individual subfamilies, and could be adapted to other proteins."
+      },
+      {
+        "title": "Multi-model forecasting of respiratory disease activity in Germany during the 2024–2025 season",
+        "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014985",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Johannes Bracher",
+          "Daniel Wolffram",
+          "Rodrigo Amaral Lind",
+          "Nils Bardeck",
+          "Micha Böhm",
+          "Seba Contreras",
+          "Philipp Dönges",
+          "Felix Günther",
+          "Rolf Kaiser",
+          "Jan van de Kassteele",
+          "Alexander Kuhlmann",
+          "Berit Lange",
+          "Barbora Němcová",
+          "Viola Priesemann",
+          "Ulrich Reinacher",
+          "Isti Rodiah",
+          "Frank Sandmann",
+          "the RESPINOW Study Group",
+          "Melanie Schienle"
+        ],
+        "doi": "10.1371/journal.pcbi.1014985",
+        "journal": "PLOS Computational Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "by Johannes Bracher, Daniel Wolffram, Rodrigo Amaral Lind, Nils Bardeck, Micha Böhm, Seba Contreras, Philipp Dönges, Felix Günther, Rolf Kaiser, Jan van de Kassteele, Alexander Kuhlmann, Berit Lange, Barbora Němcová, Viola Priesemann, Ulrich Reinacher, Isti Rodiah, Frank Sandmann, the RESPINOW Study Group , Melanie Schienle Respiratory diseases cause considerable morbidity in autumn and winter and are a priority in public health monitoring. In Germany, they are subject to a number of surveillance systems, including both pathogen-specific and syndromic indicators. In this paper we present a collaborative multi-target and multi-model real-time forecasting system rolled out during the 2024/25 season, and discuss differences to earlier efforts carried out during the COVID-19 pandemic. We focus on general practitioner consultations for acute respiratory infections (ARI) and hospitalizations for severe acute respiratory infections (SARI), where a total of eight models were run to generate nowcasts and forecasts. In addition, we consider confirmed cases of seasonal influenza and respiratory syncytial virus (RSV) where one forecasting model each was available. As all indicators were subject to retrospective revisions, forecasting models were combined with a nowcasting step. For the SARI and ARI indicators, we combined the available models into an ensemble and conducted detailed quantitative evaluations. Nowcasts overall showed convincing performance, even though for some models Christmas break effects led to an upward bias in early January. Forecasts were overall well-calibrated and most models outperformed simple benchmark models. When taking into account age-stratified targets, most observed performance differences to a persistence baseline were statistically significant. Anticipating the peak timing and magnitude, however, proved to be challenging, with many models predicting too flat curves with a too early turnaround (e.g., in late January rather than mid-February for SARI). The combined ensemble forecast was among the best-performing approaches, but unlike in previous related projects did not consistently outperform individual models. We conclude by discussing learnings on the organization of collaborative forecasting projects in post-COVID-19 times."
+      },
+      {
+        "title": "AlphaFold models of host-pathogen interactions elucidate the prevalence and structural modes of molecular mimicry",
+        "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014932",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Delora Baptista",
+          "Lidia Gomez-Lucas",
+          "Jürgen Jänes",
+          "Nevan J. Krogan",
+          "Maria João Amorim",
+          "Ylva Ivarsson",
+          "Pedro Beltrao"
+        ],
+        "doi": "10.1371/journal.pcbi.1014932",
+        "journal": "PLOS Computational Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "by Delora Baptista, Lidia Gomez-Lucas, Jürgen Jänes, Nevan J. Krogan, Maria João Amorim, Ylva Ivarsson, Pedro Beltrao Pathogens exploit host cellular machinery through protein-protein interactions (PPIs), often using molecular mimicry to hijack host cellular processes. While there have been thousands of host-pathogen PPIs determined to date, the lack of structural information for these impedes the study of the prevalence of molecular mimicry and convergent evolution of protein interaction interfaces. To address this, we benchmarked AlphaFold2 and 3 for prediction of structures of host-pathogen interactions observing that accurate models can be retrieved when ranking by modelling confidence, despite an overall low performance. We predicted structures for 6,782 pathogen-human PPIs yielding 803 models of higher confidence. Most pathogen proteins interacting with a common human protein are predicted to do so via the same interface, suggesting a high degree of convergent evolution of protein interaction interfaces. When comparing structural models from host-pathogen and host-host interactions, we observe that a majority of pathogen proteins are predicted to target existing human PPI interfaces. We categorized instances of mimicry into different modes, occurring at different frequencies: 1) via the same domain family (least common); 2) via a similar structural motif; and 3) via a similar linear peptide (most common). We selected examples of linear peptide interactions for binding assay testing, confirming 8 out of 12 predicted interfaces, including 3 viral linear peptide interactions. This validates AlphaFold’s ability to model some host-pathogen interactions and the mechanisms underlying molecular mimicry. This work showcases the value of large-scale structural modelling to study convergent evolution of host-pathogen interactions and how molecular mimicry may contribute to infection or host defense."
+      },
+      {
+        "title": "Large-scale analysis of AlphaFold structures reveals organism-specific physicochemical signatures",
+        "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014929",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Michael J. Stam",
+          "Diego A. Oyarzún",
+          "Nadanai Laohakunakorn",
+          "Christopher W. Wood"
+        ],
+        "doi": "10.1371/journal.pcbi.1014929",
+        "journal": "PLOS Computational Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "by Michael J. Stam, Diego A. Oyarzún, Nadanai Laohakunakorn, Christopher W. Wood Recent advancements in protein structure prediction methods have ushered in a new era of abundant and accurate structural data, providing opportunities to analyse proteins at a scale that has not been possible before. Here we performed a large-scale analysis of physicochemical properties across 373,779 confident AlphaFold structures. Our analysis revealed systematic variation between proteins from different organisms to such an extent that major features of the tree of life could be recovered from these data. Surprisingly, this relationship persisted even when we restricted our analysis to eukaryotic, cytosolic proteins and proteins from single AlphaFold Database Foldseek clusters. Given the strong functional constraints on protein chemistry, this finding is unexpected and suggests that protein structures have organism-specific physicochemical signatures, which might reveal evolutionary constraints imposed by the cellular environment and could have significant implications for the design and engineering of novel proteins."
+      }
+    ],
+    "Communications Earth & Environment": [
+      {
+        "title": "Fault morphology bounds the scaling of injection induced seismicity",
+        "link": "https://www.nature.com/articles/s43247-026-04242-z",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Zhen Zhong",
+          "Ziyu Liu",
+          "Yunjin Hu",
+          "Rui Yong",
+          "Mengke An"
+        ],
+        "doi": "10.1038/s43247-026-04242-z",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 23 November 2026; doi:10.1038/s43247-026-04242-zFault morphology may influence the variability and style of injection-induced seismicity and could improve estimates of maximum seismic moment when considered alongside injected volume, according to controlled fluid-injection experiments on roughened faults."
+      },
+      {
+        "title": "Adaptive responses to global food availability shocks can unintentionally amplify food inequality",
+        "link": "https://www.nature.com/articles/s43247-026-04164-w",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Sophia Baum",
+          "Moritz Laber",
+          "Martin Bruckner",
+          "Liuhuaying Yang",
+          "Stefan Thurner",
+          "Peter Klimek"
+        ],
+        "doi": "10.1038/s43247-026-04164-w",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 23 November 2026; doi:10.1038/s43247-026-04164-wFood shortage responses can worsen inequality and amplify cascades; for example, an Indian rice shock raises losses by 6 percent in low human development countries and reduces them by 14 percent in high human development countries, while interacting shocks add up to 12 percent in global losses, according to a calibrated multilayer food trade network model."
+      },
+      {
+        "title": "Arctic sea ice decline amplifies extreme wave exposure for the northernmost Canadian Inuit community",
+        "link": "https://www.nature.com/articles/s43247-026-04146-y",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Jeremy Baudry",
+          "David Didier",
+          "Dany Dumont",
+          "Charles Jourdain-Bonneau",
+          "Terry Noah",
+          "Andrew Hamilton",
+          "Erin Bertrand"
+        ],
+        "doi": "10.1038/s43247-026-04146-y",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 23 November 2026; doi:10.1038/s43247-026-04146-yThe lengthening of the ice-free season in Northern Canada may increase the frequency of extreme wave events by up to 62% by mid-century, according to analysis of total water level data from Ausuittuq, Nunavut, combined with future projections."
+      },
+      {
+        "title": "Combustion-derived particulate matter is associated with inflammation and accelerated biological aging in women",
+        "link": "https://www.nature.com/articles/s43247-026-04240-1",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Anoop T. Ambikan",
+          "Shyamasree Dasgupta",
+          "Raja Dhar",
+          "Vikas Sood",
+          "Chen Luo",
+          "Sayantan Sarkar",
+          "Megha Anand",
+          "Yogita Rawat",
+          "Apostolos Bossios",
+          "Joyanto Routh",
+          "Ujjwal Neogi"
+        ],
+        "doi": "10.1038/s43247-026-04240-1",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 23 November 2026; doi:10.1038/s43247-026-04240-1Mixed-source fine particulate matter exposure in eastern India was linked to higher metal pollutant burdens, increased inflammation and apoptosis, reduced cellular-energy pathways, and accelerated biological aging, with stronger effects in women according to chemical analysis, household surveys, and blood RNA sequencing."
+      }
+    ],
+    "Applied and Environmental Microbiology": [
+      {
+        "title": "Characterization and heterologous expression of surface polysaccharides from pathogenic Enterococcus cecorum.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43071366/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Garber JM",
+          "Vinogradov E",
+          "Jones MK",
+          "Baxter JA",
+          "Hofacre CL",
+          "Szymanski CM",
+          "Nothaft H"
+        ],
+        "doi": "10.1128/aem.01151-26",
+        "journal": "Applied and Environmental Microbiology",
+        "source": "pubmed",
+        "pmid": "43071366",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Pathogenic variants of the chicken gastrointestinal bacterium Enterococcus cecorum are of growing concern due to their ability to cause vertebral osteomyelitis, such as enterococcal spondylitis or \"kinky back,\" when the bacteria infect the free thoracic vertebrae of broilers. Due to the elimination of prophylactic antibiotic feed treatment that was previously used to manage the disease, there is now a need to develop other strategies for preventing pathogenic E. cecorum infections. In this work, we describe the structural characterization of two antigenic targets, a capsular polysaccharide and a rhamnopolysaccharide. Highly conserved biosynthetic gene clusters encoding enzymes for both structures have previously been identified in pathogenic E. cecorum. We show that these polysaccharides, when present on the surface of either the native or a heterologous host, induce an immune response in broilers. Furthermore, antibodies present in those sera cross-react with different E. cecorum strains and can induce killing of the pathogen in opsonophagocytosis assays. The characterization and heterologous expression of highly immunodominant cell wall polysaccharides that are conserved across many pathogenic strains is an important step toward the development of a potential glycoconjugate vaccine against E. cecorum.IMPORTANCEEnterococcus cecorum is a bacterium normally found in the gut of healthy chickens. However, pathogenic varieties of E. cecorum expressing surface capsular polysaccharides can cause skeletal deformations in the bird if the infection becomes systemic. This leads to severe morbidity and mortality in chickens raised for meat production and to significant financial losses for poultry producers. These infections were once managed by the inclusion of antibiotics in chicken feed; but this practice has been discontinued due to concern over antibiotic resistance development. We have identified polysaccharides that are conserved on the surface of many pathogenic E. cecorum that induce protective cross-reactive immune responses in chickens when the polysaccharides are expressed on a benign bacterial carrier. As an alternative to antibiotics, this is an important first step toward the development of a vaccine that specifically targets many pathogenic E. cecorum isolates and may help to reduce financial losses while improving animal welfare."
+      },
+      {
+        "title": "Evolutionary relatedness is a partially reliable predictor of host-associated microbiome composition.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070712/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Buffin K",
+          "Sabree Z"
+        ],
+        "doi": "10.1128/aem.01705-26",
+        "journal": "Applied and Environmental Microbiology",
+        "source": "pubmed",
+        "pmid": "43070712",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Multicellular animals emerged into a microbial world, and they continue to be influenced by sympatric bacterial species. Host-associated microbiomes are recognized as critical contributors to their living domicile's success. Detailing how microbiomes are assembled and maintained by their hosts has important implications for animal health, agricultural productivity, and biodiversity interventions across the tree of life. Tens to 100s of bacterial genera are frequently detected in animal microbiomes, with some being uniquely and consistently detected in specific host species. Such discoveries have informed theories like phylosymbiosis that assert that host-associated microbiomes often reflect host species relatedness. We explored the predictive limits of this theory by performing a multi-scale dissimilarity-based comparative analyses using publicly available microbiomes drawn from 113 insect species spanning 14 insect orders. We detected a moderate inter-order phylosymbiotic signal (Mantel test: r = 0.392, P < 0.001) that was weakened (r = 0.173, P < 0.001) when the Blattodea were excluded from the analysis. Intra-order level phylosymbiotic signals varied widely for lepidopteran, hymenopteran, hemipteran, and blattodean host species microbiomes. Strong signals were often explained by obligate endosymbionts and/or nestmate-acquired gut bacteria, rather than by the total microbiomes. In short, host species-defining bacterial genera often represented a small fraction of the total observed microbial diversity in their respective insect host species, and these genera were well-integrated into host behaviors and/or physiologies that facilitated reliable intra- and inter-generational transmission. In contrast, microbiome compositional variability was so high in some insect orders that attempts to reflect host speciation events using their microbiomes were impossible.IMPORTANCEWhile all animals have microbiomes, the principles determining their composition remain an incomplete story. We leveraged the diversity of Insecta, arisen from 400 My of evolution, to evaluate if microbiome evolution is synchronized with the evolutionary history of their associated hosts. We found that host evolution plays a limited role in predicting microbiome composition, particularly due to the non-uniformity of host-microbial symbioses across insects. This result is in stark contrast to studies of similar scope in vertebrate organisms that spanned much less evolutionary time (i.e., up to 50 My). While insects of the order Blattodea, in particular, harbor exceptionally diverse microbiomes, many insect microbiomes are characterized by few bacterial genera. Our results suggest that host evolutionary history is but one of many factors, including differences in microbiome transmission modality, influencing insect microbiome evolution."
+      },
+      {
+        "title": "KvrA promotes pulmonary persistence and systemic dissemination of hypervirulent Klebsiella pneumoniae.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070711/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Li F",
+          "Tian J",
+          "Yang H",
+          "Huang Z",
+          "Zhang J",
+          "Zhan X",
+          "Qu J"
+        ],
+        "doi": "10.1128/aem.01401-26",
+        "journal": "Applied and Environmental Microbiology",
+        "source": "pubmed",
+        "pmid": "43070711",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Hypervirulent Klebsiella pneumoniae (hvKp) poses a severe threat to human health, with KvrA, a member of the SlyA family of MarR-type transcriptional regulators, previously shown to contribute to capsule production, hypermucoviscosity formation, and virulence in Klebsiella pneumoniae. However, whether KvrA coordinates additional surface-associated pathways during infection remains incompletely understood. This study systematically investigated the role of KvrA in the survival, dissemination, and colonization of hvKp through in vitro and in vivo experiments. We found that knocking out kvrA in K. pneumoniae KPPR1 resulted in a capsular-deficient phenotype in bacterial colonies. KvrA was confirmed to positively regulate the expression of capsular polysaccharide (CPS)-associated genes, thereby promoting the synthesis of CPS. The ΔkvrA mutant displayed reduced survival rate when exposed to human serum, and the amount of its biofilm formation also decreased. Furthermore, in vitro, macrophages significantly phagocytosed more ΔkvrA mutant than wild type, indicating that KvrA contributes to phagocytic resistance of hvKp. Transcriptomic analysis further revealed that KvrA regulates additional surface-associated pathways, including lipopolysaccharide (LPS) biosynthesis and type 3 fimbria-associated biofilm formation. A murine pneumonia infection model revealed that the ΔkvrA mutant exhibited higher bacterial clearance in the lung, liver, and spleen compared with the wild-type strain, indicating that KvrA contributes to in vivo survival, dissemination, and colonization of hypervirulent Klebsiella pneumoniae (hvKp). Histopathological observations further corroborated the contribution of KvrA to hvKp pathogenicity in mice. Collectively, our findings extend previous studies by demonstrating that KvrA not only regulates capsule-associated virulence traits but also coordinates additional surface-associated pathways, including LPS biosynthesis and type 3 fimbria/biofilm-related processes, contributing to pulmonary persistence and systemic dissemination of hvKp.IMPORTANCEKlebsiella pneumoniae is an opportunistic pathogen that has emerged as a significant causative agent for both community-acquired and nosocomial infections. The emergence of highly virulent and multidrug-resistant strains of K. pneumoniae poses a substantial threat to public health. The gene kvrA plays a pivotal role in the colonization and pathogenicity of K. pneumoniae. Understanding the regulatory mechanisms of KvrA in K. pneumoniae provides a theoretical basis for identifying novel genetic targets to control K. pneumoniae infections, which may facilitate the development of therapeutic agents."
+      },
+      {
+        "title": "Genetic redundancy of alkane-specific transporters contributes to alkane adaptation in Alloalcanivorax dieselolei.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070710/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Li S",
+          "Wei G",
+          "Wu H",
+          "Wang Z",
+          "Meng Q",
+          "Wang W",
+          "Shao Z"
+        ],
+        "doi": "10.1128/aem.01593-26",
+        "journal": "Applied and Environmental Microbiology",
+        "source": "pubmed",
+        "pmid": "43070710",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "[UNLABELLED] Alkanes are ubiquitous in the ocean due to natural seepage, microbial synthesis, and anthropogenic activities. The Alcanivorax lineage is the dominant bacteria in alkane removal and maintaining marine ecological balance, but its alkane adaptation mechanisms remain incompletely explained. Here, we found widespread redundancy of alkane-specific outer membrane transporters (OmpTs) in the upstream of alkane metabolism in the Alcanivorax lineage, which may be a critical adaptive factor. In the representative Alloalcanivorax dieselolei B5, three highly similar OmpT-2 homologs, all with alkane transport function, exhibited functional redundancy; disruption of a single homolog moderately impairs the growth of strain B5 on n-hexadecane, with additive inhibitory effect upon double mutation, but none abolished alkane utilization. Phylogenetic and mobile genetic element analysis indicated that inter-species horizontal gene transfer drove OmpT-2 redundancy in strain B5. Analysis of AlphaFold-derived structures suggests that OmpTs of B5 clustered with the alkane uptake protein A (AupA) from Marinobacter and appear to lack a lateral β-barrel opening, which may imply a plausible vertical alkane transport mechanism instead of the classical FadL-type lateral transport. These results suggest that functional redundancy and distinct transport mechanism of alkane transporters may be one reason for the Alcanivorax lineage being the dominant marine alkane-degrading bacteria. [IMPORTANCE] The Alcanivorax lineage constitutes the major group of obligate hydrocarbonoclastic bacteria (OHCB) that mediates alkane cycling in the global ocean, while their molecular adaptive mechanisms remain poorly characterized. This study demonstrates widespread genetic redundancy of the alkane-specific outer membrane transporter (OmpT) across the Alcanivorax lineage. In the model strain Alloalcanivorax dieselolei B5, three OmpT-2 homologs have been shown to exert additive effects on alkane transport. Inter-species horizontal gene transfer potentially drives the genetic redundancy of these genes. We further propose a hypothesis that OmpT transports alkane through a unique vertical mechanism instead of the canonical lateral transport mode of FadL family proteins. Our results provide new molecular insights into the broad adaptation of this lineage to marine alkane metabolism."
+      }
+    ],
+    "eLife": [
+      {
+        "title": "ATP8B1–TMEM30B flippase activity maintains stereocilia lipid asymmetry required for hearing",
+        "link": "https://elifesciences.org/articles/110466",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Alyssa Luz-Ricca",
+          "Betsy Szeto",
+          "Emma Kim",
+          "Henry Newkirk De Hoyos",
+          "Jung-Bum Shin",
+          "Jun-Sub Im",
+          "Nikhil Amin",
+          "Rachel Jonas",
+          "Sihan Li",
+          "Takesha Foster"
+        ],
+        "doi": null,
+        "journal": "eLife",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Sensory hair cells convert sound-induced vibrations into electrical signals through a process called mechano-electrical transduction (MET). While the protein components of the MET complex are well studied, increasing evidence indicates that MET channel properties are significantly modulated by the surrounding lipid bilayer. The asymmetric distribution of membrane lipids between the inner and outer membrane leaflets is well established to shape membrane mechanics. The recent discovery that the core MET components TMC1 and TMC2 also act as lipid scramblases suggests a direct role for membrane lipid asymmetry in the dynamic shaping of auditory transduction. Because scramblase activity of TMC1/2 disrupts lipid asymmetry, we hypothesized that an opposing flippase may be required to restore and maintain lipid asymmetry. Here, we identify the P4-ATPase ATP8B1 and its chaperone TMEM30B as selectively expressed in mouse outer hair cells (OHCs), enriched in stereocilia, and upregulated following the onset of MET and hearing. Loss of either protein results in elevated auditory brainstem response (ABR) thresholds, phosphatidylserine (PS) externalization, and rapid hair-cell degeneration, demonstrating that lipid homeostasis is crucial for OHC survival. Together, these findings establish ATP8B1 and TMEM30B as key regulators of membrane lipid asymmetry in sensory hair cells and establish TMEM30B as a novel deafness gene."
+      },
+      {
+        "title": "Pre-rRNA represses gene transcription in the XY body of male germ cells",
+        "link": "https://elifesciences.org/articles/112193",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Chencheng Yao",
+          "Lin lin Chen",
+          "Peng Li",
+          "Qilin Li",
+          "Si Chen",
+          "Xiao Chen Gai",
+          "Xiaochun Yu",
+          "Yifan Sun"
+        ],
+        "doi": null,
+        "journal": "eLife",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Cell Biology",
+        "abstract": "Nucleolus is disassembled when the nuclear envelope breaks down during mitosis prophase. However, the dynamics of nucleolus in meiotic prophase remain unclear. Here, by tracking nucleolar components of spermatocytes in mice, we show that the nucleolus is fragmented even before the breakdown of the nuclear envelope. Instead of dissolving in nucleoplasm or cytoplasm, the nucleolar components are reaggregated and fused with the XY body during prophase I of meiosis. The dynamic relocation of the nucleolar components to the XY body is governed by the ATR-dependent signaling pathway. Moreover, the relocated pre-ribosomal RNA (pre-rRNA) covers the entire X and Y chromosomes. The treatment with RNA polymerase I inhibitor BMH-21 only disrupts the accumulation of pre-rRNA but not other nucleolar components on the X and Y chromosomes. Surprisingly, this disruption of pre-rRNA induces the recruitment of RNA polymerase II to the XY body and partially abolishes meiotic sex chromosome inactivation (MSCI). Taken together, this study reveals pre-rRNA as a key epigenetic regulator for MSCI."
+      },
+      {
+        "title": "SATAY-based chemogenomic screening uncovers antifungal resistance mechanisms and key determinants of ATI-2307 and chitosan sensitivity",
+        "link": "https://elifesciences.org/articles/105333",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Agnès H Michel",
+          "Andreas Mosbach",
+          "Benoit Kornmann",
+          "Gabriel Scalliet",
+          "George Giannakopoulos",
+          "Matthew T Karadzas",
+          "Ruairi McGettigan"
+        ],
+        "doi": null,
+        "journal": "eLife",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Microbiology and Infectious Disease",
+        "abstract": "Multidrug-resistant fungal pathogens are a serious threat to public health and global food security. Mitigation requires the discovery of antifungal compounds with novel modes of action along with a comprehensive understanding of the molecular mechanisms governing antifungal resistance. Here, we apply saturated transposon analysis in yeast (SATAY), a powerful transposon sequencing method in Saccharomyces cerevisiae, to uncover loss- and gain-of-function mutations conferring resistance to 20 different antifungal compounds. These screens identify a diverse array of novel resistance mechanisms and multiple modes of action. SATAY is performed in drug-sensitive strains to generate chemogenomic profiles for compounds that lack activity against conventional laboratory strains. This study therefore provides a significant resource for exploring cellular responses to chemical stresses. We discover that the natural antifungal chitosan electrostatically interacts with cell wall mannosylphosphate and that the transporter Hol1 concentrates the novel antifungal ATI-2307 within yeast. This latter finding presents an avenue for drug design initiatives but also unveils a straightforward evolutionary path to ATI-2307 resistance with minimal fitness cost."
+      },
+      {
+        "title": "A step towards modelling amyotrophic lateral sclerosis in primates",
+        "link": "https://elifesciences.org/articles/113568",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Albert C Ludolph",
+          "Liubov Novikova"
+        ],
+        "doi": null,
+        "journal": "eLife",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "A new primate model offers a promising first step towards reproducing the spread of ALS pathology across synapses, although important differences from the stereotyped patterns observed in human disease remain to be addressed."
+      }
+    ],
+    "Nature Ecology & Evolution": [
+      {
+        "title": "Spongolivella ellipsoides",
+        "link": "https://www.nature.com/articles/s41559-026-03243-7",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Sophie Westacott"
+        ],
+        "doi": "10.1038/s41559-026-03243-7",
+        "journal": "Nature Ecology & Evolution",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Ecology & Evolution, Published online: 23 November 2026; doi:10.1038/s41559-026-03243-7Sophie Westacott was not looking for this species of radiolarian, but it was the one she found."
+      }
+    ],
+    "mSphere": [
+      {
+        "title": "\"What's SUPP\": developing an in vitro model for healthy oral biofilms.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070685/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Labossiere A",
+          "Ramsey M"
+        ],
+        "doi": "10.1128/msphere.00643-26",
+        "journal": "mSphere",
+        "source": "pubmed",
+        "pmid": "43070685",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Oral diseases such as caries and periodontitis coincide with dysbiosis of oral plaque biofilms enriched for oral pathogens typically present in low abundance in health. Many available in vitro supragingival plaque (SUPP) models favor the growth of oral pathogens via several factors, including anaerobic incubation, non-saliva media, or assembled consortia that do not well represent species abundant in healthy SUPP. Here we present a low-cost, high-throughput in vitro SUPP model designed to study healthy commensal interactions. Saliva-coated hydroxyapatite discs, inoculated with donor SUPP, were incubated aerobically under a thin layer of medium. In this context, we performed an iterative 16S rRNA microbiome profiling-guided refinement of medium and incubation conditions to best match donor SUPP composition. Using a 25% saliva medium, we obtained in vitro SUPP community diversity over 3-5 days that more closely resembled in vivo diversity than those using rich media or anaerobic incubation. Using these initial model conditions, we were able to determine how filter vs boiling sterilization of saliva impacted community composition in vitro. Furthermore, we were able to use the model to quantify the fitness of the fluorescently labeled Corynebacterium matruchotii wild-type and lut-operon mutant, demonstrating their integration into the in vitro SUPP biofilm and the necessity of lut expression in vitro in a far more complex community than we had previously investigated. This model enables a low-cost mechanistic investigation of polymicrobial interactions in a structurally complex, health-relevant biofilm context at suitable sample sizes for microbiome assessment independent of host immune responses.IMPORTANCEMultiple oral diseases coincide with a shift in the oral microbiota that occurs during a complex transition, which can also be impacted by changes in the host environment and immune response. We currently know relatively little of interactions and mechanistic relationships within polymicrobial communities in oral health compared to disease. While the focus on disease research is rightfully justified, the understanding of what mechanisms might serve to stabilize or restore healthy communities may be a promising avenue for disease prevention and treatment. The significance of this study is that it provides an initial, accessible in vitro model to study these mechanisms of interaction separate from host responses. Use of this model will enable discovery of microbial-driven factors that may preserve or restore oral health."
+      }
+    ],
+    "Briefings in Bioinformatics": [
+      {
+        "title": "An evaluation of chemical foundation models for metabolite property prediction",
+        "link": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag643/9116499?rss=1",
+        "pub_date": "2026-11-23",
+        "authors": [],
+        "doi": "10.1093/bib/bbag643",
+        "journal": "Briefings in Bioinformatics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "AbstractAccurate in silico prediction of experimental properties for chemical compounds could expand reference databases and enhance metabolite annotation in untargeted metabolomics. Current models, trained from scratch on small datasets, often exhibit poor generalization when applied to new domains. Foundation models, pretrained on vast molecular corpora, have excelled in low-data regimes in other fields. In chemistry, chemical foundation models (CFMs) have been trained on millions of diverse structures spanning a broad chemical space. However, this chemical diversity raises a key question: can CFMs effectively represent the distinctive structural and physicochemical traits of metabolites? This study evaluates CFMs for metabolomics applications by comparing embeddings from Uni-Mol2, ChemBERTa, MoLFormer, and MolMIM against molecular fingerprints and a supervised graph neural network (GNN) baseline to predict three analytical properties used in metabolite identification: retention time, collision cross section (CCS), and effective mobility ($\\mu _{\\text{eff}}$) across public metabolomics datasets. Results show limited and inconsistent improvements for CFMs in metabolomics overall, with most underperforming fingerprints and the supervised GNN. The main exception is Uni-Mol2, which shows promise for CCS prediction, particularly in low-data or cross-platform scenarios, although it does not consistently surpass the GNN."
+      }
+    ],
+    "mSystems": [
+      {
+        "title": "Integrated transcriptomics reveal fibroblast-monocyte crosstalk with JAK-STAT activation associated with Parvimonas micra-induced periodontitis.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070692/",
+        "pub_date": "2026-11-23",
+        "authors": [
+          "Wang P",
+          "Gao H",
+          "Wei L",
+          "Zeng Q",
+          "Zhang Y",
+          "Zhi M",
+          "Li Z",
+          "Feng Q"
+        ],
+        "doi": "10.1128/msystems.00753-26",
+        "journal": "mSystems",
+        "source": "pubmed",
+        "pmid": "43070692",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "[UNLABELLED] This study aimed to characterize the spatial and molecular mechanisms of Parvimonas micra-induced periodontitis, which remains poorly understood. We used bulk RNA sequencing and spatial transcriptomics to investigate gingival responses in ligature and P. micra-induced rat periodontitis model and validated the findings in human patients. In rat periodontitis model, significant transcriptomic changes occurred across gingival regions, especially in the suprabasal epithelium, affecting autophagy and immune defense. Both bulk and spatial transcriptomic analyses indicate that JAK-STAT signaling was associated with periodontitis-related changes in the established P. micra-induced periodontitis model, especially in the lamina propria (LP) and alveolar mucosa_lamina propria (AM_C1, AM_C3, and AM_C4) regions. Co-expression analysis in the LP region revealed upregulation of vasculogenesis and immune-related modules in rat periodontitis. In fibroblast-enriched AM regions, fibroblasts exhibited strong responsiveness to the incoming PTN, likely contributing to JAK-STAT activation and outgoing COLLAGEN and FN1 signaling to monocytes, thereby amplifying inflammation and promoting tissue remodeling in rat periodontitis. Similar JAK-STAT activation was observed in fibroblast- and monocyte-rich regions in human periodontitis. This multi-omic analysis identifies JAK-STAT activation in fibroblast-rich gingival regions during P. micra-induced periodontitis, highlighting a candidate pathway for future functional validation and therapeutic exploration. [IMPORTANCE] This study employed bulk RNA sequencing and spatial transcriptomics to delineate the molecular and spatial landscape of Parvimonas micra-induced periodontitis. We identified JAK-STAT signaling as a prominent pathway associated with inflammation and tissue remodeling in fibroblast-rich gingival regions. Its consistency with findings from human periodontitis samples supports the relevance of this association. Moreover, this work highlights the power of spatial transcriptomics in resolving pathogen-associated molecular landscapes in complex inflammatory diseases and provides a basis for future studies of precision diagnosis and potential therapeutic interventions."
       }
     ]
   }

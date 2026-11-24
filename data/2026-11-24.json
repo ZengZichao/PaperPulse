@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T02:47:04.032401+00:00",
+  "total_journals": 1,
+  "total_articles": 3,
+  "journals": {
+    "Nature Communications": [
+      {
+        "title": "Host control of rhizobial proliferation in soybean nodules",
+        "link": "https://www.nature.com/articles/s41467-026-79800-2",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Hui-Ru Liu",
+          "Chun-Lin Song",
+          "Peng-Fei Jia",
+          "Yu Luo",
+          "Rui-Yang Wang",
+          "De-li Wang",
+          "Jeremy D. Murray",
+          "Hai-Feng Wang",
+          "Wei-Cai Yang"
+        ],
+        "doi": "10.1038/s41467-026-79800-2",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 24 November 2026; doi:10.1038/s41467-026-79800-2Legumes must tightly regulate rhizobial proliferation to optimize symbiotic benefits and avoid pathogenicity. Here the authors show a role for cell wall derived demethylesterified pectin in constrains rhizobial growth in soybean nodules"
+      },
+      {
+        "title": "Promoted phase transition in perovskite heterojunctions via in-situ regulated 2D intermediates enables stable solar cells",
+        "link": "https://www.nature.com/articles/s41467-026-79294-y",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Shengli Yue",
+          "Guanghan Zhao",
+          "Weichuan Zhang",
+          "Shuai You",
+          "Wanfei Shi",
+          "Rongshen Yang",
+          "Weichao Zhang",
+          "Tinghuan Yang",
+          "Shilin Li",
+          "Hong Zhang",
+          "Yu Chen",
+          "Chenglin Yang",
+          "Xiaopeng Zheng",
+          "Kui Zhao",
+          "Huiying Hao",
+          "Haibo Mao",
+          "Changli Ma",
+          "He Cheng",
+          "Nam-Gyu Park",
+          "Yuan Zhang",
+          "Huiqiong Zhou"
+        ],
+        "doi": "10.1038/s41467-026-79294-y",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 24 November 2026; doi:10.1038/s41467-026-79294-yEfficient perovskite solar cells require graded layered junctions, yet spacer-driven ion exchange offers poor control. Yue et al. added a preformed layered perovskite to direct vertical phase growth at the buried interface, improving efficiency, stability, and module scalability."
+      },
+      {
+        "title": "Iso-Seq enables discovery of novel isoform variants in human retina at single-cell resolution",
+        "link": "https://www.nature.com/articles/s41467-026-78606-6",
+        "pub_date": "2026-11-24",
+        "authors": [
+          "Luozixian Wang",
+          "Daniel Urrutia-Cabrera",
+          "Sandy Shen-Chi Hung",
+          "Alex W. Hewitt",
+          "Samuel W. Lukowski",
+          "Careen Foord",
+          "Peng-Yuan Wang",
+          "Hagen U. Tilgner",
+          "Raymond C. B. Wong"
+        ],
+        "doi": "10.1038/s41467-026-78606-6",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 24 November 2026; doi:10.1038/s41467-026-78606-6Iso-Seq enabled isoform discovery of human retina at single cell levels. This study revealed novel isoforms, splice junctions and alternative promoters across major retinal cell types, providing insights into the retinal transcriptomic landscape."
+      }
+    ]
+  }
+}
