@@ -1,0 +1,1188 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T13:57:18.759807+00:00",
+  "total_journals": 13,
+  "total_articles": 54,
+  "journals": {
+    "eLife": [
+      {
+        "title": "Male chickadees with better spatial cognition sire more extra-pair young",
+        "link": "https://elifesciences.org/articles/110905",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Angela M Pitera",
+          "Benjamin R Sonnenberg",
+          "Bronwyn G Butcher",
+          "Carrie L Branch",
+          "Eli Bridge",
+          "Irby Lovette",
+          "Joseph F Welklin",
+          "Lauren Benedict",
+          "Michael S Webster",
+          "Virginia K Heinen",
+          "Vladimir Pravosudov"
+        ],
+        "doi": null,
+        "journal": "eLife",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Ecology",
+        "abstract": "Across animal taxa, females commonly mate with more than one male, even in monogamous mating systems. These extra-pair copulations and resulting young may increase the fitness of the female via a variety of mechanisms. The ‘good genes’ hypothesis suggests that socially monogamous females mate outside their pair bond to increase the fitness of their offspring via indirect genetic benefits, because extra-pair males do not provide parental care. We tested this hypothesis by quantifying extra-pair paternity in nonmigratory, food-caching mountain chickadees (Poecile gambeli). Chickadees rely on spatial cognition to recover scattered food caches, and variation in spatial cognition is associated with increased survival, longer lifespan, and is heritable. However, less is known about the role of sexual selection on spatial cognitive abilities. In the current study, we found that (1) males with better spatial cognitive abilities sired more extra-pair young and produced heavier offspring in their own nests compared to their poorer-performing counterparts, and (2) extra-pair males had significantly better spatial cognition than the social males they cuckolded. These results suggest that sexual selection shapes the evolution of spatial cognition in food-caching chickadees and are consistent with the good genes hypothesis, which posits that females gain indirect genetic benefits via extra-pair young."
+      },
+      {
+        "title": "Yoda molecules agonize PIEZO2",
+        "link": "https://elifesciences.org/articles/111912",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Aashish Bhatt",
+          "Aneesh Chandrasekharan",
+          "Jerome Jacques Lacroix",
+          "Tharaka D Wijerathne",
+          "Yun Lyna Luo"
+        ],
+        "doi": null,
+        "journal": "eLife",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Structural Biology and Molecular Biophysics",
+        "abstract": "Mammalian PIEZO proteins (PIEZO1 and PIEZO2) act as essential mechanosensitive channels. PIEZO1 is thought to be selectively activated by Yoda molecules (Yoda1 and Yoda2). Although a molecular mechanism for PIEZO1 activation by Yoda1 exists, the origin of Yoda1 selective agonism remains obscure. Here, using electrophysiology and calcium imaging in transfected cells, we show that Yoda1 agonizes PIEZO2, but with a distinct efficacy profile compared to PIEZO1. Yoda1 increases single-channel open probability and macroscopic stretch sensitivity of PIEZO2 currents as efficaciously as reported for PIEZO1, but it elicits weak PIEZO2-dependent calcium influx in the absence of external stimulus, an effect detectable only under non-physiological conditions. Yoda1 slows down inactivation of indentation-evoked PIEZO2 currents, but to a lower extent compared to PIEZO1. The Yoda1 analog Dooku1, which does not modulate PIEZO1, slows down PIEZO2 inactivation similarly to Yoda1. Two PIEZO1 agonists unrelated to Yoda1 but thought to populate the same binding site in PIEZO1 have no effect on PIEZO2 inactivation, suggesting that their PIEZO1 selectivity is better than Yoda1. PIEZO2 inactivation is also modulated by Yoda1’s more potent analog Yoda2. Using mutagenesis and molecular dynamics simulations, we show that Yoda2’s benzoic acid group forms a transient salt-bridge with a conserved arginine in the Yoda binding site (R1724/R2029 in mouse PIEZO1/PIEZO2), explaining the higher potency of this analog for both channels. Together, our study re-evaluates the PIEZO1 selectivity of Yoda molecules and highlights a complex modulatory landscape toward distinct functional properties of PIEZO channels."
+      }
+    ],
+    "Nature Communications": [
+      {
+        "title": "Observationally-constrained CMIP6 projections of a snow-free Northern Hemisphere",
+        "link": "https://www.nature.com/articles/s41467-026-79797-8",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Yi Shen",
+          "Ting Wei",
+          "Bing Chen"
+        ],
+        "doi": "10.1038/s41467-026-79797-8",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 25 November 2026; doi:10.1038/s41467-026-79797-8This study presents a monthly emergent constraint based on observed warming that reduces CMIP6 inter-model variance and refines snow-free projections: Arctic summers become snow-free by 2040 s under SSP5-8.5, while snow disappearance is delayed by 7–34 years under SSP1-2.6 in vulnerable regions and months."
+      },
+      {
+        "title": "Atomic-resolution insights into interactions of rifampicin and rifamycin derivatives with orphan CYP143 of M. tuberculosis",
+        "link": "https://www.nature.com/articles/s41467-026-79387-8",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Andrei Gilep",
+          "Christopher MacCarthy",
+          "Marianna Karpova",
+          "Tatsiana Varaksa",
+          "Irina Grabovec",
+          "Veronika Karpushenkova",
+          "Leonid Kaluzhskiy",
+          "Evgeniy Yablokov",
+          "Ivan Kapranov",
+          "Sergey Bukhdruker",
+          "Elizaveta Dronova",
+          "Yuqi Yang",
+          "Tatsiana Sushko",
+          "Alena Karputs",
+          "Kouhei Tsumoto",
+          "Valentin Borshchevskiy",
+          "Natallia Strushkevich"
+        ],
+        "doi": "10.1038/s41467-026-79387-8",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 25 November 2026; doi:10.1038/s41467-026-79387-8The study reveals how the mutation associated with drug resistance facilitates the binding of rifampicin to the orphan enzyme of tubercular bacilli, thereby influencing protein-protein interactions. The findings explore pathogen adaptation mechanisms."
+      },
+      {
+        "title": "Carbon-neutral algal bloom management via algal organic matter repurposing",
+        "link": "https://www.nature.com/articles/s41467-026-79713-0",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Jianguo Zhang",
+          "Wenlin Jia",
+          "Yunxiao Jian",
+          "Lulu Qu",
+          "Shuang Zhao"
+        ],
+        "doi": "10.1038/s41467-026-79713-0",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 25 November 2026; doi:10.1038/s41467-026-79713-0Algal organic matter (AOM) is repurposed as a crosslinker with metal coagulants, forming gel flocs that activate dissolved oxygen and generate microbubbles. This self-driven flotation effectively removes algae and AOM while reducing carbon footprint."
+      },
+      {
+        "title": "SMYD1 trimethylates myosin K129 to restrain cardiomyocyte hypercontractility",
+        "link": "https://www.nature.com/articles/s41467-026-79720-1",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Lichao Liu",
+          "Eric Cordeiro-Spinetti",
+          "Hong Zeng",
+          "Kamilla Børve Nygård",
+          "Neha Nandwani",
+          "Shuo Liu",
+          "Wenshu Zeng",
+          "Hyeon Yu Kim",
+          "Sara Weirich",
+          "Jędrzej M. Małecki",
+          "Rama Reddy Goluguri",
+          "Erna Davydova",
+          "Aiping Dong",
+          "Juhyung Park",
+          "Rui Dong",
+          "Hanyang Dong",
+          "Emily Zahn",
+          "Xuchao Lyu",
+          "Xu Cao",
+          "Katrin F. Chua",
+          "Michael S. Kapiloff",
+          "Benjamin A. Garcia",
+          "James A. Spudich",
+          "Katherine M. Ruppel",
+          "Albert Jeltsch",
+          "Scott B. Rothbart",
+          "Levon Halabelian",
+          "Pål Ø. Falnes",
+          "Joseph C. Wu",
+          "Or Gozani"
+        ],
+        "doi": "10.1038/s41467-026-79720-1",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 25 November 2026; doi:10.1038/s41467-026-79720-1How the muscle-specific enzyme SMYD1 regulates heart contraction and contributes to inherited heart disease has remained unclear. Here, the authors show that SMYD1 modifies the motor protein myosin to restrain heart-cell contraction, linking loss of this activity to hypertrophic cardiomyopathy."
+      },
+      {
+        "title": "Basal mantle motion causes Pacific hotspot drift",
+        "link": "https://www.nature.com/articles/s41467-026-79518-1",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Xianzhi Cao",
+          "Sanzhong Li",
+          "Nicolas Flament",
+          "Yanhui Suo",
+          "Zhaoxia Jiang",
+          "Heda Wang",
+          "Dingshan Deng",
+          "Qiuling Liu"
+        ],
+        "doi": "10.1038/s41467-026-79518-1",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 25 November 2026; doi:10.1038/s41467-026-79518-1This study shows that the average southward drift of Pacific hotspots since 80 Ma is linked to the migration of the underlying basal mantle structure, driven by large-scale lower-mantle flow associated with asymmetric subduction around the Pacific."
+      },
+      {
+        "title": "Quantitative prediction model of FB-113-driven self-assembly nanopesticides",
+        "link": "https://www.nature.com/articles/s41467-026-79718-9",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Hui Zhang",
+          "Jiao Liu",
+          "Jikang Cheng",
+          "Xingnan Wang",
+          "Xinran Yu",
+          "Chengshuai He",
+          "Shuo Zhang",
+          "Hao Wu",
+          "Yongsong Cao",
+          "Congfen Gao",
+          "Yunhao Gao"
+        ],
+        "doi": "10.1038/s41467-026-79718-9",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 25 November 2026; doi:10.1038/s41467-026-79718-9Nanopesticides offer new opportunities to improve pesticide efficacy, but predicting the formation of self-assembled nanopesticides remains challenging. Here, the authors report that the fluorescent brightener FB-113 drives the self-assembly of various pesticides into nanoparticles and that their self-assembly propensity can be quantitatively predicted from pesticide molecular structure."
+      },
+      {
+        "title": "CD300LD drives osteoclastogenesis and inflammatory bone loss by sensing cholesterol and activating FES SYK STAT3",
+        "link": "https://www.nature.com/articles/s41467-026-79735-8",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Bolei Li",
+          "Yiling Li",
+          "Siyue Lai",
+          "Yue Li",
+          "Kaixin Yan",
+          "Xudong Wang",
+          "Kai Bao",
+          "Jinyi Ma",
+          "Juhao Pi",
+          "Biao Ren",
+          "Lei Zhao",
+          "Xi Chen",
+          "Yawen Zong",
+          "Hui Wang",
+          "Lei Cheng"
+        ],
+        "doi": "10.1038/s41467-026-79735-8",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 25 November 2026; doi:10.1038/s41467-026-79735-8Osteoclast overactivation causes inflammatory bone loss in periodontitis and arthritis. Here, the authors show that CD300LD drives osteoclastogenesis via a cholesterol-activated FES–SYK–STAT3 axis, and its deletion reduces bone loss and inflammation in mice."
+      },
+      {
+        "title": "Diabetes subtyping without HbA1c enhances identification of severe insulin-deficient diabetes",
+        "link": "https://www.nature.com/articles/s41467-026-79351-6",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Martin Schön",
+          "Oana P. Zaharia",
+          "Christian Binsch",
+          "Huishu Lin",
+          "Claudia H. T. Tam",
+          "Cadmon K. P. Lim",
+          "Gechang Yu",
+          "Klaus Strassburger",
+          "Tim Mori",
+          "Gidon J. Bönhof",
+          "Alexander Strom",
+          "Katsiaryna Prystupa",
+          "Kálmán B. Bódis",
+          "Iryna Yurchenko",
+          "Dania M. Mendez Cardenas",
+          "Yanislava Karusheva",
+          "Graciela E. Delgado",
+          "Marcus E. Kleber",
+          "Sema Kaya",
+          "Rainer Guthoff",
+          "Sandra Trenkamp",
+          "Volker Burkart",
+          "Dan Ziegler",
+          "Christian Herder",
+          "Oliver Kuss",
+          "Juliana C. N. Chan",
+          "Winfried März",
+          "Ronald C. W. Ma",
+          "Michael Roden",
+          "Robert Wagner"
+        ],
+        "doi": "10.1038/s41467-026-79351-6",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 25 November 2026; doi:10.1038/s41467-026-79351-6Here, the authors propose a simplified diabetes subtyping approach that excludes HbA1c. The approach more accurately identifies severe insulin-deficient diabetes and improves prediction of beta-cell dysfunction and retinopathy in the tested cohorts."
+      }
+    ],
+    "Advanced Science": [
+      {
+        "title": "Mitochondrial Protein Quality Control as a Hierarchical Defense System in Health and Disease",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78917?af=R",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Kehan Lin, Yixuan Ma, Pengyu Xu, Linhao Ruan, Kai Shu"
+        ],
+        "doi": "10.1002/advs.78917",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Spatial Synchronization and Determinants of Multidimensional Biodiversity and Endemism Across Multiple Taxa in China",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78914?af=R",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Ziyan Liao, Binhao Hao, Qi Xiao, Zhangchen Chi, Zeguang Guo, Yibo Hu, Gexia Qiao, Youhua Chen, Fuwen Wei, Huizhong Fan"
+        ],
+        "doi": "10.1002/advs.78914",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Lattice Distortion‐Modulated Sonocatalysis and Arachidonic Acid Metabolism for Enhanced Ferroptosis‐Driven Tumor Therapy",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78872?af=R",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Houliang Zhang, Weipu Mao, Wei Song, Meiqi Chang, Guiya Jiang, Xinran Song, Wei Feng, Jin Sun, Ming Chen, Bin Xu, Li Ding, Yu Chen, Shuqiu Chen"
+        ],
+        "doi": "10.1002/advs.78872",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "HspBp1 Promotes Tau Pathology and Cognitive Impairments by Inhibiting STUB1(CHIP)‐Mediated Tau Ubiquitination",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78674?af=R",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Cuiping Guo, Qinfeng Cai, Hebin Jiang, Wensheng Li, Linghao Zhang, Jianzhi Wang, Xiaochuan Wang, Liang Jing, Wei Zhu"
+        ],
+        "doi": "10.1002/advs.78674",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      }
+    ],
+    "Journal of Evolutionary Biology": [
+      {
+        "title": "Evolution at range margins: Moving beyond the \"evolutionary paradox\" of range limits.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43080104/",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Lyu S",
+          "Karrenberg S",
+          "Pannell JR"
+        ],
+        "doi": "10.1093/jeb/voag122",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "43080104",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": null
+      },
+      {
+        "title": "Marginal populations are evolutionarily heterogeneous: genetic signatures of population marginality in four European conifers.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43008307/",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Guadaño-Peyrot C",
+          "Olsson S",
+          "Francisco T",
+          "Lesur-Kupin I",
+          "Vendramin GG",
+          "Garzón MB",
+          "González-Martínez SC",
+          "Marchi M",
+          "Alía R",
+          "Grivet D"
+        ],
+        "doi": "10.1093/jeb/voag121",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "43008307",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Populations at ecological or geographic range limits experience distinctive genetic processes driven by demographic constraints, adaptation to atypical environments and reduced gene flow. These marginal populations can constitute valuable genetic resources, yet, the relationship between marginality and genetic variation remains poorly understood in forest trees. We investigated this relationship in four European conifers (Pinus pinea, Pinus pinaster, Pinus sylvestris and Taxus baccata), which share main life-history traits but represent contrasting demographic histories and evolutionary strategies. Across 230 native populations, we quantified six marginality indices related to climate, geography, or demographic history, together with five SNP-based genetic indicators describing inbreeding, genetic diversity and differentiation, genetic load, and genomic offset. Using a comparative multispecies framework, we assessed the influence of marginality on genetic indicators and evaluated the consistency of patterns across species. Historical (i.e., linked to the post-glacial colonization history) and climatic marginality mainly reflected species-specific evolutionary trajectories, whereas distance from the distribution centroid was consistently associated with lower genetic diversity and higher population differentiation across species. Importantly, marginality and genetic distinctiveness only partially overlapped, indicating that range-edge populations do not form a homogeneous evolutionary category. Overall, our findings highlight the key role of demographic isolation and historical processes in shaping genetic patterns at species' range limits. They also showed that marginal populations may represent either genetically vulnerable populations or reservoirs of unique evolutionary potential. Integrating genomic information with quantitative measures of marginality can improve assessment of population vulnerability, evolutionary resilience and conservation value in forest trees."
+      },
+      {
+        "title": "Partial clonality and the speed of range expansion along an environmental gradient.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42925148/",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Khare SB",
+          "Holt RD",
+          "Orive ME"
+        ],
+        "doi": "10.1093/jeb/voag113",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "42925148",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Reproductive mode interacts in important ways with patterns of spatial adaptation, such as expansion of species' ranges along environmental gradients. Partial clonality (both asexual/clonal and sexual reproduction) characterizes a broad range of taxa, including important species that structure many terrestrial and marine ecosystems as well as many pathogens, pests, and invasives. We explore the interplay of invasion and local adaptation under partial clonality using an individual-based model, with space modeled as a unidimensional landscape of grid cells. An environmental gradient exists along the direction of expansion, such that the optimal phenotype changes in this direction. We investigate how the fraction of clonal reproduction (${r_c}$) and the association between random components of parent and clonal offspring phenotype ($\\rho $) affect the speed of range expansion. We see slower expansion as amount of clonality (${r_c}$ or $\\rho $) increases, with a sharp drop at complete clonality (${r_c},\\rho $ = 1), indicating that only a small amount of sexual reproduction suffices for partially clonal populations to show very similar behavior to purely sexual populations-in clear contrast to what has been observed for spatial adaptation across two distinct demes with differing phenotypic optima. Expansion lag load (fitness differences between core and leading-edge sub-populations) is greatest at intermediate environmental gradient steepness, with both gradual and very steep change decreasing this lag load. Thus, clonality may hinder invasion by partially clonal species across an environmental gradient; the reproductive assurance benefits of asexual reproduction may be a better explanation for clonal species expansion in such cases."
+      },
+      {
+        "title": "Mating preference evolution has sex-opposite effects on species persistence under reproductive interference.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42905446/",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Ramakrishnan A",
+          "Kokko H",
+          "Keaney TA"
+        ],
+        "doi": "10.1093/jeb/voag095",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "42905446",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Reproductive interference, where interspecific mating activities have negative effects on reproductive output, can impact the expansion of one species' range into that of a related competitor. Theory to date suggests that if species recognition mechanisms evolve rapidly enough, the attenuation of reproductive interference may allow range expansions to proceed (a form of evolutionary rescue). Here, we show that sex differences cause evolvability not to have a uniformly positive effect on population fitness at the range front, nor on coexistence. We allow mate choice to evolve in males, where it takes the form of a courtship bias towards conspecific females, and/or in females, where a receptivity bias favours conspecific males. The beneficial effect of rapid evolution is highly contingent on (1) the asymmetry in the evolvability of mate preference between the two species and (2) the sex that controls the outcome of mating interactions. When female preferences dictate mating outcomes, rapid evolution increases the likelihood of range expansion by the fast evolving species, the other species being outcompeted. In contrast, rapid evolution of male mate choice has a detrimental effect on persistence in the zone of potential coexistence. We also show that if both sexes evolve their preferences, the female effect tends to override the male effect, and evolvability's net effect on population fitness remains positive. Thus, while rapid evolution of traits related to reproductive interference likely aid range expansion, case by case inference requires knowledge of the mating systems in question."
+      },
+      {
+        "title": "When do leading and rear edges of the range shift slower or faster than climate? Insights from a mathematical model.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42868546/",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Raoul G",
+          "Alfaro M",
+          "Ronce O"
+        ],
+        "doi": "10.1093/jeb/voag110",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "42868546",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Many species have spread towards cooler climates and/or went extinct at the warm margin of their range as a result of climate warming. The large diversity in observed range shifts however remains poorly understood. We here explore how evolution of the climatic niche at range margins may alter range shifts patterns. We use previously developed mathematical results to predict the velocity at which rear and leading edge move in an asexual species adapting to an environment that changes in space and time. As in previous studies, we find a critical climate change velocity beyond which the species cannot persist. We further predict the critical climate velocities, below which, the leading edge shifts faster than climate, or the species persists at its rear edge. We derive predictions along one-dimensional and two-dimensional ranges. We also examine the effect of a local disturbance on the velocity of range limits. Our simple mathematical model shows that evolution of species climatic niches at range margins can already generate a large diversity of types of range shift in a warming climate. This diversity is also observed in simulations assuming sexual reproduction or finite population sizes. The expectation of a simple climate tracking may therefore be too simplistic, underestimating the resilience capacity at the warm margins and either overestimating or underestimating the capacity for spread at the cold margin, with important consequences for management of biodiversity in a changing climate."
+      },
+      {
+        "title": "Adaptation to marginal habitats at the rear edge provides resilience to future warming.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42867217/",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Perrier A",
+          "Galloway LF"
+        ],
+        "doi": "10.1093/jeb/voag111",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "42867217",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Rear-edge populations are typically relicts of glacial refugia that persist in marginal habitats at the warmer edge of species distributions. Persistence likely required adapting to postglacial climate warming. The resulting climate adaptation may affect success under future climate change if adaptative strategies align with future conditions. We explored how rear-edge populations persist in their marginal climates, and whether any adaptations affect responses to expected future warming in the North American herb Campanula americana. We raised plants from 23 rear-edge and central populations in 3 common gardens spanning their natural climatic gradient. We evaluated performance across the life cycle in each garden to identify key life stages underlying climate adaptation at the rear edge. We then predicted population performance at the key stage under future climates. Local climate adaptation at the rear edge was mainly driven by whether plants were able to initiate bolting, thereby transitioning from vegetative growth to reproduction. Rear-edge populations exhibited high bolting frequency under local warm winters, while more northern populations failed to bolt in these conditions. Bolting is cued by winter cold (vernalization) in the species, but rear-edge climates provide only a few days sufficiently cold for effective vernalization. We found that rear-edge populations have adapted to these conditions by evolving reduced vernalization requirement and sensitivity. Under projected warmer winters, bolting is expected to decline at mid-latitudes, whereas rear-edge populations are predicted to maintain high bolting. Our findings highlight that adaptations that likely allowed rear-edge populations to persist under past warming may also buffer these populations against future warming."
+      },
+      {
+        "title": "Macroevolutionary insights into the range limits of species and lineages.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42858004/",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Ringelberg JJ"
+        ],
+        "doi": "10.1093/jeb/voag104",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "42858004",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Understanding the intrinsic and extrinsic factors that determine the range limits of species is an important goal in biology. Much work has focused on understanding the range limits of populations and individual species, whereas the factors that determine the distributions of evolutionary lineages have received less attention in the range limits literature. In this review, I highlight recent macroscale insights into the range limits of flowering plant lineages, and briefly compare these to findings from other taxa. Although life on Earth has managed to adapt to practically all environments, recent methodological and analytical advances in macroevolution and biogeography show that adaptation to novel environments is relatively rare: multiple large-scale studies estimate that well over 80% of speciation events are confined within their ancestral macroclimatic environment, or biome. This high degree of phylogenetic biome conservatism reflects that Earth is crossed by various major environmental adaptive barriers, or hard range limits, which strongly constrain the ranges of both species and lineages. These adaptive barriers differ significantly in how often they are surmounted: some barriers, such as fire, are crossed relatively frequently, whereas others, such as frost or salinity, delimit species' ranges over many millions of years. Some barriers thus structure the global distribution of terrestrial lineages more stringently than oceans between landmasses. Furthermore, broad congruencies in large-scale distributions of plants, animals, and fungi tentatively suggest that these are shaped by similar processes, and/or biotic interactions. Environmental adaptive barriers therefore provide an important framework for understanding the range limits of populations, species, and lineages."
+      },
+      {
+        "title": "The relationship between evolvability and plasticity under experimental warming across species' elevational ranges.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42852777/",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Narasimhan A",
+          "Willi Y"
+        ],
+        "doi": "10.1093/jeb/voag108",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "42852777",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Phenotypic variation among individuals of a population arises from differences in their genetics and environment. Variaton due to genetics and the environment may be correlated if they share underlying developmental mechanisms or selection histories. We tested empirically for links between plasticity and evolvability (genetic variance expressed on a mean-scale) over elevation gradients, on which species typically encounter predictable niche limits, range limits, and limits to adaptive evolution. We exposed plants from the elevational core and range edges of three montane and three alpine Brassicaceae species to experimental warming and measured key ecological traits that are divergent over elevation. Plasticity in these traits did not vary over elevational gradients, but populations with stronger multivariate plasticity had higher multivariate evolvability. Furthermore, the directions of multivariate plasticity and genetic variance-covariance (G-) matrices were modestly aligned in montane species but not in alpine species. Similar results were found between core and upper-edge populations, though to a weaker extent. Moreover, plasticity to warming seemed mostly non-adaptive, but slightly less so in alpine species. In summary, we provide evidence that populations that show greater environmentally induced variation to a particular cue, warming, also have higher evolvability, independent of their position along the elevational gradient. Yet, misalignment of plasticity particularly with selection indicates that plasticity may constrain persistence of montane and alpine plants under ongoing climate warming."
+      },
+      {
+        "title": "Native-range origin predicts genomic contribution in an experimental Mimulus guttatus invasion.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42809379/",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Becher H",
+          "Friedman J",
+          "Twyford AD"
+        ],
+        "doi": "10.1093/jeb/voag090",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "42809379",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Biological invasions and range expansions act as natural experiments for understanding evolutionary processes at and beyond a species' range margin. However, unlike manipulative experiments, invasions and range expansions are less genetically tractable and often involve genotypes of uncertain origin that are subject to complex evolutionary pressures. Here, we replay the earliest stages of the colonization of the widespread North American plant species Mimulus guttatus (synonym Erythranthe guttata) in the United Kingdom. We established a common garden in the invaded range using northern and southern native genotypes, allowed plants to freely mate and recruit, and quantified the genomic contribution made after five growing seasons using whole genome pooled sequencing (Pool-Seq). Despite having lower genome-wide variation, northern genotypes contributed disproportionately to the experimental population, which showed a two-fold excess of northern relative to southern ancestry, with 63%-70% northern contribution across chromosomes. The experimental population also showed extensive individual admixture, which we detected using diagnostic short sequences (k-mers) in the Pool-Seq data. Our results indicate that preadaptation of northern genotypes, despite reduced genome-wide variation, may have facilitated the successful range expansion of M. guttatus into the UK. This work also demonstrates how \"invade and resequence\" experiments can be used to dissect the genomic processes underlying expansion beyond a species' native range."
+      },
+      {
+        "title": "Failure to invest below-ground may limit the northern expansion of invasive knotweed: lessons from a two-phase transplant experiment.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42747169/",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Karrenberg S",
+          "Barni E",
+          "Bossdorf O",
+          "Danko H",
+          "Giaccone E",
+          "Parepa M",
+          "Richards CL",
+          "Sebesta N",
+          "Irimia RE"
+        ],
+        "doi": "10.1093/jeb/voag087",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "42747169",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "The ecological and evolutionary processes determining species distributions and range limits remain poorly understood. Ultimately, range limits depend on the species' abilities to persist under heterogeneous conditions by adaptive differentiation and phenotypic plasticity, including transgenerational effects. To investigate ecological differentiation and transgenerational effects in the clonal invasive knotweed, Reynoutria japonica, in its introduced range in Europe, we analyzed biomass production in a two-phase transplant experiment: Plants sampled along a latitudinal gradient were planted in three sites located throughout the range, and then re-transplanted among all three sites after two years. Biomass production and allocation in the second transplant phase were generally not associated with latitude of origin, and previous growth at the same site did not promote performance. We therefore found no evidence for adaptive differentiation or adaptive transgenerational effects. However, at the northern site, with a 25% shorter season, knotweed plants invested much less biomass below-ground, even though overwintering below-ground rhizomes are essential for the species' survival and spread. The pattern was further strengthened in plants that had previously grown in the northern site. We further explored limiting climate conditions in a species distribution model for the European range and found that mean annual temperature and temperature annual range are the main predictors of the European distribution of R. japonica. Taken together, our study suggests that low temperatures and associated short growing seasons may pose a limit to the broad environmental tolerance of R. japonica and restrict its northward spread by reducing below-ground biomass accumulation."
+      },
+      {
+        "title": "Resurrected in the field: benefits of rapid adaptation to historic drought seen mainly at the leading edge of a plant species' range.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42734253/",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Pennington LK",
+          "Sexton JP"
+        ],
+        "doi": "10.1093/jeb/voag088",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "42734253",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Montane plant populations are experiencing novel conditions due to climate change. Furthermore, climate change is causing increased climate perturbations, such as the 2012-2016 drought in the western US, remarkable in its aridity, longevity, and warmer temperatures. This drought provided an opportunity to understand how montane populations respond to extreme perturbations, including at species range limits. We resurrected seeds of the endemic annual plant, Erythranthe laciniata, collected before the drought and at the height of the drought, in a common garden experiment to understand how drought influenced evolution in contemporary field conditions. The study included nine populations across the species range, including elevational-based range edges. Over 2,100 replicates were sown in three common gardens at natural populations at low, central, and high elevations. We recorded phenology and flower production to estimate lifetime fitness. This experiment took place in 2021, a year with relatively low precipitation and high temperatures. We found higher fitness in the drought generation at the high garden, as well as the evolution of faster phenology. Additionally, we detected climate adaptation at the low and high gardens. Low-elevation populations outperformed central populations at the central garden, suggesting adaptive lags and mismatch with contemporary climate change. Together, these results indicate rapid contemporary adaptation that is beneficial at the leading edge of the species range. Nevertheless, low fitness at lower elevations may foreshadow range contraction under continued climate change."
+      },
+      {
+        "title": "Transitions in reproductive traits accompany biome shifts in New Zealand species of the plant genus Veronica.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42668141/",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Dale EE",
+          "Liddell LG",
+          "Tanentzap AJ",
+          "Thomas AE",
+          "Pannell JR"
+        ],
+        "doi": "10.1093/jeb/voag083",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "42668141",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Evolutionary transitions between contrasting trait values likely occur in response to selection in new or changing environments, and these trait changes may be particularly large when a lineage shifts to occupy a completely new habitat or biome. Biome shifts can have major effects on the evolution of the species involved, including anagenetic changes in morphology, physiology, or life history and accelerated cladogenesis and diversification. Biome shifts can also be viewed as movements beyond a range margin. These shifts involve overcoming the physiological barriers that previously limited establishment, but potentially also subsequent evolution in other traits under the new environmental and biotic conditions. We examined how shifts between contrasting lowland and mountain biomes corresponded with evolution of a series of vegetative and reproductive traits, particularly focusing on transitions between combined and separate sexes (hermaphroditism and dioecy or gynodioecy) and between pigmented and white flowers in New Zealand's largest native angiosperm clade, Veronica sect. Hebe. We found an association between the evolution of a dimorphic sexual system and occupying the mountain biome, but sexual system transitions and biome shifts did not coincide. White and pigmented flowers were associated with mountain and lowland biomes, respectively, with coupled biome shifts and colour transitions. These associations between biomes, sexual system and flower colour states are likely driven by differences in types and activity of pollinators between biomes. Our findings illustrate how important changes in reproductive traits can accompany biome shifts, with some changes being more closely coupled to biome shifts than others."
+      },
+      {
+        "title": "Temperature and soil microbial community interact to alter performance across populations of a native plant.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42642040/",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "McCrum KB",
+          "Anderson JT",
+          "Chung YA"
+        ],
+        "doi": "10.1093/jeb/voag075",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "42642040",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Contemporary environments are exposing species to novel climates and altered biotic interactions, both of which influence population persistence and geographic distributions. Here, we tested the interactive effects of soil microbial communities and temperature variation on traits and fitness of Elephantopus tomentosus (Asteraceae, L.), a perennial forb native to the southeastern U.S.A. In a growth chamber experiment, we tested whether plants are locally adapted to their home soil communities and temperatures, and whether local soil microbes could mitigate stresses associated with exposure to elevated temperatures. We exposed accessions from populations in the center and northern edge of the range to a fully factorial combination of three soil communities and two temperature levels, reflecting the current average temperature vs. potential future climates (+4 °C). We inoculated pots with field soils collected from the center of the range, the range-edge, or with a sterilized control. Plants experienced a greater reduction in reproductive fitness under elevated temperatures when exposed to sterile soil than when grown in live soil. Plants in soils from the center of the range had greater fecundity at elevated temperatures than those in northern range-edge soils and had increased growth rates under both temperatures, likely due to central-range specific microbes. Additionally, accessions from northern populations exhibited a greater reduction in fecundity under elevated temperatures than those sourced from the warmer central populations. Our study revealed that plant fitness varied with both temperature and soil microbes, highlighting the importance of accounting for biotic interactions in studies of the biological evolution of climate change."
+      },
+      {
+        "title": "The evolution of plasticity in drought-related traits in central and edge populations of Mimulus cardinalis.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42573504/",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Cook E",
+          "Albano LJ",
+          "Gomez-Vega X",
+          "Kutella K",
+          "Moazed M",
+          "Strebler M",
+          "Wang D",
+          "Muir CED",
+          "Flores-Renteria L",
+          "Sexton JP",
+          "Sheth SN",
+          "Diez J"
+        ],
+        "doi": "10.1093/jeb/voag068",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "42573504",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Phenotypic plasticity can influence population persistence, range dynamics, and evolutionary potential in heterogeneous landscapes. If adaptive, plasticity may buffer populations against environmental variability, climate change, and extreme events. Yet, few studies have examined how plasticity and its evolution vary across species' ranges. This is especially important for edge populations, which are often most vulnerable to novel conditions. The Climate Variability Hypothesis postulates that greater environmental variability selects for genotypes that exhibit greater phenotypic plasticity. However, field tests of this hypothesis across species' ranges remain rare. Using scarlet monkeyflower (Mimulus cardinalis), we combined a resurrection approach with common gardens to test whether (1) central and edge populations differ in plasticity in drought-associated traits, (2) there were evolutionary shifts in plasticity following an extreme drought, and (3) plasticity was adaptive. We measured plasticity in first flower date, specific leaf area, and leaf dry matter content across 2 leading-edge, 2 range-centre, and 2 trailing-edge populations, comparing pre-drought ancestors and post-drought descendants grown in 3 gardens spanning the latitudinal range following a historic drought event. We found significant plasticity in all traits, and plasticity in the date of first flower was greatest in trailing-edge populations that have experienced greater interannual variation in precipitation. Evolutionary changes in plasticity occurred in some populations but did not consistently increase first-year fitness. The adaptive value of plasticity was trait-specific. These results show that plasticity is shaped by both spatial and temporal environmental variation and highlight the need to examine trait- and population-level responses to understand selection on plasticity at range edges."
+      },
+      {
+        "title": "Geographical gradients in leaky sex expression and reproductive effort in a dioecious plant are consistent with selection during range expansion.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42287751/",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Nguyen MT",
+          "Pannell JR"
+        ],
+        "doi": "10.1093/jeb/voag044",
+        "journal": "Journal of Evolutionary Biology",
+        "source": "pubmed",
+        "pmid": "42287751",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Range expansion involves repeated dispersal and the establishment of new populations through colonization. Natural selection is therefore expected to favour traits that enhance dispersal and enable uniparental reproduction when mates are scarce. It is known that range-edge populations may evolve increased dispersal and, in hermaphroditic species, an enhanced capacity for self-fertilization. Here, we report results from a large common-garden experiment showing that males and females of the dioecious annual herb Mercurialis annua are more likely to show \"leaky\" or inconstant sex expression towards the recently colonized edge of its geographical distribution in Europe than those from the eastern Mediterranean Basin, from where the species expanded its range. Range-edge populations also had greater reproductive effort (RE). Leaky sex expression allows otherwise unisexual individuals of M. annua to produce progeny by self-fertilization, a trait that may have been selected to increase reproductive assurance during the range expansion. High RE likely facilitated both colonization and subsequent population establishment. Our results show that selection during range expansions may modify reproductive traits towards range margins, extending this notion to the phenomenon of leaky sex expression in dioecious species. Previous work has shown that leaky sex expression in M. annua is strongly heritable; our results now further suggest that has been enhanced by selection for reproductive assurance towards range margins and confirm, in a natural setting, that the trait is not just an expression of developmental instability during floral development or a relic of an incomplete transition to dioecy."
+      }
+    ],
+    "Nature Reviews Earth & Environment": [
+      {
+        "title": "Artificial intelligence and machine learning for short-to-medium range weather prediction",
+        "link": "https://www.nature.com/articles/s43017-026-00849-0",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Marina Astitha",
+          "Sue Ellen Haupt",
+          "Imme Ebert-Uphoff",
+          "Yuhan Rao",
+          "Rob Redmon",
+          "David John Gagne II",
+          "David Hall",
+          "Amy McGovern"
+        ],
+        "doi": "10.1038/s43017-026-00849-0",
+        "journal": "Nature Reviews Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Reviews Earth & Environment, Published online: 25 November 2026; doi:10.1038/s43017-026-00849-0Short-to-medium range weather prediction is increasingly being transformed by artificial intelligence (AI). This Review discusses the development of AI weather prediction systems, their applications and integration with conventional models, key challenges, and strategies to improve forecast accuracy, reliability and trust."
+      }
+    ],
+    "Microbiological Research": [
+      {
+        "title": "Homologous ParDE toxin-antitoxin systems exhibit asymmetric cross-neutralization and drive membrane blebbing in Vibrio coralliilyticus.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43077938/",
+        "pub_date": null,
+        "authors": [
+          "Tang H",
+          "Wang W",
+          "Ruan Y",
+          "Wang X",
+          "Wang W",
+          "Xiong W",
+          "Wang X",
+          "Wang P"
+        ],
+        "doi": "10.1016/j.micres.2026.128835",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43077938",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "ParDE toxin-antitoxin (TA) systems are widespread in bacterial chromosomes and mobile genetic elements. ParE toxins function as DNA gyrase inhibitors, whereas their cognate ParD antitoxins are classified into multiple Pfam lineages, with ParD (PF02604) representing the most abundant group but functionally underexplored group. Here, we investigated three homologous ParDE (PF02604) systems encoded on chromosome I of the coral pathogen Vibrio coralliilyticus SCSIO 43001. Comparative genomic analysis revealed that the three loci are located within a variable chromosomal region and also indicated that related modules are broadly distributed among bacteria. Heterologous expression in Escherichia coli showed that ParE-1 and ParE-3 strongly inhibited growth and induced filamentation, whereas ParE-2 exhibited no detectable toxicity. Mutational analysis identified Val68 and Gly80 as key residues required for ParE-3 activity. Dual-expression and colony-forming-unit assays revealed asymmetric neutralization: ParD-1 protected against ParE-1 and ParE-3, whereas ParD-2/3 protected against ParE-1 but did not significantly restore viability during ParE-3 expression. Time-lapse microscopy combined with Live/Dead staining captured the dynamic sequence of ParE-mediated killing in the native host V. coralliilyticus. Overexpression of ParE-1 in the native host V. coralliilyticus led to extensive DNA degradation, followed by cell elongation, membrane blebbing, and ultimately cell lysis. Fluorescence imaging showed ParE-1 enrichment within blebs, linking toxin localization to bleb formation. These findings reveal marked functional divergence and asymmetric cross-neutralization among closely related ParDE (PF02604) modules."
+      }
+    ],
+    "Nature Reviews Microbiology": [
+      {
+        "title": "Integrating partner violence into HIV prevention and care for women",
+        "link": "https://www.nature.com/articles/s41579-026-01371-2",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Claudia P. Cortes"
+        ],
+        "doi": "10.1038/s41579-026-01371-2",
+        "journal": "Nature Reviews Microbiology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Reviews Microbiology, Published online: 25 November 2026; doi:10.1038/s41579-026-01371-2Intimate partner violence can undermine women’s ability to access and safely use HIV prevention and treatment worldwide. HIV services and research must move beyond documenting violence to adopt confidential, flexible, trauma-informed care, trained first-line support and feasible referral pathways that protect biomedical effectiveness when women’s autonomy is constrained."
+      }
+    ],
+    "Science Bulletin": [
+      {
+        "title": "Genome-wide association and proteogenomic analyses dissect the genetic architecture of hypertension subtypes.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43078751/",
+        "pub_date": null,
+        "authors": [
+          "Liu Y",
+          "Ni Y",
+          "Zhao A",
+          "Lefai E",
+          "Li X",
+          "Li P",
+          "Wang X",
+          "Chen Y",
+          "Deng C",
+          "Wang C",
+          "Zhao H",
+          "Wu G",
+          "Yang Y"
+        ],
+        "doi": "10.1016/j.scib.2026.11.008",
+        "journal": "Science Bulletin",
+        "source": "pubmed",
+        "pmid": "43078751",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": null
+      },
+      {
+        "title": "Genomic atlas of 7000 plasma proteins and their associations with diseases and traits in East Asian populations.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43078750/",
+        "pub_date": null,
+        "authors": [
+          "Pozarickij A",
+          "Wang B",
+          "Edris A",
+          "Lin K",
+          "Morris S",
+          "Kartsonaki C",
+          "Wright N",
+          "Fry H",
+          "Chen Y",
+          "Du H",
+          "Bennett D",
+          "Yang L",
+          "Avery D",
+          "Schmidt Valle D",
+          "Li L",
+          "Lv J",
+          "Yu C",
+          "Sun D",
+          "Pei P",
+          "Chen J",
+          "Hill M",
+          "Peto R",
+          "Collins R",
+          "Clarke R",
+          "Millwood IY",
+          "Chen Z",
+          "Walters RG",
+          "China Kadoorie Biobank Collaborative Group"
+        ],
+        "doi": "10.1016/j.scib.2026.10.060",
+        "journal": "Science Bulletin",
+        "source": "pubmed",
+        "pmid": "43078750",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Proteogenomic studies have transformed target discovery, yet remain heavily biased toward European populations. We present a proteogenomic atlas in a non-European population, involving 7289 SomaScan aptamers targeting human proteins in 3965 Chinese adults. Genome-wide association analyses identified 3212 protein quantitative trait loci (pQTLs), including 1093 proteins with a cis-pQTL. Integrating these data with proteome-wide East Asian phenotypes and disease outcomes, we identified 7903 protein-phenotype associations with strong colocalisation support (PP.H4 >0.8). Mendelian randomisation analyses using cis-pQTL instruments further prioritised 1332 protein-phenotype associations, with 572 high-confidence pairs supported by both colocalisation and causal inference. Notably, 113 of these high-confidence associations were driven by ancestry-specific pQTLs that are rare or absent in Europeans, most prominently involving lipid metabolism and cardiovascular disease. Together, this study expands the global proteogenomic landscape and establishes a publicly valuable atlas of genetically anchored protein-phenotype relationships, providing a foundational resource for future genetic, functional, and translational studies, including drug-target prioritisation and risk-benefit assessment."
+      }
+    ],
+    "Water Research": [
+      {
+        "title": "Wetland mitigated excessive N(2)O concentrations for urban river-wetland continuum.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43077739/",
+        "pub_date": null,
+        "authors": [
+          "Qin H",
+          "Zhang S",
+          "Xia F",
+          "Jiang D",
+          "Guo H",
+          "Tan Q",
+          "Wan H",
+          "Cai Y"
+        ],
+        "doi": "10.1016/j.watres.2026.127408",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43077739",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Urban waters are potent sources of N2O. The mechanism by which interconnected wetlands and rivers (i.e., river-wetland continuum) regulate N2O dynamics in urban waters remains unclear. This study investigated the spatiotemporal patterns and microbial mechanisms underlying N2O dynamics within the urban river-wetland continuum (URWC) in Guangzhou, China, across wet and dry seasons. Excessive N2O concentrations (ΔN2O) were generally higher in urban rivers (UR) than in urban wetland rivers (WR), with a wider range of seasonal medians in UR (31-63 nmol L-1) than in WR (23-33 nmol L-1). UR generally exhibited higher concentrations of total nitrogen (TN), nitrate nitrogen (NO3N), and ammonium nitrogen (NH4N) than WR. Isotope-based source partitioning identified bacterial denitrification (bD) as the dominant N2O-producing pathway in the URWC, with a greater relative contribution in UR (60.7%) than in WR (51.6%). In contrast, genes involved in NH4+ assimilation (gltB/D/S, gdhA, and glnA) and NO3- assimilation (narA/B, nasA/B/D/E, and nirA/B) were significantly more abundant in WR than in UR. Although the nosZ/(nirS + nirK) ratio did not differ significantly between UR and WR, isotope-derived estimates indicated a higher N2O reduction fraction in WR (91%) than in UR (87%). These findings suggest that nitrogen availability and microbial N2O production and reduction processes may jointly influence ΔN2O in the URWC. These findings highlight the importance of maintaining urban wetlands and controlling external nitrogen inputs to limit N2O accumulation and potentially mitigate emissions in connected urban waters."
+      },
+      {
+        "title": "Combined sewer overflows drive acute but transient antimicrobial resistance exposure in an urban stream.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43077736/",
+        "pub_date": null,
+        "authors": [
+          "Konyali D",
+          "Mayer RP",
+          "Schubert S",
+          "Kneis D",
+          "Benisch J",
+          "Terán-Velásquez G",
+          "Erdem ED",
+          "Tskhay F",
+          "Oertel R",
+          "Krebs P",
+          "Berendonk TU",
+          "Klümper U"
+        ],
+        "doi": "10.1016/j.watres.2026.127406",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43077736",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Combined sewer overflows (CSOs) are a major pathway for untreated wastewater into urban streams, yet their role in shaping antimicrobial resistance (AMR) dynamics remains poorly understood. Here, we used high-frequency, time-resolved sampling during two storm-triggered CSO events across two monitoring locations and one stormwater-only comparator site in an urban stream to quantify how these disturbances affect microbial communities, antibiotic resistance genes (ARGs), and mobile genetic elements (MGEs). CSO events caused rapid, up to 200-fold, increases in bacterial, potentially pathogenic taxon-associated, and ARG abundance, with multiple transient peaks occurring within single overflow episodes. However, these increases were largely proportional to the total bacterial load, and most ARGs and MGEs were not enriched in relative abundance, consistent with the introduction of resistance-associated microbial material during overflows, although in situ selection cannot be excluded. Concentrations were lower downstream despite additional CSO inputs, and both microbial and resistance signals declined after each event, although absolute abundance did not return to the pre-event range. This demonstrates that CSOs generate pronounced but transient increases in water-column ARG concentrations, while their potential contribution to longer-term resistance establishment remains unresolved. This has important implications for urban water management under increasingly extreme rainfall conditions."
+      },
+      {
+        "title": "Extracellular electron flow drives CO(2)-to-CH(4) conversion by reprogramming carbon metabolism in anaerobic biofilms.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43077737/",
+        "pub_date": null,
+        "authors": [
+          "Tian J",
+          "Zhang X",
+          "Zhang P",
+          "Ji B",
+          "Liu Y"
+        ],
+        "doi": "10.1016/j.watres.2026.127401",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43077737",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Anaerobic carbon conversion is constrained by the diversion of a substantial fraction of organic carbon to CO2, limiting its recovery as methane. Conductive materials can enhance extracellular electron transfer and methanogenesis, yet whether extracellular electron flow can reshape intracellular carbon metabolism to determine the fate of CO2 remains unknown. Here, we demonstrate that electron flow functions as a metabolic control layer that redirects carbon flux from CO2 accumulation toward methane formation. Incorporation of a redox-active tannic acid-iron-modified biochar (TA-FeBC) into an anaerobic fixed-biofilm reactor increased methane content from 69.3% to 90.1%, enabling direct biogas upgrading without external energy input. Mechanistic analyses revealed that the TA-FeBC-biofilm interface established a preferential electron-routing pathway through cytochrome c, thereby bypassing conventional NADH-dependent electron allocation. This alternative electron-delivery route reconfigured intracellular redox balance, relieved constraints on reductive carbon assimilation, and coordinately activated the Wood-Ljungdahl and reductive glycine pathways. Accordingly, the key carbon-fixation gene acsE increased 4.22-fold in transcriptomic analysis and 15.0-fold by RT-qPCR. In situ spectroscopic analyses captured the sequential formation of *COOH, *CHO, *CO, and *CH3O along the CO2-reduction pathway, while 13C isotope tracing directly confirmed the conversion of inorganic carbon into methane. These results reveal an electron-directed route for biological CO2-to-CH4 conversion, demonstrating that extracellular electron flow can function beyond energy conservation to reprogram intracellular redox allocation and carbon assimilation. This work establishes extracellular electron flow as a mechanistic determinant of carbon fate, providing a new framework for directing anaerobic carbon conversion through interfacial electron-flow control."
+      },
+      {
+        "title": "Lagged dissolved organic matter and microbial recovery reveals a biogeochemical legacy effect of coastal oxygen depletion.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43077738/",
+        "pub_date": null,
+        "authors": [
+          "Li YQ",
+          "Zhu ZY",
+          "Yang LY",
+          "Zhu Z",
+          "Zhu YL",
+          "Yang Z",
+          "Wang B",
+          "Ran LH",
+          "Cui Y",
+          "Zhang GS",
+          "Fang FT",
+          "Zhang ZH",
+          "Wang YF",
+          "Meng QC",
+          "Zhou F"
+        ],
+        "doi": "10.1016/j.watres.2026.127394",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43077738",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Seasonal oxygen depletion repeatedly exposes coastal dissolved organic matter (DOM) to redox oscillations, yet whether associated DOM and microbial changes persist after oxygen recovery remains unclear. This uncertainty limits our understanding of the biogeochemical consequences of seasonal oxygen depletion for coastal carbon cycling. To address this gap, we conducted four seasonal cruises spanning pre-depletion, oxygen-depletion, and early-reoxygenation stages on the East China Sea shelf. We combined optical and Fourier transform ion cyclotron resonance mass spectrometry (FT-ICR MS) characterization, 16S rRNA gene sequencing, and network analysis to investigate variations in DOM composition, potential molecular transformations, bacterial communities, and bacteria-DOM coupling. During oxygen depletion, higher apparent oxygen utilization (AOU) was associated with higher O/C and island-of-stability compound contributions, while putative sulfurization and nitrogen incorporation reached their highest relative contributions. During early reoxygenation, DOM molecular composition and properties showed no significant directional recovery toward pre-depletion conditions, while putative degradation/mineralization reached its highest relative contribution. Bacterial communities showed significant but incomplete recovery, while low-oxygen-adapted families remained prominent and bacteria-DOM networks retained reduced modularity and transitivity. These delayed recovery patterns suggest an early-reoxygenation legacy effect within the observational window, indicating that the influence of seasonal oxygen depletion on coastal DOM cycling and microbial associations may extend beyond the period of strongest oxygen depletion."
+      },
+      {
+        "title": "Seasonal dynamics of polycyclic aromatic compounds in the Bohai Sea and Northern Yellow Sea: Roles of riverine inputs and hydrodynamic mixing.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43077735/",
+        "pub_date": null,
+        "authors": [
+          "Zhang L",
+          "Zhao J",
+          "Cai M",
+          "Cao Z",
+          "Zhang J",
+          "Wu R",
+          "Li S",
+          "Li Y",
+          "Tang J"
+        ],
+        "doi": "10.1016/j.watres.2026.127399",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43077735",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Polycyclic aromatic compounds (PACs), encompassing polycyclic aromatic hydrocarbons (PAHs) and potentially more toxic derivatives, are widespread contaminants in coastal environments, yet their seasonal dynamics remain poorly understood. This study comprehensively assesses seasonal PAC cycling by integrating occurrence, phase partitioning, riverine export fluxes, environmental drivers, and chemical prioritization. PACs were measured in dissolved and particulate phases across the Bohai Sea, the Northern Yellow Sea, and major inflowing rivers during summer 2022 and winter 2023. Seawater Σ71PAC concentrations were significantly higher in summer (130 ± 74 ng/L) compared to winter (88 ± 39 ng/L), largely driven by alkyl-PAHs. Riverine export fluxes were also higher during the wet season (6.8 × 103 kg/month) than the dry season (2.0 × 103 kg/month). Multiple lines of evidence indicated stronger riverine control in summer, whereas hydrodynamic mixing and sediment resuspension may play a greater role in winter. Oxygen-PAHs exhibited distinct spatiotemporal dynamics, suggesting a possible contribution from additional transformation processes, particularly in summer. Toxicological prioritization index analysis identified a seasonally persistent group of high-priority PACs that included several alkyl-PAHs. These findings suggest a seasonal transition from external riverine loading in summer to internal sediment remobilization in winter, and highlight the importance of season-specific assessments that include PAH derivatives. The methodological framework and findings of this research provide critical insights into the seasonal cycling and environmental behavior of PACs in coastal oceans."
+      },
+      {
+        "title": "Janus-coated cation exchange membrane enhances anti-scaling performance in electrodialysis through divalent-ion restriction and interfacial hydration.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43077740/",
+        "pub_date": null,
+        "authors": [
+          "Yao Y",
+          "Lu Y",
+          "Chen Y",
+          "Zhou S",
+          "Guo J",
+          "Tian R",
+          "Lin Y",
+          "Shen J",
+          "Lin Y"
+        ],
+        "doi": "10.1016/j.watres.2026.127384",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43077740",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Inorganic scaling severely constrains the long-term electrodialysis (ED) operation in high-salinity, high-hardness wastewaters and brines, where CaCO3 and M(OH)2 (M = Ca or Mg) accelerate voltage increase and membrane resistance growth. To address this limitation, a Janus-coated cation exchange membrane (CEM) was developed to suppress scaling-induced resistance growth without altering the sulfonated polysulfone (SPSF) backbone. The asymmetric interface combined a poly(ethylenimine) (PEI)-containing layer on one side to restrict divalent-cation penetration with a highly sulfonated SPSF coating on the opposite side to promote interfacial hydration. In 10 h recirculating M(OH)2 scaling tests, the Janus PEI-SPSF-30 membrane reduced scaling-induced resistance growth by 90.0%-95.9% at current densities of 10-30 mA·cm-2 relative to pristine SPSF. Furthermore, PEI-SPSF-30 exhibited a resistance increase of only 0.68 Ω·cm2, compared with 67.97 Ω·cm2 for SPSF, corresponding to a 99.0% reduction in resistance growth after 72 h at 30 mA·cm-2. Simulations further showed that Ca2+ and Mg2+ were mainly confined within 0 to -10 Å of the membrane surface, while deeper penetration (-30 to -45 Å) was largely suppressed. This work highlights the role of interfacial asymmetry in controlling membrane scaling and provides a valuable reference for designing scaling-resistant ED membranes for resource recovery from high-salinity, high-hardness wastewaters."
+      },
+      {
+        "title": "Disentangling relic DNA via PMA/PMAxx™ reveals obscured viable microbial risks in ballast water and sediment.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43077734/",
+        "pub_date": null,
+        "authors": [
+          "Xue Z",
+          "He H",
+          "Xu Z",
+          "Han Y",
+          "Tian W",
+          "Wang Y",
+          "Wei X",
+          "Yu P",
+          "Zhang W"
+        ],
+        "doi": "10.1016/j.watres.2026.127380",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43077734",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Ballast water accelerates biological invasions by dispersing viable microbes, but conventional DNA sequencing is confounded by relic DNA, obscuring true community composition. Critically, how well current viability-resolved methods perform across ballast water versus sediment matrices remains poorly unresolved. Here, we systematically evaluated PMA, PMAxx™, and RNA-based approaches across ballast water and sediment using 16S rRNA amplicon sequencing, absolute qPCR, and metagenomic assembly. We found that relic DNA, quantified via qPCR, accounted for ∼70% of the total DNA pool in ballast water-artificially inflating diversity estimates and masking rare viable taxa-whereas its interference in sediment was marginal. PMA/PMAxx™ suppressed relic DNA-associated amplification, but efficacy varied markedly by matrix: PMAxx™ outperformed PMA in ballast water, whereas their relative performance in sediment was less consistent, with no clear superiority. Notably, both PMA-based methods outperformed RNA-based sequencing in terms of stability and inter-replicate consistency across multiple metrics. Metagenomic recovery further confirmed that relic DNA substantially compromised metagenomic assembly and abundance estimates of low-abundance taxa. Collectively, our findings provide a matrix-adapted framework for accurate microbial monitoring in ballast ecosystems, with direct implications for biosecurity risk assessment and global shipping surveillance."
+      },
+      {
+        "title": "From \"activation\" to accelerated decay: solvent-coupled destabilization of ferrate(VI) under ultraviolet irradiation.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43077733/",
+        "pub_date": null,
+        "authors": [
+          "He Z",
+          "Li C",
+          "Su J",
+          "Wu C",
+          "Zhu X",
+          "Li Y",
+          "Ren C"
+        ],
+        "doi": "10.1016/j.watres.2026.127313",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43077733",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Ultraviolet (UV) irradiation is widely used to activate ferrate(VI) [Fe(VI)], yet its effect on the persistence and OAT contribution of high-valent iron intermediates remains unclear. Here, UV accelerated pollutant removal but simultaneously promoted Fe(VI)-derived oxidant decay. PMSO probing showed that PMSO2 yield decreased from 78.25% to 26.19% under UV, and correction for PMSO2 photochemical loss confirmed a substantial loss of oxygen-atom-transfer-active species. QCM-D further showed that the rapid Fe(III)-containing deposition period shortened from 284 to 147 min. Multiscale calculations revealed that near-UV excitation induces strong solvent-to-[FeO4]2- charge redistribution and perturbs the hydrated coordination environment. Conditional PMF calculations excluded a simple barrierless proton-transfer mechanism, whereas SMD and metadynamics identified coupled solvent approach, coordination rearrangement, and proton motion. These findings redefine UV activation of Fe(VI) as photoinduced destabilization of a solvent-sensitive high-valent iron coordination environment."
+      }
+    ],
+    "Nature Water": [
+      {
+        "title": "Feasibility is not the only measure of value in water research",
+        "link": "https://www.nature.com/articles/s44221-026-00758-y",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Prithvi Simha"
+        ],
+        "doi": "10.1038/s44221-026-00758-y",
+        "journal": "Nature Water",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Water, Published online: 25 November 2026; doi:10.1038/s44221-026-00758-yIt is reasonable to ask how water research might matter in practice. It is less reasonable to expect every early-stage study to answer that question fully."
+      },
+      {
+        "title": "Health impacts of urban water network upgrades from the PAASIM matched cohort trial in Beira, Mozambique",
+        "link": "https://www.nature.com/articles/s44221-026-00756-0",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Matthew C. Freeman",
+          "Courtney P. Victor",
+          "Joshua V. Garn",
+          "Rebecca Kann",
+          "Christine S. Fagnant-Sperati",
+          "Erin Kowalsky",
+          "João Luís Manuel",
+          "Magalhães Mangamela",
+          "Sandy McGunegill",
+          "Molly K. Miller-Petrie",
+          "Jedidiah S. Snyder",
+          "Lance Waller",
+          "Thomas Clasen",
+          "Konstantinos T. Konstantinidis",
+          "Joe Brown",
+          "Rassul Nalá",
+          "Karen Levy",
+          "Veronica Candida Mariano Casmo",
+          "Sydney Hubbard",
+          "Antonio Francisco Junior",
+          "Joaquim Domingos Lequechane",
+          "Lilly A. O’Brien",
+          "Zaida Adriano Cumbe",
+          "Maria Sonia Airone",
+          "Génifa Cleide Banze",
+          "Isabel Chiquele",
+          "Ivânia Loide Chume Cossa",
+          "Marcelo Brito Joaquim Fernandes",
+          "Ligia Jorge",
+          "Gerson Manuel José De Melo",
+          "Bacelar M. B. Muneme",
+          "Mario Mungoi",
+          "Avelina José Sambo",
+          "Ricardina Cirilo Timóteo",
+          "Helena do Rosário Cipriano",
+          "Arnaldo Amenosse Cumbana",
+          "Ilidio Daniel Dava",
+          "Eunice Maria Cláver Dias",
+          "José Coma Fraqueza",
+          "Yarrow Linden",
+          "Ginate Budane Mepimba",
+          "Aniceto Mendes Calisto Lourenço Muailime",
+          "Rufino Marcos Sebastião",
+          "Nicolette A. Zhou",
+          "Toheedat Aderemi Bakare",
+          "Amanda Lai"
+        ],
+        "doi": "10.1038/s44221-026-00756-0",
+        "journal": "Nature Water",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Water, Published online: 25 November 2026; doi:10.1038/s44221-026-00756-0Urban water infrastructure investments aim to reduce exposure to enteric pathogens and improve child health. Assessment of the effects of neighbourhood-level water infrastructure improvements in Beira, Mozambique, suggests that such improvements are associated with lower individual pathogen and co-infection prevalence, although they did not reduce diarrhoea, improve growth or affect child mortality."
+      }
+    ],
+    "Communications Earth & Environment": [
+      {
+        "title": "Chronobiology reveals the hidden temporal organization of European beech forest phenology",
+        "link": "https://www.nature.com/articles/s43247-026-04246-9",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Sofia Bajocco",
+          "Carlo Ricotta",
+          "Simone Bregaglio"
+        ],
+        "doi": "10.1038/s43247-026-04246-9",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 25 November 2026; doi:10.1038/s43247-026-04246-9European beech forests show region-specific seasonal timing, with spring leaf-out being event-driven while autumn changes are more closely synchronized with annual climate rhythms, as shown by satellite time series measurements combined with climate data."
+      }
+    ],
+    "Nature Genetics": [
+      {
+        "title": "Uncovering directionally and temporally variable genes with STAVAG",
+        "link": "https://www.nature.com/articles/s41588-026-02853-y",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Qunlun Shen",
+          "Kuo Gai",
+          "Shang Li",
+          "Fangkun Yang",
+          "Hanbin Cui",
+          "Shuqin Zhang",
+          "Shihua Zhang"
+        ],
+        "doi": "10.1038/s41588-026-02853-y",
+        "journal": "Nature Genetics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Genetics, Published online: 25 November 2026; doi:10.1038/s41588-026-02853-yThis study introduces the concepts of directionally and temporally variable genes and develops STAVAG to identify them, prioritizing candidate genes for downstream experiments and potential clinical applications."
+      }
+    ],
+    "Nature": [
+      {
+        "title": "A powerful HIV vaccine is finally within reach — thanks to these super antibodies",
+        "link": "https://www.nature.com/articles/d41586-026-03718-4",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Ewen Callaway"
+        ],
+        "doi": "10.1038/d41586-026-03718-4",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03718-4Potent immune responses against diverse HIV strains have ignited the field, but major hurdles remain."
+      },
+      {
+        "title": "From sketch to publication-ready flowchart: how AI tools can bridge the gap",
+        "link": "https://www.nature.com/articles/d41586-026-03513-1",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Ensar Aydemir"
+        ],
+        "doi": "10.1038/d41586-026-03513-1",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03513-1The use of generative AI is a practical way to translate hand-drawn scientific diagrams into digital formats without handing over total control, explains Ensar Aydemir."
+      },
+      {
+        "title": "Gut microbes can adapt to our ageing bodies",
+        "link": "https://www.nature.com/articles/d41586-026-03268-9",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "John A. Lees"
+        ],
+        "doi": "10.1038/d41586-026-03268-9",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03268-9A study of more than 10,000 individuals reveals specific mutations in gut bacteria that arise during human ageing, but few mutations associated with disease."
+      },
+      {
+        "title": "The Mona Lisa Lottery",
+        "link": "https://www.nature.com/articles/d41586-026-03521-1",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Gretchen Tessmer"
+        ],
+        "doi": "10.1038/d41586-026-03521-1",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03521-1Worth the wait."
+      },
+      {
+        "title": "The world has a golden chance to improve HIV prevention: don’t squander it",
+        "link": "https://www.nature.com/articles/d41586-026-03809-2",
+        "pub_date": "2026-11-25",
+        "authors": [],
+        "doi": "10.1038/d41586-026-03809-2",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03809-2Generic versions of an effective HIV drug have been approved, and an HIV vaccine is on the horizon. Now is no time for funders to take their foot off the pedal."
+      },
+      {
+        "title": "Succumbing to certainty is a failure in science",
+        "link": "https://www.nature.com/articles/d41586-026-03837-y",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Dom Byrne"
+        ],
+        "doi": "10.1038/d41586-026-03837-y",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03837-yResearchers can face pressure from policymakers and politicians to provide single, definitive answers to complex challenges. They should resist, says Andy Stirling."
+      },
+      {
+        "title": "‘If we can solve Riemann, what can’t we do?’: mathematicians shocked and excited by AI breakthroughs",
+        "link": "https://www.nature.com/articles/d41586-026-03835-0",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Davide Castelvecchi",
+          "Elizabeth Gibney"
+        ],
+        "doi": "10.1038/d41586-026-03835-0",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03835-0Awe, anxiety and opportunity: mathematics community shares mixed emotions following the solution of the field’s biggest unsolved problem."
+      },
+      {
+        "title": "Just eight universities dominate Nobel and other top economics prizes",
+        "link": "https://www.nature.com/articles/d41586-026-03333-3",
+        "pub_date": "2026-11-25",
+        "authors": [
+          "Sarah Wild"
+        ],
+        "doi": "10.1038/d41586-026-03333-3",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03333-3Economics is the outlier — top prizes in science, engineering and other social sciences go to researchers at a greater variety of institutions."
+      }
+    ]
+  }
+}
