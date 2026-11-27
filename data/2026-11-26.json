@@ -1,9 +1,1134 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-27T00:20:56.733245+00:00",
-  "total_journals": 20,
-  "total_articles": 97,
+  "generated_at": "2026-11-27T13:31:52.296158+00:00",
+  "total_journals": 31,
+  "total_articles": 145,
   "journals": {
+    "Scientific Data": [
+      {
+        "title": "A Genome Assembly of Fusarium ipomoeae strain F-1",
+        "link": "https://www.nature.com/articles/s41597-026-08725-8",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Yujin Chen",
+          "Xiaokai Liu",
+          "Yafei Feng",
+          "Qiannan Liu",
+          "Muhammad I. Maulana",
+          "Yaseen Ahmad",
+          "Boris Stojilković",
+          "Yang Zhou",
+          "Haoguang Meng",
+          "Shaojie Han",
+          "Jiangkuan Cui"
+        ],
+        "doi": "10.1038/s41597-026-08725-8",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08725-8A Genome Assembly of Fusarium ipomoeae strain F-1"
+      },
+      {
+        "title": "A High-Resolution County-Level Livestock Water Use Dataset for the Conterminous United States Derived from a Hybrid Physiology–Climate Framework",
+        "link": "https://www.nature.com/articles/s41597-026-08755-2",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Habtamu Tamiru",
+          "Mesfin M. Mekonnen",
+          "Hamid Moradkhani",
+          "Hatim M. E. Geli"
+        ],
+        "doi": "10.1038/s41597-026-08755-2",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08755-2A High-Resolution County-Level Livestock Water Use Dataset for the Conterminous United States Derived from a Hybrid Physiology–Climate Framework"
+      },
+      {
+        "title": "Chromosome-level assembly and annotation of the Sunwatcher Toadhead Agama, Phrynocephalus helioscopus (Pallas, 1771)",
+        "link": "https://www.nature.com/articles/s41597-026-08925-2",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Miao He",
+          "Xianguang Guo"
+        ],
+        "doi": "10.1038/s41597-026-08925-2",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08925-2Chromosome-level assembly and annotation of the Sunwatcher Toadhead Agama, Phrynocephalus helioscopus (Pallas, 1771)"
+      },
+      {
+        "title": "Gugak Acoustic Descriptor Corpus: A Segment-Level Resource for Korean Traditional Music Analysis",
+        "link": "https://www.nature.com/articles/s41597-026-08919-0",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "SangHee Hong",
+          "InHo Lee"
+        ],
+        "doi": "10.1038/s41597-026-08919-0",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08919-0Gugak Acoustic Descriptor Corpus: A Segment-Level Resource for Korean Traditional Music Analysis"
+      },
+      {
+        "title": "Whole-genome variants of 90 Xizang sheep from the Qinghai-Xizang Plateau",
+        "link": "https://www.nature.com/articles/s41597-026-08921-6",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Xiaolong Liang",
+          "Jiawei Yin",
+          "Weilan Miao",
+          "Xiaojie Yang",
+          "Na Wan",
+          "Yijing Liu",
+          "Yige Gao",
+          "Changcheng Wu",
+          "Zhexuan Zhou",
+          "Mozhi Wen",
+          "Qianqian Li",
+          "Yiwei Wang",
+          "Mengzhuo Wu",
+          "Kexin Li"
+        ],
+        "doi": "10.1038/s41597-026-08921-6",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08921-6Whole-genome variants of 90 Xizang sheep from the Qinghai-Xizang Plateau"
+      },
+      {
+        "title": "A genome-resolved microbial dataset from an engineered freshwater canal connecting the Yangtze River and Han River",
+        "link": "https://www.nature.com/articles/s41597-026-08945-y",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Shujing Liu",
+          "Mingjie Shen",
+          "Yiming Wang",
+          "Rui Cao",
+          "Qian Luo",
+          "Yixin Wang",
+          "Qiong Wang"
+        ],
+        "doi": "10.1038/s41597-026-08945-y",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08945-yA genome-resolved microbial dataset from an engineered freshwater canal connecting the Yangtze River and Han River"
+      },
+      {
+        "title": "A clinical dataset of breast cancer pathological images for gland segmentation and classification",
+        "link": "https://www.nature.com/articles/s41597-026-08931-4",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Bingbing Li",
+          "Yongan Liu",
+          "Yihong Zheng",
+          "Huadeng Wang",
+          "Xipeng Pan",
+          "Rushi Lan",
+          "Li Liang"
+        ],
+        "doi": "10.1038/s41597-026-08931-4",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08931-4A clinical dataset of breast cancer pathological images for gland segmentation and classification"
+      },
+      {
+        "title": "3D Dataset of Cuneiform Bearing Objects at the Sulaymaniyah Museum",
+        "link": "https://www.nature.com/articles/s41597-026-08923-4",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Luis Sáenz",
+          "Steffen Bauer",
+          "Hubert Mara",
+          "Mark Altaweel",
+          "Shai Gordin"
+        ],
+        "doi": "10.1038/s41597-026-08923-4",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08923-43D Dataset of Cuneiform Bearing Objects at the Sulaymaniyah Museum"
+      },
+      {
+        "title": "Rescue and curation of 1950s biodiversity records from northeastern Atlantic rocky shores",
+        "link": "https://www.nature.com/articles/s41597-026-08947-w",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Ana Luísa Sinde-Mano",
+          "Cátia Monteiro",
+          "Rocio Nieto-Vilela",
+          "Rita da Silva",
+          "Joana Pereira",
+          "Fernando P. Lima"
+        ],
+        "doi": "10.1038/s41597-026-08947-w",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08947-wRescue and curation of 1950s biodiversity records from northeastern Atlantic rocky shores"
+      }
+    ],
+    "Nature Protocols": [
+      {
+        "title": "Assaying the myosin super-relaxed state",
+        "link": "https://www.nature.com/articles/s41596-026-01479-y",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Michael A. Geeves",
+          "Michael Regnier"
+        ],
+        "doi": "10.1038/s41596-026-01479-y",
+        "journal": "Nature Protocols",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Protocols, Published online: 26 November 2026; doi:10.1038/s41596-026-01479-yAssaying the myosin super-relaxed state"
+      }
+    ],
+    "Communications Biology": [
+      {
+        "title": "Neural signatures of cannabis use: associations with brain aging and cognitive function via functional connectivity",
+        "link": "https://www.nature.com/articles/s42003-026-11191-y",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Zening Fu",
+          "Kent Hutchison",
+          "Armin Iraji",
+          "Vince D. Calhoun"
+        ],
+        "doi": "10.1038/s42003-026-11191-y",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 26 November 2026; doi:10.1038/s42003-026-11191-yNeural signatures of cannabis use: associations with brain aging and cognitive function via functional connectivity"
+      },
+      {
+        "title": "Identification of PUFA interaction site on ASIC3 suggests a complex regulatory mechanism",
+        "link": "https://www.nature.com/articles/s42003-026-11348-9",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Rebecca Roth",
+          "Ramya Bandarupalli",
+          "Robert C. Klipp",
+          "Jing Li",
+          "John R. Bankston"
+        ],
+        "doi": "10.1038/s42003-026-11348-9",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 26 November 2026; doi:10.1038/s42003-026-11348-9Identification of PUFA interaction site on ASIC3 suggests a complex regulatory mechanism"
+      },
+      {
+        "title": "Integrating multilayered regulatory networks in grass rhizome development",
+        "link": "https://www.nature.com/articles/s42003-026-11278-6",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Kanako Bessho-Uehara",
+          "Motoyuki Ashikari"
+        ],
+        "doi": "10.1038/s42003-026-11278-6",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 26 November 2026; doi:10.1038/s42003-026-11278-6Integrating multilayered regulatory networks in grass rhizome development"
+      },
+      {
+        "title": "Structural mapping of the stepwise disassembly and genome release of Flock House Virus",
+        "link": "https://www.nature.com/articles/s42003-026-11361-y",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Milan Kumar Lokshman",
+          "Subhomoi Borkotoky",
+          "B. V. Venkataram Prasad",
+          "Manidipa Banerjee"
+        ],
+        "doi": "10.1038/s42003-026-11361-y",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 26 November 2026; doi:10.1038/s42003-026-11361-yStructural mapping of the stepwise disassembly and genome release of Flock House Virus"
+      },
+      {
+        "title": "Geometric and evolutionary deep learning prioritizes GPCR ligand interactions across the human metabolome",
+        "link": "https://www.nature.com/articles/s42003-026-11388-1",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Tomoya Sakuma",
+          "Yuki Otani",
+          "Hideyuki Shimizu"
+        ],
+        "doi": "10.1038/s42003-026-11388-1",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 26 November 2026; doi:10.1038/s42003-026-11388-1Geometric and evolutionary deep learning prioritizes GPCR ligand interactions across the human metabolome"
+      }
+    ],
+    "Nature Methods": [
+      {
+        "title": "Mitigating preferred orientation in cryo-EM with ultrasonic excitation during vitrification",
+        "link": "https://www.nature.com/articles/s41592-026-03382-6",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Harry M. Williams",
+          "Wyatt A. Curtis",
+          "Michal Haubner",
+          "Jakub Wenz",
+          "Marcel Drabbels",
+          "Ulrich J. Lorenz"
+        ],
+        "doi": "10.1038/s41592-026-03382-6",
+        "journal": "Nature Methods",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Methods, Published online: 26 November 2026; doi:10.1038/s41592-026-03382-6Exciting cryo-electron microscopy specimens with ultrasonic waves during vitrification helps mitigate the preferred particle orientation problem that plagues protein structure determination."
+      },
+      {
+        "title": "Large-scale quantitative assessment of tissue preparation and staining conditions for robust multiplexed imaging of FFPE tissue samples",
+        "link": "https://www.nature.com/articles/s41592-026-03317-1",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Jia Le Lee",
+          "Johanna Schaffenrath",
+          "Cankun Wang",
+          "Lollija Gladiseva",
+          "Jia-Ying Joey Lee",
+          "Wenrui Wu",
+          "Yuzhou Chang",
+          "Shaohong Feng",
+          "Dingani Nkosi",
+          "José A. Galván",
+          "Jahanbanoo Shahryari",
+          "Jason Yeung",
+          "Huaying Qiu",
+          "Yao Yu Yeo",
+          "Lindsay Parmelee",
+          "Chi Ngai Chan",
+          "Precious Cramer",
+          "Hendrik Michel",
+          "Pierre Stephan",
+          "Yang Wang",
+          "Li Yen Chong",
+          "Stephen Capodilupo",
+          "Jean Loebelenz",
+          "Christine Camacho Fullaway",
+          "Candace C. Liu",
+          "Joe Yeong",
+          "Jakob Einhaus",
+          "Dorien Feyaerts",
+          "Dana Napier",
+          "Giorgio Basile",
+          "Nadja Kopp",
+          "Wendy Fantl",
+          "Karen Wang",
+          "Brice Gaudillière",
+          "Derek Allison",
+          "Michael Angelo",
+          "Sean C. Bendall",
+          "Lit-Hsin Loo",
+          "Jeremy Fisher",
+          "Scott Rodig",
+          "Brooke Howitt",
+          "Qin Ma",
+          "Kerstin Hahn",
+          "Sizun Jiang"
+        ],
+        "doi": "10.1038/s41592-026-03317-1",
+        "journal": "Nature Methods",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Methods, Published online: 26 November 2026; doi:10.1038/s41592-026-03317-1This Registered Report quantitatively evaluates the impact of tissue preparation and staining conditions on imaging."
+      }
+    ],
+    "Global Change Biology": [
+      {
+        "title": "Enhanced Rock Weathering and Organic Inputs: Coupled Controls on Soil Carbon Storage",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71210?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Zenawi Tadesse, Maya Engel"
+        ],
+        "doi": "10.1111/gcb.71210",
+        "journal": "Global Change Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Global Change Biology, Volume 32, Issue 11, November 2026."
+      },
+      {
+        "title": "Coastal Wetland Restoration and Greenhouse Gas Pathways: A Global Meta‐Analysis",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71205?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Benjamin Misteli, Daniel Morant, Antonio Camacho, Maria Adamo, Giancarlo Bachi, Nina Bègue, Martynas Bučas, Miguel Cabrera‐Brufau, Rafael Carballeira, Lamara Cavalcante, Constantin Cazacu, João Pedro Coelho, Charlotte Doebke, Valentin Dinu, Anis Guelmami, Relu Giuca, Marija Kataržytė, Ana I. Lillebø, Ana Isabel Marin, Carmela Marangi, Camille Minaudo, Jorge Juan Montes‐Pérez, Biel Obrador, Bruna R. F. Oliveira, Jolita Petkuvienė, Antonio Picazo, Marinka E. B. van Puijenbroek, Michael Ronse, Carlos Rochera, Antonio Sánchez, Chiara Santinelli, Ana I. Sousa, Daniel von Schiller, Claudia Tropea, Diana Vaičiūtė, Katrin Attermeyer"
+        ],
+        "doi": "10.1111/gcb.71205",
+        "journal": "Global Change Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Global Change Biology, Volume 32, Issue 11, November 2026."
+      },
+      {
+        "title": "Shared Trajectories in Soil Microbial Succession Across Five Glacier Forefields in the Arctic and Antarctica",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71217?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Scott Sugden, Cynthia M. Kallenbach, Lyle G. Whyte"
+        ],
+        "doi": "10.1111/gcb.71217",
+        "journal": "Global Change Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Global Change Biology, Volume 32, Issue 11, November 2026."
+      }
+    ],
+    "Molecular Ecology Resources": [
+      {
+        "title": "A Universal Target‐Enrichment Probe Set for Cycads (Cycadales) Enables Standardised Phylogenomic and Population‐Genomic Analyses",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.70244?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "J. A. R. Clugston, M. Calonje, M. R. Bullock, J. S. Donaldson, B. L. Dorsey, M. P. Griffith, V. M. Handley, R. V. Gallagher, A. Lindstrom, P. D. Janse van Rensburg, J. Liu, M. G. Johnson"
+        ],
+        "doi": "10.1111/1755-0998.70244",
+        "journal": "Molecular Ecology Resources",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Article",
+        "abstract": "Molecular Ecology Resources, Volume 27, Issue 1, January 2027."
+      },
+      {
+        "title": "DNA Barcoding of Terrestrial Mammals From Brazil and French Guiana: A Large‐Scale Voucher‐Based Reference Database",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.70243?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Marcelo Weksler, Ana Lazar, Cintia Povill, Marcione B. de Oliveira, Maria Clara Santos Ribeiro, Fernanda P. Valdez, Henrique V. Figueiró, Tiago Ferraz, Flávia P. Tirelli, Pedro Henrique de Faria Peres, Marina Gomes Figueiredo, Renato Caparroz, Fernando Pacheco Rodrigues, Susana González, Ludmilla Moura de Souza Aguiar, Leonardo Ferreira Machado, José Maurício Barbanti Duarte, Lena Geise, João Alves de Oliveira, Luiz Flamarion B. de Oliveira, Yuri L. R. Leite, Leonora Pires Costa, Ana Carolina Loss, Ana Paula Cazerta Farro, Ligiane M. Moras, Paulo E. D. Bobrowiec, Pedro Cordeiro‐Estrela, Thales R. O. Freitas, Sérgio Luiz Althoff, João Valsecchi, Paulo A. Buckup, Alexandra M. R. Bezerra, Cecilia Bueno, Cibele R. Bonvicino, Fabrício R. Santos, Valéria da C. Tavares, Benoit de Thoisy, Alexandre Reis Percequillo, Eduardo Eizirik"
+        ],
+        "doi": "10.1111/1755-0998.70243",
+        "journal": "Molecular Ecology Resources",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Article",
+        "abstract": "Molecular Ecology Resources, Volume 27, Issue 1, January 2027."
+      }
+    ],
+    "EMBO Reports": [
+      {
+        "title": "The novelty of AI is not the novelty of its discoveries : Of muses, machines and discoveries.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43099189/",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Hohensinner PJ"
+        ],
+        "doi": "10.1038/s44319-026-01008-8",
+        "journal": "EMBO Reports",
+        "source": "pubmed",
+        "pmid": "43099189",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": null
+      },
+      {
+        "title": "Reversibility is key : Reassessment of the moral arguments against heritable germline editing in humans.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43099188/",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Sykora P",
+          "Caplan A"
+        ],
+        "doi": "10.1038/s44319-026-01003-z",
+        "journal": "EMBO Reports",
+        "source": "pubmed",
+        "pmid": "43099188",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": null
+      },
+      {
+        "title": "Genetic-interaction maps empower biological and pharmacological discovery.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43099187/",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Helleday T"
+        ],
+        "doi": "10.1038/s44319-026-01002-0",
+        "journal": "EMBO Reports",
+        "source": "pubmed",
+        "pmid": "43099187",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": null
+      }
+    ],
+    "Molecular Ecology": [
+      {
+        "title": "Evidence for Transmission Ratio Distortion at Major Histocompatibility Complex in a Sexually Monogamous Seabird",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70683?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Coralie Drack, Maxime Pineaux, Pierrick Blanchard, Léa Ribeiro, Etienne Danchin, Scott A. Hatch, Shannon Whelan, Sarah Leclaire"
+        ],
+        "doi": "10.1111/mec.70683",
+        "journal": "Molecular Ecology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Original Article",
+        "abstract": "Molecular Ecology, Volume 35, Issue 23, December 2026."
+      }
+    ],
+    "Journal of Systematics and Evolution": [
+      {
+        "title": "Comparative genomics of endangered ectomycorrhizal fungi highlights lineage‐dependent genome evolution",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/jse.70132?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Jin Liu, Ji‐Jiang Zhou, Zhong‐Yi Wang, Si‐Hong Li, Yu Li, Rui‐Qing Ji"
+        ],
+        "doi": "10.1111/jse.70132",
+        "journal": "Journal of Systematics and Evolution",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Journal of Systematics and Evolution, EarlyView."
+      }
+    ],
+    "Nature Reviews Methods Primers": [
+      {
+        "title": "Luminescence thermometry at the microscale and nanoscale",
+        "link": "https://www.nature.com/articles/s43586-026-00553-9",
+        "pub_date": "2026-11-26",
+        "authors": [],
+        "doi": "10.1038/s43586-026-00553-9",
+        "journal": "Nature Reviews Methods Primers",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Reviews Methods Primers, Published online: 26 November 2026; doi:10.1038/s43586-026-00553-9This PrimeView highlights the variety of probe types that can be used for luminescence thermometry and the different optical responses that can be monitored as a function of temperature."
+      }
+    ],
+    "Science Bulletin": [
+      {
+        "title": "A piezoelectric suture that senses and heals.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43086093/",
+        "pub_date": null,
+        "authors": [
+          "Zeng W",
+          "Lv T",
+          "Liu H",
+          "Qiu J"
+        ],
+        "doi": "10.1016/j.scib.2026.11.025",
+        "journal": "Science Bulletin",
+        "source": "pubmed",
+        "pmid": "43086093",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": null
+      },
+      {
+        "title": "A condensate-based brake on hypertranscription.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43086095/",
+        "pub_date": null,
+        "authors": [
+          "Li X",
+          "Hou Y",
+          "Han B",
+          "Yan J",
+          "Wang L"
+        ],
+        "doi": "10.1016/j.scib.2026.11.017",
+        "journal": "Science Bulletin",
+        "source": "pubmed",
+        "pmid": "43086095",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": null
+      },
+      {
+        "title": "Microbiota-derived metabolites in the tumor microenvironment: mechanistic insights and translational perspectives.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43086094/",
+        "pub_date": null,
+        "authors": [
+          "Li H",
+          "Qu R",
+          "Chen X",
+          "Ma Y",
+          "Yang Q",
+          "Weng J",
+          "Wang Z",
+          "Zhou X",
+          "Sun L",
+          "Li H",
+          "Wang P",
+          "Fu W",
+          "Zhang Z"
+        ],
+        "doi": "10.1016/j.scib.2026.11.009",
+        "journal": "Science Bulletin",
+        "source": "pubmed",
+        "pmid": "43086094",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "The gut microbiota produces a broad range of metabolites that influence the tumor microenvironment via metabolic, epigenetic, immune, and barrier-related mechanisms. Short-chain fatty acids, vitamins, tryptophan metabolites, bile acids, and polyamines can act on tumor, immune, stromal, and epithelial cells, thereby affecting tumor progression and therapeutic response. Importantly, the effects of these metabolites are highly context-dependent and are shaped by their source, route of exposure, cellular targets, and local tumor environment. Distinguishing gut-derived metabolites from locally produced or host-derived metabolites is therefore essential for interpreting their biological significance. Recent studies have highlighted the potential of microbiota-guided nutritional intervention, probiotics, fecal microbiota transplantation, and metabolite-directed strategies in cancer management; however, clinical evidence remains limited. Advances in spatial metabolomics, engineered microbial therapeutics, and patient-derived microbiome-tumor models may further clarify causal mechanisms and interindividual variation. Together, these developments provide a basis for translating microbiota-metabolite research into more precise and mechanism-based cancer interventions."
+      },
+      {
+        "title": "Intelligent interactive platform based on viscoelastic organic-inorganic hybrid metal halide optical fibers.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43086091/",
+        "pub_date": null,
+        "authors": [
+          "Peng QP",
+          "Chen KL",
+          "Chen JH",
+          "He ZL",
+          "Wang TC",
+          "Wei JH",
+          "Kuang DB"
+        ],
+        "doi": "10.1016/j.scib.2026.10.075",
+        "journal": "Science Bulletin",
+        "source": "pubmed",
+        "pmid": "43086091",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Human machine interfaces (HMIs) are essential components in wearable electronics, robotic systems, and immersive interactive platforms. However, current sensing technologies are frequently constrained by electromagnetic interference and signal instability. Optical fiber sensors offer a promising alternative, yet their development is hindered by the inherent trade‑off between the brittleness of high‑performance luminescent glasses and the photodegradation of organic‑doped polymers. Here, we present an intelligent interactive platform based on a flexible optical fiber array employing room‑temperature viscoelastic organic-inorganic hybrid metal halide (OIMH) glass as the core material. By rationally designing the organic cation structure, we synthesized Mn‑ and Sb‑based OIMH glasses that exhibit suppressed crystallization and pronounced viscoelasticity. These glasses were subsequently processed into optical fibers featuring high transparency and a large Stokes shift. Through the integration of a cross‑array configuration, dual‑channel chromaticity detection, and a feedforward neural network (FNN), the system achieves 100% localization accuracy for single‑point presses and 98.8% classification accuracy for dual‑point pressing patterns in two dimensions. This work provides a generalizable material‑design strategy for high‑performance luminescent waveguides and demonstrates a real‑time, multimodal HMI system with promising applications in assistive technology, health monitoring, and virtual reality."
+      },
+      {
+        "title": "Towards multicolor tin-based perovskite light-emitting diodes.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43086092/",
+        "pub_date": null,
+        "authors": [
+          "Shi Y",
+          "Zeng Q",
+          "Lee TW"
+        ],
+        "doi": "10.1016/j.scib.2026.10.068",
+        "journal": "Science Bulletin",
+        "source": "pubmed",
+        "pmid": "43086092",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": null
+      }
+    ],
+    "Nature Communications": [
+      {
+        "title": "Learning beyond rigid manipulation with hybrid soft-rigid robots",
+        "link": "https://www.nature.com/articles/s41467-026-79571-w",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Mariano Ramírez Montero",
+          "Ebrahim Shahabi",
+          "Giovanni Franzese",
+          "Jens Kober",
+          "Barbara Mazzolai",
+          "Cosimo Della Santina"
+        ],
+        "doi": "10.1038/s41467-026-79571-w",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79571-wRigid robots are precise but struggle to adapt, while soft robots are flexible but less reliable. Here, the authors show that a hybrid soft-rigid robot can learn varied manipulation tasks from one demonstration, combining precision with adaptability."
+      },
+      {
+        "title": "Author Correction: Learning reorganizes dendritic and stabilizes axon initial segment inhibitory synapses in CA1 pyramidal neurons",
+        "link": "https://www.nature.com/articles/s41467-026-78865-3",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Hannah Klimmt",
+          "Felix Kuhn",
+          "David Kappel",
+          "Bhargavi Murthy",
+          "Alessandro Francesco Ulivi",
+          "Ali Özgür Argunşah",
+          "Silvia Vieweg",
+          "Rosa Eva Huettl",
+          "Stefan Remy",
+          "Alessio Attardo"
+        ],
+        "doi": "10.1038/s41467-026-78865-3",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-78865-3Author Correction: Learning reorganizes dendritic and stabilizes axon initial segment inhibitory synapses in CA1 pyramidal neurons"
+      },
+      {
+        "title": "Retraction Note: NMDAR-mediated modulation of gap junction circuit regulates olfactory learning in C. elegans",
+        "link": "https://www.nature.com/articles/s41467-026-80132-4",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Myung-Kyu Choi",
+          "He Liu",
+          "Taihong Wu",
+          "Wenxing Yang",
+          "Yun Zhang"
+        ],
+        "doi": "10.1038/s41467-026-80132-4",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-80132-4Retraction Note: NMDAR-mediated modulation of gap junction circuit regulates olfactory learning in C. elegans"
+      },
+      {
+        "title": "Impact-stiffening materials modulated by host–guest interactions in polypseudorotaxanes",
+        "link": "https://www.nature.com/articles/s41467-026-78743-y",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Menghao Ji",
+          "Xue Wang",
+          "Jiheng Hu",
+          "Siyu Jin",
+          "Jianfei Ma",
+          "Dianteng Zhao",
+          "Haiyun Zhang",
+          "Bo Zheng",
+          "Feng Wang",
+          "Lingyan Gao"
+        ],
+        "doi": "10.1038/s41467-026-78743-y",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-78743-y“Designing impact-stiffening materials is critical for personal protective equipment, though it is challenging to optimize the strength-toughness trade-off using conventional methods. Here the authors design an impact stiffening material using host-guest polypseudorotaxanes.”"
+      },
+      {
+        "title": "Choline kinase α promotes glycolysis and tumor growth by phosphorylating and activating enolase 1",
+        "link": "https://www.nature.com/articles/s41467-026-79752-7",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Qingxia Ma",
+          "Qianqian Xu",
+          "Xuan Xia",
+          "Rongxuan Zhu",
+          "Gaoxiang Zhao",
+          "Heng Zhang",
+          "Zheng Wang",
+          "Dong Guo",
+          "Zhaoyuan Meng",
+          "Yixin Duan",
+          "Qian Lin",
+          "Ying Meng",
+          "Shudi Luo",
+          "Fan Yang",
+          "Hongfei Jiang",
+          "Jing Fang",
+          "Zhimin Lu"
+        ],
+        "doi": "10.1038/s41467-026-79752-7",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79752-7Tumor cells rely on increased glycolysis for growth. Here, authors show that choline kinase α activates enolase 1 through phosphorylation, promoting glycolysis and tumor progression in glioblastoma."
+      },
+      {
+        "title": "Disagreements in global urban growth projections amplify uncertainties in deforestation and carbon emissions",
+        "link": "https://www.nature.com/articles/s41467-026-79543-0",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Xia Liao",
+          "Jasper van Vliet",
+          "Yuyu Zhou",
+          "Yan Liu",
+          "Maria Eugenia Correa-Cano",
+          "Robert Mangani",
+          "Sven Anders",
+          "Joseph Awetori Yaro",
+          "Qiming Zheng"
+        ],
+        "doi": "10.1038/s41467-026-79543-0",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79543-0The study shows that disagreements among global urban growth projections can substantially affect future deforestation and carbon emissions estimates, revealing a key source of uncertainty in land and climate assessments."
+      },
+      {
+        "title": "A bacteriocin from the commensal Streptococcus mitis prevents influenza infection-driven pneumococcal lung dissemination",
+        "link": "https://www.nature.com/articles/s41467-026-79152-x",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Catarina Candeias",
+          "João Lança",
+          "Marta Alenquer",
+          "Daniela Brás",
+          "Carina Valente",
+          "Maria João Amorim",
+          "Raquel Sá-Leão"
+        ],
+        "doi": "10.1038/s41467-026-79152-x",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79152-xHere, the authors show that a specific strain of commensal Streptococcus mitis bacteria, and its bacteriocins, reduce S. pneumoniae asymptomatic colonization and lung dissemination after influenza infection."
+      },
+      {
+        "title": "Dynamic B–OH intermediates enable photocatalytic conversion of CO2 into formic acid",
+        "link": "https://www.nature.com/articles/s41467-026-79798-7",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Jiazhen Cao",
+          "Yukun Pan",
+          "Yinan Song",
+          "Zesheng Deng",
+          "Meizhen Li",
+          "Yue Jiang",
+          "Yayun Zhang",
+          "Mingyang Xing"
+        ],
+        "doi": "10.1038/s41467-026-79798-7",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79798-7Dynamic B–OH intermediates act as proton relays to harness water-derived protons for highly selective photocatalytic CO2 conversion to formic acid, enabling synergistic carbon mitigation and pollutant removal from flue."
+      },
+      {
+        "title": "Nuclear factor I connects H3K27M to a targetable purine dependency in diffuse intrinsic pontine glioma",
+        "link": "https://www.nature.com/articles/s41467-026-79694-0",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Ian Mersich",
+          "Sunny Congrove",
+          "Matthew Horchar",
+          "Roman Caceres",
+          "Ranjithmenon Muraleedharan",
+          "Janki Desai",
+          "Pankaj Desai",
+          "Larry Sallans",
+          "Julie A. Reisz",
+          "Abby Grier",
+          "Matthew R. Hass",
+          "Omer Donmez",
+          "Cailing Yin",
+          "Skyler Beaber",
+          "Matthew T. Weirauch",
+          "Leah Kottyan",
+          "Charles B. Stevenson",
+          "Claire Sun",
+          "Peter de Blank",
+          "Natasha Pillay-Smiley",
+          "Trent R. Hummel",
+          "Nagarajan Elumalai",
+          "Ali Tavassoli",
+          "Ron Firestein",
+          "Timothy N. Phoenix",
+          "Angelo D’Alessandro",
+          "Biplab Dasgupta"
+        ],
+        "doi": "10.1038/s41467-026-79694-0",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79694-0Diffuse intrinsic pontine glioma is an aggressive childhood cancer commonly driven by H3K27M with few treatment options. This study links H3K27M-driven chromatin remodelling to NFI-dependent purine metabolism, causing ATIC/PNP-mediated metabolic rewiring and ATIC-targetable tumour dependence."
+      },
+      {
+        "title": "Plant protoplasts display phytopodia",
+        "link": "https://www.nature.com/articles/s41467-026-79550-1",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Johanna E. M. Dickmann",
+          "Marjolaine Martin",
+          "Claire Lionnet",
+          "Zoe Nemec-Venza",
+          "Olivier Hamant"
+        ],
+        "doi": "10.1038/s41467-026-79550-1",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79550-1Plant cells are encased in cell walls that when digested leave spherical protoplasts. Here the authors report long, thin membrane protrusions from protoplasts termed phytopodia and discuss their potential role in the probing behaviour of the cell cortex."
+      }
+    ],
+    "Briefings in Bioinformatics": [
+      {
+        "title": "Machine learning for predicting tyrosine kinase inhibitor resistance in lung cancer",
+        "link": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag657/9135984?rss=1",
+        "pub_date": "2026-11-26",
+        "authors": [],
+        "doi": "10.1093/bib/bbag657",
+        "journal": "Briefings in Bioinformatics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "AbstractResistance to tyrosine kinase inhibitors (TKIs) remains a significant barrier to achieving durable responses in non-small cell lung cancer. Advances in machine learning now enable the prediction of TKI resistance by linking multi-omic profiles to resistance trajectories, although this capability remains largely preclinical and clinical translation continues to lag behind methodological progress. This review examines the biological mechanisms of resistance alongside emerging machine learning strategies, highlighting how distinct resistance processes relate to specific predictive modelling tasks. Recent models trained on large-scale datasets and fine-tuned for specific contexts aim to improve generalizability, while the incorporation of prior knowledge and attention-based architectures enhances interpretability and supports biological hypothesis generation. As multi-omics approaches and single-cell data become widely available, we emphasize the need to better align data generation, model design, and clinically relevant endpoints. The lack of standardization in assays, outcome labels, and benchmarks continues to limit reproducibility and clinical adoption. By connecting data modalities, modelling approaches, and clinical decision points, this review outlines key challenges and opportunities for translating predictive models into practice. Bridging the gap between computational prediction and therapeutic decision-making will require interpretable, biologically grounded, and prospectively validated models developed through open, cross-disciplinary collaboration. Practical recommendations for machine learning studies of TKI resistance are provided to support future research in this area."
+      }
+    ],
+    "Water Research": [
+      {
+        "title": "Light quality regulates extracellular polymeric substances and cell wall compositions to trigger distinct auto-flocculation strategies for Tetradesmus obliquus.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43085286/",
+        "pub_date": null,
+        "authors": [
+          "Li J",
+          "Ming H",
+          "Lin CSK",
+          "Wang Z",
+          "Zhu L"
+        ],
+        "doi": "10.1016/j.watres.2026.127414",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43085286",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Efficient microalgal harvesting remains a major bottleneck in biomass resource recovery. Auto-flocculation regulation through light quality provides a viable strategy for improving separation efficiency and reducing costs. This study investigated how blue, red, yellow and green light regulated the growth, auto-flocculation as well as metabolic responses of Tetradesmus obliquus. The results showed that blue and red light promoted biomass accumulation, with dry weights of 0.53 and 0.51 g/L, respectively. Following 10 days of cultivation, sedimentation efficiencies exceeded 85% within 2 h of settling for all light treatments. Red light produced the largest flocs, with a maximum particle size of 170 μm. This response was associated with a higher extracellular PN/PS ratio, stronger fluorescence associated with proteins, together with reduced electrostatic repulsion, indicating that protein enrichment in extracellular polymeric substances (EPS) and charge shielding enhanced cell adhesion. Yellow light induced similar changes, but excessive oxidative stress likely constrained floc growth. In contrast, blue light formed smaller but more compact flocs, with a fractal dimension of 1.94 ± 0.03, indicating a more compact structure. The cellulose and pectin contents increased by 36.10% and 59.02%, respectively, together with shifts in metabolites related to sugar acid metabolism and C16 fatty acid modification. These changes suggest that cell wall polysaccharides accumulation and surface hydrophobicity remodeling improved floc compactness and stability. Overall, light quality promoted auto-flocculation through EPS regulation under red and yellow light and cell wall remodeling under blue light, providing a basis for efficient microalgal cultivation, harvesting and resource recovery."
+      },
+      {
+        "title": "Efficient biodegradation of ciprofloxacin by Klebsiella pneumoniae LX: Kinetics, metabolic pathways, and key functional gene investigation.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43085284/",
+        "pub_date": null,
+        "authors": [
+          "Han H",
+          "Zhang Y",
+          "Wang S",
+          "Sha H",
+          "Zhou L",
+          "Zeng G",
+          "Peng X"
+        ],
+        "doi": "10.1016/j.watres.2026.127413",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43085284",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "A Klebsiella pneumoniae strain LX, a CIP-degrading bacterium capable of using CIP as the sole carbon source, was isolated from activated sludge enriched with CIP. Under optimized conditions, strain LX efficiently degraded CIP (0.1-70 mg/L) following first-order kinetics, with rate constants (0.117-1.073 d⁻1) exceeding those of most reported CIP degraders. Substrate profiling revealed degradation activities against other fluoroquinolones including enrofloxacin, norfloxacin, and ofloxacin. UHPLC-MS/MS identified 18 degradation intermediates (including 9 novel compounds) and proposed four primary transformation pathways: acetylation, hydroxylation, piperazine ring cleavage, and defluorination. Toxicity assessments using the TEST software and the luminescent bacteria method demonstrated that the degradation process involved stepwise detoxification, with the acute toxicity (expressed as HgCl₂ equivalent concentration) decreasing from 0.09 mg/L to below the detection limit within 12 days. Multi-omics analysis combined with molecular docking systematically elucidated the resistance and degradation mechanisms of strain LX against high-concentration CIP. Notably, this study represents the first successful heterologous expression of the hpaBC gene cluster in Escherichia coli, revealing that its encoded enzyme catalyzes the hydroxylation of CIP. Through laboratory-simulated bioaugmentation experiments, this study demonstrated that Klebsiella pneumoniae LX, in combination with activated sludge and river sediment, achieved over 90% removal of CIP (at 0.1 and 10 mg/L) within 14 days. This study elucidated the metabolic network and key genes of K. pneumoniae LX for CIP degradation, demonstrating that its bioaugmentation efficiently removes CIP from activated sludge and sediments under experimental conditions, thereby providing an important basis for the bioremediation application of fluoroquinolone-contaminated water environments."
+      },
+      {
+        "title": "Dipole moment governs antihypertensive drug-promoted plasmid conjugation in activated sludge independent of pharmacological action.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43085283/",
+        "pub_date": null,
+        "authors": [
+          "Jing Y",
+          "Liao S",
+          "Rong L",
+          "Fang X",
+          "Zou X",
+          "Lei H",
+          "Wu Q",
+          "Chen H",
+          "Qiu X",
+          "Wu L",
+          "Luo X"
+        ],
+        "doi": "10.1016/j.watres.2026.127403",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43085283",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Wastewater treatment plants (WWTPs) are global hotspots for the plasmid-mediated horizontal transfer of antibiotic resistance genes (ARGs). Although antihypertensive drugs (AHDs) with diverse pharmacological modes of action (MOA) are ubiquitous in WWTPs, whether their effects on bacterial conjugation are MOA-dependent remains unclear. Here, we show that nine AHDs representing four distinct MOAs all significantly promote RP4 plasmid transfer between wastewater-isolated E. coli strains. Strikingly, the average hormetic zone for conjugative transfer (ΔAR) does not correlate with pharmacological MOA but is instead strictly driven by the molecular dipole moment (μ) of the tested AHDs. This phenomenon is independent of AHD degradation kinetics and is mechanistically linked to bacterial biochemical responses, particularly increased intracellular reactive oxygen species (ROS) generation and increased cell membrane permeability. Integrative mechanistic modelling further reveals that the promotion of conjugative transfer is fundamentally driven by a host-mediated cascade initiated by specific pollutant-protein interactions and the regulation of the key donor-cell genes ompT and ydjA, with a secondary contribution from recipient cells, rather than by direct modulation of RP4 plasmid gene expression. Moreover, AHDs exposure consistently exacerbate ARGs risk in activated sludge systems, and the overarching ARGs risk index (ARRI) remains tightly correlated with μ. Collectively, these findings redefine the molecular basis of AHD-driven ARG propagation, establishing μ as a key physicochemical determinant for ARG risk screening and mitigation in WWTPs, and support a shift away from MOA-centric environmental risk assessment of non-antibiotic pharmaceuticals."
+      },
+      {
+        "title": "Contrasting nitrate and S-metolachlor ESA patterns in soils and groundwater across agricultural hydrogeological settings.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43085287/",
+        "pub_date": null,
+        "authors": [
+          "Redon B",
+          "Renard O",
+          "Longchamp M",
+          "Morere M",
+          "Guyoneaud R",
+          "Monperrus M",
+          "Sebilo M"
+        ],
+        "doi": "10.1016/j.watres.2026.127385",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43085287",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Predicting groundwater quality from surface agricultural inputs remains challenging because the unsaturated zone mediates contaminant fate through coupled physical, chemical and biological processes that are rarely characterized simultaneously. This study integrates long-term groundwater monitoring, soil physicochemical characterization, and microbial community profiling across five agricultural drinking-water catchments in southwestern France representing three contrasting hydrogeological settings: semi-confined Landes aquifers (L1 and L3), an intermediate Landes site at Orist (L2), where a clay cover overlies an alluvial unit, and shallow alluvial Béarn aquifers (B1 and B2). We examined nitrate, S-metolachlor and its transformation products from shallow soils to groundwater across these contrasting settings. Concentrations of nitrate and S-metolachlor ESA in shallow soils and in groundwater showed contrasting regional patterns. The semi-confined Landes sites L1 and L3 showed relatively stable groundwater concentrations, whereas the alluvial Béarn sites B1 and B2 were more variable. Orist (L2) displayed an intermediate pattern, with nitrate concentrations closer to the Béarn sites. Because transport through the unsaturated zone, recharge dynamics and groundwater residence times were not directly measured, the mechanisms underlying these differences cannot be resolved from our dataset. Microbial communities in soils and groundwater clustered primarily by site while contaminant variables explained only a small additional fraction of the observed variation. The continuous detection of S-metolachlor ESA in groundwater, despite the infrequent detection of the parent compound, is consistent with a legacy-contamination hypothesis. Storage and delayed release in the deeper unsaturated zone were not measured and cannot be distinguished from continuing diffuse inputs, recharge variability or aquifer mixing with the available data."
+      },
+      {
+        "title": "Organic overloading shifts metabolite-microbiome network specialization and abiotic sulfurization in anaerobic digestion.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43085285/",
+        "pub_date": null,
+        "authors": [
+          "Kong X",
+          "Arntzen MØ",
+          "Cermeño P",
+          "García-Comas C",
+          "González-Fernández C",
+          "Greses S",
+          "Hagen LH",
+          "Tebben J",
+          "Walter JM",
+          "Koch BP"
+        ],
+        "doi": "10.1016/j.watres.2026.127375",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43085285",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Organic overloading is a major disturbance to anaerobic digestion (AD), yet how dissolved organic matter (DOM) and microbial communities respond during progressive destabilization remains poorly understood. Here, we integrated time-series high-resolution mass spectrometry and 16S rRNA gene sequencing to investigate DOM and microbial dynamics under a progressively increasing organic loading rate (OLR). Increasing OLR resulted in volatile fatty acid accumulation, pH decline, and eventual methane (CH4) production collapse. Community assembly analysis revealed an early shift toward heterogeneous selection in DOM assembly, whereas heterogeneous selection in microbial communities became dominant during late-stage CH4 collapse, indicating distinct responses of chemical and microbial assemblages to overloading. DOM-microbial association networks were substantially reorganized: positive-association networks became more generalized, whereas negative-association networks became increasingly specialized and surpassed positive-network specialization during late-stage CH4 collapse. These changes coincided with microbial community restructuring and the accumulation of more reduced DOM, indicating contrasting reorganization of DOM-microbial associations under severe overloading. Additionally, sulfur-containing DOM and abiotic sulfurization signatures decreased under perturbation, reflecting altered sulfur-mediated DOM transformations during reactor destabilization. Our findings demonstrate that organic overloading restructures metabolite-microbiome association networks in AD, providing mechanistic insight into methane production failure."
+      }
+    ],
+    "Microbiological Research": [
+      {
+        "title": "Soil-dependent patterns of rhizosphere microbiome assembly and phosphorus-related associations in soybean.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43085090/",
+        "pub_date": null,
+        "authors": [
+          "Wang S",
+          "Zhang J",
+          "Li J",
+          "Feng J",
+          "Li H",
+          "Zhang W",
+          "Fan M",
+          "Wei G",
+          "Shi P"
+        ],
+        "doi": "10.1016/j.micres.2026.128853",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43085090",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Plants are associated with distinct rhizosphere microbiomes, but how microbial community assembly relates to P-associated patterns remains unclear. We investigated soybean rhizosphere microbiome assembly across three contrasting agricultural soils in China-red soil (RS), black soil (BS), and fluvo-aquic soil (FS). Soybean consistently enriched a subset of plant-selected taxa (PST), defined as taxa showing progressive enrichment from bulk soil to root-zone soil to the rhizosphere under deterministic assembly; Sphingomonas and Bradyrhizobium were enriched in all three soils. Homogeneous selection represented the most prominent deterministic process (HoS: 41.0%), suggesting that environmental filtering was important. Microbial community composition and associations with P-fraction dynamics varied among soils. In RS, enriched taxa were associated with higher acid phosphatase activity and differences in Al/Fe-bound P fractions, whereas in BS, stochastic processes were more prominent and associated with distinct phosphorus fraction patterns. Partial least squares path modeling indicated that soil properties were strongly associated with microbial community diversity (path coefficient = -0.898, p < 0.001). Overall, our results suggest a dual pattern comprising consistent plant-associated microbial enrichment and soil-dependent associations with P-fraction dynamics. These findings highlight the importance of soil context in interpreting plant-microbe-phosphorus relationships in agricultural systems."
+      },
+      {
+        "title": "Are postbiotics relevant to plants? Expanding the concept beyond animal systems.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43085089/",
+        "pub_date": null,
+        "authors": [
+          "Deshpande S",
+          "Chakravarty I",
+          "Mandavgane SA"
+        ],
+        "doi": "10.1016/j.micres.2026.128850",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43085089",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "The plant microbiome plays a fundamental role in regulating nutrient acquisition, resistance to abiotic stress, and overall crop productivity. Although the principles of postbiotics have been extensively studied in human and animal systems, their relevance to plants remains conceptually underdeveloped. This paper presents an integrative, plant-centric framework in which microbial fermentation generates diverse bioactive compounds that constitute the functional basis of plant postbiotics preparations. Building on this concept, this work integrates evidence linking microbial fermentation, bioactive compounds, and their functional role in sustainable crop improvement. It further discusses the microbial sources, classification, production, characterisation, and mechanisms underlying plant growth promotion, induced systemic resistance, and tolerance to biotic and abiotic stresses. Traditional agricultural practices such as Vrikshaayurveda and Korean Natural Farming are investigated as early empirical analogues of postbiotic application. Advances in metabolomics, proteomics, and integrated multi-omics approaches for postbiotic characterization, together with regulatory perspectives and commercialisation challenges, are also discussed. The review further addresses regulatory challenges, economic feasibility, and environmental sustainability, highlighting reduced agrochemical dependency and enhanced soil health. It also proposes a plant-centric definition of postbiotics and presents a conceptual mechanism of action linking postbiotic preparations to plant growth, immunity, nutrient acquisition, and abiotic stress tolerance. Overall, the proposed framework provides a scientific basis for developing standardised plant postbiotic technologies capable of improving agricultural productivity, resilience, and environmental sustainability."
+      }
+    ],
+    "Nature Reviews Bioengineering": [
+      {
+        "title": "Injectable bioelectronics",
+        "link": "https://www.nature.com/articles/s44222-026-00513-8",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Hanchuan Tang",
+          "Na Li",
+          "Zhangqi Pan",
+          "Lejie Qin",
+          "Yueying Yang",
+          "Ye Tian",
+          "Jianfeng Zang"
+        ],
+        "doi": "10.1038/s44222-026-00513-8",
+        "journal": "Nature Reviews Bioengineering",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Reviews Bioengineering, Published online: 26 November 2026; doi:10.1038/s44222-026-00513-8Injectable bioelectronics offer a minimally invasive alternative to implantable bioelectronic devices, enabling long-term interfaces with biological tissues while reducing the risks associated with permanent implants. This Review examines three complementary strategies for achieving injectability, including silicon-centric miniaturization, shear-thinning biomaterials and metagel systems, and highlights their applications in sensing, stimulation and closed-loop therapy across multiple organ systems."
+      },
+      {
+        "title": "Expert consensus on CAR T cell manufacturing practices",
+        "link": "https://www.nature.com/articles/s44222-026-00511-w",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Amaia Cadinanos-Garai",
+          "Anson Cheung",
+          "Alix Vaissié",
+          "Mohamed Abou-el-Enein"
+        ],
+        "doi": "10.1038/s44222-026-00511-w",
+        "journal": "Nature Reviews Bioengineering",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Reviews Bioengineering, Published online: 26 November 2026; doi:10.1038/s44222-026-00511-wCAR T cell manufacturing practices vary substantially across products and programmes, limiting comparison and shared learning across the field. This Consensus Statement defines areas of agreement and disagreement across the manufacturing workflow and translates these findings into priorities for product characterization, reporting and comparative evidence generation."
+      }
+    ],
+    "Biogeosciences": [
+      {
+        "title": "Experimental evidence that organo-mineral interactions regulate dissolved organic matter composition and lability across permafrost landscapes of northwestern Canada",
+        "link": "https://doi.org/10.5194/bg-23-8617-2026",
+        "pub_date": "2026-11-26",
+        "authors": [],
+        "doi": null,
+        "journal": "Biogeosciences",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Experimental evidence that organo-mineral interactions regulate dissolved organic matter composition and lability across permafrost landscapes of northwestern Canada Gabrielle K. F. Hatten, Steven V. Kokelj, Sophie Opfergelt, Duane G. Froese, Alejandro Alvarez, Joseph M. Young, and Suzanne E. Tank Biogeosciences, 23, 8617–8638, https://doi.org/10.5194/bg-23-8617-2026, 2026 Sorption of organic matter (OM) to recently thawed permafrost sediments can critically alter OM fate. Using 32 sediment samples from a suite of diverse permafrost landscapes, we show that organo-mineral interactions “sort” dissolved OM, enriching the aquatic matrix in labile compounds and increasing biodegradation via shifts in OM composition and nutrient release. Sorption potential varied across and within regions and was tied to sediment characteristics, dictated by landscape history."
+      }
+    ],
     "Science": [
       {
         "title": "The absent-minded physicist who bested them all",
@@ -501,108 +1626,484 @@
         "abstract": "Science, Volume 394, Issue 6827, Page 960-962, November 2026."
       }
     ],
-    "Science Bulletin": [
+    "Advanced Science": [
       {
-        "title": "A piezoelectric suture that senses and heals.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43086093/",
-        "pub_date": null,
+        "title": "Ultrafast Anisotropic Exciton Dynamics in Low‐Symmetry NbOI2 Enabling Reservoir Computing",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78839?af=R",
+        "pub_date": "2026-11-26",
         "authors": [
-          "Zeng W",
-          "Lv T",
-          "Liu H",
-          "Qiu J"
+          "Kyeongbae Jeon, Sanghee Nah, Muhammad Sajjad, Sung Bok Seo, Eojin Choi, Woobin Kim, Taeheon Kim, Sangwan Sim"
         ],
-        "doi": "10.1016/j.scib.2026.11.025",
-        "journal": "Science Bulletin",
-        "source": "pubmed",
-        "pmid": "43086093",
+        "doi": "10.1002/advs.78839",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
         "translation": null,
-        "article_type": "Journal Article",
-        "abstract": null
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
       },
       {
-        "title": "A condensate-based brake on hypertranscription.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43086095/",
-        "pub_date": null,
+        "title": "A Modular Leucine Tag Enables Receptor‐Independent Lysosomal Targeting for Protein Degradation",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78955?af=R",
+        "pub_date": "2026-11-26",
         "authors": [
-          "Li X",
-          "Hou Y",
-          "Han B",
-          "Yan J",
-          "Wang L"
+          "Jinfeng Yu, Han Liu, Yujie Hong, Chuangnan Qiu, Yuhe Ma, Haonan Li, Xianggui Wang, Mengzhu Wu, Liang Qi, Zhuowen Li, Hui Chen, Jiale Dong, Jianping Guo, Rui Wang, Xianxing Jiang"
         ],
-        "doi": "10.1016/j.scib.2026.11.017",
-        "journal": "Science Bulletin",
-        "source": "pubmed",
-        "pmid": "43086095",
+        "doi": "10.1002/advs.78955",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
         "translation": null,
-        "article_type": "Journal Article",
-        "abstract": null
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
       },
       {
-        "title": "Microbiota-derived metabolites in the tumor microenvironment: mechanistic insights and translational perspectives.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43086094/",
-        "pub_date": null,
+        "title": "Mechanical Unloading Disrupts MACF1‐Mediated Telomere Homeostasis to Drive Osteocyte Senescence and Bone Loss",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.79017?af=R",
+        "pub_date": "2026-11-26",
         "authors": [
-          "Li H",
-          "Qu R",
-          "Chen X",
-          "Ma Y",
-          "Yang Q",
-          "Weng J",
-          "Wang Z",
-          "Zhou X",
-          "Sun L",
-          "Li H",
-          "Wang P",
-          "Fu W",
-          "Zhang Z"
+          "Zhihao Chen, Lifang Hu, Kang Ru, Wenjing Mao, Ying Huai, Yan Zhang, Baoshi Ping, Xia Xu, Ye Tian, Hailing Yang, Hong Yang, Suryaji Patil, Long Zhao, Chunyu Zhu, Shuai Liu, Xin Xu, Tielin Yang, Airong Qian"
         ],
-        "doi": "10.1016/j.scib.2026.11.009",
-        "journal": "Science Bulletin",
-        "source": "pubmed",
-        "pmid": "43086094",
+        "doi": "10.1002/advs.79017",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
         "translation": null,
-        "article_type": "Review",
-        "abstract": "The gut microbiota produces a broad range of metabolites that influence the tumor microenvironment via metabolic, epigenetic, immune, and barrier-related mechanisms. Short-chain fatty acids, vitamins, tryptophan metabolites, bile acids, and polyamines can act on tumor, immune, stromal, and epithelial cells, thereby affecting tumor progression and therapeutic response. Importantly, the effects of these metabolites are highly context-dependent and are shaped by their source, route of exposure, cellular targets, and local tumor environment. Distinguishing gut-derived metabolites from locally produced or host-derived metabolites is therefore essential for interpreting their biological significance. Recent studies have highlighted the potential of microbiota-guided nutritional intervention, probiotics, fecal microbiota transplantation, and metabolite-directed strategies in cancer management; however, clinical evidence remains limited. Advances in spatial metabolomics, engineered microbial therapeutics, and patient-derived microbiome-tumor models may further clarify causal mechanisms and interindividual variation. Together, these developments provide a basis for translating microbiota-metabolite research into more precise and mechanism-based cancer interventions."
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
       },
       {
-        "title": "Intelligent interactive platform based on viscoelastic organic-inorganic hybrid metal halide optical fibers.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43086091/",
-        "pub_date": null,
+        "title": "Gut Microbiota Dysbiosis and Butyrate Deficiency Promote Hepatic Pre‐Metastatic Niche Formation and Liver Metastasis in Pancreatic Cancer",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.79012?af=R",
+        "pub_date": "2026-11-26",
         "authors": [
-          "Peng QP",
-          "Chen KL",
-          "Chen JH",
-          "He ZL",
-          "Wang TC",
-          "Wei JH",
-          "Kuang DB"
+          "Yupeng Yan, Yongsu Ma, Chang Qu, Zhuo Chen, Jingyuan Liu, Naishi Li, Zhiqin Wang, Baoyi Li, Enkui Zhang, Xiaodong Tian, Guangjun Nie, Yiye Li, Yinmo Yang"
         ],
-        "doi": "10.1016/j.scib.2026.10.075",
-        "journal": "Science Bulletin",
-        "source": "pubmed",
-        "pmid": "43086091",
+        "doi": "10.1002/advs.79012",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
         "translation": null,
-        "article_type": "Journal Article",
-        "abstract": "Human machine interfaces (HMIs) are essential components in wearable electronics, robotic systems, and immersive interactive platforms. However, current sensing technologies are frequently constrained by electromagnetic interference and signal instability. Optical fiber sensors offer a promising alternative, yet their development is hindered by the inherent trade‑off between the brittleness of high‑performance luminescent glasses and the photodegradation of organic‑doped polymers. Here, we present an intelligent interactive platform based on a flexible optical fiber array employing room‑temperature viscoelastic organic-inorganic hybrid metal halide (OIMH) glass as the core material. By rationally designing the organic cation structure, we synthesized Mn‑ and Sb‑based OIMH glasses that exhibit suppressed crystallization and pronounced viscoelasticity. These glasses were subsequently processed into optical fibers featuring high transparency and a large Stokes shift. Through the integration of a cross‑array configuration, dual‑channel chromaticity detection, and a feedforward neural network (FNN), the system achieves 100% localization accuracy for single‑point presses and 98.8% classification accuracy for dual‑point pressing patterns in two dimensions. This work provides a generalizable material‑design strategy for high‑performance luminescent waveguides and demonstrates a real‑time, multimodal HMI system with promising applications in assistive technology, health monitoring, and virtual reality."
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
       },
       {
-        "title": "Towards multicolor tin-based perovskite light-emitting diodes.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43086092/",
-        "pub_date": null,
+        "title": "Passive Thermo‐Hygro‐Regulative Dressing Enables Wound Microenvironment Homeostasis and Accelerates Healing",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78985?af=R",
+        "pub_date": "2026-11-26",
         "authors": [
-          "Shi Y",
-          "Zeng Q",
-          "Lee TW"
+          "Shuai‐Xia Yuan, Weishi Zheng, Hai Xu, Qiong Zhang, Jue Wang, Yunlei Zhou, Shenjie Zhong, Duan‐Chao Wang"
         ],
-        "doi": "10.1016/j.scib.2026.10.068",
-        "journal": "Science Bulletin",
-        "source": "pubmed",
-        "pmid": "43086092",
+        "doi": "10.1002/advs.78985",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
         "translation": null,
-        "article_type": "Journal Article",
-        "abstract": null
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Structurally Colored Cellulose Nanocrystal Laminates for Enriched Visual Appearance",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78957?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Qingchen Shen, Thomas G. Parton, Benjamin Droguet, Richard M. Parker, Bruno Frka‐Petesic, Tao Deng, Silvia Vignolini"
+        ],
+        "doi": "10.1002/advs.78957",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Membrane‐tethered Condensates Driven by FGFR3‐TACC3 Fusion Proteins Trigger AURKA Kinase Activity to Drive Tumorigenesis",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.79005?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Xiaoping Wu, Zhenzhen Liu, Yuan Li, Xiang Chen, Yinan Wu, Jingyang Ni, Jie Zhang, Yulong Wang, Kuikui Ge, Xiangguang Shi, Guangya Zhu, Jiucun Wang, Weidong Tian, Xiaohua Hu"
+        ],
+        "doi": "10.1002/advs.79005",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Precise Fluorination Amplifies the Theranostic Potential of FAP‐Targeting Cyclic Peptide‐Based Radioligands: From Preclinical Discovery to Clinical Validation",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78975?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Xin Gao, Chongyi Huang, Siqi Zhang, Hongyi Huang, Linger Li, Yuan Miao, Xingkai Wang, Qichen Hu, Weiyuan Lin, Shuo Jiang, Jieting Shen, Feng Wang, Zhiting Sun, Xuesong Liu, Jianfu Zhao, Rui Wang, Lu Wang, Kuan Hu"
+        ],
+        "doi": "10.1002/advs.78975",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Endoplasmic Reticulum Membrane‐Engineered Nanozymes Rebalance the ER‐Mitochondria Axis for Myocardial Ischemia/Reperfusion Therapy",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78994?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Zeyi Sun, Mengqi Li, Weikai Sun, Anning Li, Jintang Sun, Jie Yu, Zhiliang Gao, Dexin Yu"
+        ],
+        "doi": "10.1002/advs.78994",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Boosting Photocatalytic Esterification via Regulation of the Interfacial Electric Field",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78990?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Rongfei Yu, Qiong Yan, Xu Wu, Ningning Tan, Haishun Du, Heng Zhang"
+        ],
+        "doi": "10.1002/advs.78990",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Magnetic‐Additive‐Free Alignment Strategy of Diamagnetic Boron Nitride for Enhanced Thermal Conductivity via Directed Phonon Propagation",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.79006?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Rongjie Yang, Wen Sun, Haochen Qi, Kang Xu, Yandong Wang, Hanxi Chen, Linhong Li, Maohua Li, Yue Qin, Yiwei Zhou, Hongwei Luo, Tao Cai, Cheng‐Te Lin, Kazuhito Nishimura, Guowei Li, Chunchang Wang, Nan Jiang, Jinhong Yu"
+        ],
+        "doi": "10.1002/advs.79006",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "EvoSeq: A Eukaryotic Sequence‐Function Profiling Platform for AI‐Guided Engineering of Genome‐Editing Enzymes",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78685?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Jiaqi Shen, Yuhong Sun, Peijin Han, Tong Zhu, Meijiao Gu, Yuming Lu"
+        ],
+        "doi": "10.1002/advs.78685",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "An FGFR2‐Targeted PET/NIR‐II Dual‐Modal Probe for Metastatic Lymph Node Detection and Intraoperative Guidance in Esophageal Squamous Cell Carcinoma",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78806?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Chenyi Xie, Hongrui Qiu, Kunheng Du, Huili Wang, Hao Li, Yihuai Hu, Zezhuo Su, Ziyu Ning, Jiahui Chen, Zaiyi Liu, Chao Mi, Zhe Zhang, Hsuan Lo, Wenya Li, Shiying Li"
+        ],
+        "doi": "10.1002/advs.78806",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Dual‐Targeted Hybrid Exosome‐Liposome Nanoparticles Potentiate Antitumor Efficacy and Promote Immune Infiltration in Ovarian Cancer",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.79007?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Qianjing Chang, Huangyang Meng, Xuan Zhou, Meichen Wen, Jingjing Ren, Ziqin Yuan, Xun Xu, Lin Zhang, Wenjun Cheng"
+        ],
+        "doi": "10.1002/advs.79007",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Hyperglycaemia‐Associated Neutrophil Dysregulation Links SIRT1 Suppression to NET‐Mediated Kidney and Vascular Injury",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78927?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Andrea Herrero‐Cervera, Chang Pan, Hatim Boughanem, Liang De Wang, Raquel Gomez‐Bris, Claudia Tulotta, Katharina Schwichtenberg, Anna Livia Linard‐Matos, Virginia Zorita, Jose J. Fuster, Angela Saez, Hannah Flüter, Lina Vöcking, Feng Chen, Rinkoo Dalan, Juan F. Alcala‐Diaz, Jose D. Torres‐Peña, Sanne Lidewij Maas, Celia Borja‐Almarcha, Dominik Heider, Jose M. Gonzalez‐Granado, Jose Lopez‐Miranda, Carlos Silvestre‐Roig, Siu Ling Wong, Raphaël Chevre, Oliver Soehnlein"
+        ],
+        "doi": "10.1002/advs.78927",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Scalable Bioinspired Janus Fiber Membrane for All‐Season Passive Radiative Cooling and Heating",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78936?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Huiyu Yang, Zhengfei Tan, Xiaohua Cheng, Bin Lu, Yongkang Fan, Xiangyi Zhang, Hai Liu, Sijie Zhou, Liangjun Xia, Weilin Xu"
+        ],
+        "doi": "10.1002/advs.78936",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Reply to the Comments on “Single‐Cell Computational Frameworks for Quantifying BET Bromodomain Inhibitor Resistance and Screening Re‐Sensitizer Drugs in Triple‐Negative Breast Cancer”",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78646?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Haizhou Liu, Mengqin Yuan, Yini Shang, Jiahao Chen, Fei Hou, Lihong Wang, Wei Jiang"
+        ],
+        "doi": "10.1002/advs.78646",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Correspondence",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Enterovirus 71 Infection Orchestrates One‐Carbon Metabolism and S‐Adenosylmethionine Generation to Drive Inflammation‐Related Chromatin Methylation",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78643?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Huanhuan Cai, Mengqi Li, Qiongxin Wang, Renbo Qiao, Lin Zhang, Gechang Zhong, Wei Xiong, Cihang Guo, Chenze Li, Keqiong Deng, Shuliang Chen, Xiangtai Zeng, Ying Zhu, Zhibing Lu, Shi Liu"
+        ],
+        "doi": "10.1002/advs.78643",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Mapping the Early Interaction Landscape of Tau Reveals Pathway Remodeling by Methylene Blue",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78903?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Rabia Tahir, Yitong Hao, Jiahao Ji, Shixi Song, Pelayo Alvarez Penanes, Frank Kjeldsen, Chenguang Lou, Hanbin Mao"
+        ],
+        "doi": "10.1002/advs.78903",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Topical Eyedrop Administration of Artemisia Annua‐Derived Extracellular Vesicles Alleviates SS Dry Eye by Reprogramming Macrophage Polarization via Modulating PPAR‐α/NF‐κB",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78991?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Xiaoyu Zhao, Donglin Wei, Wen Chen, Jiawen Zhang, Aoxue Du, Renwei Jing, Qian Wang, Lu Zhao, Bei Du, Hong Nian, Haifang Yin, Ruihua Wei"
+        ],
+        "doi": "10.1002/advs.78991",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "A Novel Noninvasive Detection Method for Urinary Exfoliated Cells in Urothelial Carcinoma Based on Pressure Signals Mediated by Nanoparticles",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78885?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Longhui Lai, Yingru Wang, Enguang Yang, Kang Yao, Guangrui Fan, Suoshi Jing, Bin Feng, Junqiang Tian, Zhenxing Zhai, Yuanfeng Zhang, Hanzhang Wang, Dina Sun, Liang Cheng, Baodui Wang, Zhilong Dong, Zhiping Wang"
+        ],
+        "doi": "10.1002/advs.78885",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "A Mitochondria‐Targeted, Cascade‐Activatable DNA Nanodevice for Spatiotemporally Controlled Triggering of Pyroptosis and Cancer Immunotherapy",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78846?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Zhongjie Pan, Yaozhen Hou, Chaozhen Qin, Lele Li, Xiaojun Fu, Li Zheng, Jian Zhao"
+        ],
+        "doi": "10.1002/advs.78846",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Gradient Solvation Electrolyte Enables Self‐Limiting Fluorinated Interphases for Fast and Stable High‐Content Li–S Batteries",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78772?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Bi‐Hong Huang, Kean Chen, Chunxing Yan, Chang‐Ding Qiu, Zhengzhao Huang, Li‐Shan Shen, Bingjie Du, Shuang‐Yan Lang, Dong Gu, Yuliang Cao, Yun‐Xiao Wang, Wei‐Hong Lai, Fu‐Sheng Ke"
+        ],
+        "doi": "10.1002/advs.78772",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Stress‐Induced Astrocytic ABCA1 Deficiency Caused Cholesterol Accumulation to Promote Synaptic Dysregulation and Behavioral Abnormalities",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78658?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Mengni Chang, Yongsi Zhao, Ye Li, Xiao Chen, Wanzhe Zhang, Wenjing Wang, Changmin Wang, Shihong Chen, Xiaoyue Wang, Shuyan Yu"
+        ],
+        "doi": "10.1002/advs.78658",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Origami‐Based Multimodal Tactile Pad With High‐Sensitivity Pressure and Material Sensing for Enhanced Object Recognition",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78776?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Tianhong Wang, Hongfei Liu, Tao Jin, Yingzhong Tian, Long Li, Chengkuo Lee, Huichan Zhao"
+        ],
+        "doi": "10.1002/advs.78776",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "YTHDF1 Promotes PCV2 Replication by Recognizing the M6A Modification at Site A508 of the Cap mRNA",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78618?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Xiaoyuan Lan, Dedong Wang, Yonghui Qiu, Xue Dong, Qianqian Zhang, Wei Gao, Jinyan Gu, Lei Hou, Jiawu Wan, Jianwei Zhou, Jue Liu"
+        ],
+        "doi": "10.1002/advs.78618",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Dense Fluorination of Nanodiamonds for Quantum Sensing",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78782?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Michal Gulka, Filip Steiner, Jakub Copak, Yuliya Mindarava, Rémi Blinder, Tamara Kucharikova, Sang‐Jun Lee, Dennis Nordlund, Jan Plutnar, Fedor Jelezko, Abraham Wolcott, Stepan Stehlik, Petr Cigler"
+        ],
+        "doi": "10.1002/advs.78782",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Minimal Component Electrolyte Design for −60°C Lithium‐Ion Batteries with Nickel‐Rich Cathode and Silicon‐Containing Anode",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78925?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Faraz A. Burni, Christopher W. Johnson, Sahana Bhattacharyya, Seulki Cho, Ebenezer K. Sam, Atticus Nemeroff, Muhammad K. Monib, Caden W. Glass, Arthur V. Cresce, Peter Kofinas, Paul Albertus"
+        ],
+        "doi": "10.1002/advs.78925",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      },
+      {
+        "title": "Multifunctional Tribofilm Formation on Tribopairs in High Entropy Layered Double Hydroxides Aqueous Lubricant",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78631?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Xuan Thang Nguyen, Kiet Tieu, Cheng Lu, Bach Hoang Tran, Cuong Phu Nguyen, Thi Nguyen Thuy Trang, Chi Nhan Tran, Thi Dinh Ta, Lachlan Smillie"
+        ],
+        "doi": "10.1002/advs.78631",
+        "journal": "Advanced Science",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Advanced Science, EarlyView."
+      }
+    ],
+    "Communications Earth & Environment": [
+      {
+        "title": "Typhoon intensity forecasting using deep learning and physics-guided SHIPS-based predictors",
+        "link": "https://www.nature.com/articles/s43247-026-04229-w",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Xuhang Li",
+          "Jianfang Fei",
+          "Xiaogang Huang",
+          "Xiaoping Cheng"
+        ],
+        "doi": "10.1038/s43247-026-04229-w",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 26 November 2026; doi:10.1038/s43247-026-04229-wAn attention-based deep learning framework with spatially varying physical predictors outperforms operational forecasts for tropical cyclone intensity at 24–48-hour lead times, reducing 24-hour mean absolute error and capturing thermodynamic mechanisms of intensity change."
+      },
+      {
+        "title": "Lithology shapes soil organic matter stabilization pathways in geographically isolated tropical wetlands",
+        "link": "https://www.nature.com/articles/s43247-026-04227-y",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Francisco Ruiz",
+          "Tiago Osório Ferreira",
+          "Vania Rosolen",
+          "Matheus Sampaio Carneiro Barreto",
+          "Cornelia Rumpel",
+          "Marie-France Dignac",
+          "François Baudin",
+          "Flaviane Caroline Pagoto",
+          "Yuri Fernando Parra Castilho"
+        ],
+        "doi": "10.1038/s43247-026-04227-y",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 26 November 2026; doi:10.1038/s43247-026-04227-yLithology shapes soil organic matter stabilization pathways in geographically isolated tropical wetlands"
       }
     ],
     "Nature Food": [
@@ -641,6 +2142,55 @@
         "translation": null,
         "article_type": null,
         "abstract": "Nature Food, Published online: 26 November 2026; doi:10.1038/s43016-026-01469-zWhile income distribution is a key determinant of food demand, it is not fully captured in current global food and land-use models. By embedding estimates of future intranational inequality into scenario analysis, this study quantifies the combined effects of income distribution, socioeconomic development and climate change on global food systems."
+      }
+    ],
+    "Environmental Microbiology": [
+      {
+        "title": "The Impact of Marasmius oreades Fairy Rings on Soil Physicochemical Properties and the Microbiome",
+        "link": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70505?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Rosa van Zandvoort, Peter Jan Vonk, Marion Orsucci, Ayco J. M. Tack, Hanna Johannesson"
+        ],
+        "doi": "10.1111/1462-2920.70505",
+        "journal": "Environmental Microbiology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Environmental Microbiology, Volume 28, Issue 12, December 2026."
+      },
+      {
+        "title": "From Persistence to Prevention: A Holistic Review of Microplastics Sources, Impacts and Mitigation",
+        "link": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70473?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Humma Niaz Malik, Prasun Kumar, Soumya Pandit, Subhasree Ray"
+        ],
+        "doi": "10.1111/1462-2920.70473",
+        "journal": "Environmental Microbiology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Environmental Microbiology, Volume 28, Issue 12, December 2026."
+      }
+    ],
+    "Journal of Ecology": [
+      {
+        "title": "Post‐1980 surge in mountain shrub growth variability driven by unprecedented snow‐water‐temperature conditions",
+        "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70511?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Baptiste Nicoud, Matilda Tamalout, Loïc Francon, Philippe Choler, Sandra Lavorel, Christophe Corona"
+        ],
+        "doi": "10.1111/1365-2745.70511",
+        "journal": "Journal of Ecology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Journal of Ecology, Volume 114, Issue 12, December 2026."
       }
     ],
     "Nature": [
@@ -722,6 +2272,56 @@
         "translation": null,
         "article_type": null,
         "abstract": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03875-6AI-generated algorithms could be about to break public-key cryptography, the technology central to commerce, banking and privacy."
+      },
+      {
+        "title": "Daily briefing: A guide to the Riemann hypothesis",
+        "link": "https://www.nature.com/articles/d41586-026-03894-3",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Jacob Smith"
+        ],
+        "doi": "10.1038/d41586-026-03894-3",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03894-3Get to grips with the famed conjecture, and hear mathematicians’ reactions to its proofs. Plus, the benefits of eating with other people."
+      }
+    ],
+    "Nature Genetics": [
+      {
+        "title": "A brown planthopper effector promotes virulence by targeting the rice resistance protein BPH6",
+        "link": "https://www.nature.com/articles/s41588-026-02859-6",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Jing Wang",
+          "Jing Zhang",
+          "Jianping Guo",
+          "Weiwei Rao",
+          "Mingyang Gao",
+          "Wei Guan",
+          "Tianzhu Li",
+          "Yichen Cheng",
+          "Jing Yang",
+          "Binglin Xing",
+          "Jiaqi Wang",
+          "Bo Du",
+          "Rongzhi Chen",
+          "Lili Zhu",
+          "Zhao Deng",
+          "Peng Qin",
+          "Yuanzhu Yang",
+          "Linda L. Walling",
+          "Guangcun He"
+        ],
+        "doi": "10.1038/s41588-026-02859-6",
+        "journal": "Nature Genetics",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Genetics, Published online: 26 November 2026; doi:10.1038/s41588-026-02859-6Brown planthoppers use a gut protein, GPS6, to directly target and suppress the rice resistance protein BPH6, overcoming host defenses. This reveals a key mechanism in the plant–insect arms race and imposes a fitness cost on the insect."
       }
     ],
     "Nucleic Acids Research": [
@@ -844,357 +2444,6 @@
         "abstract": "Long-read RNA sequencing has revealed extensive transcript diversity, but newly observed isoforms remain difficult to interpret beyond their classification as known or novel. Here, we present IsoAtlas, an interactive multispecies database for visual exploration and population-scale interpretation of transcript isoforms using 1035 human and 414 mouse uniformly processed long-read RNA-sequencing samples. Users can search annotated genes and transcripts or submit novel transcript models in GTF format, visualize their structures, and examine sample-level support, prevalence, expression, tissue and disease context, and sequencing-platform evidence. IsoAtlas integrates structurally equivalent transcripts across GENCODE, RefSeq, and CHESS, consolidating evidence that would otherwise be distributed across annotation-specific identifiers. It further links corresponding human and mouse transcript models, enabling cross-species transcript counterpart lookup and informing the suitability of mouse models for isoform-specific studies. By providing an extensible evidence layer alongside established reference annotations, IsoAtlas supports transcript interpretation beyond known-versus-novel classification. IsoAtlas is freely available at https://isoatlas.org/."
       }
     ],
-    "Scientific Data": [
-      {
-        "title": "A Genome Assembly of Fusarium ipomoeae strain F-1",
-        "link": "https://www.nature.com/articles/s41597-026-08725-8",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Yujin Chen",
-          "Xiaokai Liu",
-          "Yafei Feng",
-          "Qiannan Liu",
-          "Muhammad I. Maulana",
-          "Yaseen Ahmad",
-          "Boris Stojilković",
-          "Yang Zhou",
-          "Haoguang Meng",
-          "Shaojie Han",
-          "Jiangkuan Cui"
-        ],
-        "doi": "10.1038/s41597-026-08725-8",
-        "journal": "Scientific Data",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08725-8A Genome Assembly of Fusarium ipomoeae strain F-1"
-      },
-      {
-        "title": "A High-Resolution County-Level Livestock Water Use Dataset for the Conterminous United States Derived from a Hybrid Physiology–Climate Framework",
-        "link": "https://www.nature.com/articles/s41597-026-08755-2",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Habtamu Tamiru",
-          "Mesfin M. Mekonnen",
-          "Hamid Moradkhani",
-          "Hatim M. E. Geli"
-        ],
-        "doi": "10.1038/s41597-026-08755-2",
-        "journal": "Scientific Data",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08755-2A High-Resolution County-Level Livestock Water Use Dataset for the Conterminous United States Derived from a Hybrid Physiology–Climate Framework"
-      },
-      {
-        "title": "Chromosome-level assembly and annotation of the Sunwatcher Toadhead Agama, Phrynocephalus helioscopus (Pallas, 1771)",
-        "link": "https://www.nature.com/articles/s41597-026-08925-2",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Miao He",
-          "Xianguang Guo"
-        ],
-        "doi": "10.1038/s41597-026-08925-2",
-        "journal": "Scientific Data",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08925-2Chromosome-level assembly and annotation of the Sunwatcher Toadhead Agama, Phrynocephalus helioscopus (Pallas, 1771)"
-      },
-      {
-        "title": "Gugak Acoustic Descriptor Corpus: A Segment-Level Resource for Korean Traditional Music Analysis",
-        "link": "https://www.nature.com/articles/s41597-026-08919-0",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "SangHee Hong",
-          "InHo Lee"
-        ],
-        "doi": "10.1038/s41597-026-08919-0",
-        "journal": "Scientific Data",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08919-0Gugak Acoustic Descriptor Corpus: A Segment-Level Resource for Korean Traditional Music Analysis"
-      },
-      {
-        "title": "Whole-genome variants of 90 Xizang sheep from the Qinghai-Xizang Plateau",
-        "link": "https://www.nature.com/articles/s41597-026-08921-6",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Xiaolong Liang",
-          "Jiawei Yin",
-          "Weilan Miao",
-          "Xiaojie Yang",
-          "Na Wan",
-          "Yijing Liu",
-          "Yige Gao",
-          "Changcheng Wu",
-          "Zhexuan Zhou",
-          "Mozhi Wen",
-          "Qianqian Li",
-          "Yiwei Wang",
-          "Mengzhuo Wu",
-          "Kexin Li"
-        ],
-        "doi": "10.1038/s41597-026-08921-6",
-        "journal": "Scientific Data",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08921-6Whole-genome variants of 90 Xizang sheep from the Qinghai-Xizang Plateau"
-      },
-      {
-        "title": "A genome-resolved microbial dataset from an engineered freshwater canal connecting the Yangtze River and Han River",
-        "link": "https://www.nature.com/articles/s41597-026-08945-y",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Shujing Liu",
-          "Mingjie Shen",
-          "Yiming Wang",
-          "Rui Cao",
-          "Qian Luo",
-          "Yixin Wang",
-          "Qiong Wang"
-        ],
-        "doi": "10.1038/s41597-026-08945-y",
-        "journal": "Scientific Data",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08945-yA genome-resolved microbial dataset from an engineered freshwater canal connecting the Yangtze River and Han River"
-      },
-      {
-        "title": "A clinical dataset of breast cancer pathological images for gland segmentation and classification",
-        "link": "https://www.nature.com/articles/s41597-026-08931-4",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Bingbing Li",
-          "Yongan Liu",
-          "Yihong Zheng",
-          "Huadeng Wang",
-          "Xipeng Pan",
-          "Rushi Lan",
-          "Li Liang"
-        ],
-        "doi": "10.1038/s41597-026-08931-4",
-        "journal": "Scientific Data",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08931-4A clinical dataset of breast cancer pathological images for gland segmentation and classification"
-      },
-      {
-        "title": "3D Dataset of Cuneiform Bearing Objects at the Sulaymaniyah Museum",
-        "link": "https://www.nature.com/articles/s41597-026-08923-4",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Luis Sáenz",
-          "Steffen Bauer",
-          "Hubert Mara",
-          "Mark Altaweel",
-          "Shai Gordin"
-        ],
-        "doi": "10.1038/s41597-026-08923-4",
-        "journal": "Scientific Data",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08923-43D Dataset of Cuneiform Bearing Objects at the Sulaymaniyah Museum"
-      },
-      {
-        "title": "Rescue and curation of 1950s biodiversity records from northeastern Atlantic rocky shores",
-        "link": "https://www.nature.com/articles/s41597-026-08947-w",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Ana Luísa Sinde-Mano",
-          "Cátia Monteiro",
-          "Rocio Nieto-Vilela",
-          "Rita da Silva",
-          "Joana Pereira",
-          "Fernando P. Lima"
-        ],
-        "doi": "10.1038/s41597-026-08947-w",
-        "journal": "Scientific Data",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Scientific Data, Published online: 26 November 2026; doi:10.1038/s41597-026-08947-wRescue and curation of 1950s biodiversity records from northeastern Atlantic rocky shores"
-      }
-    ],
-    "Nature Methods": [
-      {
-        "title": "Mitigating preferred orientation in cryo-EM with ultrasonic excitation during vitrification",
-        "link": "https://www.nature.com/articles/s41592-026-03382-6",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Harry M. Williams",
-          "Wyatt A. Curtis",
-          "Michal Haubner",
-          "Jakub Wenz",
-          "Marcel Drabbels",
-          "Ulrich J. Lorenz"
-        ],
-        "doi": "10.1038/s41592-026-03382-6",
-        "journal": "Nature Methods",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Methods, Published online: 26 November 2026; doi:10.1038/s41592-026-03382-6Exciting cryo-electron microscopy specimens with ultrasonic waves during vitrification helps mitigate the preferred particle orientation problem that plagues protein structure determination."
-      },
-      {
-        "title": "Large-scale quantitative assessment of tissue preparation and staining conditions for robust multiplexed imaging of FFPE tissue samples",
-        "link": "https://www.nature.com/articles/s41592-026-03317-1",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Jia Le Lee",
-          "Johanna Schaffenrath",
-          "Cankun Wang",
-          "Lollija Gladiseva",
-          "Jia-Ying Joey Lee",
-          "Wenrui Wu",
-          "Yuzhou Chang",
-          "Shaohong Feng",
-          "Dingani Nkosi",
-          "José A. Galván",
-          "Jahanbanoo Shahryari",
-          "Jason Yeung",
-          "Huaying Qiu",
-          "Yao Yu Yeo",
-          "Lindsay Parmelee",
-          "Chi Ngai Chan",
-          "Precious Cramer",
-          "Hendrik Michel",
-          "Pierre Stephan",
-          "Yang Wang",
-          "Li Yen Chong",
-          "Stephen Capodilupo",
-          "Jean Loebelenz",
-          "Christine Camacho Fullaway",
-          "Candace C. Liu",
-          "Joe Yeong",
-          "Jakob Einhaus",
-          "Dorien Feyaerts",
-          "Dana Napier",
-          "Giorgio Basile",
-          "Nadja Kopp",
-          "Wendy Fantl",
-          "Karen Wang",
-          "Brice Gaudillière",
-          "Derek Allison",
-          "Michael Angelo",
-          "Sean C. Bendall",
-          "Lit-Hsin Loo",
-          "Jeremy Fisher",
-          "Scott Rodig",
-          "Brooke Howitt",
-          "Qin Ma",
-          "Kerstin Hahn",
-          "Sizun Jiang"
-        ],
-        "doi": "10.1038/s41592-026-03317-1",
-        "journal": "Nature Methods",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Methods, Published online: 26 November 2026; doi:10.1038/s41592-026-03317-1This Registered Report quantitatively evaluates the impact of tissue preparation and staining conditions on imaging."
-      }
-    ],
-    "Communications Earth & Environment": [
-      {
-        "title": "Typhoon intensity forecasting using deep learning and physics-guided SHIPS-based predictors",
-        "link": "https://www.nature.com/articles/s43247-026-04229-w",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Xuhang Li",
-          "Jianfang Fei",
-          "Xiaogang Huang",
-          "Xiaoping Cheng"
-        ],
-        "doi": "10.1038/s43247-026-04229-w",
-        "journal": "Communications Earth & Environment",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Earth & Environment, Published online: 26 November 2026; doi:10.1038/s43247-026-04229-wAn attention-based deep learning framework with spatially varying physical predictors outperforms operational forecasts for tropical cyclone intensity at 24–48-hour lead times, reducing 24-hour mean absolute error and capturing thermodynamic mechanisms of intensity change."
-      },
-      {
-        "title": "Lithology shapes soil organic matter stabilization pathways in geographically isolated tropical wetlands",
-        "link": "https://www.nature.com/articles/s43247-026-04227-y",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Francisco Ruiz",
-          "Tiago Osório Ferreira",
-          "Vania Rosolen",
-          "Matheus Sampaio Carneiro Barreto",
-          "Cornelia Rumpel",
-          "Marie-France Dignac",
-          "François Baudin",
-          "Flaviane Caroline Pagoto",
-          "Yuri Fernando Parra Castilho"
-        ],
-        "doi": "10.1038/s43247-026-04227-y",
-        "journal": "Communications Earth & Environment",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Earth & Environment, Published online: 26 November 2026; doi:10.1038/s43247-026-04227-yLithology shapes soil organic matter stabilization pathways in geographically isolated tropical wetlands"
-      }
-    ],
-    "Microbiological Research": [
-      {
-        "title": "Soil-dependent patterns of rhizosphere microbiome assembly and phosphorus-related associations in soybean.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43085090/",
-        "pub_date": null,
-        "authors": [
-          "Wang S",
-          "Zhang J",
-          "Li J",
-          "Feng J",
-          "Li H",
-          "Zhang W",
-          "Fan M",
-          "Wei G",
-          "Shi P"
-        ],
-        "doi": "10.1016/j.micres.2026.128853",
-        "journal": "Microbiological Research",
-        "source": "pubmed",
-        "pmid": "43085090",
-        "translation": null,
-        "article_type": "Journal Article",
-        "abstract": "Plants are associated with distinct rhizosphere microbiomes, but how microbial community assembly relates to P-associated patterns remains unclear. We investigated soybean rhizosphere microbiome assembly across three contrasting agricultural soils in China-red soil (RS), black soil (BS), and fluvo-aquic soil (FS). Soybean consistently enriched a subset of plant-selected taxa (PST), defined as taxa showing progressive enrichment from bulk soil to root-zone soil to the rhizosphere under deterministic assembly; Sphingomonas and Bradyrhizobium were enriched in all three soils. Homogeneous selection represented the most prominent deterministic process (HoS: 41.0%), suggesting that environmental filtering was important. Microbial community composition and associations with P-fraction dynamics varied among soils. In RS, enriched taxa were associated with higher acid phosphatase activity and differences in Al/Fe-bound P fractions, whereas in BS, stochastic processes were more prominent and associated with distinct phosphorus fraction patterns. Partial least squares path modeling indicated that soil properties were strongly associated with microbial community diversity (path coefficient = -0.898, p < 0.001). Overall, our results suggest a dual pattern comprising consistent plant-associated microbial enrichment and soil-dependent associations with P-fraction dynamics. These findings highlight the importance of soil context in interpreting plant-microbe-phosphorus relationships in agricultural systems."
-      },
-      {
-        "title": "Are postbiotics relevant to plants? Expanding the concept beyond animal systems.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43085089/",
-        "pub_date": null,
-        "authors": [
-          "Deshpande S",
-          "Chakravarty I",
-          "Mandavgane SA"
-        ],
-        "doi": "10.1016/j.micres.2026.128850",
-        "journal": "Microbiological Research",
-        "source": "pubmed",
-        "pmid": "43085089",
-        "translation": null,
-        "article_type": "Review",
-        "abstract": "The plant microbiome plays a fundamental role in regulating nutrient acquisition, resistance to abiotic stress, and overall crop productivity. Although the principles of postbiotics have been extensively studied in human and animal systems, their relevance to plants remains conceptually underdeveloped. This paper presents an integrative, plant-centric framework in which microbial fermentation generates diverse bioactive compounds that constitute the functional basis of plant postbiotics preparations. Building on this concept, this work integrates evidence linking microbial fermentation, bioactive compounds, and their functional role in sustainable crop improvement. It further discusses the microbial sources, classification, production, characterisation, and mechanisms underlying plant growth promotion, induced systemic resistance, and tolerance to biotic and abiotic stresses. Traditional agricultural practices such as Vrikshaayurveda and Korean Natural Farming are investigated as early empirical analogues of postbiotic application. Advances in metabolomics, proteomics, and integrated multi-omics approaches for postbiotic characterization, together with regulatory perspectives and commercialisation challenges, are also discussed. The review further addresses regulatory challenges, economic feasibility, and environmental sustainability, highlighting reduced agrochemical dependency and enhanced soil health. It also proposes a plant-centric definition of postbiotics and presents a conceptual mechanism of action linking postbiotic preparations to plant growth, immunity, nutrient acquisition, and abiotic stress tolerance. Overall, the proposed framework provides a scientific basis for developing standardised plant postbiotic technologies capable of improving agricultural productivity, resilience, and environmental sustainability."
-      }
-    ],
     "eLife": [
       {
         "title": "Temperature-based MHC class I multimer peptide exchange for human HLA-A, -B, and -C",
@@ -1260,36 +2509,6 @@
         "translation": null,
         "article_type": "Neuroscience",
         "abstract": "Adaptive behavior under threat requires balancing reward pursuit against the risk of harm. During approach-avoidance conflict, animals often pause at decision points, but whether these pauses reflect a unified process or distinct decision states remains unclear. Here, we replicate and extend findings from Calvin et al., 2025, by analyzing hippocampal activity in rats performing a pseudo-predator foraging task across two cohorts. We compared mid-track aborts (MTAs), mid-track continues (MTCs), and retreats. Behaviorally, MTAs and MTCs emerged from a shared pause state but diverged in outcome, whereas retreats reflected rapid escape following attack. Despite similar endpoints, retreats and MTAs differed in movement dynamics and neural activity. During retreats, hippocampal representations remained biased toward the attack location. In contrast, representations during MTAs shifted toward safe locations. During pauses, representations differed according to subsequent behavior: pauses preceding MTAs showed greater decoded probability near the attack region, whereas pauses preceding MTCs showed greater decoded probability to goal locations. These differences were present during the outbound approach, suggesting decision-related processes emerged early on in the journey. Together, these findings dissociate hippocampal representations associated with reactive escape from those underlying anticipatory, anxiety-like decision-making, suggesting that the hippocampus dynamically tracks behaviorally relevant features to guide decisions under threat."
-      }
-    ],
-    "Nature Reviews Methods Primers": [
-      {
-        "title": "Luminescence thermometry at the microscale and nanoscale",
-        "link": "https://www.nature.com/articles/s43586-026-00553-9",
-        "pub_date": "2026-11-26",
-        "authors": [],
-        "doi": "10.1038/s43586-026-00553-9",
-        "journal": "Nature Reviews Methods Primers",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Reviews Methods Primers, Published online: 26 November 2026; doi:10.1038/s43586-026-00553-9This PrimeView highlights the variety of probe types that can be used for luminescence thermometry and the different optical responses that can be monitored as a function of temperature."
-      }
-    ],
-    "Biogeosciences": [
-      {
-        "title": "Experimental evidence that organo-mineral interactions regulate dissolved organic matter composition and lability across permafrost landscapes of northwestern Canada",
-        "link": "https://doi.org/10.5194/bg-23-8617-2026",
-        "pub_date": "2026-11-26",
-        "authors": [],
-        "doi": null,
-        "journal": "Biogeosciences",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Experimental evidence that organo-mineral interactions regulate dissolved organic matter composition and lability across permafrost landscapes of northwestern Canada Gabrielle K. F. Hatten, Steven V. Kokelj, Sophie Opfergelt, Duane G. Froese, Alejandro Alvarez, Joseph M. Young, and Suzanne E. Tank Biogeosciences, 23, 8617–8638, https://doi.org/10.5194/bg-23-8617-2026, 2026 Sorption of organic matter (OM) to recently thawed permafrost sediments can critically alter OM fate. Using 32 sediment samples from a suite of diverse permafrost landscapes, we show that organo-mineral interactions “sort” dissolved OM, enriching the aquatic matrix in labile compounds and increasing biodegradation via shifts in OM composition and nutrient release. Sorption potential varied across and within regions and was tied to sediment characteristics, dictated by landscape history."
       }
     ],
     "Nature Astronomy": [
@@ -1407,561 +2626,103 @@
         "abstract": "Nature Astronomy, Published online: 26 November 2026; doi:10.1038/s41550-026-03024-zA Euclid space mission pre-explosion image shows that SN 2024vjm, one of the faintest supernovae, came from a faint white dwarf system. The weak explosion produced slow ejecta, explaining why the faintest thermonuclear supernovae fade slowly."
       }
     ],
-    "Nature Protocols": [
+    "Functional Ecology": [
       {
-        "title": "Assaying the myosin super-relaxed state",
-        "link": "https://www.nature.com/articles/s41596-026-01479-y",
+        "title": "Time and energy budgets in a migratory songbird: Daylength as a fundamental factor",
+        "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70507?af=R",
         "pub_date": "2026-11-26",
         "authors": [
-          "Michael A. Geeves",
-          "Michael Regnier"
+          "Pablo Macías‐Torres, Anders Hedenström"
         ],
-        "doi": "10.1038/s41596-026-01479-y",
-        "journal": "Nature Protocols",
+        "doi": "10.1111/1365-2435.70507",
+        "journal": "Functional Ecology",
         "source": "rss",
         "pmid": null,
         "translation": null,
-        "article_type": null,
-        "abstract": "Nature Protocols, Published online: 26 November 2026; doi:10.1038/s41596-026-01479-yAssaying the myosin super-relaxed state"
+        "article_type": "Research Article",
+        "abstract": "Functional Ecology, EarlyView."
+      },
+      {
+        "title": "Plant diversity accelerates soil carbon release through faster and more diverse root strategies",
+        "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70501?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Xin Wang, Shaopeng Wang, Lijuan Sun, Xian Yang, Mei Yang, Xiaowen Hu, Jianxiao Zhu"
+        ],
+        "doi": "10.1111/1365-2435.70501",
+        "journal": "Functional Ecology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Functional Ecology, EarlyView."
+      },
+      {
+        "title": "Warming modifies temperature dependence of phytoplankton intraspecific competition",
+        "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70513?af=R",
+        "pub_date": "2026-11-26",
+        "authors": [
+          "Ewaldo Leitão, Andrew Mulligan, Emelia Pettit, Hans G. Dam"
+        ],
+        "doi": "10.1111/1365-2435.70513",
+        "journal": "Functional Ecology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": "Research Article",
+        "abstract": "Functional Ecology, EarlyView."
       }
     ],
-    "Nature Communications": [
+    "Exploration": [
       {
-        "title": "Learning beyond rigid manipulation with hybrid soft-rigid robots",
-        "link": "https://www.nature.com/articles/s41467-026-79571-w",
+        "title": "Celastrol Alleviates IL‐17A Inflammatory Positive Feedback in Psoriasis by Targeting PFDN2",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/exp2.70254?af=R",
         "pub_date": "2026-11-26",
         "authors": [
-          "Mariano Ramírez Montero",
-          "Ebrahim Shahabi",
-          "Giovanni Franzese",
-          "Jens Kober",
-          "Barbara Mazzolai",
-          "Cosimo Della Santina"
+          "Ying Luo, Guoshu Deng, Zongguang Tai, Xiaojie Ding, Yi Ru, Jiankun Song, Yue Luo, Xiaoya Fei, Ying Zhang, Yulin Zhang, Seokgyeong Hong, Yonghua Su, Quangang Zhu, Zhongjian Chen, Xin Ma, Hao Zhang, Bin Li, Le Kuai"
         ],
-        "doi": "10.1038/s41467-026-79571-w",
-        "journal": "Nature Communications",
+        "doi": "10.1002/exp2.70254",
+        "journal": "Exploration",
         "source": "rss",
         "pmid": null,
         "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79571-wRigid robots are precise but struggle to adapt, while soft robots are flexible but less reliable. Here, the authors show that a hybrid soft-rigid robot can learn varied manipulation tasks from one demonstration, combining precision with adaptability."
-      },
-      {
-        "title": "Author Correction: Learning reorganizes dendritic and stabilizes axon initial segment inhibitory synapses in CA1 pyramidal neurons",
-        "link": "https://www.nature.com/articles/s41467-026-78865-3",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Hannah Klimmt",
-          "Felix Kuhn",
-          "David Kappel",
-          "Bhargavi Murthy",
-          "Alessandro Francesco Ulivi",
-          "Ali Özgür Argunşah",
-          "Silvia Vieweg",
-          "Rosa Eva Huettl",
-          "Stefan Remy",
-          "Alessio Attardo"
-        ],
-        "doi": "10.1038/s41467-026-78865-3",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-78865-3Author Correction: Learning reorganizes dendritic and stabilizes axon initial segment inhibitory synapses in CA1 pyramidal neurons"
-      },
-      {
-        "title": "Retraction Note: NMDAR-mediated modulation of gap junction circuit regulates olfactory learning in C. elegans",
-        "link": "https://www.nature.com/articles/s41467-026-80132-4",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Myung-Kyu Choi",
-          "He Liu",
-          "Taihong Wu",
-          "Wenxing Yang",
-          "Yun Zhang"
-        ],
-        "doi": "10.1038/s41467-026-80132-4",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-80132-4Retraction Note: NMDAR-mediated modulation of gap junction circuit regulates olfactory learning in C. elegans"
-      },
-      {
-        "title": "Impact-stiffening materials modulated by host–guest interactions in polypseudorotaxanes",
-        "link": "https://www.nature.com/articles/s41467-026-78743-y",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Menghao Ji",
-          "Xue Wang",
-          "Jiheng Hu",
-          "Siyu Jin",
-          "Jianfei Ma",
-          "Dianteng Zhao",
-          "Haiyun Zhang",
-          "Bo Zheng",
-          "Feng Wang",
-          "Lingyan Gao"
-        ],
-        "doi": "10.1038/s41467-026-78743-y",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-78743-y“Designing impact-stiffening materials is critical for personal protective equipment, though it is challenging to optimize the strength-toughness trade-off using conventional methods. Here the authors design an impact stiffening material using host-guest polypseudorotaxanes.”"
-      },
-      {
-        "title": "Choline kinase α promotes glycolysis and tumor growth by phosphorylating and activating enolase 1",
-        "link": "https://www.nature.com/articles/s41467-026-79752-7",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Qingxia Ma",
-          "Qianqian Xu",
-          "Xuan Xia",
-          "Rongxuan Zhu",
-          "Gaoxiang Zhao",
-          "Heng Zhang",
-          "Zheng Wang",
-          "Dong Guo",
-          "Zhaoyuan Meng",
-          "Yixin Duan",
-          "Qian Lin",
-          "Ying Meng",
-          "Shudi Luo",
-          "Fan Yang",
-          "Hongfei Jiang",
-          "Jing Fang",
-          "Zhimin Lu"
-        ],
-        "doi": "10.1038/s41467-026-79752-7",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79752-7Tumor cells rely on increased glycolysis for growth. Here, authors show that choline kinase α activates enolase 1 through phosphorylation, promoting glycolysis and tumor progression in glioblastoma."
-      },
-      {
-        "title": "Disagreements in global urban growth projections amplify uncertainties in deforestation and carbon emissions",
-        "link": "https://www.nature.com/articles/s41467-026-79543-0",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Xia Liao",
-          "Jasper van Vliet",
-          "Yuyu Zhou",
-          "Yan Liu",
-          "Maria Eugenia Correa-Cano",
-          "Robert Mangani",
-          "Sven Anders",
-          "Joseph Awetori Yaro",
-          "Qiming Zheng"
-        ],
-        "doi": "10.1038/s41467-026-79543-0",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79543-0The study shows that disagreements among global urban growth projections can substantially affect future deforestation and carbon emissions estimates, revealing a key source of uncertainty in land and climate assessments."
-      },
-      {
-        "title": "A bacteriocin from the commensal Streptococcus mitis prevents influenza infection-driven pneumococcal lung dissemination",
-        "link": "https://www.nature.com/articles/s41467-026-79152-x",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Catarina Candeias",
-          "João Lança",
-          "Marta Alenquer",
-          "Daniela Brás",
-          "Carina Valente",
-          "Maria João Amorim",
-          "Raquel Sá-Leão"
-        ],
-        "doi": "10.1038/s41467-026-79152-x",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79152-xHere, the authors show that a specific strain of commensal Streptococcus mitis bacteria, and its bacteriocins, reduce S. pneumoniae asymptomatic colonization and lung dissemination after influenza infection."
-      },
-      {
-        "title": "Dynamic B–OH intermediates enable photocatalytic conversion of CO2 into formic acid",
-        "link": "https://www.nature.com/articles/s41467-026-79798-7",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Jiazhen Cao",
-          "Yukun Pan",
-          "Yinan Song",
-          "Zesheng Deng",
-          "Meizhen Li",
-          "Yue Jiang",
-          "Yayun Zhang",
-          "Mingyang Xing"
-        ],
-        "doi": "10.1038/s41467-026-79798-7",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79798-7Dynamic B–OH intermediates act as proton relays to harness water-derived protons for highly selective photocatalytic CO2 conversion to formic acid, enabling synergistic carbon mitigation and pollutant removal from flue."
-      },
-      {
-        "title": "Nuclear factor I connects H3K27M to a targetable purine dependency in diffuse intrinsic pontine glioma",
-        "link": "https://www.nature.com/articles/s41467-026-79694-0",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Ian Mersich",
-          "Sunny Congrove",
-          "Matthew Horchar",
-          "Roman Caceres",
-          "Ranjithmenon Muraleedharan",
-          "Janki Desai",
-          "Pankaj Desai",
-          "Larry Sallans",
-          "Julie A. Reisz",
-          "Abby Grier",
-          "Matthew R. Hass",
-          "Omer Donmez",
-          "Cailing Yin",
-          "Skyler Beaber",
-          "Matthew T. Weirauch",
-          "Leah Kottyan",
-          "Charles B. Stevenson",
-          "Claire Sun",
-          "Peter de Blank",
-          "Natasha Pillay-Smiley",
-          "Trent R. Hummel",
-          "Nagarajan Elumalai",
-          "Ali Tavassoli",
-          "Ron Firestein",
-          "Timothy N. Phoenix",
-          "Angelo D’Alessandro",
-          "Biplab Dasgupta"
-        ],
-        "doi": "10.1038/s41467-026-79694-0",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79694-0Diffuse intrinsic pontine glioma is an aggressive childhood cancer commonly driven by H3K27M with few treatment options. This study links H3K27M-driven chromatin remodelling to NFI-dependent purine metabolism, causing ATIC/PNP-mediated metabolic rewiring and ATIC-targetable tumour dependence."
-      },
-      {
-        "title": "Plant protoplasts display phytopodia",
-        "link": "https://www.nature.com/articles/s41467-026-79550-1",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Johanna E. M. Dickmann",
-          "Marjolaine Martin",
-          "Claire Lionnet",
-          "Zoe Nemec-Venza",
-          "Olivier Hamant"
-        ],
-        "doi": "10.1038/s41467-026-79550-1",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 26 November 2026; doi:10.1038/s41467-026-79550-1Plant cells are encased in cell walls that when digested leave spherical protoplasts. Here the authors report long, thin membrane protrusions from protoplasts termed phytopodia and discuss their potential role in the probing behaviour of the cell cortex."
+        "article_type": "Research Article",
+        "abstract": "Exploration, EarlyView."
       }
     ],
-    "Water Research": [
+    "Lancet Microbe": [
       {
-        "title": "Light quality regulates extracellular polymeric substances and cell wall compositions to trigger distinct auto-flocculation strategies for Tetradesmus obliquus.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43085286/",
-        "pub_date": null,
+        "title": "Kinetics of myxovirus resistance protein A in adults with influenza and SARS-CoV-2 infection in the outpatient setting: a prospective study.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43098157/",
+        "pub_date": "2026-11-26",
         "authors": [
-          "Li J",
-          "Ming H",
-          "Lin CSK",
-          "Wang Z",
-          "Zhu L"
-        ],
-        "doi": "10.1016/j.watres.2026.127414",
-        "journal": "Water Research",
-        "source": "pubmed",
-        "pmid": "43085286",
-        "translation": null,
-        "article_type": "Journal Article",
-        "abstract": "Efficient microalgal harvesting remains a major bottleneck in biomass resource recovery. Auto-flocculation regulation through light quality provides a viable strategy for improving separation efficiency and reducing costs. This study investigated how blue, red, yellow and green light regulated the growth, auto-flocculation as well as metabolic responses of Tetradesmus obliquus. The results showed that blue and red light promoted biomass accumulation, with dry weights of 0.53 and 0.51 g/L, respectively. Following 10 days of cultivation, sedimentation efficiencies exceeded 85% within 2 h of settling for all light treatments. Red light produced the largest flocs, with a maximum particle size of 170 μm. This response was associated with a higher extracellular PN/PS ratio, stronger fluorescence associated with proteins, together with reduced electrostatic repulsion, indicating that protein enrichment in extracellular polymeric substances (EPS) and charge shielding enhanced cell adhesion. Yellow light induced similar changes, but excessive oxidative stress likely constrained floc growth. In contrast, blue light formed smaller but more compact flocs, with a fractal dimension of 1.94 ± 0.03, indicating a more compact structure. The cellulose and pectin contents increased by 36.10% and 59.02%, respectively, together with shifts in metabolites related to sugar acid metabolism and C16 fatty acid modification. These changes suggest that cell wall polysaccharides accumulation and surface hydrophobicity remodeling improved floc compactness and stability. Overall, light quality promoted auto-flocculation through EPS regulation under red and yellow light and cell wall remodeling under blue light, providing a basis for efficient microalgal cultivation, harvesting and resource recovery."
-      },
-      {
-        "title": "Efficient biodegradation of ciprofloxacin by Klebsiella pneumoniae LX: Kinetics, metabolic pathways, and key functional gene investigation.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43085284/",
-        "pub_date": null,
-        "authors": [
-          "Han H",
+          "Yan M",
+          "Wang N",
+          "Gu X",
+          "Yang L",
+          "Zhang X",
           "Zhang Y",
-          "Wang S",
-          "Sha H",
+          "Xuan W",
+          "Zhang X",
+          "Liu G",
+          "Wang H",
+          "Feng Y",
+          "Li W",
+          "Xu J",
           "Zhou L",
-          "Zeng G",
-          "Peng X"
+          "Tong J",
+          "Lu B",
+          "Zhang Y",
+          "Wang Y",
+          "Cao B"
         ],
-        "doi": "10.1016/j.watres.2026.127413",
-        "journal": "Water Research",
+        "doi": "10.1016/j.lanmic.2026.101554",
+        "journal": "Lancet Microbe",
         "source": "pubmed",
-        "pmid": "43085284",
+        "pmid": "43098157",
         "translation": null,
         "article_type": "Journal Article",
-        "abstract": "A Klebsiella pneumoniae strain LX, a CIP-degrading bacterium capable of using CIP as the sole carbon source, was isolated from activated sludge enriched with CIP. Under optimized conditions, strain LX efficiently degraded CIP (0.1-70 mg/L) following first-order kinetics, with rate constants (0.117-1.073 d⁻1) exceeding those of most reported CIP degraders. Substrate profiling revealed degradation activities against other fluoroquinolones including enrofloxacin, norfloxacin, and ofloxacin. UHPLC-MS/MS identified 18 degradation intermediates (including 9 novel compounds) and proposed four primary transformation pathways: acetylation, hydroxylation, piperazine ring cleavage, and defluorination. Toxicity assessments using the TEST software and the luminescent bacteria method demonstrated that the degradation process involved stepwise detoxification, with the acute toxicity (expressed as HgCl₂ equivalent concentration) decreasing from 0.09 mg/L to below the detection limit within 12 days. Multi-omics analysis combined with molecular docking systematically elucidated the resistance and degradation mechanisms of strain LX against high-concentration CIP. Notably, this study represents the first successful heterologous expression of the hpaBC gene cluster in Escherichia coli, revealing that its encoded enzyme catalyzes the hydroxylation of CIP. Through laboratory-simulated bioaugmentation experiments, this study demonstrated that Klebsiella pneumoniae LX, in combination with activated sludge and river sediment, achieved over 90% removal of CIP (at 0.1 and 10 mg/L) within 14 days. This study elucidated the metabolic network and key genes of K. pneumoniae LX for CIP degradation, demonstrating that its bioaugmentation efficiently removes CIP from activated sludge and sediments under experimental conditions, thereby providing an important basis for the bioremediation application of fluoroquinolone-contaminated water environments."
-      },
-      {
-        "title": "Dipole moment governs antihypertensive drug-promoted plasmid conjugation in activated sludge independent of pharmacological action.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43085283/",
-        "pub_date": null,
-        "authors": [
-          "Jing Y",
-          "Liao S",
-          "Rong L",
-          "Fang X",
-          "Zou X",
-          "Lei H",
-          "Wu Q",
-          "Chen H",
-          "Qiu X",
-          "Wu L",
-          "Luo X"
-        ],
-        "doi": "10.1016/j.watres.2026.127403",
-        "journal": "Water Research",
-        "source": "pubmed",
-        "pmid": "43085283",
-        "translation": null,
-        "article_type": "Journal Article",
-        "abstract": "Wastewater treatment plants (WWTPs) are global hotspots for the plasmid-mediated horizontal transfer of antibiotic resistance genes (ARGs). Although antihypertensive drugs (AHDs) with diverse pharmacological modes of action (MOA) are ubiquitous in WWTPs, whether their effects on bacterial conjugation are MOA-dependent remains unclear. Here, we show that nine AHDs representing four distinct MOAs all significantly promote RP4 plasmid transfer between wastewater-isolated E. coli strains. Strikingly, the average hormetic zone for conjugative transfer (ΔAR) does not correlate with pharmacological MOA but is instead strictly driven by the molecular dipole moment (μ) of the tested AHDs. This phenomenon is independent of AHD degradation kinetics and is mechanistically linked to bacterial biochemical responses, particularly increased intracellular reactive oxygen species (ROS) generation and increased cell membrane permeability. Integrative mechanistic modelling further reveals that the promotion of conjugative transfer is fundamentally driven by a host-mediated cascade initiated by specific pollutant-protein interactions and the regulation of the key donor-cell genes ompT and ydjA, with a secondary contribution from recipient cells, rather than by direct modulation of RP4 plasmid gene expression. Moreover, AHDs exposure consistently exacerbate ARGs risk in activated sludge systems, and the overarching ARGs risk index (ARRI) remains tightly correlated with μ. Collectively, these findings redefine the molecular basis of AHD-driven ARG propagation, establishing μ as a key physicochemical determinant for ARG risk screening and mitigation in WWTPs, and support a shift away from MOA-centric environmental risk assessment of non-antibiotic pharmaceuticals."
-      },
-      {
-        "title": "Contrasting nitrate and S-metolachlor ESA patterns in soils and groundwater across agricultural hydrogeological settings.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43085287/",
-        "pub_date": null,
-        "authors": [
-          "Redon B",
-          "Renard O",
-          "Longchamp M",
-          "Morere M",
-          "Guyoneaud R",
-          "Monperrus M",
-          "Sebilo M"
-        ],
-        "doi": "10.1016/j.watres.2026.127385",
-        "journal": "Water Research",
-        "source": "pubmed",
-        "pmid": "43085287",
-        "translation": null,
-        "article_type": "Journal Article",
-        "abstract": "Predicting groundwater quality from surface agricultural inputs remains challenging because the unsaturated zone mediates contaminant fate through coupled physical, chemical and biological processes that are rarely characterized simultaneously. This study integrates long-term groundwater monitoring, soil physicochemical characterization, and microbial community profiling across five agricultural drinking-water catchments in southwestern France representing three contrasting hydrogeological settings: semi-confined Landes aquifers (L1 and L3), an intermediate Landes site at Orist (L2), where a clay cover overlies an alluvial unit, and shallow alluvial Béarn aquifers (B1 and B2). We examined nitrate, S-metolachlor and its transformation products from shallow soils to groundwater across these contrasting settings. Concentrations of nitrate and S-metolachlor ESA in shallow soils and in groundwater showed contrasting regional patterns. The semi-confined Landes sites L1 and L3 showed relatively stable groundwater concentrations, whereas the alluvial Béarn sites B1 and B2 were more variable. Orist (L2) displayed an intermediate pattern, with nitrate concentrations closer to the Béarn sites. Because transport through the unsaturated zone, recharge dynamics and groundwater residence times were not directly measured, the mechanisms underlying these differences cannot be resolved from our dataset. Microbial communities in soils and groundwater clustered primarily by site while contaminant variables explained only a small additional fraction of the observed variation. The continuous detection of S-metolachlor ESA in groundwater, despite the infrequent detection of the parent compound, is consistent with a legacy-contamination hypothesis. Storage and delayed release in the deeper unsaturated zone were not measured and cannot be distinguished from continuing diffuse inputs, recharge variability or aquifer mixing with the available data."
-      },
-      {
-        "title": "Organic overloading shifts metabolite-microbiome network specialization and abiotic sulfurization in anaerobic digestion.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43085285/",
-        "pub_date": null,
-        "authors": [
-          "Kong X",
-          "Arntzen MØ",
-          "Cermeño P",
-          "García-Comas C",
-          "González-Fernández C",
-          "Greses S",
-          "Hagen LH",
-          "Tebben J",
-          "Walter JM",
-          "Koch BP"
-        ],
-        "doi": "10.1016/j.watres.2026.127375",
-        "journal": "Water Research",
-        "source": "pubmed",
-        "pmid": "43085285",
-        "translation": null,
-        "article_type": "Journal Article",
-        "abstract": "Organic overloading is a major disturbance to anaerobic digestion (AD), yet how dissolved organic matter (DOM) and microbial communities respond during progressive destabilization remains poorly understood. Here, we integrated time-series high-resolution mass spectrometry and 16S rRNA gene sequencing to investigate DOM and microbial dynamics under a progressively increasing organic loading rate (OLR). Increasing OLR resulted in volatile fatty acid accumulation, pH decline, and eventual methane (CH4) production collapse. Community assembly analysis revealed an early shift toward heterogeneous selection in DOM assembly, whereas heterogeneous selection in microbial communities became dominant during late-stage CH4 collapse, indicating distinct responses of chemical and microbial assemblages to overloading. DOM-microbial association networks were substantially reorganized: positive-association networks became more generalized, whereas negative-association networks became increasingly specialized and surpassed positive-network specialization during late-stage CH4 collapse. These changes coincided with microbial community restructuring and the accumulation of more reduced DOM, indicating contrasting reorganization of DOM-microbial associations under severe overloading. Additionally, sulfur-containing DOM and abiotic sulfurization signatures decreased under perturbation, reflecting altered sulfur-mediated DOM transformations during reactor destabilization. Our findings demonstrate that organic overloading restructures metabolite-microbiome association networks in AD, providing mechanistic insight into methane production failure."
-      }
-    ],
-    "Nature Genetics": [
-      {
-        "title": "A brown planthopper effector promotes virulence by targeting the rice resistance protein BPH6",
-        "link": "https://www.nature.com/articles/s41588-026-02859-6",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Jing Wang",
-          "Jing Zhang",
-          "Jianping Guo",
-          "Weiwei Rao",
-          "Mingyang Gao",
-          "Wei Guan",
-          "Tianzhu Li",
-          "Yichen Cheng",
-          "Jing Yang",
-          "Binglin Xing",
-          "Jiaqi Wang",
-          "Bo Du",
-          "Rongzhi Chen",
-          "Lili Zhu",
-          "Zhao Deng",
-          "Peng Qin",
-          "Yuanzhu Yang",
-          "Linda L. Walling",
-          "Guangcun He"
-        ],
-        "doi": "10.1038/s41588-026-02859-6",
-        "journal": "Nature Genetics",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Genetics, Published online: 26 November 2026; doi:10.1038/s41588-026-02859-6Brown planthoppers use a gut protein, GPS6, to directly target and suppress the rice resistance protein BPH6, overcoming host defenses. This reveals a key mechanism in the plant–insect arms race and imposes a fitness cost on the insect."
-      }
-    ],
-    "Communications Biology": [
-      {
-        "title": "Neural signatures of cannabis use: associations with brain aging and cognitive function via functional connectivity",
-        "link": "https://www.nature.com/articles/s42003-026-11191-y",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Zening Fu",
-          "Kent Hutchison",
-          "Armin Iraji",
-          "Vince D. Calhoun"
-        ],
-        "doi": "10.1038/s42003-026-11191-y",
-        "journal": "Communications Biology",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Biology, Published online: 26 November 2026; doi:10.1038/s42003-026-11191-yNeural signatures of cannabis use: associations with brain aging and cognitive function via functional connectivity"
-      },
-      {
-        "title": "Identification of PUFA interaction site on ASIC3 suggests a complex regulatory mechanism",
-        "link": "https://www.nature.com/articles/s42003-026-11348-9",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Rebecca Roth",
-          "Ramya Bandarupalli",
-          "Robert C. Klipp",
-          "Jing Li",
-          "John R. Bankston"
-        ],
-        "doi": "10.1038/s42003-026-11348-9",
-        "journal": "Communications Biology",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Biology, Published online: 26 November 2026; doi:10.1038/s42003-026-11348-9Identification of PUFA interaction site on ASIC3 suggests a complex regulatory mechanism"
-      },
-      {
-        "title": "Integrating multilayered regulatory networks in grass rhizome development",
-        "link": "https://www.nature.com/articles/s42003-026-11278-6",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Kanako Bessho-Uehara",
-          "Motoyuki Ashikari"
-        ],
-        "doi": "10.1038/s42003-026-11278-6",
-        "journal": "Communications Biology",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Biology, Published online: 26 November 2026; doi:10.1038/s42003-026-11278-6Integrating multilayered regulatory networks in grass rhizome development"
-      },
-      {
-        "title": "Structural mapping of the stepwise disassembly and genome release of Flock House Virus",
-        "link": "https://www.nature.com/articles/s42003-026-11361-y",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Milan Kumar Lokshman",
-          "Subhomoi Borkotoky",
-          "B. V. Venkataram Prasad",
-          "Manidipa Banerjee"
-        ],
-        "doi": "10.1038/s42003-026-11361-y",
-        "journal": "Communications Biology",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Biology, Published online: 26 November 2026; doi:10.1038/s42003-026-11361-yStructural mapping of the stepwise disassembly and genome release of Flock House Virus"
-      },
-      {
-        "title": "Geometric and evolutionary deep learning prioritizes GPCR ligand interactions across the human metabolome",
-        "link": "https://www.nature.com/articles/s42003-026-11388-1",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Tomoya Sakuma",
-          "Yuki Otani",
-          "Hideyuki Shimizu"
-        ],
-        "doi": "10.1038/s42003-026-11388-1",
-        "journal": "Communications Biology",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Communications Biology, Published online: 26 November 2026; doi:10.1038/s42003-026-11388-1Geometric and evolutionary deep learning prioritizes GPCR ligand interactions across the human metabolome"
-      }
-    ],
-    "Briefings in Bioinformatics": [
-      {
-        "title": "Machine learning for predicting tyrosine kinase inhibitor resistance in lung cancer",
-        "link": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag657/9135984?rss=1",
-        "pub_date": "2026-11-26",
-        "authors": [],
-        "doi": "10.1093/bib/bbag657",
-        "journal": "Briefings in Bioinformatics",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "AbstractResistance to tyrosine kinase inhibitors (TKIs) remains a significant barrier to achieving durable responses in non-small cell lung cancer. Advances in machine learning now enable the prediction of TKI resistance by linking multi-omic profiles to resistance trajectories, although this capability remains largely preclinical and clinical translation continues to lag behind methodological progress. This review examines the biological mechanisms of resistance alongside emerging machine learning strategies, highlighting how distinct resistance processes relate to specific predictive modelling tasks. Recent models trained on large-scale datasets and fine-tuned for specific contexts aim to improve generalizability, while the incorporation of prior knowledge and attention-based architectures enhances interpretability and supports biological hypothesis generation. As multi-omics approaches and single-cell data become widely available, we emphasize the need to better align data generation, model design, and clinically relevant endpoints. The lack of standardization in assays, outcome labels, and benchmarks continues to limit reproducibility and clinical adoption. By connecting data modalities, modelling approaches, and clinical decision points, this review outlines key challenges and opportunities for translating predictive models into practice. Bridging the gap between computational prediction and therapeutic decision-making will require interpretable, biologically grounded, and prospectively validated models developed through open, cross-disciplinary collaboration. Practical recommendations for machine learning studies of TKI resistance are provided to support future research in this area."
-      }
-    ],
-    "Nature Reviews Bioengineering": [
-      {
-        "title": "Injectable bioelectronics",
-        "link": "https://www.nature.com/articles/s44222-026-00513-8",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Hanchuan Tang",
-          "Na Li",
-          "Zhangqi Pan",
-          "Lejie Qin",
-          "Yueying Yang",
-          "Ye Tian",
-          "Jianfeng Zang"
-        ],
-        "doi": "10.1038/s44222-026-00513-8",
-        "journal": "Nature Reviews Bioengineering",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Reviews Bioengineering, Published online: 26 November 2026; doi:10.1038/s44222-026-00513-8Injectable bioelectronics offer a minimally invasive alternative to implantable bioelectronic devices, enabling long-term interfaces with biological tissues while reducing the risks associated with permanent implants. This Review examines three complementary strategies for achieving injectability, including silicon-centric miniaturization, shear-thinning biomaterials and metagel systems, and highlights their applications in sensing, stimulation and closed-loop therapy across multiple organ systems."
-      },
-      {
-        "title": "Expert consensus on CAR T cell manufacturing practices",
-        "link": "https://www.nature.com/articles/s44222-026-00511-w",
-        "pub_date": "2026-11-26",
-        "authors": [
-          "Amaia Cadinanos-Garai",
-          "Anson Cheung",
-          "Alix Vaissié",
-          "Mohamed Abou-el-Enein"
-        ],
-        "doi": "10.1038/s44222-026-00511-w",
-        "journal": "Nature Reviews Bioengineering",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Reviews Bioengineering, Published online: 26 November 2026; doi:10.1038/s44222-026-00511-wCAR T cell manufacturing practices vary substantially across products and programmes, limiting comparison and shared learning across the field. This Consensus Statement defines areas of agreement and disagreement across the manufacturing workflow and translates these findings into priorities for product characterization, reporting and comparative evidence generation."
+        "abstract": "[BACKGROUND] Respiratory viral infections have few virus-specific biomarkers, with current monitoring relying on subjective symptoms and non-specific biomarkers (procalcitonin and C-reactive protein). Myxovirus resistance protein A (MxA), a virus-specific biomarker, has shown rapid induction (1-2 h) and a moderate half-life (approximately 2·3 days) in experimental studies, but its protein-level kinetics remain poorly characterised in individuals with naturally acquired respiratory viral infections. We investigated MxA temporal kinetics in these patients, evaluated its potential as a biomarker for monitoring infection resolution, and assessed antiviral treatment efficacy in individuals with influenza or SARS-CoV-2 infection. [METHODS] This single-centre, prospective cohort study enrolled adult outpatients (aged ≥18 years) with acute respiratory viral infections from the outpatient clinic at China-Japan Friendship Hospital in Beijing between Dec 11, 2023, and March 14, 2024, with 2-3 follow-up visits within 14 days. Patients were included if they presented with at least two respiratory symptoms with a symptom duration of seven days or less. Exclusion criteria included interferon therapy within 30 days, major surgery, myocardial infarction or stroke, substantial trauma or burns, vaccination within 30 days, or unavailable study samples. Viral pathogens included influenza, SARS-CoV-2, rhinovirus, human coronaviruses, respiratory syncytial virus, adenovirus, parainfluenza virus, human metapneumovirus, and enterovirus. Peripheral blood samples were collected, and MxA levels were measured quantitatively using a fluorescence immunochromatography assay. Symptom severity, virological data, and antiviral treatment regimens were documented. Generalised estimating equation (GEE) models were used to assess the dynamic relationships between MxA levels, viral reads measured by multiplex PCR-based targeted next-generation sequencing (mp-tNGS), and symptom severity, and the effects of antiviral treatments on MxA trajectories. [FINDINGS] A total of 201 outpatients with respiratory viral infections (59 influenza A, 43 influenza B, 78 SARS-CoV-2, 21 other viruses) with a median age of 34 years (41 for SARS-CoV-2) were included in this study. MxA levels were high on the day of symptom onset (median 116·0 ng/mL; IQR 84·7-166·0), peaked around day 2, and gradually decreased, falling below 50 ng/mL by day 10. SARS-CoV-2 showed significantly faster MxA decline than did influenza (p<0·0001). Multivariable GEE models showed that longitudinal changes in viral reads measured by mp-tNGS correlated positively and significantly with MxA levels (estimate=18·0; 95% confidence interval [CI], 10·4-25·7; p<0·0001). MxA correlated with mean total symptom scores (estimate=0·0029; 95% CI, 0·0018-0·0041; p<0·0001) and systemic symptom scores (estimate=0·0045; 95% CI, 0·0029-0·0060; p<0·0001), with strongest associations in the early infection phase. MxA levels also correlated positively with the mean respiratory symptom scores (estimate=0·0023; 95% CI, 0·0009-0·0038; p=0·0015). In individuals with influenza B, MxA levels declined significantly faster when treated with baloxavir compared with oseltamivir (estimate=-10·8; 95% CI, -17·1 to -4·5; p=0·0008). This faster decline trend aligned with changes observed in viral reads measured by mp-tNGS and clinical symptom improvement. In individuals with SARS-CoV-2, those receiving no antiviral therapy showed significantly slower MxA decline (p=0·022). Among patients with lower respiratory viral infections who experienced fever within 48 h of blood sampling (n=48), higher baseline MxA independently associated with increased in-hospital mortality (odds ratio 1·004; 95% CI, 1·001-1·008). [INTERPRETATION] Our findings indicate that temporal changes in MxA levels correlate closely with viral load and symptom severity, suggesting that MxA could serve as a potential biomarker for monitoring infection resolution in respiratory viral infections. MxA decline is slower than viral load clearance (days 7-8), which may partially reflect its half-life; MxA levels generally fell below 50 ng/mL by day 10 after symptom onset, supporting its potential utility for monitoring infection resolution. Combining MxA with viral load testing provides a more comprehensive disease assessment. Additionally, MxA could help to guide antiviral management, although further validation is required. Limitations include small subgroup sample sizes, variable enrolment timing, low participant retention, and exclusion of immunosuppressed patients. [FUNDING] Beijing Research Ward Excellence Program, Department of Emergency Response, National Disease Control and Prevention Administration, China-Japan Friendship Hospital, Chinese Academy of Medical Sciences, National Natural Science Foundation of China, Noncommunicable Chronic Diseases-National Science and Technology Major Project, Zybio, Chinese Academy of Medical Sciences (CAMS) Innovation Fund for Medical Sciences, and New Cornerstone Science Foundation. Materials for MxA measurements were provided by Zybio."
       }
     ]
   }
