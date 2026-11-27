@@ -1,79 +1,396 @@
 {
   "date": "2026-11-27",
-  "generated_at": "2026-11-27T13:31:52.294968+00:00",
-  "total_journals": 12,
-  "total_articles": 39,
+  "generated_at": "2026-11-27T23:56:10.698877+00:00",
+  "total_journals": 19,
+  "total_articles": 104,
   "journals": {
-    "Communications Earth & Environment": [
+    "npj Biodiversity": [
       {
-        "title": "Storyline attribution of fire weather during the 2025 Mediterranean summer",
-        "link": "https://www.nature.com/articles/s43247-026-04238-9",
+        "title": "Prioritizing submarine canyons as climate refugia for global deep-sea biodiversity conservation",
+        "link": "https://www.nature.com/articles/s44185-026-00169-y",
         "pub_date": "2026-11-27",
         "authors": [
-          "Linda van Garderen",
-          "Dalena León-FonFay",
-          "Victoria Dietz",
-          "Willem Jan van de Berg",
-          "Frauke Feser"
+          "Roberto Danovaro",
+          "Alessandra Kostantchouk",
+          "Jacopo Aguzzi",
+          "Miquel Canals",
+          "Cinzia Corinaldesi",
+          "Marina Cunha",
+          "Antonio Dell’Anno",
+          "Erika Fabbrizzi",
+          "Simonetta Fraschetti",
+          "Cristina Gambi",
+          "Jordi Grinyó",
+          "Antonio Pusceddu",
+          "Paul, V. R. Snelgrove"
         ],
-        "doi": "10.1038/s43247-026-04238-9",
-        "journal": "Communications Earth & Environment",
+        "doi": "10.1038/s44185-026-00169-y",
+        "journal": "npj Biodiversity",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Communications Earth & Environment, Published online: 27 November 2026; doi:10.1038/s43247-026-04238-9Climate change substantially intensified fire-conducive weather across the Mediterranean in the summer of 2025, primarily through higher temperatures, based on a spectrally nudged storyline attribution framework."
+        "abstract": "npj Biodiversity, Published online: 27 November 2026; doi:10.1038/s44185-026-00169-yPrioritizing submarine canyons as climate refugia for global deep-sea biodiversity conservation"
+      }
+    ],
+    "Nature Reviews Earth & Environment": [
+      {
+        "title": "A brighter side to sulfur dioxide",
+        "link": "https://www.nature.com/articles/s43017-026-00864-1",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Aliénor Lavergne"
+        ],
+        "doi": "10.1038/s43017-026-00864-1",
+        "journal": "Nature Reviews Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Reviews Earth & Environment, Published online: 27 November 2026; doi:10.1038/s43017-026-00864-1An article in Nature Geoscience finds that sulfur dioxide can form aerosols that act as seeds for cloud droplets, prolonging cloud brightening and increasing cloud reflectivity."
+      }
+    ],
+    "Communications Biology": [
+      {
+        "title": "Oscillatory burst dynamics in prefrontal cortex before and after working memory training",
+        "link": "https://www.nature.com/articles/s42003-026-11329-y",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Mohammad Aliramezani",
+          "Christos Constantinidis",
+          "Mohammad Reza Daliri"
+        ],
+        "doi": "10.1038/s42003-026-11329-y",
+        "journal": "Communications Biology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Biology, Published online: 27 November 2026; doi:10.1038/s42003-026-11329-yOscillatory burst dynamics in prefrontal cortex before and after working memory training"
       },
       {
-        "title": "Microplastic polymer hazard is associated with soil microbial community structure and functionality",
-        "link": "https://www.nature.com/articles/s43247-026-04237-w",
+        "title": "Ubiquitin‑like modifications manipulate cancer biology and confer therapeutic potential",
+        "link": "https://www.nature.com/articles/s42003-026-11243-3",
         "pub_date": "2026-11-27",
         "authors": [
-          "Yuxiao Zhang",
-          "Teng Yang",
-          "Li Nie",
-          "Yu-Meng Zhang",
-          "Ping Huang",
-          "Weijie Luo",
-          "Luyao Song",
-          "Xiyuan Xu",
-          "Kunkun Fan",
-          "Guifeng Gao",
-          "Jia-Bao Zhang",
-          "Jack A. Gilbert",
-          "Haiyan Chu"
+          "Zhenrong Ji",
+          "Shuying Wang",
+          "Zuodi Liang",
+          "Heng Zhou",
+          "Lin Gao",
+          "Lin Qin",
+          "Weiwei Liu"
         ],
-        "doi": "10.1038/s43247-026-04237-w",
-        "journal": "Communications Earth & Environment",
+        "doi": "10.1038/s42003-026-11243-3",
+        "journal": "Communications Biology",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Communications Earth & Environment, Published online: 27 November 2026; doi:10.1038/s43247-026-04237-wPolymer-specific hazard, not microplastic load, governs how microbial communities are restructured under microplastics pollution stress in China’s black soil region, according to a combination of bulk soil surveys in 50 farms with stress-gradient incubation experiments."
+        "abstract": "Communications Biology, Published online: 27 November 2026; doi:10.1038/s42003-026-11243-3Ji et al. review current evidence on how six ubiquitin-like modifications—SUMOylation, NEDDylation, ISGylation, UFMylation, FAT10ylation, and ATG8ylation—contribute to cancer hallmark maintenance and therapy resistance. These modifications are associated with dysregulated protein stability, subcellular localization, enzymatic activity, and proteinprotein interactions in tumors, although challenges remain in deciphering their cancertype-specific dependencies. The authors further summarize recent drug discovery efforts targeting the enzymes governing these modifications, highlighting emerging opportunities for novel cancer therapeutics, although significant hurdles persist in achieving isoform selectivity and minimizing on-target toxicity."
+      }
+    ],
+    "Microbiological Research": [
+      {
+        "title": "Synergistic CYP and ABC gene action facilitates Trichoderma harzianum-mediated detoxification of the Alternaria alternata mycotoxin alternariol.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43097937/",
+        "pub_date": null,
+        "authors": [
+          "Yang Y",
+          "Han J",
+          "Liu B",
+          "Gao J",
+          "Kong N",
+          "Yu J",
+          "Wang D",
+          "Li D",
+          "Liu Z"
+        ],
+        "doi": "10.1016/j.micres.2026.128852",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43097937",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Trichoderma spp. are widely used as biocontrol agents, yet their molecular detoxification mechanisms against phytopathogenic mycotoxins remain unclear. This study reveals a synergistic detoxification network in Trichoderma harzianum Tha739 that targets alternariol (AOH), a key mycotoxin produced by the poplar pathogen Alternaria alternata. Metabolomic profiling identified AOH as the dominant phytotoxic and antifungal metabolite of A. alternata strain Aal004. Through functional genetic approaches involving overexpression and knockout mutants of CYP57.9, CYP64.9, and ABC69.9, we demonstrated that these genes significantly enhance Tha739 tolerance to AOH. Compared with the wild type Tha739WT, the antagonistic activity of the overexpression strains to Aal004 was increased by 15-25%, and the growth rate was increased by 20-38%, while the growth inhibition rate of the knockout strain was 30-40%. Cellular analyses revealed that overexpression strains conferred enhanced membrane integrity, with propidium iodide staining intensity reduced by over 3-fold, and stimulated abundant intracellular lipid droplet accumulation under AOH stress. Targeted LC-MS/MS kinetics showed that CYP57.9 overexpression reduced extracellular AOH by 33.9% within 4 d and increased intracellular AOH-glucoside by 3.2-fold, while ABC69.9 overexpression enhanced extracellular AOH-glucoside efflux by 4.1-fold. The double overexpression of CYP57.9 and ABC69.9 synergistically increased AOH conversion rate and clearance rate. These results support a three-phase \"modification-efflux\" detoxification model in Trichoderma harzianum, in which CYP450-mediated upstream modification is associated with AOH-glucoside formation and ABC69.9 contributes to the efflux of the conjugated metabolite. This study elucidates the molecular mechanism of fungal chemical defense and identifies potential genetic targets that may contribute to the development of next-generation Trichoderma-based biocontrol agents against mycotoxin-producing pathogens."
+      }
+    ],
+    "Nature Reviews Microbiology": [
+      {
+        "title": "Smart phage design",
+        "link": "https://www.nature.com/articles/s41579-026-01400-0",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Mateus B. Fiamenghi"
+        ],
+        "doi": "10.1038/s41579-026-01400-0",
+        "journal": "Nature Reviews Microbiology",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Reviews Microbiology, Published online: 27 November 2026; doi:10.1038/s41579-026-01400-0This Genome Watch explores how generative artificial intelligence can design functional bacteriophage genomes, and the possible applications of these approaches, as well as their current limitations."
+      }
+    ],
+    "Nature Communications": [
+      {
+        "title": "Anyone can be the best depending on how structural variant callers are evaluated",
+        "link": "https://www.nature.com/articles/s41467-026-79601-7",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Luca Denti",
+          "Thomas Krannich",
+          "Tomas Vinar",
+          "Rayan Chikhi",
+          "Paola Bonizzoni",
+          "Brona Brejova",
+          "Fereydoun Hormozdiari"
+        ],
+        "doi": "10.1038/s41467-026-79601-7",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79601-7An evaluation of long-read structural variant detection methods shows that reported performance can depend strongly on how they are evaluated, highlighting the need for more consistent benchmarking practices."
       },
       {
-        "title": "Global assessment of solar encroachment on cropland and food production",
-        "link": "https://www.nature.com/articles/s43247-026-04221-4",
+        "title": "Identification and functional characterization of bacterial bilirubin vinyl reductase across vertebrate gut microbiomes",
+        "link": "https://www.nature.com/articles/s41467-026-79675-3",
         "pub_date": "2026-11-27",
         "authors": [
-          "Runjia Yang",
-          "Wu Xiao",
-          "Yanmei Ye",
-          "Yihua Hu",
-          "Yuwei Chen",
-          "Zhipei Sun",
-          "Kechao Wang",
-          "Wenqi Chen",
-          "Maoxin Zhang",
-          "Tingting He"
+          "Angela K. Jiang",
+          "Maggie R. Grant",
+          "Gabriela Arp",
+          "Keith Dufault-Thompson",
+          "Alexandra M. Clarke",
+          "Yue Li",
+          "Danielle Lehman",
+          "Alan K. Jarmusch",
+          "Brantley Hall",
+          "Xiaofang Jiang"
         ],
-        "doi": "10.1038/s43247-026-04221-4",
-        "journal": "Communications Earth & Environment",
+        "doi": "10.1038/s41467-026-79675-3",
+        "journal": "Nature Communications",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Communications Earth & Environment, Published online: 27 November 2026; doi:10.1038/s43247-026-04221-4Global photovoltaic expansion on cropland threatens food production, with losses projected to increase 12–22-fold by 2050, though mitigation measures could substantially reduce impacts, according to global photovoltaic mapping, crop-production estimation and future scenario modeling."
+        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79675-3Here, the authors identify a gut bacterial enzyme, bilirubin vinyl reductase (BilV), showing it is complementary to bilirubin reductase (BilR) and required to reduce bilirubin into urobilinogen, an essential step in the heme degradation pathway."
+      },
+      {
+        "title": "Control of out-of-plane anti-damping spin torque with a canted ferromagnetic spin source",
+        "link": "https://www.nature.com/articles/s41467-026-79635-x",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Xiaoxi Huang",
+          "Daniel A. Pharis",
+          "Hang Zhou",
+          "Zishen Tian",
+          "Thow Min Jerald Cham",
+          "Zhaoyang Wang",
+          "Yuhan Liang",
+          "Kyoungjun Lee",
+          "Yilin Evan Li",
+          "Maciej Olszewski",
+          "Di Yi",
+          "Chang-Beom Eom",
+          "Darrell G. Schlom",
+          "Lane W. Martin",
+          "Ding-Fu Shao",
+          "Daniel C. Ralph"
+        ],
+        "doi": "10.1038/s41467-026-79635-x",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79635-xHuang et al. show that canted magnetization in SrRuO3 generates a sizable out-of-plane damping-like torque without relying on low crystal symmetry, offering a strategy toward scalable magnetic-memory devices with perpendicular magnetic anisotropy."
+      },
+      {
+        "title": "Rigidity-driven molecular assembly for high-efficiency flexible perovskite/CIGS tandems",
+        "link": "https://www.nature.com/articles/s41467-026-79826-6",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Libing Yao",
+          "Enbing Bi",
+          "Qingqing Liu",
+          "Ke Zhao",
+          "Caner Değer",
+          "Ilhan Yavuz",
+          "Jingjing Zhou",
+          "Weizhong Tian",
+          "Xiaohe Miao",
+          "Jiahui Shen",
+          "Yang Gui",
+          "Yixin Luo",
+          "Jiazhe Xu",
+          "Xu Zhang",
+          "Tie Guo",
+          "Jingjing Xue",
+          "Rui Wang"
+        ],
+        "doi": "10.1038/s41467-026-79826-6",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79826-6Flexible perovskite and copper indium gallium selenide tandem solar cells are hindered by rough interfaces that reduce efficiency and stability. Yao et al. designed a rigid molecular contact enabling efficient, durable devices that withstand prolonged operation and bending."
+      },
+      {
+        "title": "The human hypothalamus encodes prediction errors during sensory–nutrient inference",
+        "link": "https://www.nature.com/articles/s41467-026-79339-2",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Putu A. Khorisantono",
+          "Fei-Yang Huang",
+          "Michael P. F. Sutcliffe",
+          "Paul C. Fletcher",
+          "I. Sadaf Farooqi",
+          "Fabian Grabenhorst"
+        ],
+        "doi": "10.1038/s41467-026-79339-2",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79339-2How neural circuits compute nutrient content from sensory cues is not fully understood. This study shows that oral texture shapes how people judge the fat content of foods and identifies hypothalamic signals when texture and fat content mismatch, linking these neural signals to fat intake."
+      },
+      {
+        "title": "A membrane-active cationic supramolecule to treat both fungal and bacterial keratitis",
+        "link": "https://www.nature.com/articles/s41467-026-79812-y",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Adrielle Xianwen Chen",
+          "Thet Tun Aung",
+          "Tianjiao Dai",
+          "Eve Wai Ling Chow",
+          "Jianguo Li",
+          "Keefe Oei",
+          "Venkatesh Mayandi",
+          "Sai Bo Bo Tun",
+          "Amutha Veluchamy Barathi",
+          "Darren Shu Jeng Ting",
+          "Yi Yan Yang",
+          "Chandra Shekhar Verma",
+          "Rajamani Lakshminarayanan",
+          "Yue Wang",
+          "Ning Li"
+        ],
+        "doi": "10.1038/s41467-026-79812-y",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79812-yIn this work, authors report a membrane-active cationic supramolecule, Y8, with potent cross-kingdom activity against vision-threatening fungal and bacterial keratitis. It is ocular-compatible and outperforms or matches standard therapies in animal models."
+      },
+      {
+        "title": "Buried stochastic interfaces enabling depth-multiplexed optical physical unclonable functions",
+        "link": "https://www.nature.com/articles/s41467-026-79605-3",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Taeyeong Kim",
+          "Kibum Jung",
+          "Jungchul Lee"
+        ],
+        "doi": "10.1038/s41467-026-79605-3",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79605-3Optical physical unclonable functions often rely on surface-accessible features. Here, the authors conceal stochastic nanotexture at vertically stacked silicon interfaces beneath a planarized surface and use depth-selective optical gating to read eight planes for reliable hardware authentication."
+      },
+      {
+        "title": "Transcriptional nodes governing diversity and effector rewiring of a plastic liver invariant natural killer T cell ecosystem",
+        "link": "https://www.nature.com/articles/s41467-026-78497-7",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Jun Yamanouchi",
+          "Josep Garnica",
+          "Enric Canut",
+          "Shari Thiessen",
+          "Thomas Papp-Simon",
+          "Joel Moro",
+          "Debajyoti Mondal",
+          "Pau Serra",
+          "Pere Santamaria"
+        ],
+        "doi": "10.1038/s41467-026-78497-7",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-78497-7The transcriptional diversity of liver-resident invariant natural killer T (LiNKT) cells remains incompletely understood. Here, the authors map eight mouse LiNKT cell subsets and show how transcription factors guide their conversion into inflammatory or regulatory states, revealing targets for controlling liver inflammation and repair."
+      },
+      {
+        "title": "Distinct SMARCAD1 domains enable R-loop binding and facilitate R-loop-associated conflict resolution at active replication forks",
+        "link": "https://www.nature.com/articles/s41467-026-79364-1",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Sidrit Uruci",
+          "Nicole. M. Hoitsma",
+          "Diana van den Heuvel",
+          "Collin Bakker",
+          "Aleix Bayona-Feliu",
+          "Carmen. S. Fonseca",
+          "Vincent Gaggioli",
+          "María. L. García-Rubio",
+          "Calvin. S. Y. Lo",
+          "Sophie-Marie Pasewald",
+          "María. E. Soler-Oliva",
+          "Jessica Marinello",
+          "Eleni M. Manolika",
+          "Giovanni Capranico",
+          "Andrés Aguilera",
+          "Karolin Luger",
+          "Martijn. S. Luijsterburg",
+          "Nitika Taneja"
+        ],
+        "doi": "10.1038/s41467-026-79364-1",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79364-1During DNA replication stalled transcription and R-loops need to be removed to allow replication fork progression. Here the authors show that the chromatin remodeler SMARCAD1, which associates with active replication forks, resolves R-loops near nascent DNA to maintain fork stability."
+      },
+      {
+        "title": "Room-temperature continuous-wave mid-infrared microdisk laser on InP enabled by InAs quantum dots",
+        "link": "https://www.nature.com/articles/s41467-026-79654-8",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Haotian Zeng",
+          "Yangqian Wang",
+          "Hui Jia",
+          "Jae-Seong Park",
+          "Igor P. Marko",
+          "Dominic A. Duffy",
+          "Mengxun Bai",
+          "Yutong Zhang",
+          "Hexing Wang",
+          "Jun Li",
+          "Chong Chen",
+          "Huiwen Deng",
+          "Richard Beanland",
+          "Stephen J. Sweeney",
+          "Mingchu Tang",
+          "Alwyn Seeds",
+          "Moustapha El Kurdi",
+          "Huiyun Liu"
+        ],
+        "doi": "10.1038/s41467-026-79654-8",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79654-8Room temperature operation of microscale lasers in the short-wave mid-infrared has remained a longstanding challenge. Here, the authors demonstrate room temperature continuous wave lasing at 2.06 μm from a self-assembled InAs/InP quantum dot microdisk, enabled by strong carrier localization that overcomes key limitations of conventional quantum-well devices."
       }
     ],
     "Nature Methods": [
@@ -93,79 +410,6 @@
         "translation": null,
         "article_type": null,
         "abstract": "Nature Methods, Published online: 27 November 2026; doi:10.1038/s41592-026-03387-1This Perspective reviews recent developments in RNA velocity methods and models and proposes four complementary strategies for mechanism-grounded RNA velocity inference."
-      }
-    ],
-    "Nature": [
-      {
-        "title": "The haunting loveliness of boglands: Books in brief",
-        "link": "https://www.nature.com/articles/d41586-026-03885-4",
-        "pub_date": "2026-11-27",
-        "authors": [
-          "Andrew Robinson"
-        ],
-        "doi": "10.1038/d41586-026-03885-4",
-        "journal": "Nature",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03885-4Andrew Robinson reviews five of the best science picks."
-      },
-      {
-        "title": "Brain area’s mysterious role in speech decoded at last",
-        "link": "https://www.nature.com/articles/d41586-026-03800-x",
-        "pub_date": "2026-11-27",
-        "authors": [],
-        "doi": "10.1038/d41586-026-03800-x",
-        "journal": "Nature",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03800-xWernicke’s area is known for processing spoken words, but brain recordings reveal that it also makes a crucial contribution to a related cognitive task."
-      },
-      {
-        "title": "Life-saving cancer drug pumped out by a plant",
-        "link": "https://www.nature.com/articles/d41586-026-03801-w",
-        "pub_date": "2026-11-27",
-        "authors": [],
-        "doi": "10.1038/d41586-026-03801-w",
-        "journal": "Nature",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03801-wIn a proof-of-concept study, scientists have coaxed a tobacco-related plant to synthesize the chemotherapy drug paclitaxel."
-      },
-      {
-        "title": "Postcards from your graves",
-        "link": "https://www.nature.com/articles/d41586-026-03523-z",
-        "pub_date": "2026-11-27",
-        "authors": [
-          "Wendy Nikel"
-        ],
-        "doi": "10.1038/d41586-026-03523-z",
-        "journal": "Nature",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03523-zA disastrous outcome."
-      },
-      {
-        "title": "Why the incoming US Congress should ban the development of self-improving AI",
-        "link": "https://www.nature.com/articles/d41586-026-03849-8",
-        "pub_date": "2026-11-27",
-        "authors": [
-          "Alex Bores"
-        ],
-        "doi": "10.1038/d41586-026-03849-8",
-        "journal": "Nature",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03849-8Voters are demanding greater control over this new technology. Political leaders must respond by keeping humans in charge of AI development."
       }
     ],
     "Nature Genetics": [
@@ -665,203 +909,6 @@
         "abstract": "Nature Genetics, Published online: 27 November 2026; doi:10.1038/s41588-026-02789-3Multi-ancestry genome-wide association meta-analyses of suicidal ideation and behaviors identify 77 risk loci, including 59 previously unreported for these phenotypes. Prioritized genes implicate synaptic pathways and neuronal populations in subcortical brain regions."
       }
     ],
-    "Nature Communications": [
-      {
-        "title": "Anyone can be the best depending on how structural variant callers are evaluated",
-        "link": "https://www.nature.com/articles/s41467-026-79601-7",
-        "pub_date": "2026-11-27",
-        "authors": [
-          "Luca Denti",
-          "Thomas Krannich",
-          "Tomas Vinar",
-          "Rayan Chikhi",
-          "Paola Bonizzoni",
-          "Brona Brejova",
-          "Fereydoun Hormozdiari"
-        ],
-        "doi": "10.1038/s41467-026-79601-7",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79601-7An evaluation of long-read structural variant detection methods shows that reported performance can depend strongly on how they are evaluated, highlighting the need for more consistent benchmarking practices."
-      },
-      {
-        "title": "Identification and functional characterization of bacterial bilirubin vinyl reductase across vertebrate gut microbiomes",
-        "link": "https://www.nature.com/articles/s41467-026-79675-3",
-        "pub_date": "2026-11-27",
-        "authors": [
-          "Angela K. Jiang",
-          "Maggie R. Grant",
-          "Gabriela Arp",
-          "Keith Dufault-Thompson",
-          "Alexandra M. Clarke",
-          "Yue Li",
-          "Danielle Lehman",
-          "Alan K. Jarmusch",
-          "Brantley Hall",
-          "Xiaofang Jiang"
-        ],
-        "doi": "10.1038/s41467-026-79675-3",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79675-3Here, the authors identify a gut bacterial enzyme, bilirubin vinyl reductase (BilV), showing it is complementary to bilirubin reductase (BilR) and required to reduce bilirubin into urobilinogen, an essential step in the heme degradation pathway."
-      },
-      {
-        "title": "Control of out-of-plane anti-damping spin torque with a canted ferromagnetic spin source",
-        "link": "https://www.nature.com/articles/s41467-026-79635-x",
-        "pub_date": "2026-11-27",
-        "authors": [
-          "Xiaoxi Huang",
-          "Daniel A. Pharis",
-          "Hang Zhou",
-          "Zishen Tian",
-          "Thow Min Jerald Cham",
-          "Zhaoyang Wang",
-          "Yuhan Liang",
-          "Kyoungjun Lee",
-          "Yilin Evan Li",
-          "Maciej Olszewski",
-          "Di Yi",
-          "Chang-Beom Eom",
-          "Darrell G. Schlom",
-          "Lane W. Martin",
-          "Ding-Fu Shao",
-          "Daniel C. Ralph"
-        ],
-        "doi": "10.1038/s41467-026-79635-x",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79635-xHuang et al. show that canted magnetization in SrRuO3 generates a sizable out-of-plane damping-like torque without relying on low crystal symmetry, offering a strategy toward scalable magnetic-memory devices with perpendicular magnetic anisotropy."
-      },
-      {
-        "title": "Rigidity-driven molecular assembly for high-efficiency flexible perovskite/CIGS tandems",
-        "link": "https://www.nature.com/articles/s41467-026-79826-6",
-        "pub_date": "2026-11-27",
-        "authors": [
-          "Libing Yao",
-          "Enbing Bi",
-          "Qingqing Liu",
-          "Ke Zhao",
-          "Caner Değer",
-          "Ilhan Yavuz",
-          "Jingjing Zhou",
-          "Weizhong Tian",
-          "Xiaohe Miao",
-          "Jiahui Shen",
-          "Yang Gui",
-          "Yixin Luo",
-          "Jiazhe Xu",
-          "Xu Zhang",
-          "Tie Guo",
-          "Jingjing Xue",
-          "Rui Wang"
-        ],
-        "doi": "10.1038/s41467-026-79826-6",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79826-6Flexible perovskite and copper indium gallium selenide tandem solar cells are hindered by rough interfaces that reduce efficiency and stability. Yao et al. designed a rigid molecular contact enabling efficient, durable devices that withstand prolonged operation and bending."
-      },
-      {
-        "title": "The human hypothalamus encodes prediction errors during sensory–nutrient inference",
-        "link": "https://www.nature.com/articles/s41467-026-79339-2",
-        "pub_date": "2026-11-27",
-        "authors": [
-          "Putu A. Khorisantono",
-          "Fei-Yang Huang",
-          "Michael P. F. Sutcliffe",
-          "Paul C. Fletcher",
-          "I. Sadaf Farooqi",
-          "Fabian Grabenhorst"
-        ],
-        "doi": "10.1038/s41467-026-79339-2",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79339-2How neural circuits compute nutrient content from sensory cues is not fully understood. This study shows that oral texture shapes how people judge the fat content of foods and identifies hypothalamic signals when texture and fat content mismatch, linking these neural signals to fat intake."
-      },
-      {
-        "title": "A membrane-active cationic supramolecule to treat both fungal and bacterial keratitis",
-        "link": "https://www.nature.com/articles/s41467-026-79812-y",
-        "pub_date": "2026-11-27",
-        "authors": [
-          "Adrielle Xianwen Chen",
-          "Thet Tun Aung",
-          "Tianjiao Dai",
-          "Eve Wai Ling Chow",
-          "Jianguo Li",
-          "Keefe Oei",
-          "Venkatesh Mayandi",
-          "Sai Bo Bo Tun",
-          "Amutha Veluchamy Barathi",
-          "Darren Shu Jeng Ting",
-          "Yi Yan Yang",
-          "Chandra Shekhar Verma",
-          "Rajamani Lakshminarayanan",
-          "Yue Wang",
-          "Ning Li"
-        ],
-        "doi": "10.1038/s41467-026-79812-y",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79812-yIn this work, authors report a membrane-active cationic supramolecule, Y8, with potent cross-kingdom activity against vision-threatening fungal and bacterial keratitis. It is ocular-compatible and outperforms or matches standard therapies in animal models."
-      },
-      {
-        "title": "Buried stochastic interfaces enabling depth-multiplexed optical physical unclonable functions",
-        "link": "https://www.nature.com/articles/s41467-026-79605-3",
-        "pub_date": "2026-11-27",
-        "authors": [
-          "Taeyeong Kim",
-          "Kibum Jung",
-          "Jungchul Lee"
-        ],
-        "doi": "10.1038/s41467-026-79605-3",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-79605-3Optical physical unclonable functions often rely on surface-accessible features. Here, the authors conceal stochastic nanotexture at vertically stacked silicon interfaces beneath a planarized surface and use depth-selective optical gating to read eight planes for reliable hardware authentication."
-      },
-      {
-        "title": "Transcriptional nodes governing diversity and effector rewiring of a plastic liver invariant natural killer T cell ecosystem",
-        "link": "https://www.nature.com/articles/s41467-026-78497-7",
-        "pub_date": "2026-11-27",
-        "authors": [
-          "Jun Yamanouchi",
-          "Josep Garnica",
-          "Enric Canut",
-          "Shari Thiessen",
-          "Thomas Papp-Simon",
-          "Joel Moro",
-          "Debajyoti Mondal",
-          "Pau Serra",
-          "Pere Santamaria"
-        ],
-        "doi": "10.1038/s41467-026-78497-7",
-        "journal": "Nature Communications",
-        "source": "rss",
-        "pmid": null,
-        "translation": null,
-        "article_type": null,
-        "abstract": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-78497-7The transcriptional diversity of liver-resident invariant natural killer T (LiNKT) cells remains incompletely understood. Here, the authors map eight mouse LiNKT cell subsets and show how transcription factors guide their conversion into inflammatory or regulatory states, revealing targets for controlling liver inflammation and repair."
-      }
-    ],
     "Nature Ecology & Evolution": [
       {
         "title": "Analysis-ready forest structure maps",
@@ -1051,21 +1098,843 @@
         "abstract": "Nature Ecology & Evolution, Published online: 27 November 2026; doi:10.1038/s41559-026-03218-8Quantifying forest structure and its temporal changes is important for ecology and land management. Here the authors present the Global Canopy Atlas, a harmonized database of high-resolution airborne laser scanning observations, and demonstrate its potential to advance forest ecology with three case studies."
       }
     ],
-    "Nature Reviews Earth & Environment": [
+    "Scientific Data": [
       {
-        "title": "A brighter side to sulfur dioxide",
-        "link": "https://www.nature.com/articles/s43017-026-00864-1",
+        "title": "Physiological signal dataset on meditation-induced relaxation: galvanic skin response, heart rate, and heart rate variability measurements",
+        "link": "https://www.nature.com/articles/s41597-026-08590-5",
         "pub_date": "2026-11-27",
         "authors": [
-          "Aliénor Lavergne"
+          "Terezie Kauzlaricova",
+          "Jan Kubicek",
+          "Martin Augustynek",
+          "Eliska Szalbotova",
+          "David Oczka",
+          "Tereza Hrncirova",
+          "Martin Malcik",
+          "Lukas Tomaszek",
+          "Tomas Zemcik"
         ],
-        "doi": "10.1038/s43017-026-00864-1",
-        "journal": "Nature Reviews Earth & Environment",
+        "doi": "10.1038/s41597-026-08590-5",
+        "journal": "Scientific Data",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Nature Reviews Earth & Environment, Published online: 27 November 2026; doi:10.1038/s43017-026-00864-1An article in Nature Geoscience finds that sulfur dioxide can form aerosols that act as seeds for cloud droplets, prolonging cloud brightening and increasing cloud reflectivity."
+        "abstract": "Scientific Data, Published online: 27 November 2026; doi:10.1038/s41597-026-08590-5Physiological signal dataset on meditation-induced relaxation: galvanic skin response, heart rate, and heart rate variability measurements"
+      },
+      {
+        "title": "A bilingual dataset for multi-scenario public health applications via counterfactual, dialogic, and adaptive modes",
+        "link": "https://www.nature.com/articles/s41597-026-08596-z",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Zhaokun Yan",
+          "Shan Xu",
+          "Gauden Galea",
+          "Fei Wu",
+          "Tianqi Chen",
+          "Lixu Wang",
+          "Zhaohan Liu",
+          "Zihan Hu",
+          "Linyuan Zhang",
+          "Yihan Wei",
+          "Chengxiao Dai",
+          "Lijie Feng",
+          "Zhuoqun Fu",
+          "Hongjie Yi",
+          "Boning Liu",
+          "Fan Wu"
+        ],
+        "doi": "10.1038/s41597-026-08596-z",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 27 November 2026; doi:10.1038/s41597-026-08596-zA bilingual dataset for multi-scenario public health applications via counterfactual, dialogic, and adaptive modes"
+      },
+      {
+        "title": "POM-DB: a machine-readable, structure-aware dataset of experimental polyoxometalates",
+        "link": "https://www.nature.com/articles/s41597-026-08684-0",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Aleksandar Kondinski"
+        ],
+        "doi": "10.1038/s41597-026-08684-0",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 27 November 2026; doi:10.1038/s41597-026-08684-0POM-DB: a machine-readable, structure-aware dataset of experimental polyoxometalates"
+      },
+      {
+        "title": "A high-resolution benchmark rice dataset with visual damage and varietal diversity for quality assessment",
+        "link": "https://www.nature.com/articles/s41597-026-08705-y",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Niteen Sapkal",
+          "K R Anoop",
+          "Ankur Miglani",
+          "Pavan Kumar Kankar"
+        ],
+        "doi": "10.1038/s41597-026-08705-y",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 27 November 2026; doi:10.1038/s41597-026-08705-yA high-resolution benchmark rice dataset with visual damage and varietal diversity for quality assessment"
+      },
+      {
+        "title": "A Brain Imaging Data Structure extension for eye-tracking gaze position and pupil size data",
+        "link": "https://www.nature.com/articles/s41597-026-08793-w",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Martin Szinte",
+          "Dominik R. Bach",
+          "Dejan Draschkow",
+          "Oscar Esteban",
+          "Benjamin Gagl",
+          "Rémi Gau",
+          "Klara Gregorova",
+          "Yaroslav O. Halchenko",
+          "Scott Huberty",
+          "Sina M. Kling",
+          "Sourav Kulkarni",
+          "Christopher J. Markiewicz",
+          "Mark Mikkelsen",
+          "Robert Oostenveld",
+          "Julia-Katharina Pfarr"
+        ],
+        "doi": "10.1038/s41597-026-08793-w",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 27 November 2026; doi:10.1038/s41597-026-08793-wA Brain Imaging Data Structure extension for eye-tracking gaze position and pupil size data"
+      },
+      {
+        "title": "Barley data curation harmonizing Genebank historical records to deliver new tools for future breeding",
+        "link": "https://www.nature.com/articles/s41597-026-08798-5",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Meryem Zaim",
+          "Jagadeeshwar R. Etukala",
+          "Pavel Svoboda",
+          "Erwan Le Floch",
+          "Etienne Bardet",
+          "Marcel Oliver Berkner",
+          "Liliana Vasilescu",
+          "Eugen Petcu",
+          "Gabriela Șerban",
+          "Cristina Marinciu",
+          "Cătălin Lazăr",
+          "Vasile Mandea",
+          "Indira Galit",
+          "Silviu Vasilescu",
+          "Wiesław Podyma",
+          "Maja Boczkowska",
+          "Szymon Puła",
+          "Adrian Motor",
+          "Renata Kowalik",
+          "Marta Puchta-Jasińska",
+          "Paulina Bolc",
+          "Aleksandra Pietrusińska-Radzio",
+          "René Hauptvogel",
+          "Andras Cseh",
+          "Vojtěch Holubec",
+          "Marta Zavřelová",
+          "Zdeněk Nesvadba",
+          "Wouter H. W. Groenink",
+          "Laura Reiniers",
+          "Nikolay Neykov",
+          "Cyril Pommier",
+          "Michael Alaux",
+          "Jochen C. Reif",
+          "Matthias Lange",
+          "Zakaria Kehel",
+          "Filippo M. Bassi",
+          "Andrea Visioni"
+        ],
+        "doi": "10.1038/s41597-026-08798-5",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 27 November 2026; doi:10.1038/s41597-026-08798-5Barley data curation harmonizing Genebank historical records to deliver new tools for future breeding"
+      },
+      {
+        "title": "Profiling of HeLa nucleoplasmic and nucleolar RNAs by Halo-seq proximity labelling",
+        "link": "https://www.nature.com/articles/s41597-026-08951-0",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Timo Ahola",
+          "Piia Takabe",
+          "Riku Salomäki",
+          "Päivi Lillsunde",
+          "Mohamed Bahrudeen",
+          "Donald Wlodkowic",
+          "Jan Kaslin",
+          "Alexander Efimov",
+          "Minna-Liisa Änkö"
+        ],
+        "doi": "10.1038/s41597-026-08951-0",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 27 November 2026; doi:10.1038/s41597-026-08951-0Profiling of HeLa nucleoplasmic and nucleolar RNAs by Halo-seq proximity labelling"
+      },
+      {
+        "title": "Homogenized monthly climate observations for Mexico with quantified uncertainty, 1961–2017",
+        "link": "https://www.nature.com/articles/s41597-026-08718-7",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "E. Becerra-Acosta",
+          "A. I. Calvo",
+          "J. M. Polanco-Martinez",
+          "R. Fraile"
+        ],
+        "doi": "10.1038/s41597-026-08718-7",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 27 November 2026; doi:10.1038/s41597-026-08718-7Homogenized monthly climate observations for Mexico with quantified uncertainty, 1961–2017"
+      }
+    ],
+    "Science Advances": [
+      {
+        "title": "Heat flow in Mare Crisium: The first robotic measurement on the Moon",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej4551?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Seiichi Nagihara, Suzzane E. Smrekar, Matthias Grott, Joerg Knollenberg, Matthew A. Siegler, Clive R. Neal, Kris Zacny, Peter Ngo, Luke Sanasarian, Roshan Misra"
+        ],
+        "doi": "10.1126/sciadv.aej4551",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Cardioprotective effects of AMPK activation in H1N1 influenza virus infection",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec3205?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Steve Leumi, Matthew McFadden, Naresh Kumar, Sameer Salam Matoo, Jack Roettger, Samuel Speaks, Benjamin Liu, Shreenath Mohan, Brendan Reznik, Jana M. Cable, Parker J. Denz, Mona El Refaey, Murugesan V. S. Rajaram, Adriana Forero, Jacob S. Yount"
+        ],
+        "doi": "10.1126/sciadv.aec3205",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Hyperactive alternative RNA splicing facilitates immune escape in small cell lung cancer",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec9816?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Manli Wang, Xiangmeng Luo, Yucui Shang, Jiabo Zhang, Xuelan Chen, Liting You, Xiangyu Pan, Jiewei Liu, Jingyao Chen, Chengjian Zhao, Yu Liu, Chong Chen, Feifei Na"
+        ],
+        "doi": "10.1126/sciadv.aec9816",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "SAP30BP links aberrant splicing and metabolic reprogramming to drive T cell leukemogenesis",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee7920?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Ting Qiu, Cheng Lv, Dongmei Zhang, Xuying Pei, Meiling Sun, Wangshi Li, Xingxing Du, Wanning Zhang, Xinyu Li, Jingyu Chen, Yue Wu, Binyu Yao, Linqing Tang, Yao Chen, Yu Wang, Zheqi Zhao, Xingzhi Lv, Ruolin Xiu, Qizhao Li, Fukai Liu, Yue Li, Jin Wang, Yuting Dai, Yanhong Zhao, Shengjin Fan, Gang Greg Wang, Shuqian Xu, Xiaojun Huang, Shuijie Li, Dapeng Hao, Huitao Fan"
+        ],
+        "doi": "10.1126/sciadv.aee7920",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Principles of locus-specific chromatin remodeling induced by therapeutic DNA integration",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef5318?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Qian Qi, Yichao Li, Tiffany Yee, Lance Palmer, Yan Ju, Lei Han, Sheng Zhou, Yong Cheng"
+        ],
+        "doi": "10.1126/sciadv.aef5318",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Nanoconfined interfacial polymerization engineers thin films with interconnected angstrom pores for ion/molecule separation",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef8931?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Kai Zhang, Bingxin Gu, Fan Zheng, Zhaobin Sun, Shijie Xie, Mingjie Yin, Yan-Li Ji, Quan-Fu An, Congjie Gao"
+        ],
+        "doi": "10.1126/sciadv.aef8931",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "PRR12 variants cause intellectual disability by disrupting neuronal differentiation and maturation",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg1405?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Xia Qu, Chun-Hui Duan, Xiao-Li Liu, Ting-Wei Mi, Xin-Li Ou Yang, Xiao-Li Chen, Hua Xie, Shi-Lin Gao, Ling Liu, Gui-Feng Xu, Tian-Yun Wang, Pei-Pei Liu, Lin Wang, Chang-Mei Liu"
+        ],
+        "doi": "10.1126/sciadv.aeg1405",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Whole-animal functional integration shaped the evolution of mammalian stance and gait",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg4662?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Peter J. Bishop, Richard W. Blob, Stephanie E. Pierce"
+        ],
+        "doi": "10.1126/sciadv.aeg4662",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Community and metabolic cues gate arsenate uptake via a promiscuous glycerol-3-phosphate transporter",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg6278?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Emilio Bueno, Diego Rey, Laura Alvarez, Erik Björn, Andre Mateus, Felipe Cava"
+        ],
+        "doi": "10.1126/sciadv.aeg6278",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Nanos remodels Drosophila germ granules into multiphase condensates for germ cell specification",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh0765?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Kwan Yin Lee, Harathi Jonnagaddala, Marcus D. Kilwein, Akira Nakamura, Marian Kalocsay, Elizabeth R. Gavis"
+        ],
+        "doi": "10.1126/sciadv.aeh0765",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Whole-plant visualization of endogenous RNA with an RNA-sensing fluorescence reporter toward single-molecule imaging",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh1555?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Jiuyuan Bai, Jiayu Zhang, Hongpei Ren, Shan Pan, Yiran Tao, Miaomiao Lei, Mengyue Dong, Sha Liu, Jia Yi, Fang Chen, Yucheng Shen, Yazhou Chen, Jiang Li, Chunhai Fan, Yun Zhao"
+        ],
+        "doi": "10.1126/sciadv.aeh1555",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "A spatial peroxisomal switch of AGPS drives ether lipid–induced ferroptosis in vascular calcification",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3708?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Qing Li, Calin Zhang, Yuan Liu, Hui Li, Quanji Wang, Qian Jiang, Zihan Wang, Yanan Wang, Jin Li, Gang Xu, Fan He"
+        ],
+        "doi": "10.1126/sciadv.aeh3708",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Functional buffering potential of generalist-rich microbiomes is associated with coral thermotolerance",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh4232?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Chuanzhu Bai, Jian Zhang, Lei Jiang, Pan Zhang, Si Zhang, Hui Huang, Jie Li"
+        ],
+        "doi": "10.1126/sciadv.aeh4232",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Chromatin association promotes UBR5-mediated degradation of Rb",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh5474?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Shuyuan Zhang, Joshua Konschnik, Michael C. Lanz, Jan M. Skotheim"
+        ],
+        "doi": "10.1126/sciadv.aeh5474",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Sinking cities: Latent flood risk in Africa’s coastal megacities",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6538?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Oluwaseyi A. Dasho, Manoochehr Shirzaei, Leonard O. Ohenhen, Sonam Futi Sherpa, Rafael Almar"
+        ],
+        "doi": "10.1126/sciadv.aeh6538",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Spectral dynamics reservoir computing: High-performance neuromorphic computation from coarse spectra",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei3204?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Jiaxuan Chen, Ryo Iguchi, Sota Hikasa, Takashi Tsuchiya"
+        ],
+        "doi": "10.1126/sciadv.aei3204",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Drug candidate CT7-1 promotes antitumor immunity by targeting SETMAR to activate cGAS-STING-IFN signaling in breast cancer",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei3606?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Jian Chen, Kaiyuan Ji, Dong Chen, Weiye Pan, Chengkuan Liu, Meng Liu, Junlin Qian, Junchang Huang, Yuwei Peng, Cheng Tao, Xian Lin"
+        ],
+        "doi": "10.1126/sciadv.aei3606",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Physics-embedded neural spectral wave model",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei3813?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Guangyu Gary Yang, Haoyu Jiang, Wenfang Lu, Dong Wang"
+        ],
+        "doi": "10.1126/sciadv.aei3813",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Small-molecule targeting of CMTM6 induces dual degradation of PD-L1 and SLC1A5 to enhance cancer immunotherapy",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei8376?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Thanh-Nam Phan, Quang-Khanh Truong, Okhwa Kim, Jiyeon Choi, Jae-Hyeon Jeong, Jae-Hee Ahn, Nara Tae, Sehoon Moon, Hyungseok Seo, Dae-Hee Kim, Hyun-Jeong Ko, Jeong-Hyung Lee"
+        ],
+        "doi": "10.1126/sciadv.aei8376",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Meridional ocean temperature gradient drives climate stability in the Late Ordovician",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej0478?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Joseph Naar, Yannick Donnadieu, Alexandre Pohl, Guillaume Le Hir, Jean-Baptiste Ladant, Daniel J. Lunt"
+        ],
+        "doi": "10.1126/sciadv.aej0478",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Chemical speciation disparity underlies apparent preferential bioaccumulation of anthropogenic radioiodine in marine ecosystems",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej1916?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Yuanzhi Qi, Haruka Kusuno, Hiroyuki Matsuzaki, Miwako Toya, Raman Novikau, Yosuke Miyairi, Marina Kawamoto, Naohiko Ohkouchi, Xiaolin Hou"
+        ],
+        "doi": "10.1126/sciadv.aej1916",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Structural anisotropy governs mechanical response of fibrous hydrogel to multiaxial spherically symmetric deformation",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej2249?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Xiao He, Yuhang Huang, Durgesh Kavishvar, Sofia Morozova, Arun Ramachandran, Hossein Salahshoor, Sergey Panyukov, Michael Rubinstein, Eugenia Kumacheva"
+        ],
+        "doi": "10.1126/sciadv.aej2249",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "qRL7 orchestrates a kinase-glycosylation cascade to promote rice primary root growth",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej2503?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Zhibo Huang, Yongqi He, Jia Zhao, Zixuan Zeng, Mengzhen Tian, Shufei Yin, Chengkai Shi, Xiaoli Yang, Yuqi Yan, Zihe Li, Zhoufei Wang"
+        ],
+        "doi": "10.1126/sciadv.aej2503",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Embodied mechanical sensing through self-generated motion in climbing plants",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej2582?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Amir Ohad, Amir Porat, Yasmine Meroz"
+        ],
+        "doi": "10.1126/sciadv.aej2582",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Quantitative decoupling of texture and material properties with a fingertip-inspired multidimensional haptic sensor",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej3404?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Ye Qiu, Guangqiang Zhang, Jiajun Zhu, Zhimu Yi, Yiai He, Jie Zhou, Weilang Hu, Ziao Shen, Ye Tian, Yi Song, Aiping Liu, Hanqing Jiang, Huaping Wu"
+        ],
+        "doi": "10.1126/sciadv.aej3404",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Designing tunable, low-toxicity zwitterionic solvents to overcome DMSO limitations in in vivo applications",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej3700?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Takeru Ishizaki, Yusuke Kubota, Ken Owaki, Ayako Hohsaka, Junko Nagao, Sonomi Imakawa, Hitoshi Ando, Takiko Daikoku, Noriko Gotoh, Mahadi Hasan, Eishu Hirata, Kojiro Ishibashi, Eikichi Kamimura, Anowara Khatun, Isao Kobayashi, Kenta Kumakura, Yosuke Niko, Kazuaki Ninomiya, Yuta Saito, Makoto Shirakawa, Yasuto Takeuchi, Daisuke Tanaka, Kenji F. Tanaka, Kyosei Tashiro, Natsumi Toyoda, Huazi Zhang, Kosuke Kuroda"
+        ],
+        "doi": "10.1126/sciadv.aej3700",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Selective synthesis of 1T and 2H MoS2 via atomic spacing–tuned magnetic susceptibility",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej4653?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Yongchao Rao, Zhen Xiang, Chunhua Sun, Kai Yao, Yang Yang, Bin Yuan, Wei Lu"
+        ],
+        "doi": "10.1126/sciadv.aej4653",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "SSN-guided enzyme mining for an intramolecular Stetter reaction: Access to chiral tertiary α-alkyl cyclopentanones",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej6470?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Keke Zou, Jingran Yang, Tiantian Liu, Wei Zhang, Xuesi Chen, Huangong Li, Jingyu Zhang, Xueting Liu, Yonggui Robin Chi, Lixin Zhang, Nicholas J. Turner, Yongtao Xie"
+        ],
+        "doi": "10.1126/sciadv.aej6470",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Dual-q chirality from chirality-polarity coupling in polar nematic fluids",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej9472?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Luyao Sun, Yu Zou, Yang Ding, Jidan Yang, Xiang Huang, Mingjun Huang, Yanqing Lu, Bingxiang Li, Satoshi Aya"
+        ],
+        "doi": "10.1126/sciadv.aej9472",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Efficient and durable direct seawater electrolysis coupled with CO2 mineralization",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aek1703?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Hao Shi, Ruixin Zhou, Tanyuan Wang, Fanhao Zeng, Shuxia Liu, Yinghe Zhao, Chao Wang, Bo Shen, Yunhui Huang, Qing Li"
+        ],
+        "doi": "10.1126/sciadv.aek1703",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Structural and functional modulation of GluA1 AMPA receptor by type I TARP γ4 and type II TARP γ7",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aek4295?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Laura Y. Yen, Thomas P. Newton, Maria V. Yelshanskaya, Muhammed Aktolun, Maria G. Kurnikova, Alexander I. Sobolevsky"
+        ],
+        "doi": "10.1126/sciadv.aek4295",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "From lethality to yield: The “Goldilocks” protein OsMED16 orchestrates grain size and its own dosage via an OsKNAT7-OsNAC31/24 circuit",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aek4787?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Fei Li, Nuo Gong, Peijie Han, Yile Sheng, Chun Ye, Zhengyang Liu, Yingchun Han, Hongzheng Sun, Chunbo Miao, Quanzhi Zhao, Junzhou Li, Yanxiu Du"
+        ],
+        "doi": "10.1126/sciadv.aek4787",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Partitioning biological and physical sources of N2 supersaturation in inland waters using natural 15N15N signatures",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef3864?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Yankai Shang, Hao Yan, Fengtai Tong, Huiming Bao"
+        ],
+        "doi": "10.1126/sciadv.aef3864",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "A self-oscillator expands the recordable radius of deep and local biosignals",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei9139?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Chengmei Jiang, Yiming Ai, Qihang Zeng, Michael Raphael Panganiban, Xiaoyan Liu, Peng Tang, Kexin Zheng, Maria Wobith, Teh Jun Liang, Sarah Shuyun Tang, Yiyuan Yang, Jimmy Bok Yan So, Denys Nikolayev, Chwee Teck Lim, Yuxin Liu"
+        ],
+        "doi": "10.1126/sciadv.aei9139",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Structural basis for Ca2+-dependent and RyR2-selective modulation by Ryanozole",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aek0033?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Yuya Otori, Takashi Murayama, Ayuna Tsutsumi, Ryosuke Ishida, Sho Takeuchi, Raymond Burton-Smith, Kazuyoshi Murata, Takashi Sakurai, Hiroyuki Kagechika, Nagomi Kurebayashi, Haruo Ogawa"
+        ],
+        "doi": "10.1126/sciadv.aek0033",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Future warming reduces the buffering of preceding wet years on La Niña droughts in the US Southwest",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6977?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Yelin Jiang, Jason E. Smerdon, Richard Seager, Benjamin I. Cook, Mingfang Ting"
+        ],
+        "doi": "10.1126/sciadv.aeh6977",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Laminin-based basement membrane network governs tissue morphogenesis and biomechanical stabilization of developing cardiac valves",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee7280?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Newsha Mortazavi, Richard Gonda, Behrouz Mirabdi, Saskia Baum, Carlo Bevilacqua, Sanjay Sunil Kumar, Karina Mildner, Dagmar Zeuschner, Martin Stehling, Stefan Schulte-Merker, Alba Diz-Muñoz, Robert Prevedel, Sara A. Wickström, Felix Gunawan"
+        ],
+        "doi": "10.1126/sciadv.aee7280",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Ligand stabilization enables physiological GITR signaling and antitumor immunity",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei2118?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Tesfahun Dessale Admasu, Keerthi Sadanala, Dnyaneshwar Kalyane, Hongqiang Wang, Seokyoung Yoon, Kim WooHyun, Madhusudhanarao Katiki, Jeremy Rudnick, Ramachandran Murali, John S. Yu"
+        ],
+        "doi": "10.1126/sciadv.aei2118",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Mosquito-inspired gentle vibration enhances oral absorption of macromolecular drugs at the mucoadhesive interface",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej8962?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Chong Zhang, Guangyao Zhao, Yidan Lyu, Runyu Bai, Ningjie Du, Jialu Zhang, Huihui Hu, Hao Song, Junjie Zeng, Yunlong Fan, Tianran Wang, Meng Wang, Qiuju Han, Hien T. T. Duong, Di Wu, Xinge Yu, Kewang Nan"
+        ],
+        "doi": "10.1126/sciadv.aej8962",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Observation and control of spontaneous magnon emission from spin ensembles in 2D hexagonal boron nitride",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej3973?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Ling-Jie Zhou, Jayakrishnan M. P. Nair, Senlei Li, Thomas Poirier, Yiran Zhao, Zelong Xiong, Sumedh Rathi, Jingcheng Zhou, Zhigang Jiang, Hailong Wang, James H. Edgar, Benedetta Flebus, Chunhui Rita Du"
+        ],
+        "doi": "10.1126/sciadv.aej3973",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Melanocortin-responsive arcuate Kiss1 neurons drive BAT thermogenesis through glutamatergic input to the dorsomedial hypothalamus",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee7475?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Rajae Talbi, Todd L. Stincic, Nicole Lynch, Encarnacion Torres, Kaitlin Ferrari, Choi Ji Hae, Elizabeth Medve, Karol Walec, Samuel T. Zdon, Sarah Ramírez, Sidney A. Pereira, Carrie E. Mahoney, Martha A. Bosch, Larry Zweifel, Oline K. Rønnekleiv, Rona S. Carroll, Alexander S. Banks, Natalia L. S. Machado, Martin J. Kelly, Víctor M. Navarro"
+        ],
+        "doi": "10.1126/sciadv.aee7475",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
+      },
+      {
+        "title": "Erratum for the Research Article “Cenozoic evolution of the steppe-desert biome in Central Asia”",
+        "link": "https://www.science.org/doi/abs/10.1126/sciadv.aen9562?af=R",
+        "pub_date": "2026-11-27",
+        "authors": [],
+        "doi": "10.1126/sciadv.aen9562",
+        "journal": "Science Advances",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Science Advances, Volume 12, Issue 48, November 2026."
       }
     ],
     "Nature Geoscience": [
@@ -1109,35 +1978,102 @@
         "abstract": "Nature Geoscience, Published online: 27 November 2026; doi:10.1038/s41561-026-02140-9The conversion of sulfur dioxide into aerosol particles greatly enhances the cooling effect of clouds by increasing concentrations of cloud condensation nuclei and cloud droplets, according to observations and simulations of cloud properties within aerosol plumes."
       }
     ],
-    "eLife": [
+    "Communications Earth & Environment": [
       {
-        "title": "Investigation of disease-relevant lysine acetylation sites in α-synuclein enabled by non-canonical amino acid mutagenesis",
-        "link": "https://elifesciences.org/articles/109043",
+        "title": "Storyline attribution of fire weather during the 2025 Mediterranean summer",
+        "link": "https://www.nature.com/articles/s43247-026-04238-9",
         "pub_date": "2026-11-27",
         "authors": [
-          "Benjamin A Garcia",
-          "Chao Peng",
-          "David Eliezer",
-          "David W Christianson",
-          "E James Petersson",
-          "Elizabeth Rhoades",
-          "Grace Shin Hye Park",
-          "Hudson S Lee",
-          "Jennifer Ramirez",
-          "Marie Shimogawa",
-          "Ming-Hao Li",
-          "Paris Watson",
-          "Swati Sharma",
-          "Virginia Man-yee Lee",
-          "Zongtao Lin"
+          "Linda van Garderen",
+          "Dalena León-FonFay",
+          "Victoria Dietz",
+          "Willem Jan van de Berg",
+          "Frauke Feser"
         ],
-        "doi": null,
-        "journal": "eLife",
+        "doi": "10.1038/s43247-026-04238-9",
+        "journal": "Communications Earth & Environment",
         "source": "rss",
         "pmid": null,
         "translation": null,
         "article_type": null,
-        "abstract": "Aggregates of α-synuclein (αS) are hallmarks of synucleinopathies, including Parkinson’s disease (PD) and multiple system atrophy (MSA). We have recently shown that αS lysine acetylation in the soluble monomer pool varies between healthy controls, PD, and MSA patients. We used non-canonical amino acid mutagenesis to express and purify all 12 currently known disease-relevant variants of αS and studied their binding to membranes, as well as their aggregation propensities. We found that acetylation of lysine 12, 43, and 80 had particularly strong effects. To understand the implications for acetylation of monomeric αS found in healthy cells, we performed nuclear magnetic resonance experiments to study protein conformation and fluorescence correlation spectroscopy experiments to quantify lipid binding. We also investigated the effects of acetylation at lysine 12, 43, and 80 on fibril seeding in neurons. Collectively, our biochemical and cell biological investigations indicated that acetylation of K80 could inhibit aggregation without conferring negative effects on monomer function in healthy cells. Therefore, we studied the structures of fibrils with K80 acetylation through cryo-electron microscopy to uncover the structural basis for these effects. Finally, we identified inhibition of HDAC8 as a way of potentially increasing acetylation at K80 and other inhibitory sites for therapeutic benefit."
+        "abstract": "Communications Earth & Environment, Published online: 27 November 2026; doi:10.1038/s43247-026-04238-9Climate change substantially intensified fire-conducive weather across the Mediterranean in the summer of 2025, primarily through higher temperatures, based on a spectrally nudged storyline attribution framework."
+      },
+      {
+        "title": "Microplastic polymer hazard is associated with soil microbial community structure and functionality",
+        "link": "https://www.nature.com/articles/s43247-026-04237-w",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Yuxiao Zhang",
+          "Teng Yang",
+          "Li Nie",
+          "Yu-Meng Zhang",
+          "Ping Huang",
+          "Weijie Luo",
+          "Luyao Song",
+          "Xiyuan Xu",
+          "Kunkun Fan",
+          "Guifeng Gao",
+          "Jia-Bao Zhang",
+          "Jack A. Gilbert",
+          "Haiyan Chu"
+        ],
+        "doi": "10.1038/s43247-026-04237-w",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 27 November 2026; doi:10.1038/s43247-026-04237-wPolymer-specific hazard, not microplastic load, governs how microbial communities are restructured under microplastics pollution stress in China’s black soil region, according to a combination of bulk soil surveys in 50 farms with stress-gradient incubation experiments."
+      },
+      {
+        "title": "Global assessment of solar encroachment on cropland and food production",
+        "link": "https://www.nature.com/articles/s43247-026-04221-4",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Runjia Yang",
+          "Wu Xiao",
+          "Yanmei Ye",
+          "Yihua Hu",
+          "Yuwei Chen",
+          "Zhipei Sun",
+          "Kechao Wang",
+          "Wenqi Chen",
+          "Maoxin Zhang",
+          "Tingting He"
+        ],
+        "doi": "10.1038/s43247-026-04221-4",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 27 November 2026; doi:10.1038/s43247-026-04221-4Global photovoltaic expansion on cropland threatens food production, with losses projected to increase 12–22-fold by 2050, though mitigation measures could substantially reduce impacts, according to global photovoltaic mapping, crop-production estimation and future scenario modeling."
+      },
+      {
+        "title": "Anthropogenic impacts shift carbon dioxide emissions from Chinese rivers from historical reductions to future increases",
+        "link": "https://www.nature.com/articles/s43247-026-04219-y",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Yongli Zhou",
+          "Ling Huang",
+          "Ronny Lauerwald",
+          "Pierre Regnier",
+          "Xuhui Wang",
+          "Marguerite A. Xenopoulos",
+          "Yuxin Li",
+          "Shuai Chen",
+          "Xiankun Yang",
+          "Mingyang Tian",
+          "Shaoda Liu",
+          "Lishan Ran"
+        ],
+        "doi": "10.1038/s43247-026-04219-y",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 27 November 2026; doi:10.1038/s43247-026-04219-yRiverine CO2 emissions from Chinese rivers declined historically but are projected to rise by 17% by 2100 due to longer ice-free seasons, expanding river areas and increasing emission density, suggests a study using explainable machine learning to reconstruct and project emissions from 1980 to 2100."
       }
     ],
     "Water Research": [
@@ -1342,29 +2278,197 @@
         "abstract": "Chlorophyll-a underpins aquatic productivity and water-quality management, yet most data-driven studies estimate present-day chlorophyll-a from contemporaneous chemistry, limiting operational utility. Here we develop a novel operational framework for monthly and bimonthly chlorophyll-a forecasting that relies solely on lagged, observable histories and integrates heterogeneous model families through a site-aware ensemble strategy. We analyze 291 multi-decadal monthly or bimonthly time series from the OLIGOTREND database, spanning lakes, rivers, and estuaries across four continents. To integrate modern deep learning models under strict time-aware validation, our Meta-learner operates directly on out-of-sample base-model predictions, selecting per site (via out-of-fold validation) among a single base model, a two-model blend, or a full non-negative combination across all base models, with a training-error-based fallback at data-sparse sites. This enables leak-safe stacking of diverse deep architectures within a single operational framework. The Meta-learner outperformed standalone learners and naive operational baselines (paired site-level tests, p <0.001). Robustness is reported across ecosystems and regions under site-specific validation. Errors were lowest in lakes and higher in estuaries and rivers. At over 90% of sites across all ecosystems, last month's chlorophyll-a concentration was the strongest associated predictor of the current value, with nutrient timing instead varying by ecosystem. We also examined several representative sites and evaluated forecasts against ecosystem-specific eutrophic thresholds, used here as an indicator of possible eutrophication. Detection of these eutrophic threshold exceedances was generally reliable in lakes and rivers and more moderate in estuaries, where a widely validated ecosystem-general threshold is not yet available. Together, these results provide a scalable, leakage-aware pathway for routine chlorophyll-a forecasting across diverse freshwater and coastal ecosystems."
       }
     ],
-    "Microbiological Research": [
+    "Nature Climate Change": [
       {
-        "title": "Synergistic CYP and ABC gene action facilitates Trichoderma harzianum-mediated detoxification of the Alternaria alternata mycotoxin alternariol.",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43097937/",
-        "pub_date": null,
-        "authors": [
-          "Yang Y",
-          "Han J",
-          "Liu B",
-          "Gao J",
-          "Kong N",
-          "Yu J",
-          "Wang D",
-          "Li D",
-          "Liu Z"
-        ],
-        "doi": "10.1016/j.micres.2026.128852",
-        "journal": "Microbiological Research",
-        "source": "pubmed",
-        "pmid": "43097937",
+        "title": "Frequent co-occurring atmospheric phenomena amplify precipitation extremes",
+        "link": "https://www.nature.com/articles/s41558-026-02806-7",
+        "pub_date": "2026-11-27",
+        "authors": [],
+        "doi": "10.1038/s41558-026-02806-7",
+        "journal": "Nature Climate Change",
+        "source": "rss",
+        "pmid": null,
         "translation": null,
-        "article_type": "Journal Article",
-        "abstract": "Trichoderma spp. are widely used as biocontrol agents, yet their molecular detoxification mechanisms against phytopathogenic mycotoxins remain unclear. This study reveals a synergistic detoxification network in Trichoderma harzianum Tha739 that targets alternariol (AOH), a key mycotoxin produced by the poplar pathogen Alternaria alternata. Metabolomic profiling identified AOH as the dominant phytotoxic and antifungal metabolite of A. alternata strain Aal004. Through functional genetic approaches involving overexpression and knockout mutants of CYP57.9, CYP64.9, and ABC69.9, we demonstrated that these genes significantly enhance Tha739 tolerance to AOH. Compared with the wild type Tha739WT, the antagonistic activity of the overexpression strains to Aal004 was increased by 15-25%, and the growth rate was increased by 20-38%, while the growth inhibition rate of the knockout strain was 30-40%. Cellular analyses revealed that overexpression strains conferred enhanced membrane integrity, with propidium iodide staining intensity reduced by over 3-fold, and stimulated abundant intracellular lipid droplet accumulation under AOH stress. Targeted LC-MS/MS kinetics showed that CYP57.9 overexpression reduced extracellular AOH by 33.9% within 4 d and increased intracellular AOH-glucoside by 3.2-fold, while ABC69.9 overexpression enhanced extracellular AOH-glucoside efflux by 4.1-fold. The double overexpression of CYP57.9 and ABC69.9 synergistically increased AOH conversion rate and clearance rate. These results support a three-phase \"modification-efflux\" detoxification model in Trichoderma harzianum, in which CYP450-mediated upstream modification is associated with AOH-glucoside formation and ABC69.9 contributes to the efflux of the conjugated metabolite. This study elucidates the molecular mechanism of fungal chemical defense and identifies potential genetic targets that may contribute to the development of next-generation Trichoderma-based biocontrol agents against mycotoxin-producing pathogens."
+        "article_type": null,
+        "abstract": "Nature Climate Change, Published online: 27 November 2026; doi:10.1038/s41558-026-02806-7Observations and simulations show that concurrent atmospheric phenomena (CAP) dominate the greenhouse gas-driven amplification of extreme precipitation from 1980 to 2020. This increased frequency of CAP-related precipitation extremes accounts for 56–70% of extreme precipitation increases projected for 2060–2100 in Northern Hemisphere hotspots, driven by oceanic high-pressure anomalies that strengthen land–sea pressure gradients, alongside enhanced moisture convergence."
+      },
+      {
+        "title": "Climate change signals for adaptation action",
+        "link": "https://www.nature.com/articles/s41558-026-02814-7",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "M. Haasnoot",
+          "J. Lawrence",
+          "R. Biesbroek",
+          "B. van den Hurk"
+        ],
+        "doi": "10.1038/s41558-026-02814-7",
+        "journal": "Nature Climate Change",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Climate Change, Published online: 27 November 2026; doi:10.1038/s41558-026-02814-7Signals of climate change measured in physical and ecological systems are salient for adaptation, but are not currently directly usable. This Perspective aims to better connect early warning signals of climate change with the needs of adaptation planning and decision-making."
+      },
+      {
+        "title": "Tyre wear particles as important contributors to cryosphere darkening",
+        "link": "https://www.nature.com/articles/s41558-026-02800-z",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Yu Liu",
+          "Xinyuan Wu",
+          "Khan Alam",
+          "Joseph S. Francisco",
+          "Renhe Zhang",
+          "Drew T. Shindell",
+          "Xu Tang",
+          "Hongliang Zhang",
+          "Jianmin Chen",
+          "Hongbo Fu"
+        ],
+        "doi": "10.1038/s41558-026-02800-z",
+        "journal": "Nature Climate Change",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Climate Change, Published online: 27 November 2026; doi:10.1038/s41558-026-02800-zThe abrasion of tyres leads to the emission of particulate matter to the atmosphere. Here the authors quantify the effect that these tyre wear particles have on snow and ice, showing that they contribute to melting in some regions."
+      }
+    ],
+    "Nature": [
+      {
+        "title": "The haunting loveliness of boglands: Books in brief",
+        "link": "https://www.nature.com/articles/d41586-026-03885-4",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Andrew Robinson"
+        ],
+        "doi": "10.1038/d41586-026-03885-4",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03885-4Andrew Robinson reviews five of the best science picks."
+      },
+      {
+        "title": "Brain area’s mysterious role in speech decoded at last",
+        "link": "https://www.nature.com/articles/d41586-026-03800-x",
+        "pub_date": "2026-11-27",
+        "authors": [],
+        "doi": "10.1038/d41586-026-03800-x",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03800-xWernicke’s area is known for processing spoken words, but brain recordings reveal that it also makes a crucial contribution to a related cognitive task."
+      },
+      {
+        "title": "Life-saving cancer drug pumped out by a plant",
+        "link": "https://www.nature.com/articles/d41586-026-03801-w",
+        "pub_date": "2026-11-27",
+        "authors": [],
+        "doi": "10.1038/d41586-026-03801-w",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03801-wIn a proof-of-concept study, scientists have coaxed a tobacco-related plant to synthesize the chemotherapy drug paclitaxel."
+      },
+      {
+        "title": "Postcards from your graves",
+        "link": "https://www.nature.com/articles/d41586-026-03523-z",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Wendy Nikel"
+        ],
+        "doi": "10.1038/d41586-026-03523-z",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03523-zA disastrous outcome."
+      },
+      {
+        "title": "Why the incoming US Congress should ban the development of self-improving AI",
+        "link": "https://www.nature.com/articles/d41586-026-03849-8",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Alex Bores"
+        ],
+        "doi": "10.1038/d41586-026-03849-8",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03849-8Voters are demanding greater control over this new technology. Political leaders must respond by keeping humans in charge of AI development."
+      },
+      {
+        "title": "Audio long read: The world’s most precious brain samples — and what they teach us about being human",
+        "link": "https://www.nature.com/articles/d41586-026-03900-8",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Rachel Fieldhouse",
+          "Benjamin Thompson"
+        ],
+        "doi": "10.1038/d41586-026-03900-8",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03900-8Rare neurons taken from living humans are helping researchers test how brain cells behave in their natural environment."
+      },
+      {
+        "title": "Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat",
+        "link": "https://www.nature.com/articles/s41586-026-11411-9",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Nicolás Gómez-Banoy",
+          "Jorge A. Barrero",
+          "Luiza Rachel Pinheiro de Carvalho",
+          "Caroline S. Jiang",
+          "Tara Doma Lama",
+          "Nakul Karandikar",
+          "Mascha Koenen",
+          "Tiffany Lam",
+          "Kaja Plucińska",
+          "Ksenia Morozova",
+          "Stephanie Chahwan",
+          "Gustavo Barraza",
+          "Burcin Agridag Ucpinar",
+          "Jennifer E. Liu",
+          "Rohit Sharma",
+          "Daniel Lafontaine",
+          "Heiko Schöder",
+          "Paul Cohen"
+        ],
+        "doi": "10.1038/s41586-026-11411-9",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/s41586-026-11411-9Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat"
+      },
+      {
+        "title": "Want your research cited in patents? Publishing open access increases your chances",
+        "link": "https://www.nature.com/articles/d41586-026-03754-0",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "James Mitchell Crow"
+        ],
+        "doi": "10.1038/d41586-026-03754-0",
+        "journal": "Nature",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03754-0Studies are more likely to be cited in patents if they are freely available — legitimately or otherwise — researchers have found."
       }
     ],
     "Biogeosciences": [
@@ -1380,6 +2484,80 @@
         "translation": null,
         "article_type": null,
         "abstract": "Climate–trait interactions dominate vegetation light use efficiency distributions across China Yujie Wang, Mingzhu He, and Qian Zhang Biogeosciences, 23, 8639–8654, https://doi.org/10.5194/bg-23-8639-2026, 2026 Light use efficiency (LUE) is a key parameter for estimating terrestrial carbon uptake, yet its spatiotemporal variations and drivers remain poorly understood, limiting the accuracy of LUE models. Through unraveling the critical role of climate-trait interactions to regulate LUE variations, our results provide direct suggestions to improve model performance and have potential implications for evaluating ecosystem functions and services, and helping regional-scale resource management."
+      }
+    ],
+    "eLife": [
+      {
+        "title": "Investigation of disease-relevant lysine acetylation sites in α-synuclein enabled by non-canonical amino acid mutagenesis",
+        "link": "https://elifesciences.org/articles/109043",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Benjamin A Garcia",
+          "Chao Peng",
+          "David Eliezer",
+          "David W Christianson",
+          "E James Petersson",
+          "Elizabeth Rhoades",
+          "Grace Shin Hye Park",
+          "Hudson S Lee",
+          "Jennifer Ramirez",
+          "Marie Shimogawa",
+          "Ming-Hao Li",
+          "Paris Watson",
+          "Swati Sharma",
+          "Virginia Man-yee Lee",
+          "Zongtao Lin"
+        ],
+        "doi": null,
+        "journal": "eLife",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Aggregates of α-synuclein (αS) are hallmarks of synucleinopathies, including Parkinson’s disease (PD) and multiple system atrophy (MSA). We have recently shown that αS lysine acetylation in the soluble monomer pool varies between healthy controls, PD, and MSA patients. We used non-canonical amino acid mutagenesis to express and purify all 12 currently known disease-relevant variants of αS and studied their binding to membranes, as well as their aggregation propensities. We found that acetylation of lysine 12, 43, and 80 had particularly strong effects. To understand the implications for acetylation of monomeric αS found in healthy cells, we performed nuclear magnetic resonance experiments to study protein conformation and fluorescence correlation spectroscopy experiments to quantify lipid binding. We also investigated the effects of acetylation at lysine 12, 43, and 80 on fibril seeding in neurons. Collectively, our biochemical and cell biological investigations indicated that acetylation of K80 could inhibit aggregation without conferring negative effects on monomer function in healthy cells. Therefore, we studied the structures of fibrils with K80 acetylation through cryo-electron microscopy to uncover the structural basis for these effects. Finally, we identified inhibition of HDAC8 as a way of potentially increasing acetylation at K80 and other inhibitory sites for therapeutic benefit."
+      },
+      {
+        "title": "Direct lineage conversion of postnatal mouse cortical astrocytes to oligodendrocyte lineage cells",
+        "link": "https://elifesciences.org/articles/98632",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Ann Derham",
+          "Arman Olfat",
+          "Daniela Lozano Casasbuenas",
+          "Erica Y Scott",
+          "Gary D Bader",
+          "Hiba T Taha",
+          "Justine Bajohr",
+          "Kevin Lee",
+          "Maria Fahim",
+          "Maryam Faiz",
+          "Mehrshad Sadria",
+          "Scott A Yuzwa"
+        ],
+        "doi": null,
+        "journal": "eLife",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Oligodendrocyte lineage cells (OLCs) are lost in many central nervous system (CNS) diseases. Here, we investigate the generation of new OLCs via ectopic expression of Sox10, Olig2, or Nkx6.2 in mouse postnatal astrocytes. Using stringent analyses, including Aldh1l1-astrocyte fate mapping and live-cell imaging, we confirm that Sox10 and Olig2, but not Nkx6.2, convert Aldh1l1pos astrocytes to induced OLCs (iOLCs). With single-cell RNA sequencing (scRNA-seq), we uncover the molecular signatures of iOLCs. Transcriptomic analysis of Sox10- and control cultures over time reveals a clear trajectory from astrocytes to iOLCs. Finally, perturbation models CellOracle and Fatecode support the idea that Sox10 drives cells toward a terminal iOLC fate. Altogether, this multidimensional analysis shows bona fide conversion of astrocytes to iOLCs using Sox10 or Olig2 and provides a foundation for astrocyte direct lineage reprogramming (DLR) strategies to promote OLC repair."
+      }
+    ],
+    "Cell Systems": [
+      {
+        "title": "Maternal smoking in early pregnancy disrupts placental function through syncytiotrophoblast and macrophage dysregulation",
+        "link": "https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00267-X?rss=yes",
+        "pub_date": "2026-11-27",
+        "authors": [
+          "Daniela S. Valdes, Jose Nimo, Olivia Nonn, Juliane Ulrich, Désirée Forstner, Sandra Haider, Miriam Ressler, Marc Pignitter, Barbara Obermayer-Pietsch, Dominik N. Müller, Ralf Dechend, Martin Gauster, Fabian Coscia, Florian Herse"
+        ],
+        "doi": null,
+        "journal": "Cell Systems",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Maternal smoking impairs placental function and is linked to fetal growth restriction, yet its cell-specific effects in early pregnancy have remained unclear. Valdes et al. use single-nucleus transcriptomics and spatial proteomics of first-trimester human placenta to show that smoking mostly disrupts syncytiotrophoblasts and Hofbauer macrophages, thereby altering trophoblast differentiation, mitochondrial content, and hemostasis at the maternal-fetal interface."
       }
     ]
   }
