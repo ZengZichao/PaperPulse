@@ -1,0 +1,434 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T12:45:10.038161+00:00",
+  "total_journals": 6,
+  "total_articles": 18,
+  "journals": {
+    "Nature Communications": [
+      {
+        "title": "Engineering electrolyte ion solvation structures for next-generation batteries",
+        "link": "https://www.nature.com/articles/s41467-026-79910-x",
+        "pub_date": "2026-11-28",
+        "authors": [
+          "Hongtao Sun"
+        ],
+        "doi": "10.1038/s41467-026-79910-x",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 28 November 2026; doi:10.1038/s41467-026-79910-xBattery performance strongly depends on the solvation structures of mobile ions within electrolytes. Here, the author explores how engineering these structures can guide electrolyte design for fast charging, operation across a wide temperature range and high-voltage stability."
+      },
+      {
+        "title": "A pervasive but uneven loss of global natural forests under multi-risk exposures",
+        "link": "https://www.nature.com/articles/s41467-026-79743-8",
+        "pub_date": "2026-11-28",
+        "authors": [
+          "Yansheng Li",
+          "Zheng Li",
+          "David L. Skole",
+          "Zhongbin B. Li",
+          "Sergey A. Bartalev",
+          "José Marcato Junior",
+          "Stanislav Shinkarenko",
+          "Yongjun Zhang"
+        ],
+        "doi": "10.1038/s41467-026-79743-8",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 28 November 2026; doi:10.1038/s41467-026-79743-8Natural forests face diverse threats worldwide. Li et al. show that natural forest loss is widespread but uneven, with contrasting patterns across regions, forest structures and risk exposures."
+      },
+      {
+        "title": "Carbon nucleophile-mediated pyridine ring-opening enables Polymethine-functionalized Cyanine 9",
+        "link": "https://www.nature.com/articles/s41467-026-79739-4",
+        "pub_date": "2026-11-28",
+        "authors": [
+          "Jared Cason Head",
+          "Hailee McCulloch",
+          "Isabella Vasquez",
+          "Alyssa Kornegay",
+          "Isak David Matis",
+          "Stefan Nashawati",
+          "Lauren Wolff",
+          "Rabia Haque",
+          "Alexander Mdzinarishvili",
+          "Ulrich Bickel",
+          "Indrajit Srivastava",
+          "Syed Muhammad Usama"
+        ],
+        "doi": "10.1038/s41467-026-79739-4",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 28 November 2026; doi:10.1038/s41467-026-79739-4Near-infrared fluorescence imaging requires fluorophores that combine long wavelength emission with tuneable design. The authors report a scalable route to diverse enneamethine cyanines, enabling previously inaccessible polymethine substitution patterns and yielding SAT-NIR fluorophores with enhanced NIR-II imaging performance"
+      },
+      {
+        "title": "Transpiration-driven solvent welding for extendable 3D soft strain sensing modules",
+        "link": "https://www.nature.com/articles/s41467-026-79666-4",
+        "pub_date": "2026-11-28",
+        "authors": [
+          "Changchao Zhang",
+          "Qingsong Fan",
+          "Qingqing Dai",
+          "Shuai Guo",
+          "Songlin Zhang",
+          "Bo Li",
+          "Jinxing Chen",
+          "Meng Zou",
+          "Xiang Pi",
+          "Shichao Niu",
+          "Junqiu Zhang",
+          "Chaozong Liu",
+          "Zhiwu Han",
+          "Swee Ching Tan",
+          "Luquan Ren"
+        ],
+        "doi": "10.1038/s41467-026-79666-4",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 28 November 2026; doi:10.1038/s41467-026-79666-4Authors connect soft strain sensing modules by applying a small amount of toluene that evaporates, enabling polymer interdiffusion and conductive particle penetration to rebuild a continuous interface, supporting durable, extendable three-dimensional sensor layouts for practical devices."
+      },
+      {
+        "title": "Tailoring diet and temperature to enable sex-aware modelling of MASLD in mice",
+        "link": "https://www.nature.com/articles/s41467-026-79878-8",
+        "pub_date": "2026-11-28",
+        "authors": [
+          "Benjamin A. H. Jensen",
+          "Sune K. Yang-Jensen",
+          "Thorben Sauer",
+          "Béatrice S.-Y. Choi",
+          "Ida S. Larsen",
+          "Marianne Agerholm",
+          "Bandik Foeh",
+          "Nazuk Gupta",
+          "Christina Christoffersen",
+          "Louis Koeninger",
+          "Jens Christian Brings Jacobsen",
+          "Felix Boel",
+          "Patricia L. Mitchell",
+          "Mathieu Laplante",
+          "Philip Hallenborg",
+          "Blagoy Blagoev",
+          "Christian Sina",
+          "Timo Gemoll",
+          "André Marette"
+        ],
+        "doi": "10.1038/s41467-026-79878-8",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 28 November 2026; doi:10.1038/s41467-026-79878-8Mouse models often do not fully capture key features of human metabolic liver disease. Here, the authors show that a fast food–mimicking diet and thermoneutral housing promote progressive liver disease in mice, with molecular signatures shared with human MASH."
+      },
+      {
+        "title": "EGMOF: efficient generation of metal-organic frameworks using a hybrid diffusion-transformer architecture",
+        "link": "https://www.nature.com/articles/s41467-026-79640-0",
+        "pub_date": "2026-11-28",
+        "authors": [
+          "Seunghee Han",
+          "Yeonghun Kang",
+          "Taeun Bae",
+          "Junho Kim",
+          "Younghun Kim",
+          "Varinia Bernales",
+          "Alán Aspuru-Guzik",
+          "Jihan Kim"
+        ],
+        "doi": "10.1038/s41467-026-79640-0",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 28 November 2026; doi:10.1038/s41467-026-79640-0The authors present EGMOF, a hybrid diffusion-transformer framework that generates metal-organic frameworks with target properties through intermediate chemical descriptors, using as few as 1,000 training examples."
+      },
+      {
+        "title": "Z-TAC enables custom and combinatorial degradation of cell surface proteins",
+        "link": "https://www.nature.com/articles/s41467-026-79448-y",
+        "pub_date": "2026-11-28",
+        "authors": [
+          "Dingjingyu Zhou",
+          "Lawrence Shue",
+          "Aoxing Cheng",
+          "Sean Gao",
+          "Rebecca J. Metivier",
+          "Dinah M. Abeja",
+          "Katherine A. Donovan",
+          "Eric S. Fischer",
+          "Ryan A. Flynn",
+          "Xin Zhou"
+        ],
+        "doi": "10.1038/s41467-026-79448-y",
+        "journal": "Nature Communications",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Nature Communications, Published online: 28 November 2026; doi:10.1038/s41467-026-79448-yCell-surface protein degraders can eliminate disease-relevant proteins, but most require custom engineering for each target. Here, the authors develop Z-TAC, a plug-and-play platform that converts existing antibodies into degraders for diverse cell-surface proteins."
+      }
+    ],
+    "Scientific Data": [
+      {
+        "title": "Comprehensive Metabolomic and Proteomic Dataset on Gut Microbiota-Host Interactions in Anti-Aging",
+        "link": "https://www.nature.com/articles/s41597-026-08457-9",
+        "pub_date": "2026-11-28",
+        "authors": [
+          "Liying Wang",
+          "Shiyu Xia",
+          "Guiling Fu",
+          "Hui Zhou",
+          "Zuobin Zhu",
+          "Hui Shi"
+        ],
+        "doi": "10.1038/s41597-026-08457-9",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 28 November 2026; doi:10.1038/s41597-026-08457-9Comprehensive Metabolomic and Proteomic Dataset on Gut Microbiota-Host Interactions in Anti-Aging"
+      },
+      {
+        "title": "A Standardised Post-Flood Bridge Survey Dataset of the 2022 Marche Flood",
+        "link": "https://www.nature.com/articles/s41597-026-08634-w",
+        "pub_date": "2026-11-28",
+        "authors": [
+          "Eleonora Perugini",
+          "Giovanna Darvini",
+          "Manuel D’Angelo",
+          "Enrico Tubaldi",
+          "Fabrizio Scozzese",
+          "Mariano Angelo Zanini",
+          "Debora Voltolina",
+          "Marco Zazzeri",
+          "Andrea Valerio",
+          "Barbara Polidoro",
+          "Simone Sterlacchini",
+          "Andrea Dall’Asta",
+          "Maurizio Brocchini",
+          "Francesco Ballio"
+        ],
+        "doi": "10.1038/s41597-026-08634-w",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 28 November 2026; doi:10.1038/s41597-026-08634-w A Standardised Post-Flood Bridge Survey Dataset of the 2022 Marche Flood"
+      },
+      {
+        "title": "A chromosome-scale genome assembly of the Halophyte Kalidium schrenkianum",
+        "link": "https://www.nature.com/articles/s41597-026-08963-w",
+        "pub_date": "2026-11-28",
+        "authors": [
+          "Lei Zhang",
+          "Heqin Ma",
+          "Kaiyang Shang",
+          "Peiying Ye",
+          "Shuyu Liu"
+        ],
+        "doi": "10.1038/s41597-026-08963-w",
+        "journal": "Scientific Data",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Scientific Data, Published online: 28 November 2026; doi:10.1038/s41597-026-08963-wA chromosome-scale genome assembly of the Halophyte Kalidium schrenkianum"
+      }
+    ],
+    "Microbiological Research": [
+      {
+        "title": "The antioxidant mitoquinone potentiates polymyxin activity against multidrug-resistant Enterobacteriaceae via dual targeting of membrane phospholipids and fatty acid biosynthesis.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43103058/",
+        "pub_date": null,
+        "authors": [
+          "Wen Z",
+          "Fan K",
+          "Chen C",
+          "Li W",
+          "Huang X",
+          "Li C",
+          "Zheng J",
+          "Chen Z",
+          "Hou T",
+          "Wang Y",
+          "Yu Z"
+        ],
+        "doi": "10.1016/j.micres.2026.128849",
+        "journal": "Microbiological Research",
+        "source": "pubmed",
+        "pmid": "43103058",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "There is an urgent need for strategies to counter antimicrobial resistance (AMR), especially among carbapenem-resistant Enterobacteriaceae (CRE). In this study, MitoQ's potential to be utilized as a polymyxin adjuvant was explored. MitoQ alone potently inhibited Gram-positive bacteria (MICs 1-4 µg/mL) but showed weak activity against Gram-negative strains (MICs ≥ 16 µg/mL). When combined with polymyxins, MitoQ acted via a dual-target mechanism to enhance killing and reverse resistance in Enterobacteriaceae. In susceptible strains, MitoQ bound inner-membrane phospholipids, phosphatidylglycerol (PG) and cardiolipin (CL), synergizing with polymyxin-mediated outer-membrane disruption to rapidly compromise membrane integrity. In resistant strains carrying phoQ/pmrB mutations or mcr-1, membrane targeting alone did not restore sensitivity. Instead, DARTS (Drug Affinity Responsive Target Stability) methodology identified FabH, the key enzyme in the type II fatty acid synthesis (FASII) pathway, as a direct MitoQ target. Inhibition of FabH by MitoQ shifted lipid composition, decreasing saturated-to-unsaturated fatty acid ratios, and increased membrane fluidity, thereby resensitizing bacteria to polymyxins. In murine peritonitis and abscess models, co-administration of MitoQ and polymyxin B achieved > 90% reductions in bacterial load and bioluminescence compared to monotherapy. These results demonstrate that MitoQ restores polymyxin efficacy through combined membrane lipid disruption and FabH inhibition, highlighting its potential as an adjuvant to combat multidrug-resistant Enterobacteriaceae."
+      }
+    ],
+    "Science Bulletin": [
+      {
+        "title": "Extinct spreading ridges as transient plate boundaries: seismic evidence from the South China Sea.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43103864/",
+        "pub_date": null,
+        "authors": [
+          "Lin Z",
+          "Xu M",
+          "Xiao Z",
+          "Wei Z",
+          "Wu Y",
+          "Yang T",
+          "Zhang Y",
+          "Zhou Y",
+          "Zang C",
+          "Huang R",
+          "Yu C",
+          "Sun Z",
+          "Ding W",
+          "Xue M",
+          "Lin J"
+        ],
+        "doi": "10.1016/j.scib.2026.11.011",
+        "journal": "Science Bulletin",
+        "source": "pubmed",
+        "pmid": "43103864",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": "Extinct spreading ridges preserve critical records of former plate boundaries and the processes that shape oceanic crust. The South China Sea, characterized by brief and spatially heterogeneous seafloor spreading, serves as a natural laboratory for investigating extinct ridge evolution. Yet the interaction between this former boundary and regional tectonics, and the variations in crustal accretion across the sub-basins, remain incompletely understood. Using data from 28 ocean bottom seismometers in the South China Sea basin, we applied teleseismic P-to-S receiver function analysis with an improved H-κ stacking method that incorporates dynamic velocity scanning and waveform coherence assessment to enhance the robustness of crustal thickness and Vp/Vs ratio estimates. Crustal thickness mostly ranges from 5 to 9 km within the basin, with the thinnest (4.0 km) crust near the ridge axis and the thickest (11.3 km) beneath a seamount. The bulk crustal Vp/Vs ratio varies from 1.68 to 2.26, with values of 1.72 to 2.04 along the extinct ridge, indicating variations in crustal composition and internal structure. In the Southwest Sub-basin, we image a thickened crust-mantle transition zone in the off-axis region, suggesting magmatic underplating or intrusion. These observations, interpreted in the context of variable magma supply, tectonic extension, and pre-existing continental architecture, point to a complex ridge extinction process in the South China Sea. This study provides new constraints on the crustal architecture and evolution of extinct ridges in marginal basins."
+      },
+      {
+        "title": "Microbial growth outperforms efficiency in predicting soil organic carbon.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43103865/",
+        "pub_date": null,
+        "authors": [
+          "Chen L",
+          "Niu B",
+          "Wang C",
+          "Zhang J"
+        ],
+        "doi": "10.1016/j.scib.2026.11.015",
+        "journal": "Science Bulletin",
+        "source": "pubmed",
+        "pmid": "43103865",
+        "translation": null,
+        "article_type": "Journal Article",
+        "abstract": null
+      }
+    ],
+    "Communications Earth & Environment": [
+      {
+        "title": "Portuguese cave atmospheres reveal rich biosignatures of subterranean life",
+        "link": "https://www.nature.com/articles/s43247-026-04260-x",
+        "pub_date": "2026-11-28",
+        "authors": [
+          "Kajsa Roslund",
+          "Ana Sofia Reboleira",
+          "Michael Poulsen",
+          "Kasun H. Bodawatta",
+          "Riikka Rinnan"
+        ],
+        "doi": "10.1038/s43247-026-04260-x",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 28 November 2026; doi:10.1038/s43247-026-04260-xMicrobial degradation of plant matter and methanotrophic activity are key processes in cave atmospheric compositions, according to analyses of air chemical composition in two caves of the Algarve and Estremenho karst massifs in Portugal."
+      },
+      {
+        "title": "Subtropical island vegetation in southern Central Europe during Middle Miocene global cooling",
+        "link": "https://www.nature.com/articles/s43247-026-04228-x",
+        "pub_date": "2026-11-28",
+        "authors": [
+          "Thomas Denk",
+          "Alizée Ramecourt",
+          "Johannes Bergsten",
+          "Martin Gross",
+          "Mathias Harzhauser",
+          "Vlasta Krklec",
+          "Oleg Mandic",
+          "Jasenka Sremac",
+          "Vasilis Teodoridis",
+          "Jian Yang",
+          "Benjamin Adroit"
+        ],
+        "doi": "10.1038/s43247-026-04228-x",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 28 November 2026; doi:10.1038/s43247-026-04228-xLand-sea distribution is an important factor in modulating regional terrestrial climate and latitudinal gradients and has significant implications for understanding vegetation responses to climate change, as shown using plant and animal fossils of Miocene age from Croatia."
+      },
+      {
+        "title": "Heterogeneous cycling of molybdenum and other trace metals in oxic to suboxic Pacific pelagic sediments",
+        "link": "https://www.nature.com/articles/s43247-026-04210-7",
+        "pub_date": "2026-11-28",
+        "authors": [
+          "Sophie A. L. Paul",
+          "Katja Schmidt",
+          "Anna V. Wegorzewski",
+          "Thomas Kuhn",
+          "Jessica B. Volz",
+          "Sabine Kasten",
+          "Andrea Koschinsky"
+        ],
+        "doi": "10.1038/s43247-026-04210-7",
+        "journal": "Communications Earth & Environment",
+        "source": "rss",
+        "pmid": null,
+        "translation": null,
+        "article_type": null,
+        "abstract": "Communications Earth & Environment, Published online: 28 November 2026; doi:10.1038/s43247-026-04210-7Different redox conditions and Mn-oxide mineral phases drive contrasting trace-metal cycling, particularly for molybdenum, in sediments underlying polymetallic nodule areas, according to analysis of trace metal heterogeneity of two exploration contract areas for polymetallic nodule mining in the Pacific."
+      }
+    ],
+    "Water Research": [
+      {
+        "title": "Microbial transformation and defluorination of PFAS under diverse redox regimes: Evidence, mechanisms, and functional implications.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43103299/",
+        "pub_date": null,
+        "authors": [
+          "Yu Q",
+          "Zhao C",
+          "Wang Y",
+          "Zhang L",
+          "Cheng D",
+          "Liu H",
+          "Zhang J"
+        ],
+        "doi": "10.1016/j.watres.2026.127421",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43103299",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Per- and polyfluoroalkyl substances (PFAS) are generally resistant to biodegradation, yet increasing evidence indicates that selected PFAS undergo microbial transformation and, in some cases, C-F bond cleavage. However, our current understanding is fragmented across different microbial systems and electron acceptor conditions, and a conventional oxic-anoxic classification does not adequately resolve these condition-specific differences. Here, we review microbial transformation and defluorination across oxic, nitrate-reducing, sulfate-reducing, iron-reducing, methanogenic, Feammox, and mixed-reducing conditions. This review encompasses 103 PFAS structures, of which 74 were transformed under at least one tested condition. Across these studies, transformation rates, product profiles, and defluorination varied among electron acceptor conditions, including for the same or structurally related PFAS. However, differences in inoculum, microbial biomass, and primary-substrate supply across studies limit direct comparisons and prevent these variations from being attributed solely to electron acceptor conditions. These findings suggest that PFAS molecular structure alone does not fully explain the reported variability, while the specific contributions of electron-accepting processes and microbial activities remain unresolved. We further distinguish parent-compound loss from evidence of C-F bond cleavage and evaluate complementary information provided by parent-compound loss, transformation products, and fluorine mass balance. Previous studies have shown that microbial associations and protein annotations can be used to identify candidate microorganisms and proteins, but these candidates still require validation against the corresponding PFAS. This review provides an electron acceptor-resolved framework for evaluating the biotransformation of PFAS and identifies controlled cross-condition experiments, rigorous fluorine accounting, and direct microbial and biochemical validation as priorities for assessing PFAS biodegradation potential."
+      },
+      {
+        "title": "Rethinking anammox self-enrichment: Ecological selection, metabolic plasticity and engineering opportunities.",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43103298/",
+        "pub_date": null,
+        "authors": [
+          "Tang M",
+          "Chang F",
+          "Du R",
+          "Peng Y"
+        ],
+        "doi": "10.1016/j.watres.2026.127410",
+        "journal": "Water Research",
+        "source": "pubmed",
+        "pmid": "43103298",
+        "translation": null,
+        "article_type": "Review",
+        "abstract": "Although anaerobic ammonium oxidation (anammox) represents a cornerstone of low-carbon nitrogen removal, its full-scale deployment remains constrained by the reliance on scarce, externally cultivated seed sludge and the frequent ecological maladaptation of bioaugmented biomass. In situ anammox self-enrichment offers a transformative paradigm shift from exogenous biomass transplantation to the directional selection of indigenous anammox bacteria (AnAOB). Unlike routine anammox acclimation or process enhancement, anammox self-enrichment uses in situ regulation. It wakes up and selectively enriches native AnAOB without relying on external seeding. However, insights into self-enrichment remain fragmented across isolated operational studies, lacking a unified mechanistic framework. Here, we critically review AnAOB self-enrichment by bridging ecological selection, metabolic plasticity, molecular regulation, and engineering control. We first elucidate how multidimensional environmental filtering, substrate partitioning, and initial inoculum legacies define the realized niches for rare AnAOB proliferation. Beyond canonical lithoautotrophy, we highlight how mixotrophic flexibility and alternative energy-conserving pathways-particularly extracellular electron transfer coupled with iron, sulfur, manganese, or conductive materials-Provide crucial metabolic buffering during transient nitrite starvation. At the molecular level, interspecies quorum sensing and the transcriptional reprogramming of central nitrogen-carbon cascades orchestrate the transition from low-abundance persistence to functional dominance. Translating these principles into practice requires multi-pressure synergistic engineering that integrates sustained nitrite supply-demand matching (especially via partial denitrification), spatial retention (granulation and biofilms), selective chemical inhibition, and material-assisted stimulation. Finally, we propose a roadmap integrating ecological theory, single-cell and multi-omics technologies, and artificial intelligence to advance anammox self-enrichment from empirical trial-and-error toward predictive trajectory forecasting and intelligent mainstream implementation."
+      }
+    ]
+  }
+}
